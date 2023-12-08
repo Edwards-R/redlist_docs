@@ -1,4 +1,6 @@
 # Glossary
+### Buffer-Union
+A model designed to measure discrete extent of occurrence. The algorithm works by drawing a 40 km buffer around each provided point and then combining the resulting polygons.
 
 ### BWARS
 The UK Bees Wasps & Ants Recording Society. Responsible for managing the nomenclature used for the assessment taxa, as well as acting as a collation point for multiple independent recording systems across the assessment area.

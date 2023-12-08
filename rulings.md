@@ -27,7 +27,7 @@ The criteria may be applied to any taxonomic unit at or below the species level
 ## Use of Nomenclatural Understandings
 The assessment will attach a Nomenclatural Understanding to each assessed species in order to anchor them to their particular interpretation at the time of assessment. These understandings are provided by the Bees Wasps & Ants Recording Society (BWARS). A copy of the which can be retreived from the BWARS website or, if modern nomenclature is imperative, upon request to BWARS.
 
-This ruling satisfies the requirement from the **Regional Guidance** documentation to documnent the taxonomic standard followed.
+This ruling satisfies the requirement from the **Regional Guidance** documentation to document the taxonomic standard followed.
 
 ```
 r V.2
@@ -113,7 +113,7 @@ The main difference between Estimated (or Projected) and Inferred is that Inferr
 ```
 
 ### Ranking estimated vs inferred models
-The low data volume available for the majority of taxa is deemed problematic enough that the rank of `Estimated` has been reduced to be equivalent to `Inferred`. Statistical methods lacking data are not robust enough to be considered superior to expert opinion. Instead, statistical methods and expert opinoin should be considered to be supporting or opposing one another on the same confidence level.
+The low data volume available for the majority of taxa is deemed problematic enough that the rank of `Estimated` has been reduced to be equivalent to `Inferred`. Statistical methods lacking data are not robust enough to be considered superior to expert opinion. Instead, statistical methods and expert opinion should be considered to be supporting or opposing one another on the same confidence level.
 
 ```
 2023-12-07 Meeting with Richard Smith
@@ -127,6 +127,8 @@ Threat implications will be considered under a two-axis model of *probability* a
 
 ## Precautionary vs Evidentiary risk attitude
 An evidentiary attitude will be used for this assessment, as the lack of data for many taxa would otherwise result in a number of probably spurious assesments.
+
+This was accepted by Richard Smith on 2023-03-17
 
 ```
 G 3.2.3
@@ -168,7 +170,7 @@ G 4.4
 Generation
 ```
 
-## Eponential Decline
+## Exponential Decline
 It cannot be assumed that rates of decline are due to constant factors. The identification of ~20 year climate cycle within obtained data specifically precludes the assumption that any declines (or increases) are due to a constant and continuous factor
 
 ```
@@ -176,3 +178,30 @@ G 4.5.1
 
 Exponential decline can be assumed in cases where the proportional rate of decline of the population is believed to be constant.
 ```
+
+## Extent of Occurrence (EoO)
+The **Guidance** documentation conflates definitions of EoO. One portion is carried over from the previous version of the documentation, whilst another splits EoO into two components:
+
+- Continuous EoO - One polygon with no holes e.g. Minimum Convex Polygon
+- Discrete EoO - Multiple polygons, holes permitted e.g. Alpha Hull, Buffer-Union.
+
+For this project, we will refer to continuous EoO as cEoO and discrete as dEoO.
+
+cEoO will be calculated by the minimum convex polygon
+dEoE will be calculated by buffer-union
+
+```
+G 4.9
+
+*Entire section*
+```
+
+## Buffer union
+Buffer union is an alternative method to alpha hull for establishing a discrete extent of occurrence. In low-volume data, the alpha hull model is highly vulnerable to large-scale changes over time due to changes in a very small number of points. Previous experience with the dataset has shown ~40 % change in dEoO through the addition of <= 4 points. In addition, the drawing order-of-connection used can cause significant deviation in results.
+
+The buffer-union method, whilst novel, is firmly rooted in mathematical geometry and utilises a very well tested and mature framework to calculate. The results from testing showed that buffer-union produces extremely stable results between high and low volumes of data, whilst retaining the ability to reflect changes over time.
+
+At a geometric level, the change is simply moving from 'construct the simplest shape possible because that's all we can calculate' to 'construct the most complex shape possible because we can now calculate complex formulae quickly enough'. A triangle has three sides, a circle has an infinite number.
+
+## Continuous Extent of Occurrence & B1
+Expert opinion is that the use of a continuous extent of occurrence does not provide taxon-specific meaningful results for the assessment.

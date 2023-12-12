@@ -180,10 +180,20 @@ Exponential decline can be assumed in cases where the proportional rate of decli
 ```
 
 ## Extent of Occurrence (EoO)
-The **Guidance** documentation conflates definitions of EoO. One portion is carried over from the previous version of the documentation, whilst another splits EoO into two components:
+Extent of occurrence is conflated within the **Guidance**, resulting in Extent of Occurrence referring to two different metrics. Specifically, G 4.9 paragraph 7, starting `Extent of occurrence can often be measured by a minimum convex polygon...`. Deconstructing section G 4.9 reveals two distinct interpretations and uses for 'Extent of Occurence':
 
-- Continuous EoO - One polygon with no holes e.g. Minimum Convex Polygon
-- Discrete EoO - Multiple polygons, holes permitted e.g. Alpha Hull, Buffer-Union.
+### Continuous Extent of Occurrence
+
+- A singular polygon with no holes which covers the entire known extent of the taxon
+- Typified by the use of Minimum Convex Hull
+- Only variant of Extent of Occurrence permitted for use in criterion B1
+- Intended to assess communicability of risk
+- Guiding principle: `a set of populations spread in a small area have higher extinction risk overall than a set of populations spread over a larger area`
+- *Not* intended for assessment of range, occupied/potentially occupied habitat
+
+### Discrete Extent of Occurence
+
+### Application to this project
 
 For this project, we will refer to continuous EoO as cEoO and discrete as dEoO.
 

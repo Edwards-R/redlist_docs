@@ -416,4 +416,7 @@ Also applicable
 
 >`We suggest that at least three modelling techniques should be compared and be as independent as possible with regards to how they link the response and the predictor variables`
 
+## Interpretation of AoO in poor sampling conditions
+If there's low sampling volume, we can use inferrence by expert opinion as per 3.2 to back anything up
+
 FIN

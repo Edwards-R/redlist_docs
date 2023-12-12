@@ -122,6 +122,9 @@ The low data volume available for the majority of taxa is deemed problematic eno
 ### Suspected
 In such an information-poor environment, a suspicion of decline should not be relied upon for a `Threat Status` assessment. Any assessment based on a suspicion is highly liable to be the result of poor data collection or availability. As such, no assessment may use `Suspected` for the basis of any `Threat Status`, leaving only `Near Threatened` or `Least Concern` as options for results.
 
+## Interpration of models
+A model is close to useless and highly dangerous without interpretation by an appropriate subject expert. All models, which includes expert opinion by the core and wider review teams, is to be considered a model and subjected to interpretation. This interpretation will be performed predominantly by the core team, in which there is a dedicated member for this task of moderation and interpretation. Following the interpretation by the core team, all interpretations are to be presented to the Red List Steering Group during final review.
+
 ## Threat implications
 Threat implications will be considered under a two-axis model of *probability* against *impact*. This model involves first of all assessing whether a risk has high, medium, or low probability of occurring within the appropriate time frame. Secondly, the the risk should be assessed as to whether the impact, should the risk materialise, be high, medium, or low.
 
@@ -183,27 +186,41 @@ Exponential decline can be assumed in cases where the proportional rate of decli
 Extent of occurrence is conflated within the **Guidance**, resulting in Extent of Occurrence referring to two different metrics. Specifically, G 4.9 paragraph 7, starting `Extent of occurrence can often be measured by a minimum convex polygon...`. Deconstructing section G 4.9 reveals two distinct interpretations and uses for 'Extent of Occurence':
 
 ### Continuous Extent of Occurrence
-
 - A singular polygon with no holes which covers the entire known extent of the taxon
 - Typified by the use of Minimum Convex Hull
 - Only variant of Extent of Occurrence permitted for use in criterion B1
 - Intended to assess communicability of risk
+- Has numerous assumptions about the assessed population that not all taxa qualify for
 - Guiding principle: `a set of populations spread in a small area have higher extinction risk overall than a set of populations spread over a larger area`
 - *Not* intended for assessment of range, occupied/potentially occupied habitat
 
 ### Discrete Extent of Occurence
+- Consists of *N* polygons
+- Holes permitted
+- Typified by Alpha Hull
+- Not permitted for use in B1, but permitted in B2, A etc
+- Intended to assess geographic extent of occupation more than purely communicability of risk
+- Fewer assumptions on the taxa
+- Greater emphasis on expert guidance in applicability
 
 ### Application to this project
-
 For this project, we will refer to continuous EoO as cEoO and discrete as dEoO.
 
 cEoO will be calculated by the minimum convex polygon
-dEoE will be calculated by buffer-union
+dEoE will be calculated by [Buffer Union](#buffer-union)
 
 ```
 G 4.9
 
 *Entire section*
+
+...
+
+EOO is not intended to be an estimate of the amount of occupied or potential habitat, or a general measure of the taxon’s range
+
+vs
+
+Extent of occurrence and area of occupancy are measures of the current distribution, i.e. they should not include areas where the species no longer exists
 ```
 
 ## Buffer union
@@ -211,7 +228,86 @@ Buffer union is an alternative method to alpha hull for establishing a discrete 
 
 The buffer-union method, whilst novel, is firmly rooted in mathematical geometry and utilises a very well tested and mature framework to calculate. The results from testing showed that buffer-union produces extremely stable results between high and low volumes of data, whilst retaining the ability to reflect changes over time.
 
-At a geometric level, the change is simply moving from 'construct the simplest shape possible because that's all we can calculate' to 'construct the most complex shape possible because we can now calculate complex formulae quickly enough'. A triangle has three sides, a circle has an infinite number.
+At a geometric level, the change is simply moving from 'construct the simplest shape possible because that's all that can be easily calculated' to 'construct the most complex shape possible because the computing power to calculate the area of complex shapes is now common'. A triangle has three sides, a circle has an infinite number.
 
 ## Continuous Extent of Occurrence & B1
-Expert opinion is that the use of a continuous extent of occurrence does not provide taxon-specific meaningful results for the assessment.
+Expert opinion is that the use of a continuous extent of occurrence does not provide taxon-specific meaningful results for the assessment. As such, B1 is removed as an option.
+
+## Buffer range
+In the absence of a table comparable distribution distance metrics per taxon, the value of 40 km has been used for the construction of the buffer in the Buffer Union model. The figure of 40 km is based on the general maximum inter-annual distance between records found in the raw data submitted to BWARS. In plainer terms, it was found that a range of 40 km was a good estimation for the expected expansion of a species from one year to the next. This has been used as a metric for the IUCN definition of `sub population`, though caution should be exercised in the light of the low data volume present for many assessed taxa. Any definition of 'sub population' should be supported by expert opinion.
+
+There are taxa where this buffer range specifically does not apply. If the experts deem this factor to be relevant to interpretation, this fact should be stated in the assessment.
+
+## Area of Occupancy and 10 km resolution data
+A minority of records, predominantly in the earliest period of the assessment, are only given at 10km resolution. No automated method is able to convert these to 2 km resolution in a meaningful manner and many records do not have a textual location given. After experimentation and consultation, the decision was taken to simply use records with sub 2 km resolution for the assessment. There was no significant difference between the various attempts in infer a 2 km cell from a 10 km cell, so the simplest and most understandable solution was taken.
+
+```
+G 4.10
+
+To ensure valid use of the criteria and maintain consistency of Red List assessments across taxa it is essential to scale estimates of AOO using 2 x 2 km grid cells
+```
+
+## AoO methodology
+The OSGB datum 27700 was used to separate records into a 2 km resolution grid.
+
+## Threat-defined locations
+Following the **Guidance**, locations are defined based upon a shared threat. In the event that a threat-defined location is used, the threat must be defined as per [Threat implications](#threat-implications) and stated in the rationale.
+
+## Quantitative analysis
+Given that none of the statistical models present a 'X% chance of extinction with in Y years', criterion E is inapplicable to this assessment.
+
+```
+G 4.12
+
+A quantitative analysis is defined here as any form of analysis which estimates the extinction probability of a taxon based on known life history, habitat requirements, threats and any specified management options
+```
+
+## Time period for assessment
+The time period for this assessment has been modified to be 30 years in length. There are three main reasons for this.
+
+### Poor data volume
+A number of taxa have very low data volume estimations. By including a larger volume of data it is possible to gain an improved understanding of the changes a taxon has undergone through time. This is especially true for taxa with low-volume, highly sporadic recording.
+
+### Climate-driven variance
+Previous work has uncovered what, in preliminary analysis, appears to be a climate-driven cycle with a length of ~20 years and enough magnitude to impact threshold based assessment. In order to adequately isolate as much of this climate cycle as possible from 'true' declines, a longer range than 10 years needs to be examined.
+
+```
+G 4.5.6
+
+The downward phase of a fluctuation will not normally count as a reduction (section 4.5) or a continuing decline (section 4.6); therefore, an observed decline or reduction should not be considered a fluctuation unless there is evidence for this.
+```
+
+### European Red List
+The closest extant Red List to this assessment is the European Red List, which used a 30 year history. In order to maxmimise compatability between these two Red Lists, and in the absence of any solution to other problems, we have opted for a similar historical period. For more details and reasoning from the European Red List project, please see the European Red List of Bees.
+
+## Criterion C
+
+Criterion C relies on estimations of number of mature individuals at absolute values. These values are entirely inapplicable to the assessed taxa. Criterion C is therefore removed from consideration.
+
+```
+G 7
+
+Guidelines for Applying Criterion C
+```
+
+## Criterion D
+
+Criterion D relies on absolute values of the population of mature individuals. Given that it is not possible to estimate the number of mature individuals, it is not possible to have a count of the number of mature individuals. As such, criterion D is inapplicable.
+
+```
+G 8
+
+A taxon qualifies for criterion D if the population of mature individuals (see section 4.3) is smaller than the threshold set for each of the categories of threat.
+```
+
+## Use of Data Deficient
+An assessment of 'Data Deficient' may be assigned to any model if it is believe that the model does not have enough information to proceed with an acceptable level of confidence. All effort should be made to avoid a final asessment of Data Deficient, though it is noted that for some taxa there is no alternative. Specifically, this assessment is of a measure of *threat* rather than *rarity*. A rare species is not necessarily a threatened one.
+
+### Modification of 'all criteria'
+Due to the inapplicability of a number of the core give assessment criteria, the definition of 'all criiteria' has been changed to 'all applicable criteria'
+
+```
+G 10.4
+
+If all of the five criteria have not been considered, DD cannot be used (the taxon must be categorized as NE).
+```

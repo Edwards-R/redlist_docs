@@ -311,3 +311,16 @@ G 10.4
 
 If all of the five criteria have not been considered, DD cannot be used (the taxon must be categorized as NE).
 ```
+
+## Time Horizon
+A time horizon of 100 years has been identified for this project. The predominant population drivers of the assessed taxa are habitat resource availability and climate. 100 years was identified specifically as being a sensible limit for climate change-related prediction.
+
+```
+G 12.1.1
+
+Third, the time horizon is set to a maximum of 100 years into the future, because of the uncertainties in predicting population sizes for a long time from the present day (Mace et al. 2008)
+
+...
+
+Thus, for many species, especially short-lived ones, Red List assessments are based on time horizons much shorter than the long periods over which we now expect the world's climate and its effect on species will change. This by itself may not make climate change fundamentally different: other threats, such as habitat loss may also continue for a long time.
+```

@@ -1,4 +1,25 @@
 # Glossary
+
+### Model Assessment
+The assessment of a given [model](#model) under a given Red List criterion. For example, the assessment of `Buffer Union` under `A2`. The criterion may be specified down to any applicable sub-level, e.g. `A2 b`, at the discretion of the assessor. Keep in mind that once a model assessment is defined, every taxon in the assessment **must** be assessed against that model assessment. It is not permitted to define taxon-specific model assessments.
+
+### Review Assessment
+A review assessment is created by the examination of a number of [model assessments](#model-assessment) to arrive at a conclusion.
+
+The outcome of a review assessment may be considered a [model assessment](#model-assessment) in its own right, typically as the outcome for a [review stage](#review-stage).
+
+As a worked example, the [model assessments](#model-assessment) performed in the `initial` stage of this review cover assessing the [models](#model) for raw data, buffer-union, bayesian occupancy, and expert opinion. Once these have been assessed by their respective [model assessments](#model-assessment), a review assessment is performed to coalesce the various results down to a singular threat status that the review process deems to be the correct decision.
+
+### Review Stage
+A collection of [model assessments](#model-assessment) which result in a [review assessment](#review-assessment), each of which feeds in the next.
+
+In this assessment, these stages are:
+- Initial
+- Wider
+- Final
+
+Each stage has a defined reponsibility for the assessment. The initial review is concerned with the interpretation of the statistical [models](#model) and sourcing of initial expert opinion. The `wider` stage is concerned with displaying the result of the `initial` stage to a wider panel and sourcing that panel's opinions via a set of expert opinion [models](#model). The third stage is designed for raising any concerns from outside opinions that were not adequately captured by the `wider` stage, as well as giving the steering group an opportunity to perform final quality assurance.
+
 ### Buffer-Union
 A model designed to measure discrete extent of occurrence. The algorithm works by drawing a 40 km buffer around each provided point and then combining the resulting polygons.
 
@@ -14,6 +35,8 @@ A model is a form of data analysis, not limited to any particular method. The ma
 - Buffer union
 - Specialist review
 - Frescalo
+
+Keep in mind that, once a model is defined for an assessment, every taxon in that assessment must be assessed against the model in the exact same manner. Assessments against models are defined by [model assessments](#model-assessment).
 
 ### Nomenclatural Understanding
 A method of keeping track of the evolution of taxonomic nomenclature over time without resulting in confusion or loss of data. An example of how they work can be found at https://github.com/Edwards-R/Understanding_Example.

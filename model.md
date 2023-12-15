@@ -48,6 +48,9 @@ Each numerical output for this model is accompanied by a 95% CI. For more detail
 - 10 year trend based on mean of individual Bayesian 10 year trends
 - Graph showing mean and confidence interval per year
 
+## Frescalo
+This model is based on inter-species assumptions. It has been run at 10 year intervals only, meaning that it cannot provide any insight into a 10 year trend and must be assessed over the three points as a 30 year trend.
+
 ## Internal Expert Opinion
 The expert opinion of the internal review team
 

@@ -348,3 +348,6 @@ Each table shall have the binomial and binomial [understanding](./glossary.md#no
 ```
 Meeting with R. Smith 2023-12-14
 ```
+
+## Confidence Threshold and Status
+In order to qualify for a status, a statistical model's 95% confidence upper limit for the trend must be entirely below that status' threshold.

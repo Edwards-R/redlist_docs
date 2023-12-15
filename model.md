@@ -35,4 +35,21 @@ The idea from this metric arose from trials using alpha hulls, which are highly 
 The X%A metric has been kept in for use with buffer union, though initial testing suggests that buffer union is so stable that data density has to get to incredibly low values for the buffer union to destabilise.
 
 ## Bayesian Occupancy Trend
-This model uses 
+This model uses a Bayesian method to estimate the occupancy of a taxon on an annual basis. As this is a complex model and, at time, contentious model, please see [the documentation](./bayesian_docs.md) for more details on how this model was constructed.
+
+Each numerical output for this model is accompanied by a 95% CI. For more details, please see the dedicated documentation for this model. The outputs are:
+
+- Mean average start point
+- Mean average 10 year point
+- Mean average end point
+- 30 year trend based on mean start to mean end
+- 10 year trend based on mean 10 year to mean end
+- 30 year trend based on mean of individual Bayesian 30 year trends
+- 10 year trend based on mean of individual Bayesian 10 year trends
+- Graph showing mean and confidence interval per year
+
+## Internal Expert Opinion
+The expert opinion of the internal review team
+
+## Wider Expert Opinion
+The expert opinion of each individual wider review team member

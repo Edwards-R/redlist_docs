@@ -40,13 +40,13 @@ This document states which Red List criteria can be used for each model, sourced
 | --- |--- |---|
 | A2 | Yes | Expert sampling is considered an index of abundance appropriate to the taxon |
 | A3 | Yes | Expert knowledge on potential future causes of a reduction in AoO, dEoO, and/or habitat quality |
-| B1 | No | Expert opinion does not have exact figures as requested by this criterion |
-| B2 | No | Expert opinion does not have exact figures as requested by this criterion |
+| B1 | No | Expert opinion does not have exact figures, which are required by this criterion |
+| B2 | No | Expert opinion does not have exact figures, which are required by this criterion |
 
 ## Wider Expert Opinion
 | Criterion | Used | Comment |
 | --- |--- |---|
 | A2 | Yes | Expert sampling is considered an index of abundance appropriate to the taxon |
 | A3 | Yes | Expert knowledge on potential future causes of a reduction in AoO, dEoO, and/or habitat quality |
-| B1 | No | Expert opinion does not have exact figures as requested by this criterion |
-| B2 | No | Expert opinion does not have exact figures as requested by this criterion |
+| B1 | No | Expert opinion does not have exact figures, which are required by this criterion |
+| B2 | No | Expert opinion does not have exact figures, which are required by this criterion |

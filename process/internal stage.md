@@ -19,4 +19,19 @@ Based *purely* on the model, what does a human interpret the decline to be? **No
 | EN | <=50% |
 | VU | <=30% |
 
-Follow the [Expert Review Process flow chart](../diagrams/expert_a2.drawio.svg)
+Follow the [Expert Review Process flow chart for A2](../diagrams/expert_a2.drawio.svg)
+
+![Expert Review Process flow chart for A2](../diagrams/expert_a2.drawio.svg)
+
+## Expert Opinion A3
+
+### Thresholds
+| Status | Decline required (estimation) |
+|---|---|
+| CR | <=80% |
+| EN | <=50% |
+| VU | <=30% |
+
+Follow the [Expert Review Process flow chart for A3](../diagrams/expert_a3.drawio.svg)
+
+![Expert Review Process flow chart for A3](../diagrams/expert_a3.drawio.svg)

@@ -1,7 +1,47 @@
 # Glossary
 
+## Buffer-Union
+A model designed to measure discrete extent of occurrence. The algorithm works by drawing a 40 km buffer around each provided point and then combining the resulting polygons.
+
+## BWARS
+The UK Bees Wasps & Ants Recording Society. Responsible for managing the nomenclature used for the assessment taxa, as well as acting as a collation point for multiple independent recording systems across the assessment area.
+
+## Internal review
+The first [review stage](#review-stage) of this assessment.
+
+## Internal review team
+The three people responsible for conducting the internal review.
+
+## Model
+A model is a form of data analysis, not limited to any particular method. The main examples of models utilised in this analysis are:
+
+- Expert opinion
+- Bayesian occupancy
+- Raw data
+- Buffer union
+- Specialist review
+- Frescalo
+
+Keep in mind that, once a model is defined for an assessment, every taxon in that assessment must be assessed against the model in the exact same manner. Assessments against models are defined by [model assessments](#model-assessment).
+
 ## Model Assessment
 The assessment of a given [model](#model) under a given Red List criterion. For example, the assessment of `Buffer Union` under `A2`. The criterion may be specified down to any applicable sub-level, e.g. `A2 b`, at the discretion of the assessor. Keep in mind that once a model assessment is defined, every taxon in the assessment **must** be assessed against that model assessment. It is not permitted to define taxon-specific model assessments.
+
+## Nomenclatural Understanding
+A method of keeping track of the evolution of taxonomic nomenclature over time without resulting in confusion or loss of data. An example of how they work can be found at https://github.com/Edwards-R/Understanding_Example.
+
+Nomenclatural Understandings can be ignored and the binomial utilised instead by the majority of users, unless the taxon is subject to a recent nomenclatural change. In order to identify recent nomenclatural changes, the BWARS website should be consulted as a first step. If this does not resolve your query, contact BWARS directly.
+
+## Occupancy status
+The occupancy status refers to how the subject experts view the subject taxon's presence in the assessed area. This is assessed via two vectors:
+
+Vagrancy vs non-vagrancy
+Synanthropic vs non-synanthropic colonisation
+
+Each taxon should be assessed via both of these.
+
+## Red List Steering Group
+A group of independent people responsible for the final quality control checks on the project. Anyone from this group may step in at any time to observe and comment.
 
 ## Review Assessment
 A review assessment is created by the examination of a number of [model assessments](#model-assessment) to arrive at a conclusion.
@@ -20,37 +60,6 @@ In this assessment, these stages are:
 
 Each stage has a defined reponsibility for the assessment. The initial review is concerned with the interpretation of the statistical [models](#model) and sourcing of initial expert opinion. The `wider` stage is concerned with displaying the result of the `initial` stage to a wider panel and sourcing that panel's opinions via a set of expert opinion [models](#model). The third stage is designed for raising any concerns from outside opinions that were not adequately captured by the `wider` stage, as well as giving the steering group an opportunity to perform final quality assurance.
 
-## Buffer-Union
-A model designed to measure discrete extent of occurrence. The algorithm works by drawing a 40 km buffer around each provided point and then combining the resulting polygons.
-
-## BWARS
-The UK Bees Wasps & Ants Recording Society. Responsible for managing the nomenclature used for the assessment taxa, as well as acting as a collation point for multiple independent recording systems across the assessment area.
-
-## Model
-A model is a form of data analysis, not limited to any particular method. The main examples of models utilised in this analysis are:
-
-- Expert opinion
-- Bayesian occupancy
-- Raw data
-- Buffer union
-- Specialist review
-- Frescalo
-
-Keep in mind that, once a model is defined for an assessment, every taxon in that assessment must be assessed against the model in the exact same manner. Assessments against models are defined by [model assessments](#model-assessment).
-
-## Nomenclatural Understanding
-A method of keeping track of the evolution of taxonomic nomenclature over time without resulting in confusion or loss of data. An example of how they work can be found at https://github.com/Edwards-R/Understanding_Example.
-
-Nomenclatural Understandings can be ignored and the binomial utilised instead by the majority of users, unless the taxon is subject to a recent nomenclatural change. In order to identify recent nomenclatural changes, the BWARS website should be consulted as a first step. If this does not resolve your query, contact BWARS directly.
-
-## Occupancy status
-The occupancy status refers to how the subject experts view the subject taxon's presence in the assessed area. This is assessed via two vectors:
-
-Vagrancy vs non-vagrancy
-Synanthropic vs non-synanthropic colonisation
-
-Each taxon should be assessed via both of these.
-
 ## Ruling
 A ruling is defined in this project as guidance on the assessment of taxa which **must** be followed.
 
@@ -60,3 +69,8 @@ Synanthropic colonisation refers to a species colonising an area via the assista
 ## Vagrant
 A vagrant is a taxon which has not established long-term presence in the assessment area, and any extant population at the time of assessment is not predicted by the subject experts to continue for significant time.
 
+## Wider review
+The second [review stage](#review-stage) of this assessment, where the [internal review](#internal-review) is sent out for peer review by the [wider review team](#wider-review-team).
+
+## Wider review team
+A collection of taxon-specific subject experts chosen by the [internal review team](#internal-review-team) to peer review the internal review.

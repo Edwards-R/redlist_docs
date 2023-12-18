@@ -19,9 +19,9 @@ Based *purely* on the model, what does a human interpret the decline to be? **No
 | EN | <=50% |
 | VU | <=30% |
 
-Follow the [Expert Review Process flow chart for A2](../diagrams/expert_a2.drawio.svg)
+Follow the [Expert Review Process flow chart for A2](../../diagrams/expert_a2.drawio.svg). Remember to document any rationale. You may use data from any other model, but should **not** focus on comparing or evaluating the accuracy of other models at this point.
 
-![Expert Review Process flow chart for A2](../diagrams/expert_a2.drawio.svg)
+![Expert Review Process flow chart for A2](../../diagrams/expert_a2.drawio.svg)
 
 ## Expert Opinion A3
 
@@ -32,6 +32,6 @@ Follow the [Expert Review Process flow chart for A2](../diagrams/expert_a2.drawi
 | EN | <=50% |
 | VU | <=30% |
 
-Follow the [Expert Review Process flow chart for A3](../diagrams/expert_a3.drawio.svg)
+Follow the [Expert Review Process flow chart for A3](../../diagrams/expert_a3.drawio.svg). Remember to document any rationale.
 
-![Expert Review Process flow chart for A3](../diagrams/expert_a3.drawio.svg)
+![Expert Review Process flow chart for A3](../../diagrams/expert_a3.drawio.svg)

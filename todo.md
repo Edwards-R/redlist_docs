@@ -16,4 +16,9 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 
 - [ ] Make document that lists every single model assessment method, and add glossary definition for `model assessment method`. It means 'Way that the model assessment was approached' - specifically for the Bayesian occupancy model where expert opinion assessing it is a 'hidden extra'.
 
+*No need, this is covered by the `process` documentation.*
+
 - [ ] Bayesian expert analysis - Check that Richard is happy with what this is doing. It's not a repeat of expert opinion, it's specifically to interpret the graph with human eyes rather than start -> end calculation. Think 'Philanthus 2015 uptick' as a place where there would be a differentiation.
+
+## Self dev notes
+Pick up with the internal review process documentation. Needs a flow chart and some explanation.

@@ -351,3 +351,14 @@ Meeting with R. Smith 2023-12-14
 
 ## Confidence Threshold and Status
 In order to qualify for a status, a statistical model's 95% confidence upper limit for the trend must be entirely below that status' threshold.
+
+## Application of expert knowledge & cross-model analysis
+Multiple assessments require far more information than statistics alone can provide. For example, the model-assessment for `raw data B2` requires an assessment of fragmentation, which uses threat-based locations, as well as any known or observed declines. These questions cannot be answered by the raw data and require the utilisation of other models. This multi-model requirement creates a circular argument as individual models rely on one another to answer various aspects of another, leading to a classification problem.
+
+This ruling states that a singular model be elected to be the representative 'name' for the model-assessment, based on the best-available classification of the main aspect of the criteria.
+
+## Expert opinion as an aggregate of all statistical models
+Statistical models exist to be interpreted. Following the ruling of the [application of expert knowledge](#application-of-expert-knowledge--cross-model-analysis), expert opinion may be used to fulfil the supplementary criteria of other `model assessments`. However, these models and criteria may lead to unforseen or unanticipated limitations to what data may or may not be included. For this purpose, the model `expert opinion` has been created with access to `A2` and `A3`. These two model assessments are a place for experts to pull in any knowledge or model that they require to make their best judgement call.
+
+## Expert opinion applicability
+The denotion of `expert opinion` applies to the internal team and the wider review team. Any member of either stage may use any ruling which mentions `expert opinion`, and all members are considered experts for this review.

@@ -17,13 +17,13 @@ The first step is to define the data sources, termed `models` in this process. A
 The next stage is to examine the models against the needs for each Red List criterion. If a criterion does not have *any* model which the criterion might assess, that criterion is rejected from further consideration. This process is documented in the [criteria](./criteria.md) document.
 
 ## Model-assessment
-The final setup stage is to state which criteria may be applied to which model. The Red List guidance requires that every criterion utilised must be documented. As per the ruling on the [modification of 'all criteria'](./rulings.md#modification-of-all-criteria), if a criterion is not considered eligible for use on a per-model basis, it does not need to be reported.
+The final setup stage is to state which criteria may be applied to which model. The Red List guidance requires that every criterion utilised must be documented. As per the ruling on the [modification of 'all criteria'](./rulings.md#modification-of-all-criteria), if a criterion is not considered eligible for use on a per-model basis, it does not need to be reported for those ineligible models.
 
 For example, Criterion D is not applicable in any supportable manner to any model in this assessment. Therefore, Criterion D is never reported upon as every answer would be 'Not evaluated'.
 
 Criterion B2 is used in the assessment, under `raw data` (see [model assessment](./model_assessment.md#raw-data)). However, B2 is not applicable to the [Bayesian occupancy model](./model.md#bayesian-occupancy-trend). As such, B2 *is* reported for the `raw data` model, but *not* reported for the `Bayesian occupancy` model.
 
-The primary reason for this modification is to drastically reduce the clutter of inapplicable results caused by the use of multiple models.
+The primary reason for this modification is to drastically reduce the clutter of inapplicable results caused by the use of multiple models. The process also follows standard heirarchical design practices to avoid over-creation of null results.
 
 The model-assessment process can be found in the [model assessment](./model_assessment.md) document.
 
@@ -41,7 +41,9 @@ This assessment is broken up in 5 [review stages](./glossary.md#review-stage). T
 An `assessment` assesses models. A `review` examines the results of all `assessments` in a `review stage` and condenses them down to a singular option, alongside justification for that choice.
 
 ## Internal Assessment
-This assessment is conducted by three people, termed the internal review team, with the option for any of the [Red List Steering Group](./glossary.md#red-list-steering-group) to observe or comment at any time. The criteria for each assessment may be found at `process/internal_stage`. To get an overview of the entire stage, please read the [process specification for the internal stage](./process/internal_stage/internal%20stage.md).
+This assessment is conducted by three people, termed the [internal review team](./glossary.md#internal-review-team), with the option for any of the [Red List Steering Group](./glossary.md#red-list-steering-group) to observe or comment at any time. The criteria for each assessment may be found at `process/internal_stage`. To get an overview of the entire stage, please read the [process specification for the internal stage](./process/internal_stage/internal%20stage.md).
 
 ## Internal review
 Once the internal assessment has been completed, the individual outputs from each model-assessment process (see `process/internal_stage` for individual details) are collated. These results are then reviewed to determine which is the correct threat status. This process is documented in the [internal review](./process/internal_review/internal_review.md) document.
+
+![Internal Review Process](./diagrams/internal_review_process.drawio.svg)

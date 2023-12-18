@@ -16,6 +16,7 @@ When referencing quotations, the prefix `G` is used to denote a reference to `Gu
 # Index
 - [Glossary](./glossary.md)
 - [Rulings](./rulings.md)
+- [Process specification](./process_overview.md) <-- Start here if in doubt
 - [Models used](./model.md)
 - [Criteria assessment](./criteria.md)
 - [Mode assessments](./model-assessment.md)

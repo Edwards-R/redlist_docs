@@ -19,3 +19,4 @@ Based *purely* on the model, what does a human interpret the decline to be? **No
 | EN | <=50% |
 | VU | <=30% |
 
+Follow the [Expert Review Process flow chart](../diagrams/expert_a2.drawio.svg)

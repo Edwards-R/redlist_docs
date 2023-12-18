@@ -48,5 +48,5 @@ This document states which Red List criteria can be used for each model, sourced
 | --- |--- |---|
 | A2 | Yes | Expert sampling is considered an index of abundance appropriate to the taxon |
 | A3 | Yes | Expert knowledge on potential future causes of a reduction in AoO, dEoO, and/or habitat quality |
-| B1 | No | This aspect is already covered by the [Raw Data](#raw-data) model-assessment |
+| B1 | No | This aspect is already covered by the [Buffer Union](#buffer-union) model-assessment |
 | B2 | No | This aspect is already covered by the [Raw Data](#raw-data) model-assessment |

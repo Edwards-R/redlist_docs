@@ -301,7 +301,7 @@ A taxon qualifies for criterion D if the population of mature individuals (see s
 ```
 
 ## Use of Data Deficient
-An assessment of 'Data Deficient' may be assigned to any model if it is believe that the model does not have enough information to proceed with an acceptable level of confidence. All effort should be made to avoid a final asessment of Data Deficient, though it is noted that for some taxa there is no alternative. Specifically, this assessment is of a measure of *threat* rather than *rarity*. A rare species is not necessarily a threatened one.
+An assessment of 'Data Deficient' may be assigned to any model if it is believed that the model does not have enough information to proceed with an acceptable level of confidence. All effort should be made to avoid a final asessment of Data Deficient, though it is noted that for some taxa there is no alternative. Specifically, this assessment is of a measure of *threat* rather than *rarity*. A rare species is not necessarily a threatened one.
 
 ### Modification of 'all criteria'
 Due to the inapplicability of a number of the core give assessment criteria, the definition of 'all criiteria' has been changed to 'all applicable criteria'
@@ -362,3 +362,6 @@ Statistical models exist to be interpreted. Following the ruling of the [applica
 
 ## Expert opinion applicability
 The denotion of `expert opinion` applies to the internal team and the wider review team. Any member of either stage may use any ruling which mentions `expert opinion`, and all members are considered experts for this review.
+
+## B Number of Locations and DD
+`DD` - Data Deficient - has been added to the list of options for B1 and B2. Some taxa have such low data that a judgement on the number of locations cannot be safely made. The predominant cause for this is expected to be low sampling effort or difficulty in obtaining samples.

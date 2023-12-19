@@ -26,3 +26,22 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 
 ## Self dev notes
 Pick up with the internal review process documentation. Needs a flow chart and some explanation.
+
+Need to do the review of each taxa as each taxon is processed. This means 2 screens are needed. One to display data, one to display data entry
+
+- [ ] GUI needs the Bayesian range `occupancy decade` valud figures changing. This isn't +/- but an absolute value.
+
+- [ ] GUI - change expert opinion justification to actually reference the correct fields
+
+- [ ] Change method to only assign support to B-type criteria *once*. It will never change between B1 and B2
+
+- [ ] Add 'no idea' to first question on Expert A2 and A3. Result maps to DD
+
+- [ ] Move internal review diagram off general process and into process/internal review
+
+- [ ] Add flag *and* process spec for the following
+    - post-assessment colonist (maybe? Shouldn't be any)
+    - peri-assessment colonist
+    - vagrancy status
+    - synanthropic status
+    - recent taxonomic/nomenclatural changes

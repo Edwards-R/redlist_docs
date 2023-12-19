@@ -6,6 +6,9 @@ A model designed to measure discrete extent of occurrence. The algorithm works b
 ## BWARS
 The UK Bees Wasps & Ants Recording Society. Responsible for managing the nomenclature used for the assessment taxa, as well as acting as a collation point for multiple independent recording systems across the assessment area.
 
+## Eligibility assessment
+Determines where the taxon is eligible for inclusion within the Red List. Assesses colonisation state, vagrancy, and any [synanthropic](#synanthropic-colonisation) elements.
+
 ## Internal review
 The first [review stage](#review-stage) of this assessment.
 

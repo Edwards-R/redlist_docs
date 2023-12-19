@@ -31,6 +31,7 @@ The model-assessment process can be found in the [model assessment](./model_asse
 This assessment is broken up in 5 [review stages](./glossary.md#review-stage). These are, in order:
 
 - Internal assessment, subdivided into
+  - Eligibility assessment
   - Statistical assessment
   - Expert assessment
 - Internal review
@@ -46,4 +47,3 @@ This assessment is conducted by three people, termed the [internal review team](
 ## Internal review
 Once the internal assessment has been completed, the individual outputs from each model-assessment process (see `process/internal_stage` for individual details) are collated. These results are then reviewed to determine which is the correct threat status. This process is documented in the [internal review](./process/internal_review/internal_review.md) document.
 
-![Internal Review Process](./diagrams/internal_review_process.drawio.svg)

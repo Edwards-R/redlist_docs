@@ -35,9 +35,9 @@ Need to do the review of each taxa as each taxon is processed. This means 2 scre
 
 - [ ] Change method to only assign support to B-type criteria *once*. It will never change between B1 and B2
 
-- [ ] Add 'no idea' to first question on Expert A2 and A3. Result maps to DD
+- [x] Add 'no idea' to first question on Expert A2 and A3. Result maps to DD
 
-- [ ] Move internal review diagram off general process and into process/internal review
+- [x] Move internal review diagram off general process and into process/internal review
 
 - [ ] Add flag *and* process spec for the following
     - post-assessment colonist (maybe? Shouldn't be any)
@@ -45,3 +45,5 @@ Need to do the review of each taxa as each taxon is processed. This means 2 scre
     - vagrancy status
     - synanthropic status
     - recent taxonomic/nomenclatural changes
+
+ - [ ] Add imported ant example to [eligibility example](./process/internal_stage/eligibility.md#synathropic-status)

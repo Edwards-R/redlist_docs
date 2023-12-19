@@ -1,8 +1,26 @@
 # Walkthrough of the Internal Stage assessment
-This process assumes the user has a copy of the GUI in front of them. It is possible to follow this process without the GUI, but will be much harder.
+This walkthrough covers the the internal assessment stage, which has the responsibility of:
+- assessing eligibility for assessment
+- identifying potential nomenclatural issues
+- assessing eligible taxa in a variety of ways, including statistical methods
+
+## Establish Eligibility
+Is the taxon a vagrant, recent colonist, or synanthropic? Follow the [eligibility process](./eligibility.md)
+
+## Identify nomenclatural changes
+[Nomenclatural changes](../../glossary.md#nomenclatural-change) frequently create and propagate confusion in biological recording. This confusion persists, often for multiple years. Taxa which have been subject to a nomenclatural change frequently see a drop in their recording volume post-change as people get to grips with the impact of said change. The duration of this drop is unknown, predominantly as there has not been a means to examine said change until very recently. For these reasons, flags have been created to mark taxa accordingly:
+
+| Flag | Time period | Reason |
+|---|---|---|
+| Pre-assessment change | 50 - 30 years ago | These are changes which are expected to influence recording up to the end of [slice](../../glossary.md#slice) 1 (1992) |
+| Early-assessment change | 30 - 10 years ago | These are changes which are expected to influence recording in all time slices |
+| Peri-assessment change | 10 - 0 years ago | These are changes which are expected to influence recording in the main 10 year assessment period |
+
+Note that taxa may be subject to multiple changes and may be assigned multiple tags. Follow the [nomenclatural stability assessment procedure](../../diagrams/nomenclatural_process.drawio.svg)
+
 
 ## Raw Data
-The only thing that requires attention here is to assign the correct supporting evidence to B2 AoO.
+Assign the correct supporting evidence to B2 AoO.
 
 ## Buffer Union
 Assign the correct supporting evidence to B1 EoO

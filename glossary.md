@@ -30,6 +30,9 @@ Keep in mind that, once a model is defined for an assessment, every taxon in tha
 ## Model Assessment
 The assessment of a given [model](#model) under a given Red List criterion. For example, the assessment of `Buffer Union` under `A2`. The criterion may be specified down to any applicable sub-level, e.g. `A2 b`, at the discretion of the assessor. Keep in mind that once a model assessment is defined, every taxon in the assessment **must** be assessed against that model assessment. It is not permitted to define taxon-specific model assessments.
 
+## Nomenclatural Change
+A nomenclatural change is when the name utilised for a [nomenclatural understanding](#nomenclatural-understanding) changes. For example, in 2008 the name *Bombus lucorum* in the assessment area was split into *Bombus lucorum*, *Bombus magnus*, and *Bombus cryptarum*. This is not a *taxonomic* change as no types were created nor modified. A taxonomic change creates a nomenclatural change, but a nomenclatural change does not create a taxonomic change.
+
 ## Nomenclatural Understanding
 A method of keeping track of the evolution of taxonomic nomenclature over time without resulting in confusion or loss of data. An example of how they work can be found at https://github.com/Edwards-R/Understanding_Example.
 
@@ -65,6 +68,24 @@ Each stage has a defined reponsibility for the assessment. The initial review is
 
 ## Ruling
 A ruling is defined in this project as guidance on the assessment of taxa which **must** be followed.
+
+## Slice
+A 'slice' refers to a time slice. The time slices for this assessment are, date-inclusive:
+
+|Name|Start|End|
+|---|---|---|
+|Slice 1|1992|2001|
+|Slice 2|2002|2011|
+|Slice 3|2012|2021|
+
+An additional set of 'sub slices' have been created to allow expert opinion to act with greater detail than at 10 year resolution. These sub-slices are 5 year divisions of the main slices:
+
+|Name|Start|End|
+|---|---|---|
+|Slice 2a|2002|2006|
+|Slice 2b|2007|2011|
+|Slice 3a|2012|2026|
+|Slice 3b|2017|2021|
 
 ## Synanthropic colonisation
 Synanthropic colonisation refers to a species colonising an area via the assistance of humans. AN example of this would be a stem-nesting taxon arriving via thatching reeds imported from Poland.

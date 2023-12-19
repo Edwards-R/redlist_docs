@@ -44,6 +44,6 @@ An `assessment` assesses models. A `review` examines the results of all `assessm
 ## Internal Assessment
 This assessment is conducted by three people, termed the [internal review team](./glossary.md#internal-review-team), with the option for any of the [Red List Steering Group](./glossary.md#red-list-steering-group) to observe or comment at any time. The criteria for each assessment may be found at `process/internal_stage`. To get an overview of the entire stage, please read the [process specification for the internal stage](./process/internal_stage/internal%20stage.md).
 
-## Internal review
-Once the internal assessment has been completed, the individual outputs from each model-assessment process (see `process/internal_stage` for individual details) are collated. These results are then reviewed to determine which is the correct threat status. This process is documented in the [internal review](./process/internal_review/internal_review.md) document.
+### Internal review
+Once the internal assessments for a taxon have been completed, the individual outputs from each model-assessment process (see `process/internal_stage` for individual details) are collated. These results are then reviewed to determine which is the correct threat status. This process is documented in the [internal review](./process/internal_review/internal_review.md) document. This process is performed per-taxon, as the [internal assessment](#internal-assessment) is completed, in order to keep the exact details of the assessment to mind. Experience and testing has shown immediate review to yield a far better result than attempting to loop over all taxa again once a full round of all assessments has been performed. 
 

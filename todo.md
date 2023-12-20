@@ -47,7 +47,7 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 
  - [ ] Add flow chart for European up/downlisting review process.
 
- - [ ] Remove B1 from consideration per Caroline Pollock's email that 'B1 must be cEoO' - but cEoO does not make any sense for communicability of threat for these taxa
+ - [ ] Remove B1 from GUI per Caroline Pollock's email that 'B1 must be cEoO' - but cEoO does not make any sense for communicability of threat for these taxa
 
  ## Self dev notes
 

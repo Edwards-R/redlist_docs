@@ -364,7 +364,4 @@ Statistical models exist to be interpreted. Following the ruling of the [applica
 The denotion of `expert opinion` applies to the internal team and the wider review team. Any member of either stage may use any ruling which mentions `expert opinion`, and all members are considered experts for this review.
 
 ## B Number of Locations and DD
-`DD` - Data Deficient - has been added to the list of options for B1 and B2. Some taxa have such low data that a judgement on the number of locations cannot be safely made. The predominant cause for this is expected to be low sampling effort or difficulty in obtaining samples.
-
-## B Number of locations
-The number of locations will be the same between Raw Data:AoO:B2 and Buffer Union:dEoO:B1. For this reason, this data is only entered once and then shared between these two assessments
+`DD` - Data Deficient - has been added to the list of options for B2. Some taxa have such low data that a judgement on the number of locations cannot be safely made. The predominant cause for this is expected to be low sampling effort or difficulty in obtaining samples.

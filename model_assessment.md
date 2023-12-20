@@ -16,7 +16,7 @@ This document states which Red List criteria can be used for each model, sourced
 | --- |--- |---|
 | A2 | Yes | Buffer union is EoO and an index of abudance appropriate to the taxon |
 | A3 | No | No future predictions are made by this model |
-| B1 | Yes | Buffer union is the means by which dEoO is calculated |
+| B1 | No | This version of B1 **must** use cEoO, *not* dEoO. See [the ruling on B1](./rulings.md#continuous-extent-of-occurrence--b1) for more details |
 | B2 | No | Model does not address AoO |
 
 ## Bayesian Occupancy

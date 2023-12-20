@@ -64,7 +64,7 @@ Extent of occurrence is to be interpreted as [discrete extent of occurrence](./r
 | iv) Number of mature individuals| No | No data exists for number of mature individuals that matches the Red List standards. |
 
 # Summary
-These are the assessment criteria which may be used. Note that `B` requires *all three* subcriteria to be met before it can be assigned.
+These are the assessment criteria which may be used. Note that `B` requires *both* [minor criteria](#minor-criteria-1) to be met and at *least* one [subcriterion](#subcriteria-for-b) before it can be assigned.
 
 | Major | Minor | Sub |
 |---|---|---

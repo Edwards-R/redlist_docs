@@ -45,6 +45,10 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 
  - [ ] Add imported ant example to [eligibility example](./process/internal_stage/eligibility.md#synathropic-status)
 
+ - [ ] Add flow chart for European up/downlisting review process.
+
+ - [ ] Remove B1 from consideration per Caroline Pollock's email that 'B1 must be cEoO' - but cEoO does not make any sense for communicability of threat for these taxa
+
  ## Self dev notes
 
 - [ ] Need to do the review of each taxa as each taxon is processed. This means 2 screens are needed. One to display data, one to display data entry. Make it happen

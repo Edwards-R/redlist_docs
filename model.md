@@ -35,7 +35,7 @@ The idea from this metric arose from trials using alpha hulls, which are highly 
 The X%A metric has been kept in for use with buffer union, though initial testing suggests that buffer union is so stable that data density has to get to incredibly low values for the buffer union to destabilise.
 
 ## Bayesian Occupancy Trend
-This model uses a Bayesian method to estimate the occupancy of a taxon on an annual basis. As this is a complex model and, at time, contentious model, please see [the documentation](./bayesian_docs.md) for more details on how this model was constructed.
+This model uses a Bayesian method to estimate the occupancy of a taxon on an annual basis. As this is a complex, and at times, contentious model, please see [the documentation](./bayesian_docs.md) for more details on how this model was constructed.
 
 Each numerical output for this model is accompanied by a 95% CI. For more details, please see the dedicated documentation for this model. The outputs are:
 

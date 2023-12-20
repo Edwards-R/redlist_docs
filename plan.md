@@ -1,5 +1,5 @@
 # The Plan
-Terrible internet means I have to write this in VS Code and then use git to share/manage things. Oh well, it'll make versions easier to manage. Will need to make a decent formatted output at the end though.
+This document outlines the overall plan, start to finish. To view the entire process specification documentation, please see [the process overview](./process_overview.md)
 
 ## Stage 1
 ![pipeline](./diagrams/process_pipeline.drawio.svg)

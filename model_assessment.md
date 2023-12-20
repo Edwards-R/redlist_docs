@@ -8,7 +8,6 @@ This document states which Red List criteria can be used for each model, sourced
 | --- |--- |---|
 | A2 | Yes | Record numbers are an index of abudance appropriate to the taxon. Tetrad area is Area of Occupancy |
 | A3 | No | No future predictions are made by this model |
-| B1 | No | No applicable metric |
 | B2 | Yes | Tetrad area is considered base data |
 
 ## Buffer Union
@@ -16,7 +15,6 @@ This document states which Red List criteria can be used for each model, sourced
 | --- |--- |---|
 | A2 | Yes | Buffer union is EoO and an index of abudance appropriate to the taxon |
 | A3 | No | No future predictions are made by this model |
-| B1 | No | This version of B1 **must** use cEoO, *not* dEoO. See [the ruling on B1](./rulings.md#continuous-extent-of-occurrence--b1) for more details |
 | B2 | No | Model does not address AoO |
 
 ## Bayesian Occupancy
@@ -24,7 +22,6 @@ This document states which Red List criteria can be used for each model, sourced
 | --- |--- |---|
 | A2 | Yes | Model is an index of abundance appropriate to the taxon |
 | A3 | No | No future predictions are made by this model |
-| B1 | No | Model does not address dEoO |
 | B2 | No | Model does not address AoO |
 
 ## Frescalo
@@ -32,7 +29,6 @@ This document states which Red List criteria can be used for each model, sourced
 | --- |--- |---|
 | A2 | Yes | Model is an index of abundance appropriate to the taxon |
 | A3 | No | No future predictions are made by this model |
-| B1 | No | Model does not address dEoO |
 | B2 | No | Model does not address AoO |
 
 ## Internal Expert Opinion
@@ -40,7 +36,6 @@ This document states which Red List criteria can be used for each model, sourced
 | --- |--- |---|
 | A2 | Yes | Expert sampling is considered an index of abundance appropriate to the taxon |
 | A3 | Yes | Expert knowledge on potential future causes of a reduction in AoO, dEoO, and/or habitat quality |
-| B1 | No | Expert opinion does not have exact figures, which are required by this criterion |
 | B2 | No | Expert opinion does not have exact figures, which are required by this criterion |
 
 ## Wider Expert Opinion
@@ -48,5 +43,4 @@ This document states which Red List criteria can be used for each model, sourced
 | --- |--- |---|
 | A2 | Yes | Expert sampling is considered an index of abundance appropriate to the taxon |
 | A3 | Yes | Expert knowledge on potential future causes of a reduction in AoO, dEoO, and/or habitat quality |
-| B1 | No | This aspect is already covered by the [Buffer Union](#buffer-union) model-assessment |
 | B2 | No | This aspect is already covered by the [Raw Data](#raw-data) model-assessment |

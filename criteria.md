@@ -42,7 +42,7 @@ Guidance on the use of **B** is very scarce. This is made harder by the fact tha
 
 | Criterion | Used | Reason for rejection |
 |---|---|---|
-| B1 | Yes | |
+| B1 | No | This version of B1 **must** use cEoO, *not* dEoO. See [the ruling on B1](./rulings.md#continuous-extent-of-occurrence--b1) for more details |
 | B2 | Yes | |
 
 ## Minor criteria
@@ -70,5 +70,4 @@ These are the assessment criteria which may be used. Note that `B` requires *all
 |---|---|---
 | A2 | b, c | |
 | A3 | b, c | |
-| B1 | a, b | i), ii), iii) |
 | B2 | a, b | i), ii), iii) |

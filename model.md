@@ -32,7 +32,7 @@ Provisionally, if this metric remains below 80% through the majority of the asse
 ### History of BU%A
 The idea from this metric arose from trials using alpha hulls, which are highly vulnerable to small adjustments in data when at low data *density*. By expressing the alpha hull as the percentage of the sum of the alpha hulls it was possible to look for low values in this metric, identifying taxa where the alpha hull was at risk of misrepresentation.
 
-The X%A metric has been kept in for use with buffer union, though initial testing suggests that buffer union is so stable that data density has to get to incredibly low values for the buffer union to destabilise.
+The *X*%A metric has been kept in for use with buffer union, though initial testing suggests that buffer union is so stable that data density has to get to incredibly low values for the buffer union to destabilise.
 
 ## Bayesian Occupancy Trend
 This model uses a Bayesian method to estimate the occupancy of a taxon on an annual basis. As this is a complex, and at times, contentious model, please see [the documentation](./bayesian_docs.md) for more details on how this model was constructed.

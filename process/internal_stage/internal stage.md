@@ -23,7 +23,7 @@ Note that taxa may be subject to multiple changes and may be assigned multiple t
 Assign the correct supporting evidence to B2 AoO.
 
 ## Buffer Union
-Assign the correct supporting evidence to B1 EoO
+No action required
 
 ## Bayesian Model Assessment
 Based *purely* on the model, what does a human interpret the decline to be? **No expert knowledge is allowed to be applied at this step!**

@@ -61,7 +61,8 @@ Extent of occurrence is to be interpreted as [discrete extent of occurrence](./r
 | i) Extent of occurrence | Yes | |
 | ii) Area of occupancy | Yes | |
 | iii) Area, extent and/or quality of habitat | Yes | |
-| iv) Number of mature individuals| No | No data exists for number of mature individuals that matches the Red List standards. |
+| iv) Number of locations | Yes | Locations are defined by threat as per [ruling](./rulings.md#threat-defined-locations) |
+| v) Number of mature individuals| No | No data exists for number of mature individuals that matches the Red List standards. |
 
 # Summary
 These are the assessment criteria which may be used. Note that `B` requires *both* [minor criteria](#minor-criteria-1) to be met and at *least* one [subcriterion](#subcriteria-for-b) before it can be assigned.

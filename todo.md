@@ -58,3 +58,7 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 - [ ] Ruling on not re-stating Expert:A2 in Expert:A3?
 
 - [ ] Ruling on exactly what A3 should be doing for already threatened taxa. For example, a taxa at `VU` might only be future assessible at `NT` due to rules on `suspect`-quality data. This does *not* mean that the future looks great and is improving - it means we *suspect* a decline but cannot forecast a magnitude of said decline. Get Richard's opinion on this. No *great* options here. Can't 'copy' Expert:A2's result as we don't *know* that this will happen, we only suspect. Simplest rule would be a note somewhere stating that 'even if A3 is a lesser threat category, this doesn't mean things will improve in the future, it just means we don't know how bad they will be in the future to a quantifiable state`
+
+- [ ] process overview needs links to specific process docs
+
+- [ ] Experiment with a makefile to bring everything into one doc for pdf conversion

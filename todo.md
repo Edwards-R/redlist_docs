@@ -62,3 +62,10 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 - [ ] process overview needs links to specific process docs
 
 - [ ] Experiment with a makefile to bring everything into one doc for pdf conversion
+
+- [ ] Can't condense multiple model-assessment results down to one 'readout'. For example, if I have the following:
+
+    - Raw Count: LC A2 b
+    - Raw Count: LC A2 c
+
+    What do I report? I can't pick one, and it is functionally **wrong** to try to merge them.

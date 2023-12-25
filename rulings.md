@@ -231,7 +231,15 @@ The buffer-union method, whilst novel, is firmly rooted in mathematical geometry
 At a geometric level, the change is simply moving from 'construct the simplest shape possible because that's all that can be easily calculated' to 'construct the most complex shape possible because the computing power to calculate the area of complex shapes is now common'. A triangle has three sides, a circle has an infinite number.
 
 ## Continuous Extent of Occurrence & B1
-Expert opinion is that the use of a continuous extent of occurrence does not provide taxon-specific meaningful results for the assessment. As such, B1 is removed as an option.
+Expert opinion is that the use of a continuous extent of occurrence does not provide taxon-specific meaningful results for the assessment.
+
+Firstly it is deemed impossible to accurately use `highly fragmented` as an argument as the volume of data available for assessment is too poor to know if an absence between points is 'true' or an artifact of recording. Additionally, no taxon has data upon which to base any evidence of 'extreme fluctuations'. The result is that the taxa must meet the absolute thresholds (<=20,000 km^2, <=5,000 km^2, <= 100 km^2) in order to be classified under B1. The largest area here, <=20,000 km^2, is roughly a circle of radius 80 km. Within this circle, [threat based locations](#threat-defined-locations) must also be lower <=10. These scales and demands are considered entirely inappropriate for 
+
+- the geographic scale of the regional assessment
+- the phenology of the assessment taxa
+- the available data for the assessment taxa
+
+As such, B1 is removed as an option.
 
 ## Buffer range
 In the absence of a table comparable distribution distance metrics per taxon, the value of 40 km has been used for the construction of the buffer in the Buffer Union model. The figure of 40 km is based on the general maximum inter-annual distance between records found in the raw data submitted to BWARS. In plainer terms, it was found that a range of 40 km was a good estimation for the expected expansion of a species from one year to the next. This has been used as a metric for the IUCN definition of `sub population`, though caution should be exercised in the light of the low data volume present for many assessed taxa. Any definition of 'sub population' should be supported by expert opinion.

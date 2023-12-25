@@ -67,7 +67,9 @@ In this assessment, these stages are:
 Each stage has a defined reponsibility for the assessment. The initial review is concerned with the interpretation of the statistical [models](#model) and sourcing of initial expert opinion. The `wider` stage is concerned with displaying the result of the `initial` stage to a wider panel and sourcing that panel's opinions via a set of expert opinion [models](#model). The third stage is designed for raising any concerns from outside opinions that were not adequately captured by the `wider` stage, as well as giving the steering group an opportunity to perform final quality assurance.
 
 ## Ruling
-A ruling is defined in this project as guidance on the assessment of taxa which **must** be followed.
+A ruling is defined in this project as guidance on the assessment of taxa which **must** be followed. Specifically, a ruling is generated
+- when a decision must be made when following the **Guidance** documentation
+- when the guidance documentation must be in interpreted to maintain applicability to taxa 
 
 ## Slice
 A 'slice' refers to a time slice. The time slices for this assessment are, date-inclusive:

@@ -1,5 +1,5 @@
 # Ruling
-This document contains each ruling passed, with any supporting evidence.
+This document contains each [ruling](./glossary.md#ruling) passed, with any supporting evidence.
 
 ## Support of Rulings
 NE considers the process of the Red List to be defined by the document `Guidelines for using the IUCN Red List categories and criteria v15.1`. Every ruling possible should be supported by reference to this document, or by reference to a specific decision. Any deviation from the Red List documentation must be clearly marked and provide reasoning for this decision.
@@ -10,7 +10,7 @@ NE considers the process of the Red List to be defined by the document `Guidelin
 
 ## Regional Guidance
 
-Since this is a regional assesment, the document `Guidelines for application of IUCN Red List criteria at regional and national levels v4.0` must also be considered. However, this document is many years older than the current **Guidance** document.
+Since this is a regional assesment, the document `Guidelines for application of IUCN Red List criteria at regional and national levels v4.0` must also be considered. However, this document is many years older than the current **Guidance** document and is considerably outdated.
 
 ```
 G 2.1.2
@@ -63,7 +63,7 @@ Taxonomy: The new category is different from the previous owing to a taxonomic c
 ```
 
 ## Documentation of assessment
-Each model may be assessed against multiple criteria. These assessments should be documented and retained with the assessment, unmodified, so that a reader might understand the exact decision process. This takes the place of writing out the individual results in a 'rationale' field, which is necessary due to the number of assessments made per taxon.
+Each [model](./glossary.md#model) may be assessed against multiple criteria. These assessments, known as [model assessments](./glossary.md#model-assessment) should be documented and retained in the final export, unmodified, so that a reader might understand the exact decision process. This takes the place of writing out the individual results in a 'rationale' field, which is necessary due to the number of [model assessments](./glossary.md#model-assessment) made per taxon.
 
 ```
 G 2.5
@@ -123,7 +123,7 @@ The low data volume available for the majority of taxa is deemed problematic eno
 In such an information-poor environment, a suspicion of decline should not be relied upon for a `Threat Status` assessment. Any assessment based on a suspicion is highly liable to be the result of poor data collection or availability. As such, no assessment may use `Suspected` for the basis of any `Threat Status`, leaving only `Near Threatened` or `Least Concern` as options for results.
 
 ## Interpration of models
-A model is close to useless and highly dangerous without interpretation by an appropriate subject expert. All models, which includes expert opinion by the core and wider review teams, is to be considered a model and subjected to interpretation. This interpretation will be performed predominantly by the core team, in which there is a dedicated member for this task of moderation and interpretation. Following the interpretation by the core team, all interpretations are to be presented to the Red List Steering Group during final review.
+A model is close to useless and highly dangerous without interpretation by an appropriate subject expert. All models, which includes expert opinion by the core and wider review teams, are to be subjected to interpretation. This interpretation will be performed predominantly by the core team, in which there is a dedicated member for this task of moderation and interpretation of statistical models.
 
 ## Threat implications
 Threat implications will be considered under a two-axis model of *probability* against *impact*. This model involves first of all assessing whether a risk has high, medium, or low probability of occurring within the appropriate time frame. Secondly, the the risk should be assessed as to whether the impact, should the risk materialise, be high, medium, or low.
@@ -242,7 +242,7 @@ Firstly it is deemed impossible to accurately use `highly fragmented` as an argu
 As such, B1 is removed as an option.
 
 ## Buffer range
-In the absence of a table comparable distribution distance metrics per taxon, the value of 40 km has been used for the construction of the buffer in the Buffer Union model. The figure of 40 km is based on the general maximum inter-annual distance between records found in the raw data submitted to BWARS. In plainer terms, it was found that a range of 40 km was a good estimation for the expected expansion of a species from one year to the next. This has been used as a metric for the IUCN definition of `sub population`, though caution should be exercised in the light of the low data volume present for many assessed taxa. Any definition of 'sub population' should be supported by expert opinion.
+In the absence of a table of comparable distribution distance metrics per taxon, the value of 40 km has been used for the construction of the buffer in the Buffer Union model. The figure of 40 km is based on the general maximum inter-annual distance between records found in the raw data submitted to BWARS. In plainer terms, it was found that a range of 40 km was a good estimation for the expected expansion of a species from one year to the next. This has been used as a metric for the IUCN definition of `sub population`, though caution should be exercised in the light of the low data volume present for many assessed taxa. Any definition of 'sub population' should be supported by expert opinion.
 
 There are taxa where this buffer range specifically does not apply. If the experts deem this factor to be relevant to interpretation, this fact should be stated in the assessment.
 
@@ -271,7 +271,7 @@ A quantitative analysis is defined here as any form of analysis which estimates 
 ```
 
 ## Time period for assessment
-The time period for this assessment has been modified to be 30 years in length. There are three main reasons for this.
+The time period for this assessment has been partially modified to allow up to be 30 years of data to be considered when assessing a taxon's 10-year trend. There are three main reasons for this.
 
 ### Poor data volume
 A number of taxa have very low data volume estimations. By including a larger volume of data it is possible to gain an improved understanding of the changes a taxon has undergone through time. This is especially true for taxa with low-volume, highly sporadic recording.
@@ -341,13 +341,6 @@ Third, the time horizon is set to a maximum of 100 years into the future, becaus
 Thus, for many species, especially short-lived ones, Red List assessments are based on time horizons much shorter than the long periods over which we now expect the world's climate and its effect on species will change. This by itself may not make climate change fundamentally different: other threats, such as habitat loss may also continue for a long time.
 ```
 
-## Statistical model expert confidence
-The statistical models presented here are entirely at the mercy of the data fed to them. There are expected to be scenarios where any model is incapable of returning an answer which makes sense to the evaluator. In such a situation, the model may, in the most appropriate place, be marked as `data deficient`.
-
-```
-Meeting with R. Smith 2023-12-14
-```
-
 ## Complexity of model outputs
 The number of [model assessments](./glossary.md#model-assessment) and [review assessments](./glossary.md#review-assessment) is, at time of writing, expected to number well above 20. This many assessments in a single table proved to be far too complex for a human to meaningfully interpret. In order to remedy this, each individual [review stage](./glossary.md#review-stage) is to be split into a separate table, along with the raw data forming another table.
 
@@ -372,4 +365,4 @@ Statistical models exist to be interpreted. Following the ruling of the [applica
 The denotion of `expert opinion` applies to the internal team and the wider review team. Any member of either stage may use any ruling which mentions `expert opinion`, and all members are considered experts for this review.
 
 ## B Number of Locations and DD
-`DD` - Data Deficient - has been added to the list of options for B2. Some taxa have such low data that a judgement on the number of locations cannot be safely made. The predominant cause for this is expected to be low sampling effort or difficulty in obtaining samples.
+`DD` - Data Deficient - has been added to the list of options for B2: number of locations. Some taxa have such low data that a judgement on the number of locations cannot be safely made. The predominant cause for this is expected to be low sampling effort or difficulty in obtaining samples.

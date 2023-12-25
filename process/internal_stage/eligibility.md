@@ -26,4 +26,4 @@ Synanthropic taxa are ineligible for assessment
 [Flow chart for assessing synanthropy status](../../diagrams/eligibility_synathropy.drawio.svg)
 |Status|Meaning|
 |---|---|
-|Synanthropic| The taxon is considered to have strong synanthropic links which have destabilised or bypassed natural barriers, thus rendering it ineligible for inclusion on the Red List. Simple examples include *Apis mellifera*, which is excluded on the basis of being commercially farmed, and the ant **, which is suspected to have arrived via garden compost.
+|Synanthropic| The taxon is considered to have strong synanthropic links which have destabilised or bypassed natural barriers, thus rendering it ineligible for inclusion on the Red List. Simple examples include *Apis mellifera*, which is excluded on the basis of being commercially farmed, and the ant *Lasius neglectus*, which is suspected to have arrived via garden compost.

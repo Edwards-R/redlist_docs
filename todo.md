@@ -45,13 +45,15 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 
  - [ ] Add imported ant example to [eligibility example](./process/internal_stage/eligibility.md#synathropic-status)
 
- - [ ] Add flow chart for European up/downlisting review process.
+ - [x] Add flow chart for European up/downlisting review process.
 
- - [ ] Remove B1 from GUI per Caroline Pollock's email that 'B1 must be cEoO' - but cEoO does not make any sense for communicability of threat for these taxa
+ *Flow charts don't work - we don't have enough information to compare against in a constant form to make them useful. Replaced with [process spec](./process/internal_review/wider_context.md).*
+
+ - [x] Remove B1 from GUI per Caroline Pollock's email that 'B1 must be cEoO' - but cEoO does not make any sense for communicability of threat for these taxa
 
  ## Self dev notes
 
-- [ ] Need to do the review of each taxa as each taxon is processed. This means 2 screens are needed. One to display data, one to display data entry. Make it happen
+- [x] Need to do the review of each taxa as each taxon is processed. This means 2 screens are needed. One to display data, one to display data entry. Make it happen
 
 - [ ] Need to find a good title for 'not really part of the *official* process, but we found it to be a good idea'. Things like 'Pick some representative taxa to look at to get an idea of baseline trends before you start'. Discussion maybe? Should probably be a `discussion` page per review stage. Also need a generic `discussion` page to explain what the section is about. It'll function as a 'notes we learned along the way'.
 
@@ -69,3 +71,5 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
     - Raw Count: LC A2 c
 
     What do I report? I can't pick one, and it is functionally **wrong** to try to merge them.
+
+- [ ] Add wider review assessment flow diagram

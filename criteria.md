@@ -8,7 +8,7 @@ This document states which criteria may be considered for use in [model assessme
 | A | Yes | |
 | B | Yes | |
 | C | No | This criterion is unusable as it requires the population to be `estimated to number less than 2,500 mature individuals`. No metric available measures the number of mature individuals, and the number of 'mature individuals' at sampleable resolution is vastly inapplicable to the taxon group as a measure of threat. |
-| D | No | Inapplicable for the same reasons as `C`. D2's absolute figures are not at a scale which makes sense for the assessed taxa. Any such changes are better captured under either `A` or `B` rather than duplicating here.
+| D | No | D1 is Inapplicable for the same reasons as `C`. D2's absolute figures are not at a scale which makes sense for the majority of the assessed taxa, especially not in combination with the requirement for a **known** threat which may reduce the taxon to CR or EX in a short period. Any threats to taxa with a very small area are better captured under either `A` or `B` rather than attempting to extend the definition of D to fit the need.
 | E | No | No models assess the potential of extinction at a given time point, as is required for this model. |
 
 

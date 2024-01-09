@@ -61,6 +61,8 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 
 - [ ] Ruling on exactly what A3 should be doing for already threatened taxa. For example, a taxa at `VU` might only be future assessible at `NT` due to rules on `suspect`-quality data. This does *not* mean that the future looks great and is improving - it means we *suspect* a decline but cannot forecast a magnitude of said decline. Get Richard's opinion on this. No *great* options here. Can't 'copy' Expert:A2's result as we don't *know* that this will happen, we only suspect. Simplest rule would be a note somewhere stating that 'even if A3 is a lesser threat category, this doesn't mean things will improve in the future, it just means we don't know how bad they will be in the future to a quantifiable state`
 
+*Answer: A3 is not for ongoing existing threats, but novel threats that are predicted or suspected to arise in the 100 year period*
+
 - [ ] process overview needs links to specific process docs
 
 - [ ] Experiment with a makefile to bring everything into one doc for pdf conversion
@@ -73,3 +75,9 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
     What do I report? I can't pick one, and it is functionally **wrong** to try to merge them.
 
 - [ ] Add wider review assessment flow diagram
+
+- [ ] For each model-assessment-occurrence, note the time frame used? It's there, but hidden on the model page not at this point.
+
+- [ ] Need to populate the GUI with every taxon in every table. Filemaker is refusing to populate
+
+- [ ] Write eligibility for nomenclatural confusion docs. There's a flow chart, just nothing in [the docs](./process/internal_stage/eligibility.md)

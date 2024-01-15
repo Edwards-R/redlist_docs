@@ -21,11 +21,11 @@
 
 > Q: Why does this obscuration matter?
 >
-> A: Because we're looking at *threats* at an already frequently inapplicable resolution. A very small amount of erroneous data carries the possibility of an extremely large change to the threat status of a taxon.
+> A: Because we're looking at *threats* which are defined at an already frequently-inapplicable resolution. A very small amount of erroneous data carries the possibility of an extremely large change to the threat status of a taxon.
 
 > Q: Is this a new problem?
 >
-> A: Not *really*, no. It's a fairly newly *recognised* problem, but quite honestly a big part of BWARS's ability to *see* this problem is because of a particular combination of a very capable data admin and a very interested experienced system architect. There are *so many* problems surrounding biological recording that it has taken BWARS many years of work to get to the point where we can be *reasonably* confident that we do not hold vast amounts of poor quality data. There are still invalid records within the dataset and we still continue to remove or adjust invalid data that we find, but the volume is much lower than a wide swathe of 'general public' data.
+> A: Not *really*, no. It's a fairly newly *recognised* problem, but quite honestly a big part of BWARS's ability to *see* this problem is because of a particular combination of a very capable data admin and a very interested, and experienced, system architect. There are *so many* problems surrounding biological recording that it has taken BWARS many years of work to get to the point where we can be *reasonably* confident that we do not hold vast amounts of poor quality data. There are still invalid records within the dataset and we still continue to remove or adjust invalid data that we find, but the volume is much lower than a wide swathe of 'general public' data.
 
 ## 'Citizen Science' myths
 

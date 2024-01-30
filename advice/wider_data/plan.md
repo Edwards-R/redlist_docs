@@ -73,7 +73,7 @@ Easy one first - how much time do you want to spend? We don't know the volume of
 
 Of these, we really want to test individual verifiers, so I'd suggest subsetting by verifier.
 
-Different verifiers will have different levels of real-world experience, so broad subsetting is probably a good idea. Ants are the real stand-out category here that would likely do best from being differentiated.
+Different verifiers will have different levels of real-world experience, so broad subsetting is probably a good idea. Ants are the real stand-out category here that would likely do best from being differentiated. *Bombus* are an overwhelming proportion of bee records and should also be subsetted.
 
 Verifiers will gain experience over time. Experience in
   - The verification system of iRecord
@@ -90,9 +90,26 @@ Picking a number, I would say that 5% sample is the lowest we'd want to go. From
 
 The method is going to be as brutally simple as having a person look through a series of iRecord records and compare their own id to the id provided in an external document. As such, it depends heavily on what filters iRecord can provide. At the very worst, I can make a spreadsheet that has a record, link to the iRecord page, the provided assessment, and the peer reviewer's assessment. Because of restrictions in iRecord (only one person can verify a record), there is no way to do this process entirely internally to iRecord.
 
+### Time recommendations
+
+2 days data & project prep
+  - Data pre-processing
+  - Assessment format
+  - Investigation into classifications
+  - Liason with iRecord team
+  - Output format
+
+? days investigating
+  - Depends in method of investigation & budget
+
+3 days project write up
+  - Breakdown of data
+  - Documentation of processes
+  - Final documentation
+
 ## Data breakdown and investigation
 
-Harder to pin down a cost/time without knowing exactly what level of *reporting* is desired. Planning and documentation probably comes in at 4 days. Drawing up the data assessment in purely numerical terms is probably 5 days work to go through things carefully and cleanly, with testing of code. Creating adequate code documentation, workflows, glossary, diagrams etc will be about 7 days extra work. However, these are *provisional* values as I don't have a copy of the data to analyse in front of me or a list of exactly what needs to be examined. These provisional costs are also dependent on the following:
+Harder to pin down a cost/time without knowing exactly what level of *reporting* is desired. Planning and documentation probably comes in at 4 days. Drawing up the data assessment in purely numerical terms is probably 5 days work to go through things carefully and cleanly, with testing of code. Creating adequate code documentation, workflows, glossary, diagrams etc will be about 7 days extra work. This can be shortened to 4 days if skipping diagrams, or further if the process doesn't need documentation (which I advise against if this is to be repeatable). However, these are *provisional* values as I don't have a copy of the data to analyse in front of me or a list of exactly what needs to be examined. These provisional costs are also dependent on the following:
 
 ### Data pre-processing
 All data from iRecord needs to be passed through the BWARS checker so that it can be compared to the BWARS database. Specifically, this covers the what/where/when of a record. This step is *mandatory* to any sort of data processing or analysis and, outside of a few specific circumstances, shouldn't be *too* outlandishly hard based on prior attempts to integrate iRecord data.
@@ -102,3 +119,12 @@ The first complication involves issues of nomenclatural confusion. iRecord is us
 
 ### Codebase
 Code will be predominantly written in postgres and delivered via a github respository. Documentation will be in markdown format.
+
+### Cost
+Assuming the previous:
+
+4 days planning & documentation
+
+5 days assessment
+
+7 days full writeup / 4 days short writeup

@@ -46,3 +46,17 @@ Localised range
 |Ant|Common|No|Myrmica ruginodis|Most common ant in BWARS data|
 |Ant|Rarer|No|Lasius fuliginosus|Whole country range, very distinctive in photos and easily seen & recorded|
 |Ant|Common|Yes|Formica sanguinea| Identifiable from photos, if the photo shows the character. Very distinct population separation.|
+
+## Identification of low-record candidates
+- Identify taxa with <100 records
+- Subset to photographically identifiable
+- Prioritise
+     - Higher threat status = higher priority
+
+## Identification of threat status candidates
+- Avoid NT - too much of an edge case for initial assessment
+- DD is the worst possible outcome, but [we've addressed that](#identification-of-low-record-candidates)
+- Too few taxa reach CR for there to be much of a chance of finding many that are also photographically identifiable
+- EN is the most fertile ground for change in threat status
+    - Up = VU
+    - Down = CR

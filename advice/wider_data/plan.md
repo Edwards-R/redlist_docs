@@ -131,9 +131,4 @@ Assuming the previous:
 7 days full writeup / 4 days short writeup
 
 ## 6 Examination of impact of iRecord data for specific taxa
-Goal is to assess whether the inclusion of iRecord data. Limit it to:
-- correct
-- considered correct
-- BWARS 'standard' scheme 'correct' data
-
-- need to inc;udse conmnob taxa
+*See [per-species](./per_species.md) for this section*

@@ -56,10 +56,28 @@ One option is to attempt to use iRecord data to bolster a taxon out of 'Data Def
  - Re-run appropriate analysis, incorporating the iRecord data
 
 ## Impact on Critically Endangered taxa
-Another option for the use of extra data is to examine whether the inclusion of more data removes taxa from the Critically Endangered status.
-- Avoid NT - too much of an edge case for initial assessment
-- DD is the worst possible outcome, but [we've addressed that as low-record candidates](#identification-of-low-record-candidates)
-- Too few taxa reach CR for there to be much of a chance of finding many that are also photographically identifiable
-- EN is the most fertile ground for change in threat status
-    - Up = VU
-    - Down = CR
+Another option for the use of extra data is to examine whether the inclusion of more data removes taxa from the Critically Endangered status. Particular care needs to be taken *if* a decision is made to use a population estimate threat criterion that the inclusion of extra data is explicitly mentioned. There are not expected to be many taxa which arive at this threat status, based on preliminary investigation.
+
+### Process of Selection
+ - Identify taxa with `CR` status
+ - Identify the number of eligible records per taxon in the 'suitable for use' iRecord subset
+ - Re-run appropriate analysis, incorporating the iRecord data
+
+## Impact on other Threat Statuses
+Of lesser concern than `CR` taxa, the process of re-examination may be used on lesser threat categories. As a non-threat category, `NT` should be disregarded from this stage.
+
+### Process of Selection
+ - Identify taxa with `VU` or `EN` status
+ - Identify the number of eligible records per taxon in the 'suitable for use' iRecord subset
+ - Re-run appropriate analysis, incorporating the iRecord data
+
+## Population Estimation
+It has been mentioned that it is *required* to use criteria which rely on population size. *Assuming* that a satisfactory ruling can be found to convert observed records of a population to a Red List compatible 'size of reproductive population' metric, it *may* be possible to assess a taxon based on population-defined criteria.
+
+In such a case, extra data may be useful in reaching a final population count so as to not fall foul of the **guidance** to avoid a `worse case scenario` assessment.
+
+### Process of Selection
+ - Identify taxa which the expert & population equation place as potential candidates for assessment under population-based criteria
+ - Identify the number of eligible records per taxon in the 'suitable for use' iRecord subset
+ - Re-run population equation using the newly available data
+ - Check for additional recorder bias effects within each dataset to ensure that status is not over-inflated by simple low recording effort

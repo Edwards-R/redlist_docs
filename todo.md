@@ -85,3 +85,14 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 - [ ] Ruling on 95% CI or mathematically convert 95% to 90% via StdDev. Ask Gary *and* Richard Smith for this one. Gary to check if it's *doable* and Richard for project approval
 
 - [ ] Add all criteria and work out what is required for them to be considered given that we don't have absolute metrics on populations. Red List Guidance 4.3 does *not* cover the situation in any relevant manner.
+
+- [ ] Population counts. Oh boy this is a ***THING***. The **guidance** has nothing at all on what to do if half a taxon's population dies within the first few weeks of adult lifecycle and the sampling effort is unknown. If we are to take the documentation at its exact intent of being a count of *reproductive units*, then we'd need to know the general recording bias between male and female, worker and queen etc, and *inflate* the estimated population count accordingly. This puts us in a *very* awkward spot:
+    - We don't know the proportions between male & female
+    - We don't know the proportions between worker & queen (especially ants)
+    - We don't know the proportion of facultatively eusocial taxa
+    - We don't know when the males of a given taxon die off in every given year
+    - We don't know how sampling intensity changes over time vs male emergence-per-taxon
+    - Some taxa have castes which are easier or harder to identify (*B. terrestris* being a very common example)
+    - We don't have very much data *at all* on caste ever given to us, it's not something that many people record
+
+Without this information it becomes *very* difficult to reach the standards set out in the Red List documentation to reach the level of *count* rather than *index of abundance*.

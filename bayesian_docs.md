@@ -29,6 +29,15 @@ This method takes the start and end point per cycle of the model and calculates 
 ### Differences
 There are frequently substantial differences between the means calculated by each of these methods, though whether these differences are significant is unknown. Making this harder is that these trends are expressed as percentage points (percentage chance between two percentages), during a period in which the subject matter has, overall, experienced significant growth. The nature of a percentage change means that high increases, especially with smaller starting points, result in larger percentage changes and therefore larger discrepencies between the Arithmetic and Bayesian means.
 
+## Examination of Bayesian Trend Calculation
+To better explain how the Bayesian Trend Calculation is utilised, consider this graph:
+
+![image](./diagrams/bom_dist_graph.png)
+
+Simplified, this graph is formed by running the Bayesian Occupancy Model *N* times - in our case 999 times. Each run then has the short term trend calculated, resulting in a number. The *density* of each short term trend is then plotted, resulting in the graph above.
+
+From this point the 95% CI interval, representing 2 standard deviations, is calulated.
+
 ## Other Bayesian Occupancy Models
 A significant source of confusion is that the Bayesian Occupancy Model used in this experiment is one of a number of similar models, all derived from the same base algorithm. However, these models are *not* the same, and caution should be taken when comparing across them. Unfortunately there has been no consistent naming or versioning method applied to these different versions, which has led to them all being referred to as '*the* Bayesian Occupancy Model'.
 

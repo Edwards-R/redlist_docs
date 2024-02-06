@@ -48,14 +48,17 @@ Localised range
 |Ant|Common|Yes|Formica sanguinea| Identifiable from photos, if the photo shows the character. Very distinct population separation.|
 
 ## Identification of low-record candidates
-- Identify taxa with <100 records
-- Subset to photographically identifiable
-- Prioritise
-     - Higher threat status = higher priority
+One option is to attempt to use iRecord data to bolster a taxon out of 'Data Deficient' status, where the deficiency in data is *not* a result of nomenclatural confusion. Data Deficient is the *worst* possible status a taxon may be assessed as, therefore it logically follows that at least some effort should focus around the elimination of as much Data Deficient result as possible, without compromising the integrity of the result. Even so, some taxa *will* still be Data Deficient after this process.
 
-## Identification of threat status candidates
+### Process of Selection
+ - Identify taxa with `DD` status where the cause is not due to confusion
+ - Identify the number of eligible records per taxon in the 'suitable for use' iRecord subset
+ - Re-run appropriate analysis, incorporating the iRecord data
+
+## Impact on Critically Endangered taxa
+Another option for the use of extra data is to examine whether the inclusion of more data removes taxa from the Critically Endangered status.
 - Avoid NT - too much of an edge case for initial assessment
-- DD is the worst possible outcome, but [we've addressed that](#identification-of-low-record-candidates)
+- DD is the worst possible outcome, but [we've addressed that as low-record candidates](#identification-of-low-record-candidates)
 - Too few taxa reach CR for there to be much of a chance of finding many that are also photographically identifiable
 - EN is the most fertile ground for change in threat status
     - Up = VU

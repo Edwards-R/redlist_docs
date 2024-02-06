@@ -43,7 +43,7 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
     - [x] synanthropic status
     - [x] recent taxonomic/nomenclatural changes
 
- - [ ] Add imported ant example to [eligibility example](./process/internal_stage/eligibility.md#synathropic-status)
+ - [x] Add imported ant example to [eligibility example](./process/internal_stage/eligibility.md#synathropic-status)
 
  - [x] Add flow chart for European up/downlisting review process.
 
@@ -76,8 +76,12 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
 
 - [ ] Add wider review assessment flow diagram
 
-- [ ] For each model-assessment-occurrence, note the time frame used? It's there, but hidden on the model page not at this point.
+- [ ] For each model-assessment-occurrence, note the time frame used? It's there, but hidden on the model page not at this point. ***NO!** Stop trying to duplicate information!*
 
-- [ ] Need to populate the GUI with every taxon in every table. Filemaker is refusing to populate
+- [x] Need to populate the GUI with every taxon in every table. Filemaker is refusing to populate *Done as far as possible*
 
 - [ ] Write eligibility for nomenclatural confusion docs. There's a flow chart, just nothing in [the docs](./process/internal_stage/eligibility.md)
+
+- [ ] Ruling on 95% CI or mathematically convert 95% to 90% via StdDev. Ask Gary *and* Richard Smith for this one. Gary to check if it's *doable* and Richard for project approval
+
+- [ ] Add all criteria and work out what is required for them to be considered given that we don't have absolute metrics on populations. Red List Guidance 4.3 does *not* cover the situation in any relevant manner.

@@ -81,3 +81,14 @@ In such a case, extra data may be useful in reaching a final population count so
  - Identify the number of eligible records per taxon in the 'suitable for use' iRecord subset
  - Re-run population equation using the newly available data
  - Check for additional recorder bias effects within each dataset to ensure that status is not over-inflated by simple low recording effort
+
+## Budget
+
+|Item|Days|Explanation|
+|---|---|---|
+|Rerun of statistics, including selected iRecord data|1|Rerunning all non-CEH statistics using current 'Redlist' data plus iRecord data deemed of sufficient quality. Will need to re-use existing scripts in a different use-case, and so will require the running of quality control metrics and analysis to ensure success|
+|Core team induction|3|As is done with the main Redlist dataset, the core team will require time to be informed of the various biases, problems, observations etc that the introduction of iRecord data has caused. Any left over time is rolled into the data analysis stage|
+|Data analysis by core team|6|Analysis must follow the same protocol as the actual Redlist in order to be comaprable. This covers two days of the core data team|
+|Writeup|7|A summary of lessons learned from each [background taxon](#background-taxa), the effectiveness on the inclusion of iRecord DD taxa, CR taxa, and other Threat Status taxa as applicable, plus the viability of using record volume as a proxy for Red List-compatible population metrics| 
+|Writeup review|3| A review of the write up to the steering group. Covers one day each for the core team with no travel included|
+|**Total**|**20**|

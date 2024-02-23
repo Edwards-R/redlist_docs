@@ -132,3 +132,5 @@ Assuming the previous:
 
 ## 6 Examination of impact of iRecord data for specific taxa
 *See [per-species](./per_species.md) for this section*
+
+**Costings for 6. are not included in 5.4**

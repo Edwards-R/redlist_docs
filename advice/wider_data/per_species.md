@@ -36,11 +36,11 @@ Localised range
 |Bombus|Common|Yes|Bombus humilis|Very restricted in range. Range is well known and understood|
 |Other bees|Common|No|Andrea haemorrhoa|One of the commonest solitary bees. Chosen over Osmia bicornis due to A. haemorrhoa requiring slightly more skill to identify and an expected better spread of data.|
 |Other bees|Rarer|No|Halictus tumulorum|Easily distinguishable from photographs that show requisite features.|
-|Other bees|Common|Yes|Colletes hattorfiana|Distinctive, highly restricted.|
+|Other bees|Common|Yes|Andrena hattorfiana|Distinctive, highly restricted.|
 |Social wasp|Common|No|Vespula germanica|Common, does require consideration of V. vulgaris to avoid confusion|
 |Social wasp|Rarer|No|Dolichovespula norwegica|Best option out of a very limited selection.|
 |Social wasp|Common|Yes|Vespa crabro|Very very distinctive, verifiers should identify this with no problem. A few unusual yet confirmed records present in Scotland, but overall  restricted to southern GB|
-|Other wasp|Common|No|Ectemnius continuous| Distinctive and has reasonable geographic coverage|
+|Other wasp|Common|No|Ectemius continuous| Distinctive and has reasonable geographic coverage|
 |Other wasp|Rarer|No|Ammophila sabulosa|Reaches into Scotland, though only just. Large enough to be identifiable from photos.|
 |Other wasp|Common|Yes|Gorytes laticinctus|Spreading from southern England. Very obvious and well recorded, particularly through photos|
 |Ant|Common|No|Myrmica ruginodis|Most common ant in BWARS data|
@@ -91,4 +91,4 @@ In such a case, extra data may be useful in reaching a final population count so
 |Data analysis by core team|6|Analysis must follow the same protocol as the actual Redlist in order to be comaprable. This covers two days of the core data team|
 |Writeup|7|A summary of lessons learned from each [background taxon](#background-taxa), the effectiveness on the inclusion of iRecord DD taxa, CR taxa, and other Threat Status taxa as applicable, plus the viability of using record volume as a proxy for Red List-compatible population metrics| 
 |Writeup review|3| A review of the write up to the steering group. Covers one day each for the core team with no travel included|
-|**Total**|**20**|
+|**Total**|**20**|4

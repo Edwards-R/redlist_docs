@@ -49,3 +49,5 @@ For the model used in *this* study, we have chosen to follow the Red List guidan
 
 ### Lichens and crossing the 0 line
 *I am waiting to hear back from the Lichen Red List team. The only information I have regarding this project comes from a third party source and I want to be sure that I have my information correct before contributing to the confusion that currently exists*
+
+## Document that we are using the upper 90% CI, replacing the above

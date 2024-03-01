@@ -366,3 +366,15 @@ The denotion of `expert opinion` applies to the internal team and the wider revi
 
 ## B Number of Locations and DD
 `DD` - Data Deficient - has been added to the list of options for B2: number of locations. Some taxa have such low data that a judgement on the number of locations cannot be safely made. The predominant cause for this is expected to be low sampling effort or difficulty in obtaining samples.
+
+## Vagrancy
+A taxon is considered a vagrant if it has not demonstrated either
+- The presence of a breeding population in the assessment area during the 30 year time period in consideration
+- A minimum of three years consistent presence in the assessment area during the 30 year time period in consideration
+
+## Nativeness
+Whether a taxon is 'native' or not is a complex topic which often gets overtaken by emotive responses rather than logical. It is entirely reasonable to expect taxa to colonise the assessment area, the difference in applicability is instead found in the manner in which this colonisation occurs. For the purpose of this project, a taxon is eligible for assessment ('native') if it is considered to have arrived in the assessment area via non-anthropically-assisted means.
+
+There are many edge cases for this statement. Most notably, taxa which are suspected to have arrived via both anthropic and non-anthropic means. These taxa are eligible for inclusion, but should have their suspected anthropic contribution noted on the assessment.
+
+Secondly, taxa which have expanded from a country wherein the taxon is considered an anthropic introduction shall be considered the product of anthropic interference. *Vespa velutina: iso. Archer: 1989* is a prime consideration of this. The taxon has been found in produce imported from Europe, as well has having colonised the southern British coast from France.

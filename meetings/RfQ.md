@@ -57,9 +57,9 @@ Classifications are required for
  - Not evaluated
  - 101+ hectad
 
-Without these being separated, a blank entry may be interpreted incorrectly
+Without these being separated, a blank entry may be interpreted incorrectly. Is it blank because it wasn't evaluated? Was considered too DD to arrive at an answer? Was so common that it doesn't get anything? If someone is to use this, they need to know the answer to these questions.
 
-## `{T}``{M}`Generation time
+## `{T}` `{M}`Generation time
 This is dangerous. Ant generation times are specialist knowledge and would likely require significant research to uncover what is known to begin with. We'll need to come up with a ruling for how to arrive at this figure.
 
 Almost every taxon evaluated here has the potential to enter extended dormancy for at least one extra year. There are also taxa which operate on both sub-annual and annual cycles - which is the 'correct' figure to pick? What about taxa that operate on an obligate multi-brood cycle yet exhibit not eusociality?
@@ -68,7 +68,7 @@ Almost every taxon evaluated here has the potential to enter extended dormancy f
 Not possible. Flat and blunt answer. We ***do not have*** population data, regardless of how desirable it may be to have it. It doesn't exist. End of story.
 
 ## 'Flag' fields
-There's suddenly a request for a lot of flag fields related to criteria sub-assessment protocols. Is this supposed to be used for this purpose, or so specific other purposes?
+There's suddenly a request for a lot of flag fields related to criteria sub-assessment protocols. Is this supposed to be used for this purpose, or some specific other purposes?
 
 ## Continuing Decline
 Need more information on what constitutes continuing decline. C1 is not possible to reliably and consistently apply to the taxon under an evidentiary Red List assessment, as any assessment utilising C1 results in `DD` due to the lack of evidence to support population estimation.
@@ -82,5 +82,4 @@ Need to add this to rulings.
 `This is the date before which the loss of a species would not be recorded in the Assessment (IUCN guidance is that this should normally be no earlier than 1500AD).`
 
 ## `{M}` Near Threatened
-Need to create a ruling for how Near Threatened is applied
-
+Need to create an example for NT once we have one in the assessment. It's much easier to demonstrate a few examples.

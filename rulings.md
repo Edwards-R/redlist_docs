@@ -378,3 +378,18 @@ Whether a taxon is 'native' or not is a complex topic which often gets overtaken
 There are many edge cases for this statement. Most notably, taxa which are suspected to have arrived via both anthropic and non-anthropic means. These taxa are eligible for inclusion, but should have their suspected anthropic contribution noted on the assessment.
 
 Secondly, taxa which have expanded from a country wherein the taxon is considered an anthropic introduction shall be considered the product of anthropic interference. *Vespa velutina: iso. Archer: 1989* is a prime consideration of this. The taxon has been found in produce imported from Europe, as well has having colonised the southern British coast from France.
+
+## Near Threatened
+The status 'Near Threatened' (NT) may be used on the basis of an Expert Opinion model (either [internal](./model.md#internal-expert-opinion) or [wider](./model.md#wider-expert-opinion)). This status is designated to cover situations where experts believe a decline is happening, but that decline is either
+- not captured by any other model-assessment
+- not significant enough to merit a full threat status
+
+In order to use NT, the expert must document at least one of the following:
+ - A belief that a decline is occurring, combined with the timescale of change
+ - A clearly identified threat, with a mechanism for how it may affect the taxon
+
+ ### Example 1
+ A taxon where multiple models state declines of ~ 25% may be classified as `NT` under Expert Opinion:A2 on the basis that there is evidence for decline which is not significant enough to qualify for `VU`. Expert opinion is that the taxon has declined, though probably not at greater than 30% over ten years.
+
+ ### Example 2
+ A taxon which has been experiencing long term slow decline at a rate too low to qualify for `VU` will, according to the **Guidance**, go un-reported due to the lack of absolute population metrics for the subject taxa. `NT` provides a way to draw attention to such long-term declines using `index of abundance` within the framework provided.

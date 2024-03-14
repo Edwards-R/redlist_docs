@@ -41,22 +41,36 @@ h) What is the general accuracy of verification, in iRecord, of the iRecord veri
 - General taxonomic distribution of records in iRecord
   - Species vs non-species
   - Different taxonomic areas
-  - Most common
-  - Over time
+    - Bombus
+    - Non-Bombus bee
+    - Eusocial wasp
+    - Solitary wasp
+    - Ant
+  - Most common taxa
+  - Over time by major grouping
 - General taxonomic distribution of records in BWARS
   - Species vs non-species
+    - iRecord set doesn't include understandings, so BWARS has effectively 0 non-species to be comparable
   - Different taxonomic areas
+    - Bombus
+    - Non-Bombus bee
+    - Eusocial wasp
+    - Solitary wasp
+    - Ant
   - Most common
 - General difficulty-of-identification ranking distribution of records?
+  - Reliant on previous work looking at id difficulty, will not be purely photographically based
 - Verified
 - Verified by people with known high capability for physical specimen identification vs not
 - Verified by category (plausible, considered correct, correct etc)
 - Verified by people using the 'BWARS' scheme, by category (this will be a subset of 'known high capability for physical specimen identification')
-  - (BWARS)Considered correct = I trust the source and haven't looked at the individual record
-  - (BWARS)Correct = I trust the record and have looked at the individual record
+  - (BWARS) Considered correct = I trust the source and haven't looked at the individual record
+  - (BWARS) Correct = I trust the record and have looked at the individual record
 - Number of records under 3 point system and not 5 point system, per year
 - Number of records vs de-duplicated records based on what/when/where (BWARS scientific standard) *only*
-- Number of BWARS-scheme-accepted records (BWARS considered correct, BWARS correct), de-duplicated by what/where/when. *explain better*
+- Number of records verified by people using the 'BWARS' scheme scoring system, de-duplicated by what/where/when.
+  - (BWARS) Considered correct = I trust the source and haven't looked at the individual record
+  - (BWARS) Correct = I trust the record and have looked at the individual record
 - Number of records present in iRecord that are marked incorrect in BWARS
 
 - Peer review of most capable & prolific verifiers

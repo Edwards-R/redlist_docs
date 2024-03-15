@@ -1,6 +1,14 @@
 # Why perform investigation?
 BWARS has imported iRecord data into the dataset on three previous occurrences. Each time this has happened, experienced entomologists have raised significant enough objections to justify the almost immediate removal of the iRecord data. The basis for the rejection of 'iRecord data' has always been on the basis of the presence of a significant contingent of records which fail very simple range checking. Note that these imports were performed *prior* to the development of the BWARS automated range checker for this project. Range checking here was performed by taxon experts and typically concerned a number of records of taxa appearing in unrealistic spatial ranges.
 
+## Why iRecord
+It would be very easy to look at the litany of difficulties encountered whilst attempting this import process and come to the conclusion that 'iRecord/BWARS are doing it all wrong'. It is important to stress that *managing ecological data is hard*, but also that the subject taxa cover a highly unique spread of circumstances. Specifically
+- public interest in bees has resulted in a large volume of 'bee' data from unknown quality sources
+- increased interest in bees has resulted in significant taxonomic and nomenclatural changes within the Red List timespan
+- some taxa within the specified grouping, especially ants, are diametric opposites in volume/'ease' of recording to ants
+
+iRecord data is being investigated not because it is one of many and the 'most wrong', but because it is the frontrunner for capturing what BWARS considers 'data of unknown quality'. As such, iRecord represents an opportunity for us to learn what is *possible*, as well as what *can* be done, and *how* it should be done. Ideally these lessons will be valuable to future development of data pipelines across other taxa and recording schemes.
+
 ## Previous import attempts
 Do to the volunteer nature of BWARS, coupled with the very restricting nature of having *one*, still very much learning, person responsible for data management, copious notes of previous attempts simply didn't get taken. Attempts were run until significant problems were encountered, at which point the added data was removed. The following summarises what information can be recollected about each attempt.
 
@@ -20,6 +28,9 @@ A number of years after the last conversation between BWARS and BRC, it was deci
 - There are still errors happening, and we can't work out how or why
 
 However, with more pressing projects pending there was no time to dedicate to further exploration and the project was shelved once more.
+
+## Data flow between BWARS and iRecord
+Data still flows from iRecord to BWARS. Individuals are asked to download their own data, perform some basic checks to ensure the accuracy of the output, and then send the data to join the standard BWARS data flow. From here, the dataset is treated as any other.
 
 ## The purpose of this investigation
 

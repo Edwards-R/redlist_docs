@@ -8,6 +8,7 @@ Examine various trends:
   - Osmia bicornis
   - Bombus pascuorum
 - Can ignore ants, Mike Fox has included these?
+  - I'm honestly just curious. Ants are the highest-specialisation group
 - North/south divide
 - Ask Mike Fox how he looked at ant data
 - Maintain separation of iRecord and BWARS datasets
@@ -21,7 +22,7 @@ Perspective is 'There are 300,000 records in iRecord and BWARS isn't using any o
 
 a) Are there 300,000 unique to-species records in iRecord, using the BWARS scientific standard data de-duplication routine
 
-b) What does 'reliable' mean in the iRecord dataset
+b) What does 'reliable' mean in the context of a Red List and the iRecord dataset
 
 c) How reliable is the iRecord dataset
 

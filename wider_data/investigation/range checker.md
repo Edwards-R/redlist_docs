@@ -17,7 +17,7 @@ Selecting, at random, 2018's data results in the following map
 Quite clearly, the 2018 data likely does not represent the 'true' distribution of *Vespula rufa: iso. Archer: 1989* in 2018. This lack of representation is quite simply the result of low data volume and is common throughout the BWARS dataset.
 
 ## Year bounding
-The solution BWARS has applied to this attempts to strike a balance between precision and data volume. When given a year `Y` and taxon `T`, the database calculates the number of records within one year either side of `Y` for that taxon. This is `Y +1 -1`. If the number of records of `T` in `Y +1 -1` is fewer than 200, the range of `Y` is expanded until it is e.g. `Y +1 -2`, `Y +2 -2` etc.
+The solution BWARS has applied to this attempts to strike a balance between precision and data volume. When given a year `Y` and taxon `T`, the database calculates the number of records within one year either side of `Y` for that taxon `T`. This range is `Y +1 -1`. If the number of records of `T` in `Y +1 -1` is fewer than 200, the range of `Y` is expanded until it is e.g. `Y +1 -2`, `Y +2 -2` etc.
 
 For *Vespula rufa: iso. Archer: 1989* in 2018, the bounds for `Y` are 2012 and 2022 resulting in 202 records total. This results in the map
 

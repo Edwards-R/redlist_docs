@@ -19,7 +19,7 @@ If in doubt, use the Understanding. They have been used for a very specific reas
 The following contains more high-level explanation of what an Understanding is, why Understandings are necessary, as well as how one is written.
 
 ## Why do we use binomial Understandings?
-Because they fill a very important gap in 'standard' taxonomy: if a taxon is split or name's use is altered, it is possible (and common) for the binomial to become unclear.
+Because Understandings fill a very important gap in 'standard' taxonomy: if a taxon is split or name's use is altered, it is possible (and common) for the binomial to become unclear.
 
 As a simple example, the taxa covered by this Red List includes the taxon *Andrena scotica*. The understanding of what exactly *A. scotica* is has been the subject of considerable debate, leading to the recent publication of two works. As a result, there are three (one old, two new) possible interpretations for data relating to *Andrena scotica*:
 
@@ -58,4 +58,4 @@ The iso-format Understanding for *Nomada sheppardana*, at the time of writing th
 |:|Separator to denote end of author(s)|
 |2007|The year that the change in Understanding was accepted|
 
-This means that the Understanding of *Nomada sheppardana* used in the Red List adheres to that identified by Amiet et al in 2007.
+This means that the Understanding of *Nomada sheppardana* used in the Red List adheres to that established by Amiet et al in 2007. Provided that no study fragments *Nomada sheppardana: iso. Amiet et al: 2007*, we can then say that all records we have of *Nomada sheppardana: iso. Amiet et al: 2007* correctly match to the type specimen itself.

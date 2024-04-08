@@ -1,5 +1,5 @@
 # BWARS Range Checker
-This document offers a brief outline of the higher-level processes underlying the BWARS range checker. The range checker is not designed, nor capable, or replacing an experienced human. What it *does* do is highlight some more unusual aspects of records to draw human attention.
+This document offers a brief outline of the higher-level processes underlying the BWARS range checker. The range checker is not designed, nor capable, of replacing an experienced human. What it *does* do is highlight some more unusual aspects of records to draw human attention.
 
 ## Overall system
 Knowing whether an occurrence record is 'expected' or not is a very complex task. The subject taxa are known to shift their expected distributions between years, primarily in response to climate variation. As such, it is impractical to define a single boundary which all records are expected to adhere to.

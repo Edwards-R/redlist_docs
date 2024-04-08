@@ -7,7 +7,7 @@ It would be very easy to look at the litany of difficulties encountered whilst a
 - increased interest in bees has resulted in significant taxonomic and nomenclatural changes within the Red List timespan
 - some taxa within the specified grouping, especially ants, are diametric opposites in volume/'ease' of recording to ants
 
-iRecord data is being investigated not because it is one of many and the 'most wrong', but because it is the frontrunner for capturing what BWARS considers 'data of unknown quality'. As such, iRecord represents an opportunity for us to learn what is *possible*, as well as what *can* be done, and *how* it should be done. Ideally these lessons will be valuable to future development of data pipelines across other taxa and recording schemes.
+iRecord data is being investigated not because it is one of many and the 'most wrong', but because it is the frontrunner for capturing what BWARS considers 'data of unknown quality'. As such, iRecord represents an opportunity for us to learn what is *possible*, as well as what *can* be done and *how* it should be done. Ideally these lessons will be valuable to future development of data pipelines across other taxa and recording schemes.
 
 ## Previous import attempts
 Do to the volunteer nature of BWARS, coupled with the very restricting nature of having *one*, still very much learning, person responsible for data management, copious notes of previous attempts simply didn't get taken. Attempts were run until significant problems were encountered, at which point the added data was removed. The following summarises what information can be recollected about each attempt.

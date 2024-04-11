@@ -31,4 +31,4 @@ The groups identified are:
 - Ant
 
 ## iRecord verification score
-This section assesses the number of 
+This section assesses the number of records under each verification score on `verification score 1` and `verification score 2` separately. Also assessed is the number of records under each category, split by adherence or not to the 'BWARS style' verification.

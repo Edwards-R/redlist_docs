@@ -1,11 +1,11 @@
-# Bayesian Occupancy Model documentation
-The Bayesian Occupancy Model is the subject of much debate, including its usage for the creation of Red List assessments. Considerable time has been spent in this assessment pruning the various assumptions that the model utilises, discarding any where it is possible to do so and the taxon specialists deem the assumption to be incorrect.
+# CEH Bayesian Occupancy Model documentation
+The CEH Bayesian Occupancy Model is the subject of much debate, including its usage for the creation of Red List assessments. Considerable time has been spent in this assessment pruning the various assumptions that the model utilises, discarding any where it is possible to do so and the taxon specialists deem the assumption to be incorrect.
 
 ## Model Scale
-The model was run at 2 km and 10 km resolutions to examine the differences. It was decided that the difference in result between 10 km and 2 km was insufficient to justify the vastly decreased statistical power that the 2 km model was left with.
+The CEH Bayesian Occupancy model was run at 2 km and 10 km resolutions to examine the differences. It was decided that the difference in result between 10 km and 2 km was insufficient to justify the vastly decreased statistical power that the 2 km model was left with.
 
 ## Confidence vs Credible
-The `CI` metrics reported from the Bayesian Occupancy Model are *Credible* Intervals, **not** *Confidence* Intervals. Both metrics examine the *spread* of a distribution, but have distinct differences in their interpretation.
+The `CI` metrics reported from the CEH Bayesian Occupancy Model are *Credible* Intervals, **not** *Confidence* Intervals. Both metrics examine the *spread* of a distribution, but have distinct differences in their interpretation.
 
 For a robust guide on the differences between the two, I recommend further reading. The Centre for Evidence-Based Medicine has [a useful primer](https://www.cebm.ox.ac.uk/news/views/should-e-be-using-credible-intervals-more-routinely), but be aware that it is targeted at non-lay readers. A *short* extraction of that primer is included below.
 

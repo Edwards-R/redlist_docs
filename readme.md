@@ -1,22 +1,14 @@
 # Readme
-This document contains all top-level guidance for interpreting and using this project.
+This project contains all the work pertaining to the Hymettus Red List contract 2023+.
 
-## Redlist Guidance Versions
-This document was produced with the following documents:
-- Guidelines for using the IUCN Red List categories and criteria v15.1
-- Guidelines for application of IUCN Red List criteria at regional and national levels v4.0
+This project is divided up into different sub-projects, as detailed below
 
-To promote the easy use of these documents, they will be shortened and written in bold:
+## Red List Analysis
+This area covers the generation of the Red List and results thereof.
 
-- **Guidance**
-- **Regional Guidance**
+[Start here](/red_list_analysis/readme.md)
 
-When referencing quotations, the prefix `G` is used to denote a reference to `Guidelines for using the IUCN Red List categories and criteria v15.1` (**Guidance**) and the prefix `r` for `Guidelines for application of IUCN Red List criteria at regional and national levels v4.0` (**Regional Guidance**).
+## Source Analysis
+This area covers analysis of the Red List data source, BWARS data, and iRecord data.
 
-# Index
-- [Glossary](./glossary.md)
-- [Rulings](./rulings.md)
-- [Process specification](./process_overview.md) <-- Start here if in doubt
-- [Models used](./model.md)
-- [Criteria assessment](./criteria.md)
-- [Mode assessments](./model-assessment.md)
+[Start here](/source_analysis/readme.md)

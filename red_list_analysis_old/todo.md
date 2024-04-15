@@ -96,3 +96,8 @@ Rulings has a rule that generation length is 1 year - does this cause any proble
     - We don't have very much data *at all* on caste ever given to us, it's not something that many people record
 
 Without this information it becomes *very* difficult to reach the standards set out in the Red List documentation to reach the level of *count* rather than *index of abundance*.
+
+### For inclusion
+Heirarchical assessment is being used because the taxa being assessed are, relative to the intent of the Red List, very data poor. As such, many 'conventional' methods to establish the threat status of a species are inapplicable, due to the lack of data upon which to base such assessments. Notably, there are no accepted datasets or metrics upon which to base estimations of per-species population abundance.
+
+Due to the lack of available data, coupled with the known incompleteness of available data, multiple methods of examining the available data have been utilised. Each method has been selected for its ability to examine available data in a different manner and with a different focus. As the saying goes, '*all models are wrong, but some models are useful*'. It is intended that looking for agreement amongst models of uncertain accuracy, or looking for how differing models react to the same data, a higher degree of precision may be achieved from an otherwise uncertain situation.

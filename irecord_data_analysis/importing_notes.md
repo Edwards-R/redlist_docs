@@ -1,0 +1,264 @@
+# Import Notes
+Notes from the processing of imported data
+
+## Run 1
+- Filemaker is struggling with *something* in one of the lines. A chunk of data goes missing - around 1.5 records. I can't see anything wrong with the format in Sublime, VSCode, and SQLite imports just fine.
+  - I've lost 83 records to a bug
+  - Suspect this is a characterset problem and Filemaker is just failing
+  - Will re-try import after pushing through SQLite to clean
+- LOTS of problems with nomenclature. I've taken the ruling that changes must be >30 years prior to the general date of records in order to be blindly accepted. This is imprecisely applied as I don't have a tool to do so.
+- Understandings are being assigned *in the absence of knowing the determiner*. Attempting to do otherwise is
+    - incorrect
+    - liable to overconfidence
+    - liable to error
+- There's a record of *Holopyga ovata* from 2022. This name was retired in 2015!
+    - 34921202 Who is responsible for this record?
+    - Hasn't been *seen* fot ~100 years, name should be long dead & retired
+- 207 records of *Bombus lucorum*, the vast majority of which are post 2008 split.
+- *Pemphredon morio* records are in a terrible situation with nomenclature. Lots of non-morio being added in, should be *P. lugubris* as per a change in 1995!!
+- There is a *lot* of historic data in iRecord, which I *highly* doubt has any form of nomenclature control.
+- Starting to wonder if this task is even possible with the amount of old data
+    - Do once with all data, then again with a 1980 cutoff?
+- Really did not appreciate how much work the Understandings system was doing until right now. This is utterly terrible and not even anything that iRecord has done incorrectly. iRecord is being let down by the entire system it *has* to rely upon.
+- Large batch of records with VC entered as 'H18' rather than what seems to be the intended '18'
+    - Gone back and corrected these to 18, most people won't look at the VC and will just go by GR, so not really fair to 'fail' these for this.
+    - Worth bringing up as a QA measure for iRecord though?
+    - **Solved**. It's the Checker failing to handle an invalid VC Number. The 'actual' input is: `16 | 18`, which is not a valid VC number. Absolutely worth feedback to BRC on.
+- A fair number of 'subgrid' grid references present e.g. `TQ28G`
+    - These should not be present in the 'standard' export I think as they are an addendum?
+    - Certainly makes processing GRs harder, but that might be a limitation of my checking.
+    - Won't count these as failures but probably shouldn't be done
+- *Anteon jurineanum agg* First time ever seeing this! BWARS doesn't even have an *agg* for it in the system!
+- `~ 49.2N 2.3W` entered as a grid reference. This should *absolutely* not happen! Feedback on this.
+    - There should be a post-processing grid reference separate from provided, unless grid references are not supposed to be used in which case why provide them?
+    - The i_ for input and o_ for output notations works very well for the Checker. needs a 'friendlier' look, but worth looking at
+    - FAR too many multi-word headers make this data hellish to work with in code. Use `snake_case`.
+
+### Results
+- This is the run where Filemaker panicked and dropped 83 records
+- Number of dropped records is irrelevant to the overall result
+- 3208 records failed due to multiple potential species matches
+- ~ 20 of these are genus-only, so <1% of the failures
+- Result is that 3208/31260 records are of taxa where the nomenclature is in significant enough doubt to be unable to resolve accurately to taxon.
+- Rate is near enough 10% loss to nomenclatural confusion
+
+## Run 2
+Assumed no info on submitter (i.e. blind assessment) or examination of verification status
+
+This run is done as:
+- Raw iRecord CSV output imported into SQLite
+- Data extracted as the following query:
+    >SELECT id, taxon, "Output map ref", "Date from", "Date to"
+FROM irecord_for_red_list
+WHERE rank = 'Species'
+- Imported into clean Checker, scripts run
+    - No records dropped this time, 30848 in
+    - Lower due to removal of non-species records
+- Handle `Andrena fulva`, which is a substring of `Andrena fulvago` and so trips the multi-name trigger incorrectly
+- *Myrmica sabuleti*
+    - Most data is post 2000
+    - Change was in 1978
+    - Still 6 records at the end that are pre-1978 and should be the aggregate
+    - Manually assigned these to *Myrmica sabuleti: iso. Meinert: 1861*
+    - Remainder assigned to *Myrmica sabuleti: iso. Elmes: 1978*
+- *Bombus terrestris*
+    - Simply not able to accept these without personal knowledge
+    - Too much confusion potential and no accepted rules to clean out data
+- *Nomada integra*
+    - Split is in 2017
+    - All data considered suspect
+- *Psenulus pallipes*
+    - Split is in 2016
+    - All data considered suspect
+- *Ponera coarctata*
+    - Split is in 2003
+    - Records are *maybe* reliable, but no way to tell for certain
+- *Pemphredon lethifer*
+    - Subject to two revisions in the past decade
+    - Falk & Early 2021
+    - Bleet & Early 2022
+    - All considered suspect
+- *Passaloecus insignis*
+    - Majority pre-2000 data
+    - Split is in 2002
+    - Impossible to assign Understanding to any data reliably
+- *Passaloecus gracilis*
+    - Other part of the *P. insignis* name swap
+    - Less modern data, as expected
+    - Still some old data which quite probably should be *P. insignis*
+    - Impossible to assign Understanding reliably
+    - Ratio of new:old data between this and *P. insignis* strongly suggests that these two names are still being conflated
+- *Nomada ruficornis*
+    - Mixture of 60% new, 40% 'old' data
+    - Old data is uncertain and has to go to *Nomada ruficornis: iso. Perkins: 1919*, which is understood as part of *Nomada panzeri: iso. Falk et al: 2022*
+    - Manually assigned data as it is possible with the ~100 year gap between understandings
+    - 106 records, takes quite some time!
+- *Nomada fulvicornis*
+    - 2000 vs 2004 difference
+    - Impossible to tell
+- *Myrmica scabrinodis*
+    - Mixture of new and old data
+    - Understanding needs more work, it's an old entry and we'd typically add more information than this.
+    - Reoccuring problem with ant taxa, BWARS needs to get someone to help sort these out
+    - All rejected
+- *Lasius niger*
+    - *Probably* ok, but not guaranteed
+    - Data is modern
+    - Expert opinion sought as the difference between *L. niger* and *L. platythorax* has frequently come up as an unknown topic at BWARS meetings
+    - Left unprocessed for now
+- *Hylaeus dilatatus [Genus inferred]*
+    - Error from iRecord's part
+    - Unknown why this taxa's genus change is specifically mentioned but others aren't
+    - Makes no sense at all
+    - *Could* be corrected to *Hylaeus dilatatus*
+    - Unlikely to be significant pollution with *H. annularis*, even in older data
+    - Altered to *H. dilatatus* and accepted
+- *Holopyga ovata*
+    - Highly weird record
+    - Taxon hasn't been seen for 100 years until very recently
+    - Name used is an old synonym, but that's not *unprecedented* as commonly used Chrysid keys are currently very old
+    - Would want to check this record by default
+- *Hedychrum nobile*
+    - Split in 2015
+    - Impossible to tell, all data suspect
+- *Hedychrum niemelai*
+    - Other part of *H. nobile* split
+    - Impossible to tell, all data suspect
+- *Ectemnius cephalotes*
+    - Majority old data
+    - Split in 1980
+    - Most data prior
+    - Manually assigned
+- *Chrysis mediata*
+    - BWARS Understandings not properly entered
+    - 70% old data
+    - Old data meaning unclear
+    - Presence of *Chrysis mediata agg* suggests split
+    - No presence of pre-split, possible because BWARS changed all to `s.l.` before Understandings implemented
+    - Seek clarification
+- *Chrysis ignita*
+    - Known problematic split
+    - Very old keys
+    - All suspect
+- *Caliadurgus fasciatellus*
+    - All ok, multiple taxa are from previous split that was then reverted
+- *Bombus lucorum*
+    - Impossible to separate *B. lucorum* from *B. magnus* and *B. cryptarum*: iso. Murray et al: 2008
+    - All records rejected
+- *Andrena wilkella*
+    - Multiple taxa here due to failing to follow Understandings guidance properly
+    - All taxa passed through
+- *Andrena scotica*
+    - Known problematic species
+    - Changes in 2018 *and* 2022
+    - All rejected
+- *Andrena ovatula*
+    - Split in 2022
+    - All rejected
+- *Pemphredon morio*
+    - Changed in 1995
+    - Lots of old (significantly pre 1995) data
+    - Manual assignment possible
+- *Mimesa equestris*
+    - Change in 2001
+    - Predominantly old data
+    - All rejected
+- *Nomada ferruginata*
+    - Change in 2017
+    - Predominantly old data
+    - All rejected
+- *Myrmica schencki*
+    - Appears due to `Myrmica schencki` being a substring of `Myrmica schenckiodes`
+    - All accepted
+- *Andrena trimmerana*
+    - 2022 change
+    - Known high contention
+    - All rejected
+- *Andrena nigrospina*
+    - 2015 split
+    - All rejected
+- *Spilomena differens*
+    - 2000 split
+    - Majority old data
+    - All rejected
+- *Lasius psammophilus*
+    - Shows up due to two different Seifert interpretations
+    - Possibly error in ant Understandings
+    - All modern
+    - All can be accepted
+- *Tetramorium caespitum*
+    - Split in 2006
+    - Only one record
+    - Has to be considered suspect
+- *Crossocerus palmipes*
+    - Likely shows up due to errors in Understandings early implementation
+    - All acccepted
+- Records with AA0000x grid references
+    - iRecord design decision
+    - Checker not designed to handle subgrids
+    - Manually removed subgrid
+- *Lasius alienus*
+    - Split in 2007
+    - All rejected
+- *Hypoponera punctatissima*
+    - Split in 2018
+    - All rejected
+- *Andrena pilipes*
+    - Split in 2018
+    - All rejected
+- Incorrect/unknown grid references?
+    - `D21790672`
+    - Rejected 2 records
+- *Hylaeus annularis*
+    - Vast amounts of confusion caused by multiple operations between 1999 and 2008
+    - All rejected
+- *Bombus magnus*
+    - Only currently accepted method of identification is genetic markers
+    - Rejected
+- *Trypoxylon figulus*
+    - All old data
+    - Rejected as impossible to assgn between `de Beaumont: 1984` and `Pulawski: 1964`
+- *Tachysphex unicolor*
+    - All old data
+    - *Likely* to be `Tachysphex unicolor: iso. BWARS: 1990`
+    - Actual source of Understanding could not be found
+    - *Likely* to be `Tachysphex nitidus agg: iso. Bitsch et al: 2001`
+    - All assigned to `iso. BWARS: 1990`
+- *Stenamma westwoodii*
+    - All old
+    - 1998 split
+    - All rejected
+- *Mimesa bicolor*
+    - Old data
+    - Assigned to *Mimesa bicolor: iso. Berland: 1925*
+    - Current interpretation is *Mimesa equestris: iso. Bitsch et al: 2001*
+    - All then accepted
+- *Crossocerus leucostomus*
+    - Very old name
+    - All data old
+    - Impossible to resolve
+    - All rejected
+- *Anteon jurineanum agg*
+    - No aggregate Understanding of *Anteon jurineanum* known of
+    - All data old
+    - All rejected
+- Grid reference reads `~ 49.2N 2.3W`
+    - iRecord significant error
+    - Data is likely from 'Asian Hornet Reporting App', which is known to be buggy and do things like this
+- *Osmia*
+    - iRecord significant error
+    - This should simply *not* be possible to do
+    - Attributed to species but only genera provided
+    - Indicates serious error potential
+    - Rejected
+
+### Results
+- 2,961 records rejected
+- Five technical failures
+    - One caused by the Checker
+    - One caused by poor data
+        - Record was coastal Ireland, possibly the Checker being more precise than a human can be
+    - Three caused by iRecord
+- 32 un-assignable taxa
+- 12 assignable taxa
+    - Some assigned Understandings resolve to aggregates

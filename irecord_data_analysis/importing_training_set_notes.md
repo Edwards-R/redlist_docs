@@ -1,11 +1,19 @@
-# Import Notes
-Notes from the processing of imported data
+# Import Training Set Notes
+This document outlines the processing of the iRecord 'training' dataset of 31,000 through the BWARS Checker. The Checker is responsible for checking the `core` attributes of a record:
+
+- What
+- Where
+- When
+
+Once data is processed through the checker, it will be reunited via relational database using the `id` as primary key. Doing so allows the original data to be maintained whilst enabling Understandings.
+
+The following is a transcription of actions/problems as-encountered and is fairly rough. At the end of each run is a summary which details findings.
 
 ## Run 1
 - Filemaker is struggling with *something* in one of the lines. A chunk of data goes missing - around 1.5 records. I can't see anything wrong with the format in Sublime, VSCode, and SQLite imports just fine.
   - I've lost 83 records to a bug
   - Suspect this is a characterset problem and Filemaker is just failing
-  - Will re-try import after pushing through SQLite to clean
+  - Will re-try import after pushing through SQLite to clean (see [run 2](#run-2))
 - LOTS of problems with nomenclature. I've taken the ruling that changes must be >30 years prior to the general date of records in order to be blindly accepted. This is imprecisely applied as I don't have a tool to do so.
 - Understandings are being assigned *in the absence of knowing the determiner*. Attempting to do otherwise is
     - incorrect
@@ -13,7 +21,7 @@ Notes from the processing of imported data
     - liable to error
 - There's a record of *Holopyga ovata* from 2022. This name was retired in 2015!
     - 34921202 Who is responsible for this record?
-    - Hasn't been *seen* fot ~100 years, name should be long dead & retired
+    - Hasn't been *seen* for ~100 years, name should be long dead & retired
 - 207 records of *Bombus lucorum*, the vast majority of which are post 2008 split.
 - *Pemphredon morio* records are in a terrible situation with nomenclature. Lots of non-morio being added in, should be *P. lugubris* as per a change in 1995!!
 - There is a *lot* of historic data in iRecord, which I *highly* doubt has any form of nomenclature control.
@@ -43,7 +51,9 @@ Notes from the processing of imported data
 - Rate is near enough 10% loss to nomenclatural confusion
 
 ## Run 2
-Assumed no info on submitter (i.e. blind assessment) or examination of verification status
+Assumed no info on submitter (i.e. blind assessment) or examination of verification status. Breakdown in much greater detail now that known-and-avoidable 'technical' i.e. non-recording errors have been removed.
+
+Order is 'as encountered' in the Checker.
 
 This run is done as:
 - Raw iRecord CSV output imported into SQLite
@@ -254,6 +264,7 @@ WHERE rank = 'Species'
 
 ### Results
 - 2,961 records rejected
+- 9.6 % rejection based on nomenclatural confusion
 - Five technical failures
     - One caused by the Checker
     - One caused by poor data
@@ -262,3 +273,8 @@ WHERE rank = 'Species'
 - 32 un-assignable taxa
 - 12 assignable taxa
     - Some assigned Understandings resolve to aggregates
+- Some problematic Understandings in the BWARS dictionary
+    - Known about them for a while
+    - Not a massive problem to current userbase but needs fixing
+    - Fix is waiting on dev time to finish and implement `NoNomS` package in BWARS database
+- No date errors

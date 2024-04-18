@@ -1,5 +1,5 @@
 # Import notes
->There are errors and workarounds through here. Any difference in values compared to the breakdown are due to the accidental inclusion of data with >10,000 accuracy in this segment.
+>There are errors and workarounds through here. Any difference in values compared to the breakdown are due to the accidental inclusion of data with >10,000 accuracy in this segment. This was made harder by the fact that output grid references from iRecord cross various datums, and the output is the least useful of all.
 
 This document outlines the processing of the iRecord dataset of ||through the BWARS Checker. The Checker is responsible for checking the `core` attributes of a record:
 
@@ -26,6 +26,7 @@ A place to put feedback
 - Attribute names should to be `snake_case` to make data handling far easier than needing to encapsulate almost every variable name
 - CSV format settings should be present on the download page. They're default standards, but having someone actually follow the rules is a surprise by itself!
 - Some words used as attributes are reserved words in databases, especially `order`. No easy way out, but worth noting.
+- Spatial system is honestly a hot mess. Too many options, too much flex, not enough breakdown of output. Highly recommend converting GR to Easting/Northing/Precision/Datum to vastly aid in consumption of data. I want to ignore all incoming data with >10,000m precision in datum 27700 (OSGB), but I can't as there's no way to do so. I have to *re-convert* grid refs to do so, which I can only do because I wrote a library for it ages back.
 
 |||
 |---|---|

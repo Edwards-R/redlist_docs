@@ -1,4 +1,6 @@
 # Import notes
+>There are errors and workarounds through here. Any difference in values compared to the breakdown are due to the accidental inclusion of data with >10,000 accuracy in this segment.
+
 This document outlines the processing of the iRecord dataset of ||through the BWARS Checker. The Checker is responsible for checking the `core` attributes of a record:
 
 - What

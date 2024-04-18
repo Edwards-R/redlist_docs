@@ -17,8 +17,20 @@ Species rank
 A place to put feedback
 
 - Timestamp format is annoying to use. It's not YYYY-MM-DD HH:MM:SS, so attempting to sort on it just doesn't work.
+- Significant cause for caution here. Applications will read this timestamp in whatever setting is their 'default' - which could well be Americanised dates!
 - Attempting to export 'all' data resulted in a timeout on the connection. I had to break it up into multiple chunks to get the data out. I suspect this is because the export function is running a `SELECT` rather than `COPY` based on what I've ended up doing with the BWARS database. `SELECT` took 100x longer than `COPY` and used *far* less resources to implement.
 - The notifications prompting to download the file place the newest at the bottom. Took me a second to realise that the page had gotten longer and the new requests were off the page. Putting the newest at the top of the list would probably help in comprehension.
+- There seems to be a mix of Linux and Windows new lines inside the actual data, which is preventing easy import to postgres?
+- Attribute names should to be `snake_case` to make data handling far easier than needing to encapsulate almost every variable name
+- CSV format settings should be present on the download page. They're default standards, but having someone actually follow the rules is a surprise by itself!
+- Some words used as attributes are reserved words in databases, especially `order`. No easy way out, but worth noting.
+
+|||
+|---|---|
+|Delimiter|`,`|
+|Quote|`"`|
+|Escape|`"`|
+|Null||
 
 ## Run 1
 - All iRecord data
@@ -31,9 +43,7 @@ Input: 398,952 records
 
 All data pre-processed and then processed. Took a few hours, so was left overnight.
 
-*Andrena fulva* was manually assigned as a known & automatable failure of the Checker (7,838 records).
-
-
+*Andrena fulva* was manually assigned as a known & automatable failure of the Checker (7,838 records). The failure is beacuse the Checker is performing substring matching on the input name, and *Andrena fulva* is a substring of *Andrena fulvago*.
 
 |Result||
 |---|---|
@@ -48,11 +58,11 @@ All data pre-processed and then processed. Took a few hours, so was left overnig
 |Species not present in Checker|236|
 
 ### Discussion
-Firstly, records may fail on multiple attributes. As such, the sum of reasons for failure will not always add up to the total of failures.
+Firstly, records may fail on multiple attributes. As such, the sum of reasons for failure will not always add up to the total of failures. By *far* the highest source of error was nomenclature.
 
 The Checker is not capable of handing subgrid (i.e. AA0000X) grid references. So few such records reach BWARS that development of this functionality was simply not considered important. The usage of tetrad grid references in the age of handheld GPS devices is very uncommon in Aculeate recording.
 
-Gridref/VC match not found relates to records which are placed in the sea. The Checker has a list of all grid references for terrestrial GB, CI, and IE to which it compares every record. If the grid reference (at 10km or 1km resolution, whichever is present and finer) does not exist in this list then the check fails. There are a few cases where this failure is incorrect, but very few.
+Gridref/VC match not found relates to records which are placed in the sea. The Checker has a list of all grid references for terrestrial GB, CI, and IE to which it compares every record. If the grid reference (at 10km or 1km resolution, whichever is present and finer) does not exist in this list then the check fails. There are a few cases where this failure is incorrect, but very few. Out of the ~400,000 records presented to the Checker, 131 failures is around what is expected for a false negative (i.e. 'Test says it's wrong, but it is in fact correct') in this metric.
 
 The species not present in the Checker are:
 |Input taxon|Notes|
@@ -61,7 +71,7 @@ The species not present in the Checker are:
 |Hylaeus dilatatus [Genus inferred]|Incorrectly formed name|
 |Nomada glabella sensu Stöckhert nec Thomson, 1870|Non-standard|
 |Formica picea [Genus inferred]|Incorrectly formed name|
-|Vespa orientalis|Assumed misident|
+|Vespa orientalis|Assumed misident?|
 |Linepithema iniquum|Tramp ant group|
 |Sceliphron caementarium|New arrival tramp species|
 |Megachile parietina|Assumed misident|

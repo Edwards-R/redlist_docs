@@ -75,7 +75,7 @@ async fn taxa_distribution(pool:&Pool<Postgres>) -> Result<(), sqlx::Error> {
 
     println!("Other bee records: {}", row.0);
 
-    // Social (Crabronidae) wasp records
+    // Crabronidae wasp records
     row = sqlx::query_as("SELECT count(sm.*)
     FROM sur_mat sm
     JOIN nomenclature.species s on sm.tik = s.id
@@ -86,7 +86,7 @@ async fn taxa_distribution(pool:&Pool<Postgres>) -> Result<(), sqlx::Error> {
     .bind("Crabronidae")
     .fetch_one(pool).await?;
 
-    println!("Social wasp records: {}", row.0);
+    println!("Crabronid wasp records: {}", row.0);
     
     // Other wasp records
     row = sqlx::query_as("SELECT count(sm.*)

@@ -32,15 +32,17 @@ The following is a transcription of actions/problems as-encountered and is fairl
     - Gone back and corrected these to 18, most people won't look at the VC and will just go by GR, so not really fair to 'fail' these for this.
     - Worth bringing up as a QA measure for iRecord though?
     - **Solved**. It's the Checker failing to handle an invalid VC Number. The 'actual' input is: `16 | 18`, which is not a valid VC number. Absolutely worth feedback to BRC on.
+    - > This turns out to be data that *others* have added while training. Certainly has done a lot to capture a range of weird values!
 - A fair number of 'subgrid' grid references present e.g. `TQ28G`
     - These should not be present in the 'standard' export I think as they are an addendum?
     - Certainly makes processing GRs harder, but that might be a limitation of my checking.
     - Won't count these as failures but probably shouldn't be done
 - *Anteon jurineanum agg* First time ever seeing this! BWARS doesn't even have an *agg* for it in the system!
 - `~ 49.2N 2.3W` entered as a grid reference. This should *absolutely* not happen! Feedback on this.
-    - There should be a post-processing grid reference separate from provided, unless grid references are not supposed to be used in which case why provide them?
-    - The i_ for input and o_ for output notations works very well for the Checker. needs a 'friendlier' look, but worth looking at
-    - FAR too many multi-word headers make this data hellish to work with in code. Use `snake_case`.
+    - Feedback is that this is data from other people's input, but I'm still confused as to how this got through. I mean, I *can* throw it all into postGIS and convert datums into a unified format, but it'd be nice if I didn't *have* to.
+- There should be a post-processing grid reference separate from provided, unless grid references are not supposed to be used in which case why provide them?
+- The i_ for input and o_ for output notations works very well for the Checker. needs a 'friendlier' look, but worth looking at
+ - FAR too many multi-word headers make this data hellish to work with in code. Using `snake_case` for attributes would be a decent solution - it's a very widely accepted default standard.
 
 ### Results
 - This is the run where Filemaker panicked and dropped 83 records

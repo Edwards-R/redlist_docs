@@ -22,7 +22,7 @@ How many records passed the Checker
 ### Checker failure reason
 > Records may fail on multiple attributes
 
-By far the most common cause of failure is the inability to assign a binomial to an Understanding (14.1%). This failure is directly equivalent to an inability to confidently assign the record to a Type, mkaing the record impossible to use without further analysis.
+By far the most common cause of failure is the inability to assign a binomial to an Understanding (14.1%). This failure is directly equivalent to an inability to confidently assign the record to a Type, making the record impossible to use without further analysis.
 
 |Reason|Records|Percentage|
 |---|---|---|
@@ -51,12 +51,13 @@ Verification status 1 is of no use to BWARS as it does not provide sufficient in
 The low number of 'incorrect' records is due to the difficulty in making a definitive 'no' answer. Records are far more likely to fall into 'plausible' category as accurately identifying incorrect data points, especially in the absence of critical information, is very hard to do.
 |Status|Records|Percentage|
 |---|---|---|
-|Correct|91,207|31.2%|
-|Considered correct|105,568|36.1%|
-|Plausible|91,207|31.2%|
-|Unable to verify|1,916|0.7%|
-|Incorrect|559|0.2%|
-|Not reviewed|88,442|30.2%|
+|Correct|102,835|25.8%
+|Considered correct|124,711|31.2%
+|Plausible|6,435|1.6%
+|Unable to verify|2,275|0.6%
+|Incorrect|598|0.1%
+|Not reviewed|103,316|25.9%
+|*Status not used*|58,935|14.8%
 
 ## Threshold for use
 The criteria for acceptance into the BWARS database is that `a record must have been identified by a person known to be capable of identifying that taxa`. In the absence of checking individual determiner names, the only way to extract such information from the iRecord dataset is to use the verification status `Correct`. This is the only status which requires that the verifier has seen the individual record in question, and agrees that the record is valid. There will still be some level of error, but the level should, if all is proceeding correctly, be comparable to the level of accuracy found in BWARS.
@@ -87,14 +88,14 @@ There are 52,441 records which are directly found in both the BWARS database and
 ### Verification status of overlap
 Attempting to obtain exact figures for overlap is impossible without fully converting the iRecord dataset to simple unique record. None the less, it is possible to get an appropriate estimate (within compression + 3%).
 
-Note that some inflation of numbers is expected to happen here as including the verification status from the iRecord data will diminish the power of the simple unique record routine to condense data.
+This section examines the percentage overlap, of all processed iRecord records, to the BWARS simple unique record dataset. Note that some inflation of numbers is expected to happen here as including the verification status from the iRecord data will diminish the power of the simple unique record routine to condense data.
 
 The results suggest that BWARS is managing to source iRecord data from far more non-photographic records than photographic recorders. This result is in line with expectations, as non-photographic records tend to be far higher in skill than photographic recorders.
 
 |Verification status|Records|Percentage|
 |---|---|---|
 |Correct|9,889|19.7%|
-|Verified, not correct|26,874| 53.5%|
+|Verified, other than correct|26,874| 53.5%|
 |Not verified| 13,506|26.9%|
 
 ### Shortlist of available records

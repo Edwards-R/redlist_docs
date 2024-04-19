@@ -18,15 +18,16 @@ Species rank
 ## Feedback
 A place to put feedback
 
-- Timestamp format is annoying to use. It's not YYYY-MM-DD HH:MM:SS, so attempting to sort on it just doesn't work.
+- Timestamp format is annoying to use. It's not YYYY-MM-DD HH:MM:SS, so attempting to sort on it (without converting to timestamp in postgres) just doesn't work.
 - Significant cause for caution here. Applications will read this timestamp in whatever setting is their 'default' - which could well be Americanised dates!
-- Attempting to export 'all' data resulted in a timeout on the connection. I had to break it up into multiple chunks to get the data out. I suspect this is because the export function is running a `SELECT` rather than `COPY` based on what I've ended up doing with the BWARS database. `SELECT` took 100x longer than `COPY` and used *far* less resources to implement.
+- Attempting to export 'all' data resulted in a timeout on the connection. I had to break it up into multiple chunks to get the data out. I suspect this is because the export function is running a `SELECT` rather than `COPY` based on what I've ended up doing with the BWARS database. `SELECT` took 100x longer than `COPY` and used *far* less time to complete. No idea how that would get applied to a web service.
 - The notifications prompting to download the file place the newest at the bottom. Took me a second to realise that the page had gotten longer and the new requests were off the page. Putting the newest at the top of the list would probably help in comprehension.
-- There seems to be a mix of Linux and Windows new lines inside the actual data, which is preventing easy import to postgres?
-- Attribute names should to be `snake_case` to make data handling far easier than needing to encapsulate almost every variable name
+- ~~There seems to be a mix of Linux and Windows new lines inside the actual data, which is preventing easy import to postgres?~~ Nope, just me being dumb and not setting the import settings back (the file is `"` escaped, not `'`)
+- Attribute names should to be `snake_case` to make data handling far easier than needing to encapsulate almost every variable name. That got old pretty fast and made auto-complete painfully useless.
 - CSV format settings should be present on the download page. They're default standards, but having someone actually follow the rules is a surprise by itself!
-- Some words used as attributes are reserved words in databases, especially `order`. No easy way out, but worth noting.
-- Spatial system is honestly a hot mess. Too many options, too much flex, not enough breakdown of output. Highly recommend converting GR to Easting/Northing/Precision/Datum to vastly aid in consumption of data. I want to ignore all incoming data with >10,000m precision in datum 27700 (OSGB), but I can't as there's no way to do so. I have to *re-convert* grid refs to do so, which I can only do because I wrote a library for it ages back.
+- Some words used as attributes are reserved words in databases, especially `order` and `precision`. No easy way out, but worth noting. I just changed the taxonomy to `tax_X` attributes and `precision` to `accuracy`.
+- I'd appreciate a heavier breakdown of the output spatial data. OSGB is fine, but textual grid references (e.g. AA0000) are amazingly painful to work with. A breakdown to numerical format (I call it 'ENAD' - Easting Northing Accuracy Datum) is really useful. I can find things north of a certain line, records with a certain resolution etc. I can only do that on the input grid reference, which is the least useful to me as it's non-standard/pre-processing.
+- 0.3% error rate when consuming data, if Understandings are taken out of the picture. 0.1% when then removing weird quirks of the UKSI. 0.0% if I then remove the tetrad records. Impressed is an *understatement*.
 
 |||
 |---|---|

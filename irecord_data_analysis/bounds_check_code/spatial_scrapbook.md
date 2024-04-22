@@ -79,3 +79,41 @@ Well. That's something. BIG difference between Matt and Stuart.
 |James Power|1,044|0|0.0%|
 
 James's verifications will also be on primarily Sussex data which, being in the south, isn't that interesting range-wise.
+
+## Is northward range causing the errors?
+Are there more range errors as the northing goes up?
+
+>Ants won't be part of this to anywhere near the same extent and so are mainly removed. Mike Fox's verification are removed as a shortcut to 'most ant records'.
+
+### Query
+```
+SELECT northing, count(*)
+FROM bwars_redlist.range_checked_mat
+WHERE spatial_check = FALSE
+AND ver_2 = 'Correct'
+AND verifier != 'Fox, Mike'
+GROUP BY northing
+ORDER BY northing asc
+```
+
+### Results
+Maybe?
+
+Errors seem to be more common towards the north, *slightly*. However, this is overshadowed by 'specific events' in the graph. Northing 132,050 has 44 failures. 748,600 has 76 errors, with a large cluster around it.
+
+## Northing 748,600
+Run this past Mike.
+
+This is from a survey run by 'Anand Prasad', Matt Smith is down as determiner on a couple of these.
+
+### Query
+```
+SELECT id, b.binomial, osgr_to_gridref(easting, northing, accuracy, datum) gridref, lower_date, upper_date,
+verifier, ver_2
+FROM bwars_redlist.range_checked_mat m
+JOIN nomenclature.binomial b on m.r_nik = b.tik
+WHERE spatial_check = FALSE
+AND ver_2 = 'Correct'
+AND verifier != 'Fox, Mike'
+AND northing = 748600
+```

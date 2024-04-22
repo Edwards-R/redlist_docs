@@ -49,6 +49,11 @@ Verification status 1 is of no use to BWARS as it does not provide sufficient in
 
 ### Verification status 2 breakdown
 The low number of 'incorrect' records is due to the difficulty in making a definitive 'no' answer. Records are far more likely to fall into 'plausible' category as accurately identifying incorrect data points, especially in the absence of critical information, is very hard to do.
+
+Records typically pass through one of two streams. The first stream is where the verifier trusts the originator of a dataset to be accurate. This dataset will then be assigned `Considered correct`. The second stream is where a verifier examines and assesses individual records one-by-one. This scenario is the only one whereby a record can reach `Correct`. There is no way to know whether a rejected record (`Plausible` or `Unable to verify`) was sourced from bulk-processing or individual examination.
+
+From examination of the ratio of `Considered correct` to `Plausible` and `Unable to verify` data, it seems that verifiers do not attempt to verify non-photographic data unless they have prior connection to the originator which they can use as a basis for assessment. As such, records marked as `Plausible`, `Unable to verify`, and `Incorrect` stem from the assessment of individual records.
+
 |Status|Records|Percentage|
 |---|---:|---:|
 |Correct|102,835|25.8%
@@ -90,7 +95,7 @@ Attempting to obtain exact figures for overlap is impossible without fully conve
 
 This section examines the percentage overlap, of all processed iRecord records, to the BWARS simple unique record dataset. Note that some inflation of numbers is expected to happen here as including the verification status from the iRecord data will diminish the power of the simple unique record routine to condense data.
 
-The results suggest that BWARS is managing to source iRecord data from far more non-photographic records than photographic recorders. This result is in line with expectations, as non-photographic records tend to be far higher in skill than photographic recorders.
+The results suggest that BWARS is managing to source iRecord data from far more non-photographic recorders than photographic recorders. This result is in line with expectations, as non-photographic recorders tend to be far higher in skill than photographic recorders.
 
 |Verification status|Records|Percentage|
 |---|---:|---:|
@@ -146,3 +151,43 @@ The result highlights the paucity of data on the very hard-to-identify taxa.
 |4|1,262|298
 |5|335|48
 |6|2|0
+
+### iRecord difficulty distribution by verification status 2
+Due to space constraints, abbreviations have been used for iRecord's `verification status 2` attribute. The abbreviations are as follows:
+
+|Abbreviation|Full|
+|---|---|
+|C|Correct|
+|CC|Considered correct|
+|P|Plausible|
+|U|Unable to verify|
+
+There is a lot of information contained in this result. On speaking with verifiers, there is considerable bias towards using `Plausible` over `Unable to verify` when a record is plausible but cannot be verified.  Considering this, it is clear that difficulty 3 & 4 taxa are considerably harder to verify
+
+|Difficulty|All|C|CC|P|U|
+|---|---:|---:|---:|---:|---:|
+|1|159,339|40,702|51,147|911|469
+|2|47,747|16,755|14,205|505|274
+|3|54,923|13,579|15,572|1,109|309
+|4|56,003|14,188|17,295|1,483|611
+|5|15,511|3,099|5,423|629|173
+|6|0|0|0|0|0 
+
+## iRecord Verifiers & Rules
+There are 252,671 verified records with a verifier's name against them in iRecord. Of these, 127,198 (50.3%) have been verified by one person. A further 80,430 records (31.8%) have been verified by a different person. Both of these verifiers have been following the BWARS verification rules since their creation. These rules differ slightly from the iRecord ruleset for `correct` and `considered correct` as follows:
+
+### iRecord
+
+|Status|Explanation|
+|---|---|
+|*Correct*|The verifier is able to confirm that the species has been identified correctly, usually on the basis of photo/s within iRecord (or specimen/s outside iRecord)|
+|*Considered correct*|The verifier has not seen photo/s or specimen/s but has a high degree of confidence that the record is likely to be correct, based on difficulty of ID, date, location and recorder skills/experience etc.|
+
+### BWARS
+|Status|Explanation|
+|---|---|
+|*Correct*|The verifier has examined the individual record and is confident that the determination is correct|
+|*Considered correct*|The verifier has *not* examined the individual record, but trusts the origin of the record enough to accept the record|
+
+### Custom rules
+There are also situations in which the verifier simply makes up their own rules. The third most prolific verifier in the system (8,583 records, 3.4%) is such a person.

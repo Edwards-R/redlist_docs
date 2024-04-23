@@ -71,9 +71,9 @@ Well. That's something. BIG difference between Matt and Stuart.
 |Stuart|38,593|991|2.6%|
 |Matt|31,287|1,028|3.3%|
 |Charlotte|4,792|92|1.9%|
-|Mike F*|3,195|217|6.79%|
-|Dave Jones|2,300|86|3.74%|
-|Stephen Boulton|1,855|69|3.72%|
+|Mike F*|3,195|217|6.8%|
+|Dave Jones|2,300|86|3.7%|
+|Stephen Boulton|1,855|69|3.7%|
 |Ben Hargreaves|1,781|79|4.4%|
 |Ryan Clark|1,212|19|1.6%|
 |James Power|1,044|0|0.0%|
@@ -104,7 +104,7 @@ Errors seem to be more common towards the north, *slightly*. However, this is ov
 ## Northing 748,600
 Run this past Mike.
 
-This is from a survey run by 'Anand Prasad', Matt Smith is down as determiner on a couple of these.
+This is from a survey run by 'Anand Prasad', Matt Smith is down as determiner on a couple of these, as is Murdo. These are quite probably correct, and their 'error' is just due to the low volume of data we get from that area.
 
 ### Query
 ```
@@ -117,3 +117,30 @@ AND ver_2 = 'Correct'
 AND verifier != 'Fox, Mike'
 AND northing = 748600
 ```
+
+## Northing 132,050
+This is just *Apis mellifera* (nik: 646) data. Going to ignore that from now on because we simply don't care about livestock.
+
+## Further exploration
+
+### Query
+```
+SELECT m.id, b.binomial, i.recorder, i.determiner, osgr_to_gridref(easting, northing, m.accuracy, datum) gridref,
+m.lower_date, m.upper_date,
+m.verifier, ver_2
+FROM bwars_redlist.range_checked_mat m
+JOIN nomenclature.binomial b on m.r_nik = b.tik
+JOIN bwars_redlist.all_irec_formatted i ON m.id=i.id
+WHERE spatial_check = FALSE
+AND ver_2 = 'Correct'
+AND m.verifier != 'Fox, Mike'
+AND northing = 299600
+AND r_nik !=646
+```
+
+### Findings
+*B. vestalis* in Edinburgh in 2017? Photo is not enough to ID. Range checker throws this out definitively.
+
+Perhaps looking at the major events is the wrong way around? Major events seems to be from a recorder simply going somewhere 'new' and recording (or Apis, which we removed from consideration). It would make *sense* that these errors are far more dispersed.
+
+# Considered correct data

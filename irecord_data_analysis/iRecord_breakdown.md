@@ -174,7 +174,7 @@ There is a lot of information contained in this result. On speaking with verifie
 |6|0|0|0|0|0 
 
 ## iRecord Verifiers & Rules
-There are 252,671 verified records with a verifier's name against them in iRecord. Of these, 127,198 (50.3%) have been verified by one person. A further 80,430 records (31.8%) have been verified by a different person. Both of these verifiers have been following the BWARS verification rules since their creation. These rules differ slightly from the iRecord ruleset for `correct` and `considered correct` as follows:
+There are 252,671 verified records with a verifier's name against them in iRecord. Of these, 127,198 (50.3%) have been verified by one person. A further 80,430 records (31.8%) have been verified by a different person. The exact ruleset that these two people have been using has, according to conversation with them, varied over time. This variance has also included adherence to a 'BWARS accepted' verification score system. The BWARS rules differ slightly from the iRecord ruleset for `correct` and `considered correct` as follows:
 
 ### iRecord
 
@@ -191,3 +191,9 @@ There are 252,671 verified records with a verifier's name against them in iRecor
 
 ### Custom rules
 There are also situations in which the verifier simply makes up their own rules. The third most prolific verifier in the system (8,583 records, 3.4%) is such a person.
+
+## Verification status breakdown
+The range of approaches to verification in iRecord causes significant challenge to their ability to be peer reviewed. It is at this point that 'invisible' errors - those which cannot be found without repeating the verification of the entire dataset - come to the front. Finding [incorrect Correct](./glossary.md#incorrect-correct-error) records which have photos is only possible to do through human examination of individual records.
+
+>Notes to self
+> Check how many records are there without photos but in `correct`.

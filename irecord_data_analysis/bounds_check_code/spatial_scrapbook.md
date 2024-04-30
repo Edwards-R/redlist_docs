@@ -184,3 +184,11 @@ is termed a `Review-determination error`.
 The rate of `Invalid Correct error` occurrence was far higher than hoped. Somewhere around 20% on a sample of ~ 40 records. This error will be examined in greater detail where possible i.e. 'record has correct but no photos present', then a random sample examined.
 
 The rate of `Review-determination error` occurrence was also high, though the distinction between this and an `invalid Correct error` was not made until some time into the analysis. Approximately 5% of the sample of 40 records were identified as review-determination errors, though it should be noted that there were searches being performed as part of this that may well have biased the result significantly in favour of finding such errors.
+
+### S falk
+Any change in post 2015/2016 bee records? Falk book was published now.
+
+Haven't been able to detect any. Biggest problem is that this time period is in iRecord's major expansion phase, so impossible to tell.
+
+## Incorrect Correct examination
+The view `bwars_redlist.wrong_correct_timestamps` can be used to identify and remove verifications which have >2 counts of the same verifier with the same timestamp, to the nearest second. It is presumed that these are records where a verifier has applied `Correct` to a record without examining that record.

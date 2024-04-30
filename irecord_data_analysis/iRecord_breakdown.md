@@ -195,5 +195,51 @@ There are also situations in which the verifier simply makes up their own rules.
 ## Verification status breakdown
 The range of approaches to verification in iRecord causes significant challenge to their ability to be peer reviewed. It is at this point that 'invisible' errors - those which cannot be found without repeating the verification of the entire dataset - come to the front. Finding [incorrect Correct](./glossary.md#incorrect-correct-error) records which have photos is only possible to do through human examination of individual records.
 
->Notes to self
-> Check how many records are there without photos but in `correct`.
+## Misapplication of Correct
+Under iRecord rules, records which are placed as `Correct` should have photos attached. Under BWARS rules, a photo *can*, under very specific circumstances, be marked as `Correct` without a photo. However, these records are very few and far between, applying to very few taxa. These taxa are ones which exhibit distinctive behavioural patterns in the absence of potential confusions and should be readily identifiable from the data.
+
+This table shows the number of records marked as `Correct`, followed by the subset of these without accompanying photos.
+
+|||
+|---|---:|
+|Correct|106,579|
+|Correct with no images|11,425|
+
+### Multi-record processing
+Further examination of the 'Correct with no images' data paints a picture of misapplication of both the BWARS and iRecord scoring rulesets. It appears fairly common, on a verifier-by-verifier level, to apply the Verification Status 2 ranks (Correct, Considered Corrrect, Plausible, Unable to verify, Incorrect) as pure confidence ranks based on any set of characteristics. `Correct` has also been used as a status for processing records without examination of individual records, as evidenced by multiple records existing with identical timestamps in the `verified_on` attribute. There are a minimum of 738 occurrences of multi-record verifications which can be confidently found (matching `verified_on` attribute with >2 records), for a total of 9,317 records.
+
+### Most common misapplied taxa
+The following are the 10 most common taxa to be verifier as `Correct`, without being part of multi-record processing. The table has been subsetted as follows:
+
+- Removal of verifiers known to have not followed either the BWARS *or* iRecord scoring protocols (2 verifiers)
+- Removal of non OSGR records (to restrict to GB data as much as possible without requiring geospatial searching)
+- Verification status 2 of `Correct`
+- No images attached to record
+- Verification not previously identified as being part of a multi-record processing step (threshold of 2)
+
+|Taxon|# records|
+|---|---:|
+|Colletes hederae|197
+|Vespa crabro|112
+|Bombus pascuorum|100
+|Bombus terrestris|89
+|Bombus hypnorum|85
+|Bombus lapidarius|58
+|Bombus pratorum|46
+|Apis mellifera|44
+|Anthophora plumipes|42
+|Bombus lucorum|29
+
+### Causes of error
+The major cause of misapplied `Correct` records is non-adherence to rules. From the 104,340 `Correct` GB records, 10,700 did not have images. Of these 10,700 records, the breakdown is:
+
+|Group|# records|
+|---|---:|
+|Multi-record processing|8,764|
+|Verifier used custom ruleset|575|
+|Unknown reason/potential BWARS rulest|1,377|
+
+> NB: Records may fail on multiple accounts, combinations may not match the total
+
+## Verification Status 1 vs Verification Status 2
+Two different sets of verification statuses exist within iRecord. These are referred to in the data as `verification status 1` and `verification status 2`.

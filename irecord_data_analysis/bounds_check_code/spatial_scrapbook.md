@@ -192,3 +192,32 @@ Haven't been able to detect any. Biggest problem is that this time period is in 
 
 ## Incorrect Correct examination
 The view `bwars_redlist.wrong_correct_timestamps` can be used to identify and remove verifications which have >2 counts of the same verifier with the same timestamp, to the nearest second. It is presumed that these are records where a verifier has applied `Correct` to a record without examining that record.
+
+### How many wrong corrects are ver_status_1 only?
+
+Only 95? Weird
+
+Oh no, that's cos of the preselections. Lets find out how multi-record verification is being used.
+
+## Multi-record verifications
+```
+CREATE VIEW bwars_redlist.all_multi AS
+WITH counts AS (
+    SELECT all_irec_formatted.verifier,
+        all_irec_formatted.verified_on,
+    count(*) AS count
+    FROM bwars_redlist.all_irec_formatted
+    GROUP BY all_irec_formatted.verifier, all_irec_formatted.verified_on
+    ORDER BY (count(*)) DESC
+)
+SELECT counts.verifier,
+counts.verified_on
+FROM counts
+WHERE counts.count > 2;
+```
+
+24,774 'multi-record' occurrences
+
+Well. Uh no. Looks like this whole thing doesn't work. Ben Hargreaves has never used multi-record verification and yet is 'found' by this system as being a prevalent user of them.
+
+Yup, `verified_on` is not being passed back as a timestamp of individual records. That's... weird.

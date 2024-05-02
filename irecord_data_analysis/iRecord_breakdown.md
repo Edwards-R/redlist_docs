@@ -206,40 +206,33 @@ This table shows the number of records marked as `Correct`, followed by the subs
 |Correct with no images|11,425|
 
 ### Multi-record processing
-Further examination of the 'Correct with no images' data paints a picture of misapplication of both the BWARS and iRecord scoring rulesets. It appears fairly common, on a verifier-by-verifier level, to apply the Verification Status 2 ranks (Correct, Considered Corrrect, Plausible, Unable to verify, Incorrect) as pure confidence ranks based on any set of characteristics. `Correct` has also been used as a status for processing records without examination of individual records, as evidenced by multiple records existing with identical timestamps in the `verified_on` attribute. There are a minimum of 738 occurrences of multi-record verifications which can be confidently found (matching `verified_on` attribute with >2 records), for a total of 9,317 records.
-
-### Most common misapplied taxa
-The following are the 10 most common taxa to be verifier as `Correct`, without being part of multi-record processing. The table has been subsetted as follows:
-
-- Removal of verifiers known to have not followed either the BWARS *or* iRecord scoring protocols (2 verifiers)
-- Removal of non OSGR records (to restrict to GB data as much as possible without requiring geospatial searching)
-- Verification status 2 of `Correct`
-- No images attached to record
-- Verification not previously identified as being part of a multi-record processing step (threshold of 2)
-
-|Taxon|# records|
-|---|---:|
-|Colletes hederae|197
-|Vespa crabro|112
-|Bombus pascuorum|100
-|Bombus terrestris|89
-|Bombus hypnorum|85
-|Bombus lapidarius|58
-|Bombus pratorum|46
-|Apis mellifera|44
-|Anthophora plumipes|42
-|Bombus lucorum|29
+Further examination of the 'Correct with no images' data paints a picture of misapplication of both the BWARS and iRecord scoring rulesets. It appears fairly common, on a verifier-by-verifier level, to apply the Verification Status 2 ranks (Correct, Considered Corrrect, Plausible, Unable to verify, Incorrect) as pure confidence ranks based on any set of characteristics. Unfortunately, there is no way to identify multi-record processings reliably, due to the timestamp only reaching minute resolution. However, 14 situations where the verifier has verified > 60 records-per-minute have been identified.
 
 ### Causes of error
-The major cause of misapplied `Correct` records is non-adherence to rules. From the 104,340 `Correct` GB records, 10,700 did not have images. Of these 10,700 records, the breakdown is:
-
-|Group|# records|
-|---|---:|
-|Multi-record processing|8,764|
-|Verifier used custom ruleset|575|
-|Unknown reason/potential BWARS rulest|1,377|
-
-> NB: Records may fail on multiple accounts, combinations may not match the total
+The major cause of misapplied `Correct` records is non-adherence to rules. From the 104,340 `Correct` GB records, 10,700 did not have images.
 
 ## Verification Status 1 vs Verification Status 2
-Two different sets of verification statuses exist within iRecord. These are referred to in the data as `verification status 1` and `verification status 2`.
+Two different sets of verification statuses exist within iRecord. These are referred to in the data as `verification status 1` and `verification status 2`. There have been issues in the past where records would be verified under `verification status 1` by one processing avenue and `verification status 2` by another avenue, all by the same verifier in the same session.
+
+
+### Number of records per year without `verification status 2`
+`NULL` records seem to refer to records which are 'incomplete' (`Input still in progress`), as well as a number of what I believe were test records?
+
+Despite the ability to use `verification status 1` being heavily reduced around 2020, someone *still* managed to find a way around that in 2023.
+
+|Year|# records|
+|---|---:|
+|2010|58
+|2011|63
+|2012|1089
+|2013|16851
+|2014|9215
+|2015|10323
+|2016|5372
+|2017|8543
+|2018|7894
+|2019|858
+|2020|38
+|2022|51
+|2023|1
+|NULL|663

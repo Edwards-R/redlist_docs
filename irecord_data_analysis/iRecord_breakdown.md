@@ -206,14 +206,10 @@ This table shows the number of records marked as `Correct`, followed by the subs
 |Correct with no images|11,425|
 
 ### Multi-record processing
-Further examination of the 'Correct with no images' data paints a picture of misapplication of both the BWARS and iRecord scoring rulesets. It appears fairly common, on a verifier-by-verifier level, to apply the Verification Status 2 ranks (Correct, Considered Corrrect, Plausible, Unable to verify, Incorrect) as pure confidence ranks based on any set of characteristics. Unfortunately, there is no way to identify multi-record processings reliably, due to the timestamp only reaching minute resolution. However, 14 situations where the verifier has verified > 60 records-per-minute have been identified.
-
-### Causes of error
-The major cause of misapplied `Correct` records is non-adherence to rules. From the 104,340 `Correct` GB records, 10,700 did not have images.
+Further examination of the 'Correct with no images' data paints a picture of misapplication of both the BWARS and iRecord scoring rulesets. It appears fairly common, on a verifier-by-verifier level, to apply the Verification Status 2 ranks (Correct, Considered Corrrect, Plausible, Unable to verify, Incorrect) as pure confidence ranks based on any set of characteristics. Unfortunately, there is no way to identify multi-record processings reliably, due to the timestamp only reaching minute resolution. However, 14 situations where the verifier has verified > 60 records-per-minute have been identified. It is considered very unlikely that a verifier can reach a rate of > 1 record verification per second.
 
 ## Verification Status 1 vs Verification Status 2
 Two different sets of verification statuses exist within iRecord. These are referred to in the data as `verification status 1` and `verification status 2`. There have been issues in the past where records would be verified under `verification status 1` by one processing avenue and `verification status 2` by another avenue, all by the same verifier in the same session.
-
 
 ### Number of records per year without `verification status 2`
 `NULL` records seem to refer to records which are 'incomplete' (`Input still in progress`), as well as a number of what I believe were test records?
@@ -236,3 +232,6 @@ Despite the ability to use `verification status 1` being heavily reduced around 
 |2022|51
 |2023|1
 |NULL|663
+
+## Summary
+There exists a pool of available data in iRecord, but the quality of said data is, despite a Herculean effort, still uncertain. A combination of factors from both the system and userbase contribute to this outcome.

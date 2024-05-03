@@ -200,6 +200,8 @@ Only 95? Weird
 Oh no, that's cos of the preselections. Lets find out how multi-record verification is being used.
 
 ## Multi-record verifications
+
+> ***This doesn't work***. Remember that we got annoyed at non-standard timestamps? Yeah. Those timestamps are minute only and not controlled by the database but something else. So they're useless for this purpose
 ```
 CREATE VIEW bwars_redlist.all_multi AS
 WITH counts AS (
@@ -221,3 +223,32 @@ WHERE counts.count > 2;
 Well. Uh no. Looks like this whole thing doesn't work. Ben Hargreaves has never used multi-record verification and yet is 'found' by this system as being a prevalent user of them.
 
 Yup, `verified_on` is not being passed back as a timestamp of individual records. That's... weird.
+
+## DoY checking
+
+Example query
+```
+WITH vars AS (
+SELECT
+	2 tolerance -- DoY tolerance permitted
+),
+
+rejection AS 
+(SELECT id, r_nik
+FROM vars, bwars_redlist.for_doy_check dc
+JOIN checker.doy_range dr ON dc.bound_year = dr.yr AND dc.r_nik = dr.tik
+WHERE (dc.lower_doy < (dr.lower_doy - tolerance)
+OR dc.upper_doy > (dr.upper_doy + tolerance))
+ AND r_nik != 646 -- Ignore Apis
+ AND (dc.upper_doy - dc.lower_doy) < tolerance -- Allow 2*tolerance* days between min and max dates
+)
+
+SELECT b.binomial, count(*)
+FROM rejection r
+JOIN nomenclature.binomial b ON r.r_nik = b.tik
+JOIN bwars_redlist.all_irec_formatted irec ON r.id = irec.id
+GROUP BY b.binomial
+ORDER BY count DESC
+```
+
+This is a complex one. DoY tolerance checking is *very* basic and clunky. Going to need to have a tolerance involved, but can't be too generous. 4 is I think reasonable? These are min/max after all, not anything smoothed. Might as well do a breakdown per tolerance, would be helpful to the Record Cleaner plans. BWARS uses 2 though, should we keep that?

@@ -1,7 +1,8 @@
-# iRecord data breakdown
+# Data Breakdown
+A documentation of examination into the iRecord data.
 
-## Data processing
-The following sections revolve around the intake of iRecord data to BWARS-standard format. There is no reference at all made to any verification status or verifier at this point.
+## Importing
+This section examines the number of records, the number of records which failed to pass the Checker, as well as their reason for failure.
 
 ### Pre-Checker
 How many records were pushed to the Checker
@@ -232,6 +233,3 @@ Despite the ability to use `verification status 1` being heavily reduced around 
 |2022|51
 |2023|1
 |NULL|663
-
-## Summary
-There exists a pool of available data in iRecord, but the quality of said data is, despite a Herculean effort, still uncertain. A combination of factors from both the system and userbase contribute to this outcome.

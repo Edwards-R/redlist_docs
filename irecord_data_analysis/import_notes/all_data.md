@@ -1,7 +1,7 @@
 # Import notes
 >There are errors and workarounds through here. Any difference in values compared to the breakdown are due to the accidental inclusion of data with >10,000 accuracy in this segment. This was made harder by the fact that output grid references from iRecord cross various datums, and the output is the least useful of all.
 
-This document outlines the processing of the iRecord dataset of ||through the BWARS Checker. The Checker is responsible for checking the `core` attributes of a record:
+This document outlines the processing of the iRecord dataset through the BWARS Checker. The Checker is responsible for checking the `core` attributes of a record:
 
 - What
 - Where

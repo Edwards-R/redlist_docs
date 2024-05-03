@@ -42,7 +42,8 @@ Records must have their lower and upper dates be within the tolerance of one ano
 |1|165|167|N|
 |2|1|366|N
 
-### Breakdown of rejections per taxon, all records
+### Breakdown of rejections per Understanding, all records
+A breakdown of where the rejections occur, per Understanding
 
 |Understanding|# rejections|
 |---|---:|
@@ -62,7 +63,7 @@ Records must have their lower and upper dates be within the tolerance of one ano
 |Bombus humilis: iso. Cameron et al: 2007|	45
 |Andrena fulva: iso. Perkins: 1919|	45
 
-## Breakdown per taxon, `Correct` only
+## Breakdown per Understanding, `Correct` only
 As above section, but using only `Correct` verification status 2 records.
 
 |Understanding|# rejections|
@@ -74,7 +75,7 @@ As above section, but using only `Correct` verification status 2 records.
 |Bombus pascuorum: iso. Cameron et al: 2007|	38
 |Bombus pratorum: iso. Cameron et al: 2007|	35
 |Vespula germanica: iso. Archer: 1989|	35
-|Anthophora plumipes: iso. Amiet et al: 2007|	27
+|Anthophora plumipes: iso. Amiet et al: 2007|	26
 |Andrena cineraria: iso. Perkins: 1919|	24
 |Andrena nitida: iso. Perkins: 1919|	23
 |Bombus sylvarum: iso. Cameron et al: 2007|	22
@@ -84,4 +85,15 @@ As above section, but using only `Correct` verification status 2 records.
 |Bombus vestalis: iso. Cameron et al: 2007|	16
 
 ## Discussion
-A
+
+### Human disturbance
+Of these, *Vespa crabro*, *Vespa vulgaris*, and *Vespula germanica* all hibernate in places which humans regularly disturb. Wood piles, chimneys etc. A quick sampling of records strongly suggests a pattern of disturbance, with many correspondants writing such.
+
+### *Bombus lapidarius*
+This taxon has been the subject of a previous project which looked at emergence. The project found that a great many people are misidentifying this taxon, which explains the large number of 'too-early' records.
+
+### *Bombus pratorum*/*pascuorum*
+Conversations with Mike Edwards suggests that the majority of these are the result of misidentification.
+
+### *Bombus sylvarum*
+A lot of suspicious records. Mike Edwards's comment was that this would be unusual to find on Hawthorne flowers in mid February.

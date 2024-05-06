@@ -252,3 +252,30 @@ ORDER BY count DESC
 ```
 
 This is a complex one. DoY tolerance checking is *very* basic and clunky. Going to need to have a tolerance involved, but can't be too generous. 4 is I think reasonable? These are min/max after all, not anything smoothed. Might as well do a breakdown per tolerance, would be helpful to the Record Cleaner plans. BWARS uses 2 though, should we keep that?
+
+## Rates of error
+
+```
+-- Find all records that are 'Correct' and non-Apis
+-- Query is larger than it 'needs' to be to keep things as comparable to the more complex one as possible,
+
+WITH vars AS (
+SELECT
+	2 tolerance -- DoY tolerance permitted
+),
+
+rejection AS 
+(SELECT id, r_nik
+FROM vars, bwars_redlist.for_doy_check dc
+JOIN checker.doy_range dr ON dc.bound_year = dr.yr AND dc.r_nik = dr.tik
+WHERE r_nik != 646 -- Ignore Apis
+
+)
+
+SELECT count(*)
+FROM rejection r
+JOIN nomenclature.binomial b ON r.r_nik = b.tik
+JOIN bwars_redlist.all_irec_formatted irec ON r.id = irec.id
+WHERE verification_status_2='Correct'
+ORDER BY count DESC
+```

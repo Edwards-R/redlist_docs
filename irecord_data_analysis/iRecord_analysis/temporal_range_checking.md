@@ -84,6 +84,41 @@ As above section, but using only `Correct` verification status 2 records.
 |Andrena fulva: iso. Perkins: 1919|	18
 |Bombus vestalis: iso. Cameron et al: 2007|	16
 
+## Breakdown per Understanding, `Considered correct` only
+As above section, but using only `Considered correct` verification status 2 records.
+
+|Understanding|# rejections|
+|---|---:|
+|Bombus lapidarius: iso. Cameron et al: 2007|	92
+|Vespula vulgaris: iso. Archer: 1989|	83
+|Vespa crabro: iso. Archer: 1989|	52
+|Bombus hypnorum: iso. Cameron et al: 2007|	29
+|Bombus pratorum: iso. Cameron et al: 2007|	29
+|Bombus pascuorum: iso. Cameron et al: 2007|	15
+|Anthophora plumipes: iso. Amiet et al: 2007|	15
+|Vespula germanica: iso. Archer: 1989|	14
+|Bombus hortorum: iso. Cameron et al: 2007|	14
+|Colletes hederae: iso. Schmidt & Westrich: 1993|	11
+|Lasius flavus: iso. Bolton & Collingwood: 1975|	11
+|Bombus sylvarum: iso. Cameron et al: 2007|	10
+|Dolichovespula sylvestris: iso. Archer: 1989|	10
+|Dolichovespula media: iso. Archer: 1989|	8
+|Andrena fulva: iso. Perkins: 1919|	7
+
+## Rates of error
+A comparison of % error between 'Correct', 'Considered correct', and 'Plausible'. We can see that photo-verifying incoming data drastically increases the accuracy, but that data from experienced sources is yet drastically better still. 
+
+|Grouping|All|Errors|% error|
+|---|---:|---:|---:|
+|Correct|85,845|1,022|1.2|
+|Considered correct|98,154|572|0.6|
+|Plausible|4,714|150|3.2|
+|Considered correct**|98,154|507|0.5|
+
+** 'Considered correct' with the two main verifiers who used 'verification status 2' as confidence-based removed.
+
+Comparison to BWARS is not possible at this point, since using BWARS data to check itself results in a perfect (meaningless) score.
+
 ## Discussion
 
 ### Human disturbance
@@ -97,3 +132,8 @@ Conversations with Mike Edwards suggests that the majority of these are the resu
 
 ### *Bombus sylvarum*
 A lot of suspicious records. Mike Edwards's comment was that this would be unusual to find on Hawthorne flowers in mid February.
+
+## Conclusion
+A *lot* more errors than expected, especially on taxa where errors *shouldn't* be found. Enough errors and warning signs to make me very cautious over using the data as a whole, given that this is the tip of the 'invisible iceberg' of 'wrong-but-can't-find-it' records. The underlying taxon distribution of records is so heavily weighted to very few taxa that attempting to understand rates of error in the less-common taxa very quickly reaches the point there there are not enough records to reach a supportable level of confidence in statistical approaches.
+
+Once again, it seems that photo-verification produces a very different set of results to expert identification, with 'Considered correct' data being higher quality than 'Correct'. The concern with utilising 'Considered correct' data is that records may be 'more' incorrect than those which have been examined by experts. Unfortunately there does not yet exist a tested and understood method to do such.

@@ -76,7 +76,7 @@ The compression rate for simple unique records on this subset of data is still l
 |91,207|88,990|2.4%|
 
 ## Scheme overlap
-There are 52,441 records which are directly found in both the BWARS database and iRecord. The 10 most common Understandings between the two are:
+There are 52,441 (15.9% of iRecord) records which are directly found in both the BWARS database and iRecord. The 10 most common Understandings between the two are:
 
 |Understanding|Records:|
 |---|---|
@@ -106,6 +106,8 @@ The results suggest that BWARS is managing to source iRecord data from far more 
 
 ### Shortlist of available records
 At this point, the total pool of available records for immediate harvest in iRecord sits at ~79,101 records. This figure is from the simple unique record (correct) dataset figure of 88,990, minus the overlap in correct records of 9,889.
+
+If verfiers which are known to have disobeyed the iRecord/BWARS verification guide are excluded, the pool decreases by approximately 2,600 records to ~76,600 'Correct', unique, non-overlap records.
 
 ## Identification difficulty
 This section examines the breakdown of 'id difficulty', as created by Mike Edwards. The data used for this were created for use in iRecord in 2013. This list has not been updated to Understandings, though the names have been converted using the Checker. The vast majority of nomenclature changes that cannot be automatically converted can be safely assigned to the highest difficulty. The assignment is based on the number of splits occurring that require highly detailed knowledge to identify being far greater than the number of simple 'new colonist' taxa.
@@ -233,3 +235,8 @@ Despite the ability to use `verification status 1` being heavily reduced around 
 |2022|51
 |2023|1
 |NULL|663
+
+## Conclusion
+An unexpectedly high rate of rejection was encountered when attempting to handle the conversion of binomials to binomial Understandings (14.1%). These rejections are almost entirely on the basis that the binomial cannot be resolved precisely to a type.
+
+iRecord appears to be acting as a mainly primary data source i.e. most records are submitted by the originator of the record rather than a third party. BWARS is the opposite, functioning as a tertiary data source. 15.9% of iRecord data was found to already exist in the BWARS dataset, predominantly (53.5%) from the 'Considered correct' stream. Attempting to condense the iRecord data down to pure occurrence based on what/where/when only results in a 3.5% reduction in records, whilst BWARS has a 26.5% compression rate. The likely explanation is that BWARS acts as a tertiary data source and requests data from people repeatedly, whilst iRecord acts as a primary data source and relies on users to input their data directly.

@@ -91,6 +91,11 @@ There are 52,441 (15.9% of iRecord) records which are directly found in both the
 |Andrena haemorrhoa: iso. Amiet et al: 2010|927
 |Vespa crabro: iso. Archer: 1989|828|
 
+### iRecord and BWARS userbase comparison
+BWARS data is almost exclusively from people who have spent significant time and effort to develop their identification skills. Where the data is not from this source, it has invariably passed through such a source before it will be accepted. Of these sources, a large amount of the records from from users who perform contracted surveys. Samples of which include development work and nature reserve assessments.
+
+Accuracy in aculeate hymenoptera identification is an *advanced* skill, as one of the requirements for accuracy is understanding the limitations of your knowledge. Such a level of skill development does not happen without significant time investment, which typically manifests as also producing large volumes of data. In turn, these large volumes of data get fed into a recording platform. Said platform can be anywhere from a handwritten fieldbook to dedicated recording platforms such as Recorder and iRecord. Such people are *highly* unlikely to submit photographic vouchers for every single record, simply due to the time and inconvenience that would cause. Their data therefore defaults to 'Considered correct', leading to the majority overlap residing in this particular verification category.
+
 ### Verification status of overlap
 Attempting to obtain exact figures for overlap is impossible without fully converting the iRecord dataset to simple unique record. None the less, it is possible to get an appropriate estimate (within compression + 3%).
 
@@ -130,6 +135,8 @@ In the case of sub-specialisations (e.g. '3 not males'), the additional informat
 ### Scheme difficulty comparison
 The main take away from this analysis is that iRecord data has a far higher weighting towards the 'easy to identify' taxa. Note that the iRecord dataset used here is 'all records which pass the Checker', so there is no subsetting to photo-identification records. The weighting reinforces the idea that iRecord and BWARS are capturing data from different sources. BWARS is capturing more 'advanced' users' data, whilst iRecord is capturing more 'beginner' data.
 
+Note that *Melecta albifrons* was considered difficulty 5 but, due to the probable extinction of potential confusion taxa, should now be considered difficulty 1. Verifiers have treated this taxon as difficulty 1 and photo-identifiable. Of the 15,511 difficulty 5 records, 1,252 (8.1%) are of *M. albifrons*.
+
 |Difficulty|BWARS|iRecord|
 |---|---:|---:|
 |1|168,351|159,339|
@@ -153,7 +160,10 @@ The result highlights the paucity of data on the very hard-to-identify taxa.
 |3|2,631|1,036
 |4|1,262|298
 |5|335|48
+|5**|335|44
 |6|2|0
+
+** Without *M. albifrons* data
 
 ### iRecord difficulty distribution by verification status 2
 Due to space constraints, abbreviations have been used for iRecord's `verification status 2` attribute. The abbreviations are as follows:
@@ -165,7 +175,9 @@ Due to space constraints, abbreviations have been used for iRecord's `verificati
 |P|Plausible|
 |U|Unable to verify|
 
-There is a lot of information contained in this result. On speaking with verifiers, there is considerable bias towards using `Plausible` over `Unable to verify` when a record is plausible but cannot be verified.  Considering this, it is clear that difficulty 3 & 4 taxa are considerably harder to verify
+There is a lot of information contained in this result. On speaking with verifiers, there is considerable bias towards using `Plausible` over `Unable to verify` when a record is plausible but cannot be verified.  Considering this, it is clear that difficulty 3 & 4 taxa are considerably harder to verify.
+
+It also seems that non-photographic recorders tend to record more of the common taxa than photographic, which is also expected. Surveys require that *all* taxa are recorded, not just interesting observations.
 
 |Difficulty|All|C|CC|P|U|
 |---|---:|---:|---:|---:|---:|
@@ -175,6 +187,16 @@ There is a lot of information contained in this result. On speaking with verifie
 |4|56,003|14,188|17,295|1,483|611
 |5|15,511|3,099|5,423|629|173
 |6|0|0|0|0|0 
+
+Expressed as percentages of 'All'
+|Difficulty|All|C|CC|P|U|
+|---|---:|---:|---:|---:|---:|
+|1|159,339|25.5%|32.1%|0.6%|0.3%
+|2|47,747|35.1%|29.8%|1.1%|0.6%
+|3|54,923|24.7%|28.4%|2.0%|0.6%
+|4|56,003|25.3%|30.9%|2.6%|1.1%
+|5|15,511|20.0%|35.0%|4.1%|1.1%
+
 
 ## iRecord Verifiers & Rules
 There are 252,671 verified records with a verifier's name against them in iRecord. Of these, 127,198 (50.3%) have been verified by one person. A further 80,430 records (31.8%) have been verified by a different person. The exact ruleset that these two people have been using has, according to conversation with them, varied over time. This variance has also included adherence to a 'BWARS accepted' verification score system. The BWARS rules differ slightly from the iRecord ruleset for `correct` and `considered correct` as follows:
@@ -239,4 +261,20 @@ Despite the ability to use `verification status 1` being heavily reduced around 
 ## Conclusion
 An unexpectedly high rate of rejection was encountered when attempting to handle the conversion of binomials to binomial Understandings (14.1%). These rejections are almost entirely (98.0%) on the basis that the binomial cannot be resolved precisely to a type.
 
-iRecord appears to be acting as a mainly primary data source i.e. most records are submitted by the originator of the record rather than a third party. BWARS is the opposite, functioning as a tertiary data source. 15.9% of iRecord data was found to already exist in the BWARS dataset, predominantly (53.5%) from the 'Considered correct' stream. Attempting to condense the iRecord data down to pure occurrence based on what/where/when only results in a 3.5% reduction in records, whilst BWARS has a 26.5% compression rate. The likely explanation is that BWARS acts as a tertiary data source and requests data from people repeatedly, whilst iRecord acts as a primary data source and relies on users to input their data directly. Experienced recorders do share records, particularly of rarities or notable observations, amongst themselves. Such sharing is potentially indirect, for example harvesting the record from published material.
+iRecord appears to be acting as a mainly primary data source i.e. most records are submitted by the originator of the record rather than a third party. BWARS is the opposite, functioning as a tertiary data source. 15.9% of iRecord data was found to already exist in the BWARS dataset, predominantly (53.5%) from the 'Considered correct' stream. Attempting to condense the iRecord data down to pure occurrence based on what/where/when only results in a 3.5% reduction in records, whilst BWARS has a 26.5% compression rate. The likely explanation is that BWARS acts as a tertiary data source and requests data from people repeatedly, whilst iRecord acts as a primary data source and relies on users to input their data directly. Experienced recorders do share records, particularly of rarities or notable observations, amongst themselves. Such sharing is potentially indirect, for example scraping the record from published material that mentions a particular occurrence.
+
+The largest portion of records with a functional 'verification status 2' are those with 'Considered correct' (31.2%), followed by 'Unverified' (25.9%), then by'Correct' (25.8%). Whilst the majority of records *appear* to have been verfied in accordance with either the iRecord or BWARS ruleset, there is no way to test the level of adherence. Conversation with verifiers uncovered two notable instances of people whose records in this dataset are *not* in accordance. Instead, their verifications treat 'verification status 2' as a *measure of confidence* in the record being correct. When assembling the final count of 'harvestable records', these verifiers were specifically excluded from consideration.
+
+The mistaken use of 'verification status 2' is driven by a mis-match between how the verifier reads the status and how iRecord/BWARS's rules mandate the status to be used.
+
+In total, 52,441 records were found to match between the de-duplicated BWARS dataset and the raw iRecord dataset. This figure represents 15.9% of all of iRecord's data. The overlap is dominated by *Bombus*, with the notable exception of *Colletes hederae*, which was the subject of targeted effort.
+
+Overlap between iRecord and BWARS was predominantly found in the 'Considered correct' subset (53.5%), followed by 'Unverified' (26.9%). This division is unsurprising and reflects the general difference in submitters between the two datasets.
+
+Comparison of the 'difficulty of identification' between iRecord and BWARS reenforces the idea of this 'experienced identifier' cohort. As 'difficulty of identification' increases, the relative proportion of data between iRecord and BWARS favours BWARS more and more. *Melecta albifrons* data was specifically removed from 'difficulty 5' data due to changes in its circumstances.
+
+Further investigation into difficulty took into account the 'verification status 2' of records in iRecord. The results here indicate that photographic recorders provide a very different species assemblage to non-photographic, though the difference is less stark than expected. The lack of starkness is most likely a result of outdated/incorrect classification of difficulty, as the table used has never been tested or fully reviewed before. A re-assessment of identification difficulty, tailored to iRecord, would be required to investigate this topic further.
+
+Multi-record processing was very difficult to decisively identify, due to the minute-only resolution of the timestamps. Analysis did very heavily hint at the presence of multi-record verified data in places where it should not be, but no method could decisively identify such occurrences.
+
+'Verification status 1' has been almost entirely removed from use since 2020, though it was somehow still used by someone in 2023. The changes that deprecated 'verification status 1' likely occurred in early-mid 2019.

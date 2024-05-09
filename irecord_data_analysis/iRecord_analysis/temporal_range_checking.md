@@ -106,7 +106,7 @@ As above section, but using only `Considered correct` verification status 2 reco
 |Andrena fulva: iso. Perkins: 1919|	7
 
 ## Rates of error
-A comparison of % error between 'Correct', 'Considered correct', and 'Plausible'. We can see that photo-verifying incoming data drastically increases the accuracy, but that data from experienced sources is yet drastically better still. 
+A comparison of % error between various verification 2 statuses. We can see that photo-verifying incoming data drastically increases the accuracy, but that data from experienced sources is yet drastically better still. 
 
 |Grouping|All|Errors|% error|
 |---|---:|---:|---:|
@@ -114,6 +114,8 @@ A comparison of % error between 'Correct', 'Considered correct', and 'Plausible'
 |Considered correct|98,154|572|0.6|
 |Plausible|4,714|150|3.2|
 |Considered correct**|98,154|507|0.5|
+|Not reviewed|82,349|1,217|1.5|
+|Verified, other than C/CC|6,595|257|3.9|
 
 ** 'Considered correct' with the two main verifiers who used 'verification status 2' as confidence-based removed.
 
@@ -125,7 +127,7 @@ Comparison to BWARS is not possible at this point, since using BWARS data to che
 Of these, *Vespa crabro*, *Vespa vulgaris*, and *Vespula germanica* all hibernate in places which humans regularly disturb. Wood piles, chimneys etc. A quick sampling of records strongly suggests a pattern of disturbance, with many correspondants writing such.
 
 ### *Bombus lapidarius*
-This taxon has been the subject of a previous project which looked at emergence. The project found that a great many people are misidentifying this taxon, which explains the large number of 'too-early' records.
+This taxon has been the subject of a previous project which looked at emergence. The project found that a great many people are misidentifying this taxon, which explains the large number of 'too-early' records. Many 'out of bounds' records in this sector are out by > 40 days compared to those in BWARS. Either BWARS data is highly insufficient, or the verifications of this taxon are incorrect. Examination of the BWARS records over multiple years provides a high degree of continuity. The timings provided by the BWARS data also match up to those expected by ecologists, whilst the timings provided by iRecord data cotradict expectations.
 
 ### *Bombus pratorum*/*pascuorum*
 Conversations with Mike Edwards suggests that the majority of these are the result of misidentification.
@@ -133,7 +135,19 @@ Conversations with Mike Edwards suggests that the majority of these are the resu
 ### *Bombus sylvarum*
 A lot of suspicious records. Mike Edwards's comment was that this would be unusual to find on Hawthorne flowers in mid February.
 
-## Conclusion
-A *lot* more errors than expected, especially on taxa where errors *shouldn't* be found. Enough errors and warning signs to make me very cautious over using the data as a whole, given that this is the tip of the 'invisible iceberg' of 'wrong-but-can't-find-it' records. The underlying taxon distribution of records is so heavily weighted to very few taxa that attempting to understand rates of error in the less-common taxa very quickly reaches the point where there are not enough records to reach a supportable level of confidence in statistical approaches.
+### Does verification work
+Yes. The 'verified other than correct/considered correct' data runs a rejection rate of 3.9% against that of verified data at 1.2%. Incoming data sits at 1.5%, though this value is highly affected by the presence of large volumes of data destined for 'Considered correct' i.e. acceptance based on the verifier's trust in the recorder. As such, photographic verification provides a greater than 0.3% decrease in rejections than suggested by pure figures.
 
-Once again, it seems that photo-verification produces a very different set of results to expert identification, with 'Considered correct' data being higher quality than 'Correct'. The concern with utilising 'Considered correct' data is that records may be 'more' incorrect than those which have been examined by experts. Unfortunately there does not yet exist a tested and understood method to do such.
+### Further investigation
+The main avenue which entomologists would like to explore are the potential 'confusion' taxa which are leading to the out-of-bounds records. Knowing the potential confusions for photographic recording will aid future verifiers avoid such situations, leading to higher quality data output.
+
+## Conclusion
+Far more rejections than expected were encountered. The degree of tolerance for the day of year (doy) made a significant impact on the number of rejections. However, even unsuitable tolerances e.g. 21 days resulted in far more rejections than expected.
+
+A value of '2 days' was selected for the tolerance in further exploration, as it is the value which has been used for BWARS. Note that a rejection cannot be considered an error until it has been checked by a human.
+
+Examination of the Understandings present in rejections provides a good amount of insight into causes. Vespids make up a significant proportion of the most common rejections, with the likely reason that these are 'disturbances' of behaviour. Other taxa are far more concerning, especially given the lack of probability that the verifiers would get the identification incorrect given specimens.
+
+'Considered correct' data has a lower volume of error in both absolute and percentage terms than 'Correct' data. 'Verified'
+
+Further examination is required to delve further into this scenario. Enough information has been gathered, however, to provide a reasonable picture of the state of the data to the Red List core team. Verification is resulting in fewer temporal rejections, but the exact size of the resulting data/rejection rate is unknowable without a before & after comparison.

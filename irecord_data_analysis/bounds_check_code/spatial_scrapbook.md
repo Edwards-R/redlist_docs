@@ -53,6 +53,7 @@ Moving result to a materialized view `range_checked_mat`. This can be used by QG
 Looking at the number of records which fail the spatial checker per verifiers. Using all verifiers with > 1,000 'Correct' verifications.
 
 >Mike Fox is included in this, but ant results are expected to be very low accuracy due to low input data to the BAB.
+>> Future note: Mike Fox didn't follow iRecord or BWARS rules so be cautious anyway!
 
 ### Query
 ```
@@ -278,4 +279,38 @@ JOIN nomenclature.binomial b ON r.r_nik = b.tik
 JOIN bwars_redlist.all_irec_formatted irec ON r.id = irec.id
 WHERE verification_status_2='Correct'
 ORDER BY count DESC
+```
+
+# Spatial range checking
+## Base query
+```
+WITH dat AS(
+	SELECT r_nik nik, count(*)
+	FROM bwars_redlist.range_checked_mat
+	WHERE spatial_check = FALSE
+	AND r_nik != 646 -- Ignore Apis
+	GROUP BY r_nik
+)
+
+SELECT binomial, count
+FROM dat d
+JOIN nomenclature.binomial b on d.nik = b.tik
+ORDER BY count desc
+```
+
+### Magnitude test
+This query looks at the mean distance from the edge of the 40km buffer, as well as the std deviation, on a per-Understanding basis. An average value of '10' would mean that records are, on average, only 10 m outside of the 40 km buffer. A value of 40,000 means that they are 40 km away from the buffer i.e. *somewhere* around 80 km from the nearest known record.
+
+**This is highly experimental. I did it in 3 minutes and am literally looking at this for the first time ever right now**
+
+```
+SELECT b.binomial, round(avg(st_distance(poly, env))) avg, ROUND(stddev(st_distance(poly, env))) stdev, count(*)
+FROM bwars_redlist.range_checked_mat i
+LEFT JOIN checker.bounded_annual_buffer_40 bab ON i.r_nik = bab.tik AND i.bound_year = bab.yr
+JOIN nomenclature.binomial b on i.r_nik = b.tik
+WHERE spatial_check = FALSE
+AND ver_2 = 'Correct'
+AND r_nik != 646 -- No Apis
+GROUP BY b.binomial
+ORDER BY avg DESC
 ```

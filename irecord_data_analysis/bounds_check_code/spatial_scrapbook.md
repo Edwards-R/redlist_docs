@@ -298,7 +298,7 @@ JOIN nomenclature.binomial b on d.nik = b.tik
 ORDER BY count desc
 ```
 
-### Magnitude test
+## Magnitude test
 This query looks at the mean distance from the edge of the 40km buffer, as well as the std deviation, on a per-Understanding basis. An average value of '10' would mean that records are, on average, only 10 m outside of the 40 km buffer. A value of 40,000 means that they are 40 km away from the buffer i.e. *somewhere* around 80 km from the nearest known record.
 
 **This is highly experimental. I did it in 3 minutes and am literally looking at this for the first time ever right now**
@@ -314,3 +314,73 @@ AND r_nik != 646 -- No Apis
 GROUP BY b.binomial
 ORDER BY avg DESC
 ```
+
+### What about 15 most common out of range?
+>**Instructions for use**
+> 
+> This is a complex one that's being used 'live' so trying to avoid mis-steps
+>
+> - Make sure to assign any ver_status_2 criteria to *both* sides of the query. Only using one will result in garbage out.
+> - Make sure to assign ANY subselections to both sides in fact, otherwise garbage. Stuff like 'not Apis' or 'Not non-compliant verifiers' will need to go to both
+```
+WITH sample AS(
+	SELECT r_nik nik, count(*)
+	FROM bwars_redlist.range_checked_mat m
+	WHERE r_nik != 646
+	GROUP BY r_nik
+	ORDER BY count DESC
+	LIMIT 15
+)
+
+SELECT binomial, round(avg(st_distance(poly, env))) avg, ROUND(stddev(st_distance(poly, env))) stdev, count(*)
+FROM bwars_redlist.range_checked_mat i
+LEFT JOIN checker.bounded_annual_buffer_40 bab ON i.r_nik = bab.tik AND i.bound_year = bab.yr
+JOIN nomenclature.binomial b on i.r_nik = b.tik
+JOIN sample s ON i.r_nik = s.nik
+WHERE spatial_check = FALSE
+AND r_nik != 646 -- No Apis
+GROUP BY binomial
+ORDER BY avg DESC
+```
+
+### Magnitude correct only
+Sorted by mean, descending
+
+|Understanding|Mean (m)|Std Dev (m)|Num records|
+|---|---:|---:|---:|
+|Anthophora plumipes: iso. Amiet et al: 2007|53682|41923|161
+|Bombus jonellus: iso. Cameron et al: 2007|41942|35035|40
+|Bombus vestalis: iso. Cameron et al: 2007|35597|29224|43
+|Andrena clarkella: iso. Perkins: 1919|27428|20256|40
+|Nomada goodeniana: iso. Perkins: 1919|25827|26793|46
+|Anthidium manicatum: iso. Amiet et al: 2004|23801|21174|49
+|Andrena fulva: iso. Perkins: 1919|23520|22257|92
+|Andrena nigroaenea: iso. Perkins: 1919|20919|21646|43
+|Vespa crabro: iso. Archer: 1989|18302|17994|122
+|Andrena bicolor: iso. Amiet et al: 2010|17815|14336|46
+|Nomada marshamella: iso. Perkins: 1919|16497|16512|43
+|Bombus hypnorum: iso. Cameron et al: 2007|16406|17802|37
+|Andrena cineraria: iso. Perkins: 1919|15663|10894|44
+|Osmia bicornis: iso. Amiet et al: 2004|12571|14528|56
+|Bombus hortorum: iso. Cameron et al: 2007|12028|24870|54
+
+### Magnitude considered correct only
+Sorted by mean, descending
+
+|Understanding|Mean (m)|Std Dev (m)|Num records|
+|---|---:|---:|---:|
+|Anthophora plumipes: iso. Amiet et al: 2007|38099|32458|84
+|Bombus muscorum: iso. Cameron et al: 2007|35672|23252|22
+|Anthidium manicatum: iso. Amiet et al: 2004|25351|25668|17
+|Bombus monticola: iso. Cameron et al: 2007|24364|24454|22
+|Bombus pratorum: iso. Cameron et al: 2007|21069|24612|25
+|Andrena fulva: iso. Perkins: 1919|20193|22970|22
+|Osmia bicornis: iso. Amiet et al: 2004|18114|15281|20
+|Vespula vulgaris: iso. Archer: 1989|15798|22918|25
+|Bombus hypnorum: iso. Cameron et al: 2007|15400|26099|37
+|Vespa crabro: iso. Archer: 1989|15023|15781|90
+|Bombus lapidarius: iso. Cameron et al: 2007|14907|21734|28
+|Bombus pascuorum: iso. Cameron et al: 2007|13885|17573|27
+|Andrena cineraria: iso. Perkins: 1919|13881|11593|22
+|Bombus hortorum: iso. Cameron et al: 2007|13136|16114|22
+|Bombus vestalis: iso. Cameron et al: 2007|11919|15824|19

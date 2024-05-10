@@ -105,10 +105,10 @@ As above section, but using only `Considered correct` verification status 2 reco
 |Dolichovespula media: iso. Archer: 1989|	8
 |Andrena fulva: iso. Perkins: 1919|	7
 
-## Rates of error
-A comparison of % error between various verification 2 statuses. We can see that photo-verifying incoming data drastically increases the accuracy, but that data from experienced sources is yet drastically better still. 
+## Rates of rejection
+A comparison of % rejection between various verification 2 statuses. We can see that photo-verifying incoming data drastically increases the accuracy, but that data from experienced sources is yet drastically better still. 
 
-|Grouping|All|Errors|% error|
+|Grouping|All|Rejections|% rejection|
 |---|---:|---:|---:|
 |Correct|85,845|1,022|1.2|
 |Considered correct|98,154|572|0.6|
@@ -148,6 +148,6 @@ A value of '2 days' was selected for the tolerance in further exploration, as it
 
 Examination of the Understandings present in rejections provides a good amount of insight into causes. Vespids make up a significant proportion of the most common rejections, with the likely reason that these are 'disturbances' of behaviour. Other taxa are far more concerning, especially given the lack of probability that the verifiers would get the identification incorrect given specimens.
 
-'Considered correct' data has a lower volume of error in both absolute and percentage terms than 'Correct' data. 'Verified'
+'Considered correct' data has a lower volume of rejection in both absolute and percentage terms than 'Correct' data. 'Verified'
 
 Further examination is required to delve further into this scenario. Enough information has been gathered, however, to provide a reasonable picture of the state of the data to the Red List core team. Verification is resulting in fewer temporal rejections, but the exact size of the resulting data/rejection rate is unknowable without a before & after comparison.

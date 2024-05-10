@@ -3,7 +3,9 @@ This checking system works in a similar way to the temporal range checking. The 
 
 The data used in this section is only that which has passed the Checker. Automated bounds checking on a per-species level require exact-to-type precision in order to not fall foul of nomenclatural confusion. This precision is supplied by Understandings assigned by the Checker.
 
-Note that this routine does not evaluate any magnitude of error. For a Red List, magnitude of error is an incredibly important metric for the purpose of spatial threat categories. Two records which are extremely out of known range will likely have far more impact on spatially based threat categories than a hundred 'just outside' records. As the number of known records gets smaller and smaller, it becomes even more imperative to only use trusted data given the greater impact each individual records posesses.
+Note that this routine does not evaluate any magnitude of rejection. For a Red List, magnitude of rejection is an incredibly important metric for the purpose of spatial threat categories. Two records which are extremely out of known range will likely have far more impact on spatially based threat categories than a hundred 'just outside' records. As the number of known records gets smaller and smaller, it becomes even more imperative to only use trusted data given the greater impact each individual records posesses.
+
+>An attempt at examining this 'magnitude of rejection' was made during this project. The method looks at the distance from a given record to the edge of the 40km envelope. This distance is then combined with others in any applicable groupings to establish metrics, or individual records can be examined.
 
 ## Sources of major error
 The buffer represents the generalised expected potential colonisation front of the taxon. Due to the lack of information on taxon-specific colonisation fronts it was not possible to create bespoke distances. The 40 km buffer region has been used in prior work succesfully, including the BWARS import routine, and as such the distance has been used in this project as well.
@@ -75,7 +77,7 @@ As above section, but using only `Considered correct` verification status 2 reco
 |Bombus vestalis: iso. Cameron et al: 2007|	19
 |Anthidium manicatum: iso. Amiet et al: 2004|	17
 
-## Rates of error
+## Rates of rejection
 A comparison of % error between various verification 2 statuses. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
 
 |Grouping|All|Errors|% error|
@@ -86,6 +88,11 @@ A comparison of % error between various verification 2 statuses. Verifiers known
 |Incorrect|559|74|13.2
 |Unable to verify|1,916|277|14.5
 |Not reviewed|88,442|3,765|4.3
+
+## Magnitude of rejection
+>This is an experimental metric which has been developed during this analysis to fulfill a need.
+
+Magnitude of rejection is calculated as the distance between a record and the edge of the relevant year-matched 40 km buffer for that taxon.
 
 ## Discussion
 ### Expansion potential

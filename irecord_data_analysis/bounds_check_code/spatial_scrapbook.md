@@ -384,3 +384,56 @@ Sorted by mean, descending
 |Andrena cineraria: iso. Perkins: 1919|13881|11593|22
 |Bombus hortorum: iso. Cameron et al: 2007|13136|16114|22
 |Bombus vestalis: iso. Cameron et al: 2007|11919|15824|19
+
+### Magnitude per verifier (unsorted)
+Looking for a pattern in the records that a verifier verifies. **This includes incorrect/plausible/impossible to tell**
+
+|Verifier|Mean (m)|Std Dev (m)|Num records|
+|---|---:|---:|---:|
+|support, iRecord|137552|113297|20
+|Boyes, Clare|58556|87437|7
+|Comont, Richard|42865|2602|2
+|Roberts, Stuart|37334|51155|2660
+|Smith, Matt|36192|59361|1734
+|*NULL*|34246|44971|3777
+|Power, James|34115||1
+|Fox, Mike|30433|49457|565
+|Jones, Nigel|27952|20811|4
+|Northey, Alex|25304|16433|3
+|Cartwright, R A|21927|34161|91
+|Jones, Dave|21562|28499|88
+|Hargreaves, Ben|20556|31376|281
+|boulton, stephen|20433|19040|79
+|Vincett, Janice|18137|7449|5
+
+### Magnitude per verifier (C & CC)
+Mike Fox's ant records turning up where expected. Ben has been very cautious *and* modern-only, so the info there is cleaner than the long-term verifiers. There's likely some decent amount of range expansion to be captured from iRecord if we can figure out *how to find it and not the wrong data*.
+|Verifier|Mean (m)|Std Dev (m)|Num records|
+|---|---:|---:|---:|
+|Roberts, Stuart|31038|36253|1740
+|Smith, Matt|25814|32631|1021
+|Fox, Mike|24185|28570|399
+|Hargreaves, Ben|17918|24851|251
+|Jones, Dave|21550|28668|86
+|Rankin, Charlotte|14759|17911|83
+|boulton, stephen|20433|19040|79
+|Cartwright, R A|17804|29385|77
+|Clark, Ryan|3602|2492|21
+|Nicholls, David|6065|8571|16
+|McCartney, Karen|17377|32442|11
+|Madgwick, Tony|8561|8644|7
+|Boyes, Clare|65511|93637|6
+|Vincett, Janice|15595|631|2
+|Higgott, Mike|3694|1971|2
+|Comont, Richard|42864|2601|2
+|Timms, Sue|12343|15843|2
+|Ely, Bill|14451|*NULL*|1
+
+## Magnitude per species
+1/6th 'highly suspicious' rate?
+
+- Nope, not that high on most taxa
+- Seems like a per-taxa thing
+
+Look at where the cliff drops off on individual species graphs
+- Statisticians laughed and said 'good luck, we're trying to work that out in our own fields' when asked about outlier identification

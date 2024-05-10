@@ -92,7 +92,60 @@ A comparison of % error between various verification 2 statuses. Verifiers known
 ## Magnitude of rejection
 >This is an experimental metric which has been developed during this analysis to fulfill a need.
 
-Magnitude of rejection is calculated as the distance between a record and the edge of the relevant year-matched 40 km buffer for that taxon.
+Magnitude of rejection is calculated as the distance between a record and the edge of the relevant year-matched 40 km buffer for that taxon. The sections below examine the mean magnitude for a given taxon, as well as the standard deviation for that taxon. Take care when interpreting these figures, as the number of records makes a significant impact on the reliability of these other metrics.
+
+### Magnitude correct only
+Sorted by mean, descending
+
+|Understanding|Mean (m)|Std Dev (m)|Num records|
+|---|---:|---:|---:|
+|Anthophora plumipes: iso. Amiet et al: 2007|53682|41923|161
+|Bombus jonellus: iso. Cameron et al: 2007|41942|35035|40
+|Bombus vestalis: iso. Cameron et al: 2007|35597|29224|43
+|Andrena clarkella: iso. Perkins: 1919|27428|20256|40
+|Nomada goodeniana: iso. Perkins: 1919|25827|26793|46
+|Anthidium manicatum: iso. Amiet et al: 2004|23801|21174|49
+|Andrena fulva: iso. Perkins: 1919|23520|22257|92
+|Andrena nigroaenea: iso. Perkins: 1919|20919|21646|43
+|Vespa crabro: iso. Archer: 1989|18302|17994|122
+|Andrena bicolor: iso. Amiet et al: 2010|17815|14336|46
+|Nomada marshamella: iso. Perkins: 1919|16497|16512|43
+|Bombus hypnorum: iso. Cameron et al: 2007|16406|17802|37
+|Andrena cineraria: iso. Perkins: 1919|15663|10894|44
+|Osmia bicornis: iso. Amiet et al: 2004|12571|14528|56
+|Bombus hortorum: iso. Cameron et al: 2007|12028|24870|54
+
+### Magnitude considered correct only
+Sorted by mean, descending
+
+|Understanding|Mean (m)|Std Dev (m)|Num records|
+|---|---:|---:|---:|
+|Anthophora plumipes: iso. Amiet et al: 2007|38099|32458|84
+|Bombus muscorum: iso. Cameron et al: 2007|35672|23252|22
+|Anthidium manicatum: iso. Amiet et al: 2004|25351|25668|17
+|Bombus monticola: iso. Cameron et al: 2007|24364|24454|22
+|Bombus pratorum: iso. Cameron et al: 2007|21069|24612|25
+|Andrena fulva: iso. Perkins: 1919|20193|22970|22
+|Osmia bicornis: iso. Amiet et al: 2004|18114|15281|20
+|Vespula vulgaris: iso. Archer: 1989|15798|22918|25
+|Bombus hypnorum: iso. Cameron et al: 2007|15400|26099|37
+|Vespa crabro: iso. Archer: 1989|15023|15781|90
+|Bombus lapidarius: iso. Cameron et al: 2007|14907|21734|28
+|Bombus pascuorum: iso. Cameron et al: 2007|13885|17573|27
+|Andrena cineraria: iso. Perkins: 1919|13881|11593|22
+|Bombus hortorum: iso. Cameron et al: 2007|13136|16114|22
+|Bombus vestalis: iso. Cameron et al: 2007|11919|15824|19
+
+### Spatial magnitude per verification status 2
+|Understanding|Mean (m)|Std Dev (m)|Num records|
+|---|---:|---:|---:|
+|Correct|28179|34162|2295
+|Considered correct|24409|31712|1511
+|Plausible|38488|52770|389
+|Unable to verify|95041|116600|341
+|Incorrect|95704|110405|103
+|Not reviewed|34081|44687|3765
+|NULL|34852|50341|1110
 
 ## Discussion
 ### Expansion potential

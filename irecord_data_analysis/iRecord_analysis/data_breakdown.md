@@ -122,7 +122,9 @@ A breakdown of the broad-scale taxonomic composition of the iRecord and BWARS da
 |---|---|
 |Bombus|All non-aggregate species in the genus 'Bombus'|
 |Other bee|All non-aggregate species in the family 'Apidae' other than in the genus 'Bombus'|
-|Eusocial wasps|All non-aggregate species in the genera Vespa, Vespula, and Dolichovespula
+|Eusocial wasps|All non-aggregate species in the genera Vespa, Vespula, and Dolichovespula|
+|Other wasps| All non-aggregate species other then eusocials, bees, or ants|
+|Ants|All non-aggregate species of Formicidea|
 
 ### Absolute record count taxonomic composition
 A breakdown of each scheme's broad scale taxonomic content, including a subdivision to 'Correct' and 'Considered correct'. Reported as absolute record counts
@@ -289,6 +291,9 @@ Despite the ability to use `verification status 1` being heavily reduced around 
 |2022|51
 |2023|1
 |NULL|663
+
+### Broad taxon composition
+
 
 ## Conclusion
 An unexpectedly high rate of rejection was encountered when attempting to handle the conversion of binomials to binomial Understandings (14.1%). These rejections are almost entirely (98.0%) on the basis that the binomial cannot be resolved precisely to a type.

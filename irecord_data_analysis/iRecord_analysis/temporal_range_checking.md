@@ -148,6 +148,6 @@ A value of '2 days' was selected for the tolerance in further exploration, as it
 
 Examination of the Understandings present in rejections provides a good amount of insight into causes. Vespids make up a significant proportion of the most common rejections, with the likely reason that these are 'disturbances' of behaviour. Other taxa are far more concerning, especially given the lack of probability that the verifiers would get the identification incorrect given specimens.
 
-'Considered correct' data has a lower volume of rejection in both absolute and percentage terms than 'Correct' data. 'Verified'
+'Considered correct' data has a lower volume of rejection in both absolute and percentage terms than 'Correct' data. 'Unverified' data has a higher volume of rejection than both 'Correct' and 'Considered correct'.
 
 Further examination is required to delve further into this scenario. Enough information has been gathered, however, to provide a reasonable picture of the state of the data to the Red List core team. Verification is resulting in fewer temporal rejections, but the exact size of the resulting data/rejection rate is unknowable without a before & after comparison.

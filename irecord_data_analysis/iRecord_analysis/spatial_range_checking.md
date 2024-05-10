@@ -1,20 +1,23 @@
 # Spatial Range Checking
-This checking system works in a similar way to the temporal range checking. The first step is to identify a pool of 'similar as possible' records of the given taxon and year. The spatial distribution of this pool of records is then plotted, followed by a 40 km buffer.
+The spatial checking system works in a similar way to temporal range checking. The first step, in both spatial and temporal systems, is to identify a pool of 'similar as possible' records of the given taxon and year. The spatial distribution of this pool of records is then plotted, followed by a 40 km buffer.
 
-The data used in this section is only that which has passed the Checker. Automated bounds checking on a per-species level require exact-to-type precision in order to not fall foul of nomenclatural confusion. This precision is supplied by Understandings assigned by the Checker.
+The data used in this section are only those which have passed the Checker. Automated bounds checking on a per-species level require exact-to-type precision in order to not fall foul of nomenclatural confusion. This precision is supplied by Understandings assigned by the Checker.
 
 Note that this routine does not evaluate any magnitude of rejection. For a Red List, magnitude of rejection is an incredibly important metric for the purpose of spatial threat categories. Two records which are extremely out of known range will likely have far more impact on spatially based threat categories than a hundred 'just outside' records. As the number of known records gets smaller and smaller, it becomes even more imperative to only use trusted data given the greater impact each individual records posesses.
 
->An attempt at examining this 'magnitude of rejection' was made during this project. The method looks at the distance from a given record to the edge of the 40km envelope. This distance is then combined with others in any applicable groupings to establish metrics, or individual records can be examined.
+>An attempt at examining this 'magnitude of rejection' was made during this project. The method looks at the distance from a given record to the edge of the 40km envelope. This distance is then combined with others in any applicable groupings to establish metrics, or individual records can be examined. Bear in mind that this *is* a first attempt to use this particular metric, even if the foundation is fundamental geometry.
 
 ## Sources of major error
-The buffer represents the generalised expected potential colonisation front of the taxon. Due to the lack of information on taxon-specific colonisation fronts it was not possible to create bespoke distances. The 40 km buffer region has been used in prior work succesfully, including the BWARS import routine, and as such the distance has been used in this project as well.
+The 40 km buffer used represents the generalised expected potential colonisation front of the taxon. Due to the lack of information on taxon-specific colonisation fronts it was not possible to create bespoke distances. The 40 km buffer region has been used in prior work succesfully, including the BWARS import routine, and as such the distance has been used in this project as well.
 
 However, as with all generalisations, there are likely taxa to which the 40 km radius is more applicable to than others. As before, the lack of strong comparable evidence makes the construction of an autecologically-based taxon-specific metric impractical.
 
 BWARS does not seek or process data pertaining to *Apis* as such records are considered agricultural rather than ecological in nature. As such, all records of *Apis* are removed from this analysis.
 
-## Breakdown of rejections per Understanding, all records
+## Breakdown of rejections per Understanding
+This section breaks down the rejections from the routine to examine the distribution of Understandings in combination with different verification status 2.
+
+### Breakdown of rejections per Understanding, all records
 A breakdown of where rejections occur, per Understanding.
 
 |Understanding|# rejections|
@@ -35,8 +38,8 @@ A breakdown of where rejections occur, per Understanding.
 |Andrena haemorrhoa: iso. Amiet et al: 2010|	155
 |Bombus humilis: iso. Cameron et al: 2007|	152
 
-## Breakdown per Understanding, `Correct` only
-As above section, but using only `Correct` verification status 2 records. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
+### Breakdown per Understanding, `Correct` only
+Using only `Correct` verification status 2 records. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
 
 |Understanding|# rejections|
 |---|---:|
@@ -56,8 +59,8 @@ As above section, but using only `Correct` verification status 2 records. Verifi
 |Andrena clarkella: iso. Perkins: 1919|	40
 |Bombus hypnorum: iso. Cameron et al: 2007|	37
 
-## Breakdown per Understanding, `Considered correct` only
-As above section, but using only `Considered correct` verification status 2 records. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
+### Breakdown per Understanding, `Considered correct` only
+Using only `Considered correct` verification status 2 records. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
 
 |Understanding|# rejections|
 |---|---:|
@@ -78,7 +81,7 @@ As above section, but using only `Considered correct` verification status 2 reco
 |Anthidium manicatum: iso. Amiet et al: 2004|	17
 
 ## Rates of rejection
-A comparison of % error between various verification 2 statuses. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
+A comparison of % error between various verification status 2 results. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
 
 |Grouping|All|Errors|% error|
 |---|---:|---:|---:|
@@ -90,12 +93,12 @@ A comparison of % error between various verification 2 statuses. Verifiers known
 |Not reviewed|88,442|3,765|4.3
 
 ## Magnitude of rejection
->This is an experimental metric which has been developed during this analysis to fulfill a need.
+>This is an experimental metric which has been developed during this analysis. Take care interpreting the result as there has been minimal time to review and fully interpret the results. Conclusions drawn from this section are deliberately vague and restricted to only statements with high confidence.
 
-Magnitude of rejection is calculated as the distance between a record and the edge of the relevant year-matched 40 km buffer for that taxon. The sections below examine the mean magnitude for a given taxon, as well as the standard deviation for that taxon. Take care when interpreting these figures, as the number of records makes a significant impact on the reliability of these other metrics.
+Magnitude of rejection is calculated as the direct distance between a record and the edge of the relevant year-matched 40 km buffer for that taxon. The sections below examine the mean magnitude for a given taxon, as well as the standard deviation for that taxon. Take care when interpreting these figures, as the number of records makes a significant impact on the reliability of these other metrics.
 
-### Magnitude correct only
-Sorted by mean, descending
+### Magnitude, correct only
+The 15 most common rejected Understandings for the 'Correct' verification 2 status. Sorted by mean, descending
 
 |Understanding|Mean (m)|Std Dev (m)|Num records|
 |---|---:|---:|---:|
@@ -115,8 +118,8 @@ Sorted by mean, descending
 |Osmia bicornis: iso. Amiet et al: 2004|12571|14528|56
 |Bombus hortorum: iso. Cameron et al: 2007|12028|24870|54
 
-### Magnitude considered correct only
-Sorted by mean, descending
+### Magnitude, considered correct only
+The 15 most common rejected Understandings for the 'Considered correct' verification 2 status. Sorted by mean, descending
 
 |Understanding|Mean (m)|Std Dev (m)|Num records|
 |---|---:|---:|---:|
@@ -137,6 +140,8 @@ Sorted by mean, descending
 |Bombus vestalis: iso. Cameron et al: 2007|11919|15824|19
 
 ### Spatial magnitude per verification status 2
+A breakdown of rejections, grouped by their verification status 2
+
 |Understanding|Mean (m)|Std Dev (m)|Num records|
 |---|---:|---:|---:|
 |Correct|28179|34162|2295
@@ -149,7 +154,41 @@ Sorted by mean, descending
 
 ## Discussion
 ### Expansion potential
-The spatial ranges of numerous taxa have expanded over the duration covered by iRecord and BWARS.
+The spatial ranges of numerous taxa have expanded over the duration covered by iRecord and BWARS, with many species now entering geographic ranges where recorder coverage is poor. If gaps in recorder coverage are larger than, or even approaching, the 40 km buffer range, then it is possible for expansions of a taxon to go undetected until the taxon passes back into the range of a recorder. There appear to be signs of this happening in the BWARS data that iRecord data could address, but entomologists have repeatedly expressed concerns and displeasure at the amount of error also contained in iRecord data.
+
+### Major sources of rejection
+Two major clusters of spatial rejections were identifed. One such cluster was, bar one record, a cluster of *Apis mellifera* records. Since records of *Apis* are considered records of livestock, BWARS does not source much of this data. In turn, the lack of data leads to many rejections of *Apis* records. To solve this, *Apis* was removed from consideration.
+
+The second main cluster of rejection was from the Isle of Mull (an island to the west of Scotland). BWARS records from this area are very few and far between, which resulted in a large void in the 40 km buffer. An entomologist has been submitting data from within this void to iRecord, in excellent volume and with commendable caution, which resulted in a large cluster of rejected records. This cluster was considered a 'true' rejection - though not an error - and left in the analysis to avoid creating bias.
 
 ### *Bombus hypnorum*
 This taxon is one which underwent colonisation followed by significant, rapid expansion. The presence of this taxon near the top of the 'Considered correct' rejections list is entirely expected, though records will still need examination to the degree of magnitude involved in the rejection.
+
+### *Anthophora plumipes*
+An awkward species. Thought to have expanded rapidly over the past few years, there are still significant identification problems with two common bumblebees that led consulted entomologists to express concern and uncertainty over data quality.
+
+### Lack of general theme
+In the temporal range checker there is a general theme of 'disturbed/interrupted behaviour' which explains a large number of the most common rejections. In the spatial set there is no such obvious, demonstrated, theme that covers any large group of taxa.
+
+### 'Correct' vs 'Considered correct'
+On all examined metrics, 'Considered correct' data has performed better than 'Correct' data. Such a result mirrors all other checks performed on this dataset, though it is still impossible to say whether this subset of data *is* better, or whether this increase in quality metric is an artefact of increased recorder coverage.
+
+### Does verification work
+Yes. Verifying data produces a higher quality result than the input. It is suspected that removing the records destined for 'Considered correct' would only enhance the impact shown by photo verification. The exact impact of verification cannot be determined without a before & after comparison however, which would require a separate project.
+
+### Magnitude of rejection
+As a first attempt, magnitude of rejection's strength in finding incorrect records cannot be established until a human re-examines the suspect records. As a technique for finding potentially impactful new data in a high-uncertainty area, magnitude seems very promising. Given the importance of maintaining clean data, especially in scarcer taxa, ways to separate range expansion from misidentification or errors in data entry are always worth exploring.
+
+### Further investigation
+Magnitude of rejection provides the potential to investigate the appropriate size of the currently static 40 km buffer. Magnitude of rejection also provides a means to target human re-verification (or verification) to the size of rejection. Larger magnitudes should act as indicators to the verifier to be even more cautious of a given record.
+
+Magnitude of rejection also provides a means to track the impact of different sized buffers, leading to a statistically backed per-taxon buffer size. In turn, accurate buffers will lead to more accurate data entry as well as more accurate buffer-union metrics for the Red List.
+
+Many tests performed in this project require an A:B experiment to be performed to assess the 'true' impact of verification, as human intervention and re-verification is the only currently acceptable way to improve accuracy.
+
+## Conclusion
+Many rejections were encountered, although without an immediately obvious overlying 'theme' to the rejections that would explain the majority of data. The 40 km figure used for buffers was untestable still, as tests require human opinion to re-verify data.
+
+'Considered correct' data has a lower volume of rejection in both absolute and percentage terms than 'Correct' data.
+
+In both 'Correct' and 'Considered correct' statuses, there was a significant overlap in the Understandings with the majority of rejections. It is uncertain whether this overlap is the result of poor BWARS data volume, or reflects general difficulty in identification.

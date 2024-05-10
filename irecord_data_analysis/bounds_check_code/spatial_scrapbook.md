@@ -1,4 +1,5 @@
 # Spatial Scrapbook
+This documentation is primarily intended for myself and will not be part of the final written work. In here are various code snippets, ideas, comments to myself on things that worked, things that didn't, where I went wrong etc. There is far less emphasis on standard formatting or continuity, but there is still non-Red List information worth keeping in here.
 
 ## Attempt 1
 Get the basic data, then find the `bind_year` - the closest year match in the library of spatial polygons that exists.

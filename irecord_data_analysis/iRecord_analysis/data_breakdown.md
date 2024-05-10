@@ -114,6 +114,38 @@ At this point, the total pool of available records for immediate harvest in iRec
 
 If verfiers which are known to have disobeyed the iRecord/BWARS verification guide are excluded, the pool decreases by approximately 2,600 records to ~76,600 'Correct', unique, non-overlap records.
 
+## Taxon grouping
+A breakdown of the broad-scale taxonomic composition of the iRecord and BWARS datasets. Only iRecord data which has passed the Checker is used in this section due to the need for precision in nomenclature. The BWARS subset used is the de-duplicated `simple unique record` set.
+
+### Taxon groupings
+|Name|Description|
+|---|---|
+|Bombus|All non-aggregate species in the genus 'Bombus'|
+|Other bee|All non-aggregate species in the family 'Apidae' other than in the genus 'Bombus'|
+|Eusocial wasps|All non-aggregate species in the genera Vespa, Vespula, and Dolichovespula
+
+### Absolute record count taxonomic composition
+A breakdown of each scheme's broad scale taxonomic content, including a subdivision to 'Correct' and 'Considered correct'. Reported as absolute record counts
+|Scheme|Bombus|Other bee|Eusocial wasp|Other Wasp|Ant|
+|---|---:|---:|---:|---:|---:|
+|BWARS|191,618|340,765|30,523|161,215|48,100|
+|iRecord|139,019|141,190|30,512|21,630|9,027|
+|iRecord Correct**|29,895|42,829|9,365|3,995|110|
+|iRecord Considered correct**|42,389|38,312|8,085|7,636|189|
+
+** Verifiers known to have not followed the iRecord or BWARS verification ruleset removed. This will ***very*** strongly impact ant records.
+
+### Percentage-based taxonomic composition
+A breakdown of each scheme's broad scale taxonomic content, including a subdivision to 'Correct' and 'Considered correct'. Reported as the percentage of each scheme's total
+|Scheme|Bombus|Other bee|Eusocial wasp|Other Wasp|Ant|
+|---|---:|---:|---:|---:|---:|
+|BWARS|24.8%|44.1%|4.0%|20.9%|6.2%
+|iRecord|40.7%|41.4%|8.9%|6.3%|2.6%
+|iRecord Correct**|34.7%|49.7%|10.9%|4.6%|0.1%
+|iRecord Considered correct**|43.9%|39.7%|8.4%|7.9%|0.2%
+
+** Verifiers known to have not followed the iRecord or BWARS verification ruleset removed. This will ***very*** strongly impact ant records.
+
 ## Identification difficulty
 This section examines the breakdown of 'id difficulty', as created by Mike Edwards. The data used for this were created for use in iRecord in 2013. This list has not been updated to Understandings, though the names have been converted using the Checker. The vast majority of nomenclature changes that cannot be automatically converted can be safely assigned to the highest difficulty. The assignment is based on the number of splits occurring that require highly detailed knowledge to identify being far greater than the number of simple 'new colonist' taxa.
 

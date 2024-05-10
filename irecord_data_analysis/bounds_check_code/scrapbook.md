@@ -438,3 +438,129 @@ Mike Fox's ant records turning up where expected. Ben has been very cautious *an
 
 Look at where the cliff drops off on individual species graphs
 - Statisticians laughed and said 'good luck, we're trying to work that out in our own fields' when asked about outlier identification
+
+
+# Follow the Plan
+
+## Breakdown of each record scheme's taxonomic weighting
+
+### Bombus
+```
+SELECT COUNT(sm.*)
+FROM sur_mat sm
+JOIN nomenclature.full f ON sm.tik = f.s_id
+WHERE g_name = 'Bombus'
+AND s_name NOT LIKE '% agg'
+```
+
+### Other bee
+```
+SELECT COUNT(sm.*)
+FROM sur_mat sm
+JOIN nomenclature.full f ON sm.tik = f.s_id
+WHERE f_name = 'Apidae'
+AND g_name != 'Bombus'
+AND s_name NOT LIKE '% agg'
+```
+
+### Eusocial wasps
+```
+SELECT COUNT(sm.*)
+FROM sur_mat sm
+JOIN nomenclature.full f ON sm.tik = f.s_id
+WHERE (g_name = 'Vespa'
+OR g_name = 'Vespula'
+OR g_name = 'Dolichovespula')
+AND s_name NOT LIKE '% agg'
+```
+
+### Other wasps
+```
+SELECT COUNT(sm.*)
+FROM sur_mat sm
+JOIN nomenclature.full f ON sm.tik = f.s_id
+WHERE f.sf_id != 6 -- Not Formicidea (ants)
+AND f.f_id != 14 -- Not Apidae: iso. Else & Edwards: 2018 (i.e. not bees)
+AND f.g_id != 6 -- Not Vespula
+AND f.g_id != 108 -- Not Vespa
+AND f.g_id != 111 -- Not Dolichovespula
+AND s_name NOT LIKE '% agg'
+```
+
+### Ants
+```
+SELECT COUNT(sm.*)
+FROM sur_mat sm
+JOIN nomenclature.full f ON sm.tik = f.s_id
+WHERE f.sf_id = 6 -- Formicidea
+AND f.s_name NOT LIKE '% agg'
+```
+
+## Breakdown for irecord ver_2
+
+### Bombus
+```
+SELECT COUNT(sm.*)
+FROM bwars_redlist.pass sm
+JOIN nomenclature.full f ON sm.nik = f.s_id
+WHERE g_name = 'Bombus'
+AND s_name NOT LIKE '% agg'
+AND verifier != 'Hargreaves, Ben'
+AND verifier != 'Fox, Mike'
+AND ver_2 = 'Correct'
+```
+
+### Other bee
+```
+SELECT COUNT(sm.*)
+FROM bwars_redlist.pass sm
+JOIN nomenclature.full f ON sm.nik = f.s_id
+WHERE f_name = 'Apidae'
+AND g_name != 'Bombus'
+AND s_name NOT LIKE '% agg'
+AND verifier != 'Hargreaves, Ben'
+AND verifier != 'Fox, Mike'
+AND ver_2 = 'Correct'
+```
+
+### Eusocial wasp
+```
+SELECT COUNT(sm.*)
+FROM bwars_redlist.pass sm
+JOIN nomenclature.full f ON sm.nik = f.s_id
+WHERE (g_name = 'Vespa'
+OR g_name = 'Vespula'
+OR g_name = 'Dolichovespula')
+AND s_name NOT LIKE '% agg'
+AND verifier != 'Hargreaves, Ben'
+AND verifier != 'Fox, Mike'
+AND ver_2 = 'Correct'
+```
+
+### Other wasp
+```
+SELECT COUNT(sm.*)
+FROM bwars_redlist.pass sm
+JOIN nomenclature.full f ON sm.nik = f.s_id
+WHERE f.sf_id != 6 -- Not Formicidea (ants)
+AND f.f_id != 14 -- Not Apidae: iso. Else & Edwards: 2018 (i.e. not bees)
+AND f.g_id != 6 -- Not Vespula
+AND f.g_id != 108 -- Not Vespa
+AND f.g_id != 111 -- Not Dolichovespula
+AND s_name NOT LIKE '% agg'
+AND verifier != 'Hargreaves, Ben'
+AND verifier != 'Fox, Mike'
+AND ver_2 = 'Correct'
+```
+
+### Ant
+```
+SELECT COUNT(sm.*)
+FROM bwars_redlist.pass sm
+JOIN nomenclature.full f ON sm.nik = f.s_id
+WHERE f.sf_id = 6 -- Formicidea
+AND f.s_name NOT LIKE '% agg'
+AND verifier != 'Hargreaves, Ben'
+AND verifier != 'Fox, Mike'
+AND ver_2 = 'Correct'
+```

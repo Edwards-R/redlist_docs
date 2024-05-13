@@ -1,8 +1,8 @@
 # Data Breakdown
-A documentation of examination into the iRecord data.
+A documentation of examination into the iRecord data, breaking the data set down into various sub-categories in a bid to develop greater understanding of the information contained.
 
-## Importing
-This section examines the number of records, the number of records which failed to pass the Checker, as well as their reason for failure.
+## Importing iRecord data
+This section examines the number of records in the incoming iRecord dataset, the number of records which failed to pass the Checker, as well as their reasons for failure.
 
 ### Pre-Checker
 How many records were pushed to the Checker
@@ -23,7 +23,7 @@ How many records passed the Checker
 ### Checker failure reason
 > Records may fail on multiple attributes
 
-By far the most common cause of failure is the inability to assign a binomial to an Understanding (14.1%). This failure is directly equivalent to an inability to confidently assign the record to a Type, making the record impossible to use without further analysis.
+By far the most common cause of failure is the inability to assign a binomial to an Understanding (14.1%). This failure is directly equivalent to an inability to confidently assign the record to a Type. Inability to resolve a binomial to type is only resolvable through specific, highly skilled, human intervention - typically reserved for taxonomists with a specific goal in mind.
 
 |Reason|Records|Percentage|
 |---|---:|---:|
@@ -34,9 +34,11 @@ By far the most common cause of failure is the inability to assign a binomial to
 |Subgrid present|785|0.2%|
 
 ## Simple Unique Record
-A common problem in biological recording is the re-entry of data, leading to multiple copies of the same record. `Simple unique record` is a data processing stage designed to condense such records to one record i.e. pure occurrence. The low replication level in iRecord indicates that it is functioning primarily as a primary source of data. This is opposed to BWARS, which is very firmly acting as a tertiary source.
+A common problem in biological recording is the re-entry of data, leading to multiple copies of the same record. `Simple unique record` is a data processing stage designed to condense such records by removing duplication based on the attributes of What, Where, and When. Simple Unique Record has been used in multiple major research projects and is now considered the default export from the BWARS database.
 
-Given the nature of this investigation, converting the iRecord data to full simple unique record format would be an extraordinary amount of work. Collisions (records which match on what/where/when) would need to be individually examined and differences in other attributes resolved to identify if these truly are the same record. Given the low (3.5%) rate of collision in the iRecord dataset, it is reasonable to compare BWARS's simple unique record data directly to iRecord data in terms of data volume.
+The level of self-replication contained within a dataset is measured by 'compression' - the amount of records 'compressed' by the simple unique record procedure. A high compression indicates a high level of replication, which is undesirable. The low replication level in iRecord indicates that the scheme is functioning primarily as a primary source of data. Meanwhile BWARS is very firmly acting as a tertiary source.
+
+Given the nature of the Red List investigation, converting the iRecord data to full simple unique record format would be an extraordinary amount of work. Collisions (records which match on what/where/when) would need to be individually examined and differences in other attributes resolved to identify if these truly are the same record. Given the low (3.5%) rate of collision in the iRecord dataset, it is reasonable to compare BWARS's simple unique record data directly to iRecord data in terms of data volume.
 
 |Scheme|Raw records|Simple unique record|Compression|
 |---|---:|---:|---:|
@@ -46,10 +48,23 @@ Given the nature of this investigation, converting the iRecord data to full simp
 ## iRecord verification status
 
 ### Verification status 1
-Verification status 1 is of no use to BWARS as it does not provide sufficient information to use a record in a scientific context.
+Verification status 1 is of no use to the Red List project as it does not provide sufficient information to use a record in a scientific context.
+
+### Verification status 2
+Verification status 2 contains the most precise categorisation of the two available statuses. Statuses in verification status 2 are not sorted by reliability. A `Correct` record is *not* less trustworthy than a `Considered correct` record. The verification statuses under verification status 2, as well as a short explanation, are:
+
+|Status|Explanation|
+|---|---|
+|Correct| The verifier is able to confirm that the species has been identified correctly, usually on the basis of photo/s within iRecord (or specimen/s outside iRecord)
+|Considered correct| The verifier has not seen photo/s or specimen/s but has a high degree of confidence that the record is likely to be correct, based on difficulty of ID, date, location and recorder skills/experience etc.
+|Unable to verify| The verifier has a high degree of confidence that the record is likely to be incorrect based on difficulty of ID, date, location and recorder skills/experience (and where no photo/s or specimen/s are available); or photos are available but do not show enough detail to confirm the identification; and/or the record is not sufficiently well documented to confirm (e.g. location is vague)
+|Incorrect| The verifier is able to confirm that the species has not been identified correctly, or the record is erroneous in other respects, on the basis of photo/s or specimen/s, or on information from the recorder
+|Plausible| The record is plausible based on species, date and location, but there is not enough supporting evidence for the possibility of misidentification to be ruled out, and the record remains within the "Unconfirmed" category
+|Not reviewed| The record is in the system but has either not been looked at, or a verification decision not yet been reached (all records start off in this category)
 
 ### Verification status 2 breakdown
-The low number of 'incorrect' records is due to the difficulty in making a definitive 'no' answer. Records are far more likely to fall into 'plausible' category as accurately identifying incorrect data points, especially in the absence of critical information, is very hard to do.
+
+The low number of `Incorrect` records is due to the difficulty in making a definitive 'no' answer. Records are far more likely to fall into 'plausible' category as accurately identifying incorrect data points, especially in the absence of critical information, is very hard to do. Verifiers are also reluctant to assign data to `Incorrect` through fear of discouraging newcomers.
 
 Records typically pass through one of two streams. The first stream is where the verifier trusts the originator of a dataset to be accurate. This dataset will then be assigned `Considered correct`. The second stream is where a verifier examines and assesses individual records one-by-one. This scenario is the only one whereby a record can reach `Correct`. There is no way to know whether a rejected record (`Plausible` or `Unable to verify`) was sourced from bulk-processing or individual examination.
 
@@ -66,7 +81,9 @@ From examination of the ratio of `Considered correct` to `Plausible` and `Unable
 |*Status not used*|58,935|14.8%
 
 ## Threshold for use
-The criteria for acceptance into the BWARS database is that `a record must have been identified by a person known to be capable of identifying that taxa`. In the absence of checking individual determiner names, the only way to extract such information from the iRecord dataset is to use the verification status `Correct`. This is the only status which requires that the verifier has seen the individual record in question, and agrees that the record is valid. There will still be some level of error, but the level should, if all is proceeding correctly, be comparable to the level of accuracy found in BWARS.
+The criteria for acceptance into the BWARS database is that `a record must have been identified by a person known to be capable of identifying that taxa`. The current import stream for BWARS relies on a verifier approaching BWARS to donate their data, upon which experienced entomologists will examine the incoming data to look for potential problems or errors. The submitter may be asked to provide specimens or vouchers for particular records, especially those with significant potential for confusion. The experienced entomologist will then run through the key and specimen alongside the submitter, as well as provide assistance on other specimens as requested. In this way BWARS maintains high data quality whilst also providing a way to provide targeted help and tutoring to entomologists.
+
+In the absence of checking individual determiner names, the only way to extract such information from the iRecord dataset is to use the verification status `Correct`. This is the only status which requires that the verifier has seen the individual record in question, and agrees that the record is valid. There will still be some level of error, but the level should, if all is proceeding correctly, be comparable to the level of accuracy found in BWARS.
 
 ### Correct: simple unique record
 The compression rate for simple unique records on this subset of data is still low enough to not be a concern in forming comparisons to the BWARS database.
@@ -94,7 +111,7 @@ There are 52,441 (15.9% of iRecord) records which are directly found in both the
 ### iRecord and BWARS userbase comparison
 BWARS data is almost exclusively from people who have spent significant time and effort to develop their identification skills. Where the data is not from this source, it has invariably passed through such a source before it will be accepted. Of these sources, a large amount of the records from from users who perform contracted surveys. Samples of which include development work and nature reserve assessments.
 
-Accuracy in aculeate hymenoptera identification is an *advanced* skill, as one of the requirements for accuracy is understanding the limitations of your knowledge. Such a level of skill development does not happen without significant time investment, which typically manifests as also producing large volumes of data. In turn, these large volumes of data get fed into a recording platform. Said platform can be anywhere from a handwritten fieldbook to dedicated recording platforms such as Recorder and iRecord. Such people are *highly* unlikely to submit photographic vouchers for every single record, simply due to the time and inconvenience that would cause. Their data therefore defaults to 'Considered correct', leading to the majority overlap residing in this particular verification category.
+Accuracy in aculeate hymenoptera identification is an *advanced* skill, as one of the requirements for accuracy is understanding the limitations of your knowledge. Such a level of skill development does not happen without significant time investment, which typically manifests as also producing large volumes of data. In turn, these large volumes of data get fed into a recording platform. Said platform can be anywhere from a handwritten fieldbook to dedicated recording platforms such as Recorder and iRecord. Such people are *highly* unlikely to submit photographic vouchers for every single record, simply due to the time and inconvenience that would cause. Their data therefore defaults to `Considered correct`, leading to the majority overlap residing in this particular verification category.
 
 ### Verification status of overlap
 Attempting to obtain exact figures for overlap is impossible without fully converting the iRecord dataset to simple unique record. None the less, it is possible to get an appropriate estimate (within compression + 3%).
@@ -110,9 +127,9 @@ The results suggest that BWARS is managing to source iRecord data from far more 
 |Not verified| 13,506|26.9%|
 
 ### Shortlist of available records
-At this point, the total pool of available records for immediate harvest in iRecord sits at ~79,101 records. This figure is from the simple unique record (correct) dataset figure of 88,990, minus the overlap in correct records of 9,889.
+At this point, the total pool of available records for immediate harvest in iRecord sits at ~79,101 records. This figure is from the simple unique record (`Correct`) dataset figure of 88,990, minus the overlap in correct records of 9,889.
 
-If verfiers which are known to have disobeyed the iRecord/BWARS verification guide are excluded, the pool decreases by approximately 2,600 records to ~76,600 'Correct', unique, non-overlap records.
+If verfiers which are known to have disobeyed the iRecord/BWARS verification guide are excluded, the pool decreases by approximately 2,600 records to ~76,600 `Correct`, unique, non-overlap records.
 
 ## Taxon grouping
 A breakdown of the broad-scale taxonomic composition of the iRecord and BWARS datasets. Only iRecord data which has passed the Checker is used in this section due to the need for precision in nomenclature. The BWARS subset used is the de-duplicated `simple unique record` set.
@@ -127,7 +144,7 @@ A breakdown of the broad-scale taxonomic composition of the iRecord and BWARS da
 |Ants|All non-aggregate species of Formicidea|
 
 ### Absolute record count taxonomic composition
-A breakdown of each scheme's broad scale taxonomic content, including a subdivision to 'Correct' and 'Considered correct'. Reported as absolute record counts
+A breakdown of each scheme's broad scale taxonomic content, including a subdivision to `Correct` and `Considered correct`. Reported as absolute record counts
 |Scheme|Bombus|Other bee|Eusocial wasp|Other Wasp|Ant|
 |---|---:|---:|---:|---:|---:|
 |BWARS|191,618|340,765|30,523|161,215|48,100|
@@ -138,7 +155,7 @@ A breakdown of each scheme's broad scale taxonomic content, including a subdivis
 ** Verifiers known to have not followed the iRecord or BWARS verification ruleset removed. This will ***very*** strongly impact ant records.
 
 ### Percentage-based taxonomic composition
-A breakdown of each scheme's broad scale taxonomic content, including a subdivision to 'Correct' and 'Considered correct'. Reported as the percentage of each scheme's total
+A breakdown of each scheme's broad scale taxonomic content, including a subdivision to `Correct` and `Considered correct`. Reported as the percentage of each scheme's total
 |Scheme|Bombus|Other bee|Eusocial wasp|Other Wasp|Ant|
 |---|---:|---:|---:|---:|---:|
 |BWARS|24.8%|44.1%|4.0%|20.9%|6.2%
@@ -200,7 +217,7 @@ The result highlights the paucity of data on the very hard-to-identify taxa.
 ** Without *M. albifrons* data
 
 ### iRecord difficulty distribution by verification status 2
-Due to space constraints, abbreviations have been used for iRecord's `verification status 2` attribute. The abbreviations are as follows:
+Due to space constraints, abbreviations have been used for iRecord's verification status 2 attribute. The abbreviations are as follows:
 
 |Abbreviation|Full|
 |---|---|
@@ -300,18 +317,18 @@ An unexpectedly high rate of rejection was encountered when attempting to handle
 
 iRecord appears to be acting as a mainly primary data source i.e. most records are submitted by the originator of the record rather than a third party. BWARS is the opposite, functioning as a tertiary data source. 15.9% of iRecord data was found to already exist in the BWARS dataset, predominantly (53.5%) from the 'Considered correct' stream. Attempting to condense the iRecord data down to pure occurrence based on what/where/when only results in a 3.5% reduction in records, whilst BWARS has a 26.5% compression rate. The likely explanation is that BWARS acts as a tertiary data source and requests data from people repeatedly, whilst iRecord acts as a primary data source and relies on users to input their data directly. Experienced recorders do share records, particularly of rarities or notable observations, amongst themselves. Such sharing is potentially indirect, for example scraping the record from published material that mentions a particular occurrence.
 
-The largest portion of records with a functional 'verification status 2' are those with 'Considered correct' (31.2%), followed by 'Unverified' (25.9%), then by'Correct' (25.8%). Whilst the majority of records *appear* to have been verfied in accordance with either the iRecord or BWARS ruleset, there is no way to test the level of adherence. Conversation with verifiers uncovered two notable instances of people whose records in this dataset are *not* in accordance. Instead, their verifications treat 'verification status 2' as a *measure of confidence* in the record being correct. When assembling the final count of 'harvestable records', these verifiers were specifically excluded from consideration.
+The largest portion of records with a functional 'verification status 2' are those with `Considered correct` (31.2%), followed by `Unverified` (25.9%), then by `Correct` (25.8%). Whilst the majority of records *appear* to have been verfied in accordance with either the iRecord or BWARS ruleset, there is no way to test the level of adherence. Conversation with verifiers uncovered two notable instances of people whose records in this dataset are *not* in accordance. Instead, their verifications treat verification status 2 as a *measure of confidence* in the record being correct. When assembling the final count of 'harvestable records', these verifiers were specifically excluded from consideration.
 
-The mistaken use of 'verification status 2' is driven by a mis-match between how the verifier reads the status and how iRecord/BWARS's rules mandate the status to be used.
+The mistaken use of verification status 2 is driven by a mis-match between how the verifier reads the status and how iRecord/BWARS's rules mandate the status to be used.
 
 In total, 52,441 records were found to match between the de-duplicated BWARS dataset and the raw iRecord dataset. This figure represents 15.9% of all of iRecord's data. The overlap is dominated by *Bombus*, with the notable exception of *Colletes hederae*, which was the subject of targeted effort.
 
-Overlap between iRecord and BWARS was predominantly found in the 'Considered correct' subset (53.5%), followed by 'Unverified' (26.9%). This division is unsurprising and reflects the general difference in submitters between the two datasets.
+Overlap between iRecord and BWARS was predominantly found in the `Considered correct` subset (53.5%), followed by `Unverified` (26.9%). This division is unsurprising and reflects the general difference in submitters between the two datasets.
 
 Comparison of the 'difficulty of identification' between iRecord and BWARS reenforces the idea of this 'experienced identifier' cohort. As 'difficulty of identification' increases, the relative proportion of data between iRecord and BWARS favours BWARS more and more. *Melecta albifrons* data was specifically removed from 'difficulty 5' data due to changes in its circumstances.
 
-Further investigation into difficulty took into account the 'verification status 2' of records in iRecord. The results here indicate that photographic recorders provide a very different species assemblage to non-photographic, though the difference is less stark than expected. The lack of starkness is most likely a result of outdated/incorrect classification of difficulty, as the table used has never been tested or fully reviewed before. A re-assessment of identification difficulty, tailored to iRecord, would be required to investigate this topic further.
+Further investigation into difficulty took into account the verification status 2 of records in iRecord. The results here indicate that photographic recorders provide a very different species assemblage to non-photographic, though the difference is less stark than expected. The lack of starkness is most likely a result of outdated/incorrect classification of difficulty, as the table used has never been tested or fully reviewed before. A re-assessment of identification difficulty, tailored to iRecord, would be required to investigate this topic further.
 
 Multi-record processing was very difficult to decisively identify, due to the minute-only resolution of the timestamps. Analysis did very heavily hint at the presence of multi-record verified data in places where it should not be, but no method could decisively identify such occurrences.
 
-'Verification status 1' has been almost entirely removed from use since 2020, though it was somehow still used by someone in 2023. The changes that deprecated 'verification status 1' likely occurred in early-mid 2019.
+Verification status 1 has been almost entirely removed from use since 2020, though it was somehow still used by someone in 2023. The changes that deprecated verification status 1 likely occurred in early-mid 2019.

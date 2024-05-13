@@ -136,7 +136,7 @@ Conversations with Mike Edwards suggests that the majority of rejected records o
 A lot of suspicious rejected records. Mike Edwards's comment was that this would be unusual to find on Hawthorne flowers in mid February, as claimed by a subsample of records.
 
 ### Does verification work?
-Yes. The 'verified other than correct/considered correct' data runs a rejection rate of 3.9% against that of verified data at 1.2%. Incoming data sits at 1.5%, though this value is highly affected by the presence of large volumes of data destined for 'Considered correct' i.e. acceptance based on the verifier's trust in the recorder. As such, photographic verification provides a greater than 0.3% decrease in rejections than suggested by pure figures.
+Yes. The 'verified other than correct/considered correct' data runs a rejection rate of 3.9% against that of verified data at 1.2%. Incoming data sits at 1.5%, though this value is highly affected by the presence of large volumes of data destined for `Considered correct` i.e. acceptance based on the verifier's trust in the recorder. As such, photographic verification provides a greater than 0.3% decrease in rejections than suggested by pure figures.
 
 ### Further investigation
 The main avenue which entomologists would like to explore are the potential 'confusion' taxa which are leading to the out-of-bounds records. Knowing the potential confusions for photographic recording will aid future verifiers avoid such situations, leading to higher quality data output.
@@ -148,6 +148,6 @@ A value of '2 days' was selected for the tolerance in further exploration, as it
 
 Examination of the Understandings present in rejections provides a good amount of insight into causes. Vespids make up a significant proportion of the most common rejections, with the likely reason that these are 'disturbances' of behaviour e.g. interruption of hibernation. Other taxa are far more concerning, especially given the lack of probability that the verifiers would get the identification incorrect given physical specimens.
 
-'Considered correct' data has a lower volume of rejection in both absolute and percentage terms than 'Correct' data. 'Unverified' data has a higher volume of rejection than both 'Correct' and 'Considered correct'.
+`Considered correct` data has a lower volume of rejection in both absolute and percentage terms than `Correct` data. `Unverified` data has a higher volume of rejection than both `Correct` and `Considered correct`.
 
 Further examination is required to delve further into this scenario. Enough information has been gathered, however, to provide a reasonable picture of the state of the data to the Red List core team. Verification is resulting in fewer temporal rejections, but the exact size of the resulting data/rejection rate is unknowable without a before & after comparison.

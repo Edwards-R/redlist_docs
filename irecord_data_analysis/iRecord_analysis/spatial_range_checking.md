@@ -98,7 +98,7 @@ A comparison of % error between various verification status 2 results. Verifiers
 Magnitude of rejection is calculated as the direct distance between a record and the edge of the relevant year-matched 40 km buffer for that taxon. The sections below examine the mean magnitude for a given taxon, as well as the standard deviation for that taxon. Take care when interpreting these figures, as the number of records makes a significant impact on the reliability of these other metrics.
 
 ### Magnitude, correct only
-The 15 most common rejected Understandings for the 'Correct' verification 2 status. Sorted by mean, descending
+The 15 most common rejected Understandings for the `Correct` verification status 2 status. Sorted by mean, descending
 
 |Understanding|Mean (m)|Std Dev (m)|Num records|
 |---|---:|---:|---:|
@@ -119,7 +119,7 @@ The 15 most common rejected Understandings for the 'Correct' verification 2 stat
 |Bombus hortorum: iso. Cameron et al: 2007|12028|24870|54
 
 ### Magnitude, considered correct only
-The 15 most common rejected Understandings for the 'Considered correct' verification 2 status. Sorted by mean, descending
+The 15 most common rejected Understandings for the `Considered correct` verification status 2 status. Sorted by mean, descending
 
 |Understanding|Mean (m)|Std Dev (m)|Num records|
 |---|---:|---:|---:|
@@ -162,7 +162,7 @@ Two major clusters of spatial rejections were identifed. One such cluster was, b
 The second main cluster of rejection was from the Isle of Mull (an island to the west of Scotland). BWARS records from this area are very few and far between, which resulted in a large void in the 40 km buffer. An entomologist has been submitting data from within this void to iRecord, in excellent volume and with commendable caution, which resulted in a large cluster of rejected records. This cluster was considered a 'true' rejection - though not an error - and left in the analysis to avoid creating bias.
 
 ### *Bombus hypnorum*
-This taxon is one which underwent colonisation followed by significant, rapid expansion. The presence of this taxon near the top of the 'Considered correct' rejections list is entirely expected, though records will still need examination to the degree of magnitude involved in the rejection.
+This taxon is one which underwent colonisation followed by significant, rapid expansion. The presence of this taxon near the top of the `Considered correct` rejections list is entirely expected, though records will still need examination to the degree of magnitude involved in the rejection.
 
 ### *Anthophora plumipes*
 An awkward species. Thought to have expanded rapidly over the past few years, there are still significant identification problems with two common bumblebees that led consulted entomologists to express concern and uncertainty over data quality.
@@ -171,10 +171,10 @@ An awkward species. Thought to have expanded rapidly over the past few years, th
 In the temporal range checker there is a general theme of 'disturbed/interrupted behaviour' which explains a large number of the most common rejections. In the spatial set there is no such obvious, demonstrated, theme that covers any large group of taxa.
 
 ### 'Correct' vs 'Considered correct'
-On all examined metrics, 'Considered correct' data has performed better than 'Correct' data. Such a result mirrors all other checks performed on this dataset, though it is still impossible to say whether this subset of data *is* better, or whether this increase in quality metric is an artefact of increased recorder coverage.
+On all examined metrics, `Considered correct` data has performed better than `Correct` data. Such a result mirrors all other checks performed on this dataset, though it is still impossible to say whether this subset of data *is* better, or whether this increase in quality metric is an artefact of increased recorder coverage.
 
 ### Does verification work
-Yes. Verifying data produces a higher quality result than the input. It is suspected that removing the records destined for 'Considered correct' would only enhance the impact shown by photo verification. The exact impact of verification cannot be determined without a before & after comparison however, which would require a separate project.
+Yes. Verifying data produces a higher quality result than the input. It is suspected that removing the records destined for `Considered correct` would only enhance the impact shown by photo verification. The exact impact of verification cannot be determined without a before & after comparison however, which would require a separate project.
 
 ### Magnitude of rejection
 As a first attempt, magnitude of rejection's strength in finding incorrect records cannot be established until a human re-examines the suspect records. As a technique for finding potentially impactful new data in a high-uncertainty area, magnitude seems very promising. Given the importance of maintaining clean data, especially in scarcer taxa, ways to separate range expansion from misidentification or errors in data entry are always worth exploring.
@@ -189,6 +189,6 @@ Many tests performed in this project require an A:B experiment to be performed t
 ## Conclusion
 Many rejections were encountered, although without an immediately obvious overlying 'theme' to the rejections that would explain the majority of data. The 40 km figure used for buffers was untestable still, as tests require human opinion to re-verify data.
 
-'Considered correct' data has a lower volume of rejection in both absolute and percentage terms than 'Correct' data.
+`Considered correct` data has a lower volume of rejection in both absolute and percentage terms than `Correct` data.
 
-In both 'Correct' and 'Considered correct' statuses, there was a significant overlap in the Understandings with the majority of rejections. It is uncertain whether this overlap is the result of poor BWARS data volume, or reflects general difficulty in identification.
+In both `Correct` and `Considered correct` statuses, there was a significant overlap in the Understandings with the majority of rejections. It is uncertain whether this overlap is the result of poor BWARS data volume, or reflects general difficulty in identification.

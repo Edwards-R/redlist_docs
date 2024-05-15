@@ -1,4 +1,4 @@
-# iRecord data evaluation for the Aculeate Hymenoptera Red List
+# iRecord data evaluation for the Aculeate Hymenoptera Red List <!-- omit from toc -->
 This document covers an assessment of the iRecord data export for Aculeate Hymenoptera, specifically for use in the production of a GB regional Red List.
 ## Introduction
 ### Why check data so carefully?

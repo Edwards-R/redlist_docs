@@ -20,77 +20,77 @@ This section breaks down the rejections from the routine to examine the distribu
 #### Breakdown of rejections per Understanding, all records
 A breakdown of where rejections occur, per Understanding.
 
-|Understanding|# rejections|
-|---|---:|
-|Anthophora plumipes: iso. Amiet et al: 2007|	388
-|Vespa crabro: iso. Archer: 1989|	327
-|Vespula vulgaris: iso. Archer: 1989|	297
-|Osmia bicornis: iso. Amiet et al: 2004|	270
-|Bombus hypnorum: iso. Cameron et al: 2007|	259
-|Andrena fulva: iso. Perkins: 1919|	241
-|Lasius flavus: iso. Bolton & Collingwood: 1975|	216
-|Anthidium manicatum: iso. Amiet et al: 2004|	209
-|Colletes hederae: iso. Schmidt & Westrich: 1993|	191
-|Vespula germanica: iso. Archer: 1989|	187
-|Bombus muscorum: iso. Cameron et al: 2007|	178
-|Andrena clarkella: iso. Perkins: 1919|	173
-|Bombus pascuorum: iso. Cameron et al: 2007|	163
-|Andrena haemorrhoa: iso. Amiet et al: 2010|	155
-|Bombus humilis: iso. Cameron et al: 2007|	152
+| Understanding                                   | # rejections |
+| ----------------------------------------------- | -----------: |
+| Anthophora plumipes: iso. Amiet et al: 2007     |          388 |
+| Vespa crabro: iso. Archer: 1989                 |          327 |
+| Vespula vulgaris: iso. Archer: 1989             |          297 |
+| Osmia bicornis: iso. Amiet et al: 2004          |          270 |
+| Bombus hypnorum: iso. Cameron et al: 2007       |          259 |
+| Andrena fulva: iso. Perkins: 1919               |          241 |
+| Lasius flavus: iso. Bolton & Collingwood: 1975  |          216 |
+| Anthidium manicatum: iso. Amiet et al: 2004     |          209 |
+| Colletes hederae: iso. Schmidt & Westrich: 1993 |          191 |
+| Vespula germanica: iso. Archer: 1989            |          187 |
+| Bombus muscorum: iso. Cameron et al: 2007       |          178 |
+| Andrena clarkella: iso. Perkins: 1919           |          173 |
+| Bombus pascuorum: iso. Cameron et al: 2007      |          163 |
+| Andrena haemorrhoa: iso. Amiet et al: 2010      |          155 |
+| Bombus humilis: iso. Cameron et al: 2007        |          152 |
 
 #### Breakdown per Understanding, `Correct` only
 Using only `Correct` verification status 2 records. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
 
-|Understanding|# rejections|
-|---|---:|
-|Anthophora plumipes: iso. Amiet et al: 2007|	161
-|Vespa crabro: iso. Archer: 1989|	122
-|Andrena fulva: iso. Perkins: 1919|	92
-|Osmia bicornis: iso. Amiet et al: 2004|	56
-|Bombus hortorum: iso. Cameron et al: 2007|	54
-|Anthidium manicatum: iso. Amiet et al: 2004|	49
-|Andrena bicolor: iso. Amiet et al: 2010|	46
-|Nomada goodeniana: iso. Perkins: 1919|	46
-|Andrena cineraria: iso. Perkins: 1919|	44
-|Bombus vestalis: iso. Cameron et al: 2007|	43
-|Andrena nigroaenea: iso. Perkins: 1919|	43
-|Nomada marshamella: iso. Perkins: 1919|	43
-|Bombus jonellus: iso. Cameron et al: 2007|	40
-|Andrena clarkella: iso. Perkins: 1919|	40
-|Bombus hypnorum: iso. Cameron et al: 2007|	37
+| Understanding                               | # rejections |
+| ------------------------------------------- | -----------: |
+| Anthophora plumipes: iso. Amiet et al: 2007 |          161 |
+| Vespa crabro: iso. Archer: 1989             |          122 |
+| Andrena fulva: iso. Perkins: 1919           |           92 |
+| Osmia bicornis: iso. Amiet et al: 2004      |           56 |
+| Bombus hortorum: iso. Cameron et al: 2007   |           54 |
+| Anthidium manicatum: iso. Amiet et al: 2004 |           49 |
+| Andrena bicolor: iso. Amiet et al: 2010     |           46 |
+| Nomada goodeniana: iso. Perkins: 1919       |           46 |
+| Andrena cineraria: iso. Perkins: 1919       |           44 |
+| Bombus vestalis: iso. Cameron et al: 2007   |           43 |
+| Andrena nigroaenea: iso. Perkins: 1919      |           43 |
+| Nomada marshamella: iso. Perkins: 1919      |           43 |
+| Bombus jonellus: iso. Cameron et al: 2007   |           40 |
+| Andrena clarkella: iso. Perkins: 1919       |           40 |
+| Bombus hypnorum: iso. Cameron et al: 2007   |           37 |
 
 #### Breakdown per Understanding, `Considered correct` only
 Using only `Considered correct` verification status 2 records. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
 
-|Understanding|# rejections|
-|---|---:|
-|Vespa crabro: iso. Archer: 1989|	90
-|Anthophora plumipes: iso. Amiet et al: 2007|	84
-|Bombus hypnorum: iso. Cameron et al: 2007|	37
-|Bombus lapidarius: iso. Cameron et al: 2007|	28
-|Bombus pascuorum: iso. Cameron et al: 2007|	27
-|Bombus pratorum: iso. Cameron et al: 2007|	25
-|Vespula vulgaris: iso. Archer: 1989|	25
-|Andrena fulva: iso. Perkins: 1919|	22
-|Bombus hortorum: iso. Cameron et al: 2007|	22
-|Andrena cineraria: iso. Perkins: 1919|	22
-|Bombus muscorum: iso. Cameron et al: 2007|	22
-|Bombus monticola: iso. Cameron et al: 2007|	22
-|Osmia bicornis: iso. Amiet et al: 2004|	20
-|Bombus vestalis: iso. Cameron et al: 2007|	19
-|Anthidium manicatum: iso. Amiet et al: 2004|	17
+| Understanding                               | # rejections |
+| ------------------------------------------- | -----------: |
+| Vespa crabro: iso. Archer: 1989             |           90 |
+| Anthophora plumipes: iso. Amiet et al: 2007 |           84 |
+| Bombus hypnorum: iso. Cameron et al: 2007   |           37 |
+| Bombus lapidarius: iso. Cameron et al: 2007 |           28 |
+| Bombus pascuorum: iso. Cameron et al: 2007  |           27 |
+| Bombus pratorum: iso. Cameron et al: 2007   |           25 |
+| Vespula vulgaris: iso. Archer: 1989         |           25 |
+| Andrena fulva: iso. Perkins: 1919           |           22 |
+| Bombus hortorum: iso. Cameron et al: 2007   |           22 |
+| Andrena cineraria: iso. Perkins: 1919       |           22 |
+| Bombus muscorum: iso. Cameron et al: 2007   |           22 |
+| Bombus monticola: iso. Cameron et al: 2007  |           22 |
+| Osmia bicornis: iso. Amiet et al: 2004      |           20 |
+| Bombus vestalis: iso. Cameron et al: 2007   |           19 |
+| Anthidium manicatum: iso. Amiet et al: 2004 |           17 |
 
 ### Rates of rejection
 A comparison of % error between various verification status 2 results. Verifiers known to have not followed the iRecord or BWARS guidance have been removed from this step.
 
-|Grouping|All|Errors|% error|
-|---|---:|---:|---:|
-|Correct|91,207|1,999|2.2
-|Considered correct|105,568|1,157|1.1
-|Plausible|4,797|367|7.7
-|Incorrect|559|74|13.2
-|Unable to verify|1,916|277|14.5
-|Not reviewed|88,442|3,765|4.3
+| Grouping           |     All | Errors | % error |
+| ------------------ | ------: | -----: | ------: |
+| Correct            |  91,207 |  1,999 |     2.2 |
+| Considered correct | 105,568 |  1,157 |     1.1 |
+| Plausible          |   4,797 |    367 |     7.7 |
+| Incorrect          |     559 |     74 |    13.2 |
+| Unable to verify   |   1,916 |    277 |    14.5 |
+| Not reviewed       |  88,442 |  3,765 |     4.3 |
 
 ### Magnitude of rejection
 >This is an experimental metric which has been developed during this analysis. Take care interpreting the result as there has been minimal time to review and fully interpret the results. Conclusions drawn from this section are deliberately vague and restricted to only statements with high confidence.
@@ -100,57 +100,57 @@ Magnitude of rejection is calculated as the direct distance between a record and
 #### Magnitude, correct only
 The 15 most common rejected Understandings for the `Correct` verification status 2 status. Sorted by mean, descending
 
-|Understanding|Mean (m)|Std Dev (m)|Num records|
-|---|---:|---:|---:|
-|Anthophora plumipes: iso. Amiet et al: 2007|53682|41923|161
-|Bombus jonellus: iso. Cameron et al: 2007|41942|35035|40
-|Bombus vestalis: iso. Cameron et al: 2007|35597|29224|43
-|Andrena clarkella: iso. Perkins: 1919|27428|20256|40
-|Nomada goodeniana: iso. Perkins: 1919|25827|26793|46
-|Anthidium manicatum: iso. Amiet et al: 2004|23801|21174|49
-|Andrena fulva: iso. Perkins: 1919|23520|22257|92
-|Andrena nigroaenea: iso. Perkins: 1919|20919|21646|43
-|Vespa crabro: iso. Archer: 1989|18302|17994|122
-|Andrena bicolor: iso. Amiet et al: 2010|17815|14336|46
-|Nomada marshamella: iso. Perkins: 1919|16497|16512|43
-|Bombus hypnorum: iso. Cameron et al: 2007|16406|17802|37
-|Andrena cineraria: iso. Perkins: 1919|15663|10894|44
-|Osmia bicornis: iso. Amiet et al: 2004|12571|14528|56
-|Bombus hortorum: iso. Cameron et al: 2007|12028|24870|54
+| Understanding                               | Mean (m) | Std Dev (m) | Num records |
+| ------------------------------------------- | -------: | ----------: | ----------: |
+| Anthophora plumipes: iso. Amiet et al: 2007 |   53,682 |      41,923 |         161 |
+| Bombus jonellus: iso. Cameron et al: 2007   |   41,942 |      35,035 |          40 |
+| Bombus vestalis: iso. Cameron et al: 2007   |   35,597 |      29,224 |          43 |
+| Andrena clarkella: iso. Perkins: 1919       |   27,428 |      20,256 |          40 |
+| Nomada goodeniana: iso. Perkins: 1919       |   25,827 |      26,793 |          46 |
+| Anthidium manicatum: iso. Amiet et al: 2004 |   23,801 |      21,174 |          49 |
+| Andrena fulva: iso. Perkins: 1919           |   23,520 |      22,257 |          92 |
+| Andrena nigroaenea: iso. Perkins: 1919      |   20,919 |      21,646 |          43 |
+| Vespa crabro: iso. Archer: 1989             |   18,302 |      17,994 |         122 |
+| Andrena bicolor: iso. Amiet et al: 2010     |   17,815 |      14,336 |          46 |
+| Nomada marshamella: iso. Perkins: 1919      |   16,497 |      16,512 |          43 |
+| Bombus hypnorum: iso. Cameron et al: 2007   |   16,406 |      17,802 |          37 |
+| Andrena cineraria: iso. Perkins: 1919       |   15,663 |      10,894 |          44 |
+| Osmia bicornis: iso. Amiet et al: 2004      |   12,571 |      14,528 |          56 |
+| Bombus hortorum: iso. Cameron et al: 2007   |   12,028 |      24,870 |          54 |
 
 #### Magnitude, considered correct only
 The 15 most common rejected Understandings for the `Considered correct` verification status 2 status. Sorted by mean, descending
 
-|Understanding|Mean (m)|Std Dev (m)|Num records|
-|---|---:|---:|---:|
-|Anthophora plumipes: iso. Amiet et al: 2007|38099|32458|84
-|Bombus muscorum: iso. Cameron et al: 2007|35672|23252|22
-|Anthidium manicatum: iso. Amiet et al: 2004|25351|25668|17
-|Bombus monticola: iso. Cameron et al: 2007|24364|24454|22
-|Bombus pratorum: iso. Cameron et al: 2007|21069|24612|25
-|Andrena fulva: iso. Perkins: 1919|20193|22970|22
-|Osmia bicornis: iso. Amiet et al: 2004|18114|15281|20
-|Vespula vulgaris: iso. Archer: 1989|15798|22918|25
-|Bombus hypnorum: iso. Cameron et al: 2007|15400|26099|37
-|Vespa crabro: iso. Archer: 1989|15023|15781|90
-|Bombus lapidarius: iso. Cameron et al: 2007|14907|21734|28
-|Bombus pascuorum: iso. Cameron et al: 2007|13885|17573|27
-|Andrena cineraria: iso. Perkins: 1919|13881|11593|22
-|Bombus hortorum: iso. Cameron et al: 2007|13136|16114|22
-|Bombus vestalis: iso. Cameron et al: 2007|11919|15824|19
+| Understanding                               | Mean (m) | Std Dev (m) | Num records |
+| ------------------------------------------- | -------: | ----------: | ----------: |
+| Anthophora plumipes: iso. Amiet et al: 2007 |   38,099 |      32,458 |          84 |
+| Bombus muscorum: iso. Cameron et al: 2007   |   35,672 |      23,252 |          22 |
+| Anthidium manicatum: iso. Amiet et al: 2004 |   25,351 |      25,668 |          17 |
+| Bombus monticola: iso. Cameron et al: 2007  |   24,364 |      24,454 |          22 |
+| Bombus pratorum: iso. Cameron et al: 2007   |   21,069 |      24,612 |          25 |
+| Andrena fulva: iso. Perkins: 1919           |   20,193 |      22,970 |          22 |
+| Osmia bicornis: iso. Amiet et al: 2004      |   18,114 |      15,281 |          20 |
+| Vespula vulgaris: iso. Archer: 1989         |   15,798 |      22,918 |          25 |
+| Bombus hypnorum: iso. Cameron et al: 2007   |   15,400 |      26,099 |          37 |
+| Vespa crabro: iso. Archer: 1989             |   15,023 |      15,781 |          90 |
+| Bombus lapidarius: iso. Cameron et al: 2007 |   14,907 |      21,734 |          28 |
+| Bombus pascuorum: iso. Cameron et al: 2007  |   13,885 |      17,573 |          27 |
+| Andrena cineraria: iso. Perkins: 1919       |   13,881 |      11,593 |          22 |
+| Bombus hortorum: iso. Cameron et al: 2007   |   13,136 |      16,114 |          22 |
+| Bombus vestalis: iso. Cameron et al: 2007   |   11,919 |      15,824 |          19 |
 
 #### Spatial magnitude per verification status 2
 A breakdown of rejections, grouped by their verification status 2
 
-|Understanding|Mean (m)|Std Dev (m)|Num records|
-|---|---:|---:|---:|
-|Correct|28179|34162|2295
-|Considered correct|24409|31712|1511
-|Plausible|38488|52770|389
-|Unable to verify|95041|116600|341
-|Incorrect|95704|110405|103
-|Not reviewed|34081|44687|3765
-|NULL|34852|50341|1110
+| Understanding      | Mean (m) | Std Dev (m) | Num records |
+| ------------------ | -------: | ----------: | ----------: |
+| Correct            |   28,179 |      34,162 |       2,295 |
+| Considered correct |   24,409 |      31,712 |       1,511 |
+| Plausible          |   38,488 |      52,770 |         389 |
+| Unable to verify   |   95,041 |     116,600 |         341 |
+| Incorrect          |   95,704 |     110,405 |         103 |
+| Not reviewed       |   34,081 |      44,687 |        3765 |
+| NULL               |   34,852 |      50,341 |        1110 |
 
 ### Discussion
 #### Expansion potential

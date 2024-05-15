@@ -4,5 +4,6 @@ build/irecord.md:
 	irecord_data_analysis/iRecord_analysis/data_breakdown.md \
 	irecord_data_analysis/iRecord_analysis/spatial_range_checking.md \
 	irecord_data_analysis/iRecord_analysis/temporal_range_checking.md \
-	irecord_data_analysis/iRecord_analysis/conclusion.md glossary.md \
+	irecord_data_analysis/iRecord_analysis/conclusion.md \
+	irecord_data_analysis/glossary.md \
 	> build/'iRecord Data Analysis.md'

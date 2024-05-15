@@ -6,32 +6,32 @@ This section examines the number of records in the incoming iRecord dataset, the
 
 #### Pre-Checker
 How many records were pushed to the Checker
-|Included|Records|Percentage|
-|---|---:|---:|
-|Total|437,553|100%|
-|Yes|399,105|91.2%|
-|No|38,448|8.8%|
+| Included | Records | Percentage |
+| -------- | ------: | ---------: |
+| Total    | 437,553 |       100% |
+| Yes      | 399,105 |      91.2% |
+| No       |  38,448 |       8.8% |
 
 #### Checker pass rate
 How many records passed the Checker
-|Pass|Records|Percentage|
-|---|---:|---:|
-|All|399,105|100%|
-|Yes|341,687|85.6%|
-|No|57,418|14.4%|
+| Pass | Records | Percentage |
+| ---- | ------: | ---------: |
+| All  | 399,105 |       100% |
+| Yes  | 341,687 |      85.6% |
+| No   |  57,418 |      14.4% |
 
 #### Checker failure reason
 > Records may fail on multiple attributes
 
 By far the most common cause of failure is the inability to assign a binomial to an Understanding (14.1%). This failure is directly equivalent to an inability to confidently assign the record to a Type. Inability to resolve a binomial to type is only resolvable through specific, highly skilled, human intervention - typically reserved for taxonomists with a specific goal in mind.
 
-|Reason|Records|Percentage|
-|---|---:|---:|
-|Multiple potential Understandings|56,302|14.1%|
-|No Gridref/VC match found|131|0.0%|
-|Species has no match|236|0.1%|
-|Spatial resolution too low|154|0.0%|
-|Subgrid present|785|0.2%|
+| Reason                            | Records | Percentage |
+| --------------------------------- | ------: | ---------: |
+| Multiple potential Understandings |  56,302 |      14.1% |
+| No Gridref/VC match found         |     131 |       0.0% |
+| Species has no match              |     236 |       0.1% |
+| Spatial resolution too low        |     154 |       0.0% |
+| Subgrid present                   |     785 |       0.2% |
 
 ### Simple Unique Record
 A common problem in biological recording is the re-entry of data, leading to multiple copies of the same record. `Simple unique record` is a data processing stage designed to condense such records by removing duplication based on the attributes of What, Where, and When. Simple Unique Record has been used in multiple major research projects and is now considered the default export from the BWARS database.
@@ -40,10 +40,10 @@ The level of self-replication contained within a dataset is measured by 'compres
 
 Given the nature of the Red List investigation, converting the iRecord data to full simple unique record format would be an extraordinary amount of work. Collisions (records which match on what/where/when) would need to be individually examined and differences in other attributes resolved to identify if these truly are the same record. Given the low (3.5%) rate of collision in the iRecord dataset, it is reasonable to compare BWARS's simple unique record data directly to iRecord data in terms of data volume.
 
-|Scheme|Raw records|Simple unique record|Compression|
-|---|---:|---:|---:|
-|BWARS|1,135,135|834,568|26.5%|
-|iRecord|341,687|329,796|3.5%|
+| Scheme  | Raw records | Simple unique record | Compression |
+| ------- | ----------: | -------------------: | ----------: |
+| BWARS   |   1,135,135 |              834,568 |       26.5% |
+| iRecord |     341,687 |              329,796 |        3.5% |
 
 ### iRecord verification status
 
@@ -53,14 +53,14 @@ Verification status 1 is of no use to the Red List project as it does not provid
 #### Verification status 2
 Verification status 2 contains the most precise categorisation of the two available statuses. Statuses in verification status 2 are not sorted by reliability. A `Correct` record is *not* less trustworthy than a `Considered correct` record. The verification statuses under verification status 2, as well as a short explanation, are:
 
-|Status|Explanation|
-|---|---|
-|Correct| The verifier is able to confirm that the species has been identified correctly, usually on the basis of photo/s within iRecord (or specimen/s outside iRecord)
-|Considered correct| The verifier has not seen photo/s or specimen/s but has a high degree of confidence that the record is likely to be correct, based on difficulty of ID, date, location and recorder skills/experience etc.
-|Unable to verify| The verifier has a high degree of confidence that the record is likely to be incorrect based on difficulty of ID, date, location and recorder skills/experience (and where no photo/s or specimen/s are available); or photos are available but do not show enough detail to confirm the identification; and/or the record is not sufficiently well documented to confirm (e.g. location is vague)
-|Incorrect| The verifier is able to confirm that the species has not been identified correctly, or the record is erroneous in other respects, on the basis of photo/s or specimen/s, or on information from the recorder
-|Plausible| The record is plausible based on species, date and location, but there is not enough supporting evidence for the possibility of misidentification to be ruled out, and the record remains within the "Unconfirmed" category
-|Not reviewed| The record is in the system but has either not been looked at, or a verification decision not yet been reached (all records start off in this category)
+| Status             | Explanation                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Correct            | The verifier is able to confirm that the species has been identified correctly, usually on the basis of photo/s within iRecord (or specimen/s outside iRecord)                                                                                                                                                                                                                                     |
+| Considered correct | The verifier has not seen photo/s or specimen/s but has a high degree of confidence that the record is likely to be correct, based on difficulty of ID, date, location and recorder skills/experience etc.                                                                                                                                                                                         |
+| Unable to verify   | The verifier has a high degree of confidence that the record is likely to be incorrect based on difficulty of ID, date, location and recorder skills/experience (and where no photo/s or specimen/s are available); or photos are available but do not show enough detail to confirm the identification; and/or the record is not sufficiently well documented to confirm (e.g. location is vague) |
+| Incorrect          | The verifier is able to confirm that the species has not been identified correctly, or the record is erroneous in other respects, on the basis of photo/s or specimen/s, or on information from the recorder                                                                                                                                                                                       |
+| Plausible          | The record is plausible based on species, date and location, but there is not enough supporting evidence for the possibility of misidentification to be ruled out, and the record remains within the "Unconfirmed" category                                                                                                                                                                        |
+| Not reviewed       | The record is in the system but has either not been looked at, or a verification decision not yet been reached (all records start off in this category)                                                                                                                                                                                                                                            |
 
 #### Verification status 2 breakdown
 
@@ -70,15 +70,15 @@ Records typically pass through one of two streams. The first stream is where the
 
 From examination of the ratio of `Considered correct` to `Plausible` and `Unable to verify` data, it seems that verifiers do not attempt to verify non-photographic data unless they have prior connection to the originator which they can use as a basis for assessment. As such, records marked as `Plausible`, `Unable to verify`, and `Incorrect` stem from the assessment of individual records.
 
-|Status|Records|Percentage|
-|---|---:|---:|
-|Correct|102,835|25.8%
-|Considered correct|124,711|31.2%
-|Plausible|6,435|1.6%
-|Unable to verify|2,275|0.6%
-|Incorrect|598|0.1%
-|Not reviewed|103,316|25.9%
-|*Status not used*|58,935|14.8%
+| Status             | Records | Percentage |
+| ------------------ | ------: | ---------: |
+| Correct            | 102,835 |      25.8% |
+| Considered correct | 124,711 |      31.2% |
+| Plausible          |   6,435 |       1.6% |
+| Unable to verify   |   2,275 |       0.6% |
+| Incorrect          |     598 |       0.1% |
+| Not reviewed       | 103,316 |      25.9% |
+| *Status not used*  |  58,935 |      14.8% |
 
 ### Threshold for use
 The criteria for acceptance into the BWARS database is that `a record must have been identified by a person known to be capable of identifying that taxa`. The current import stream for BWARS relies on a verifier approaching BWARS to donate their data, upon which experienced entomologists will examine the incoming data to look for potential problems or errors. The submitter may be asked to provide specimens or vouchers for particular records, especially those with significant potential for confusion. The experienced entomologist will then run through the key and specimen alongside the submitter, as well as provide assistance on other specimens as requested. In this way BWARS maintains high data quality whilst also providing a way to provide targeted help and tutoring to entomologists.
@@ -88,25 +88,25 @@ In the absence of checking individual determiner names, the only way to extract 
 #### Correct: simple unique record
 The compression rate for simple unique records on this subset of data is still low enough to not be a concern in forming comparisons to the BWARS database.
 
-|Raw records|Simple unique records|Compression|
-|:---:|:---:|:---:|
-|91,207|88,990|2.4%|
+| Raw records | Simple unique records | Compression |
+| :---------: | :-------------------: | :---------: |
+|   91,207    |        88,990         |    2.4%     |
 
 ### Scheme overlap
 There are 52,441 (15.9% of iRecord) records which are directly found in both the BWARS database and iRecord. The 10 most common Understandings between the two are:
 
-|Understanding|Records:|
-|---|---|
-|Bombus pascuorum: iso. Cameron et al: 2007|4,824
-|Colletes hederae: iso. Schmidt & Westrich: 1993|3,780
-|Bombus lapidarius: iso. Cameron et al: 2007|3,133
-|Bombus hypnorum: iso. Cameron et al: 2007|2,255
-|Bombus pratorum: iso. Cameron et al: 2007|2,062
-|Bombus hortorum: iso. Cameron et al: 2007|1,284
-|Vespula vulgaris: iso. Archer: 1989|976
-|Anthophora plumipes: iso. Amiet et al: 2007|973
-|Andrena haemorrhoa: iso. Amiet et al: 2010|927
-|Vespa crabro: iso. Archer: 1989|828|
+| Understanding                                   | Records: |
+| ----------------------------------------------- | -------- |
+| Bombus pascuorum: iso. Cameron et al: 2007      | 4,824    |
+| Colletes hederae: iso. Schmidt & Westrich: 1993 | 3,780    |
+| Bombus lapidarius: iso. Cameron et al: 2007     | 3,133    |
+| Bombus hypnorum: iso. Cameron et al: 2007       | 2,255    |
+| Bombus pratorum: iso. Cameron et al: 2007       | 2,062    |
+| Bombus hortorum: iso. Cameron et al: 2007       | 1,284    |
+| Vespula vulgaris: iso. Archer: 1989             | 976      |
+| Anthophora plumipes: iso. Amiet et al: 2007     | 973      |
+| Andrena haemorrhoa: iso. Amiet et al: 2010      | 927      |
+| Vespa crabro: iso. Archer: 1989                 | 828      |
 
 #### iRecord and BWARS userbase comparison
 BWARS data is almost exclusively from people who have spent significant time and effort to develop their identification skills. Where the data is not from this source, it has invariably passed through such a source before it will be accepted. Of these sources, a large amount of the records from from users who perform contracted surveys. Samples of which include development work and nature reserve assessments.
@@ -120,11 +120,11 @@ This section examines the percentage overlap, of all processed iRecord records, 
 
 The results suggest that BWARS is managing to source iRecord data from far more non-photographic recorders than photographic recorders. This result is in line with expectations, as non-photographic recorders tend to be far higher in skill than photographic recorders.
 
-|Verification status|Records|Percentage|
-|---|---:|---:|
-|Correct|9,889|19.7%|
-|Verified, other than correct|26,874| 53.5%|
-|Not verified| 13,506|26.9%|
+| Verification status          | Records | Percentage |
+| ---------------------------- | ------: | ---------: |
+| Correct                      |   9,889 |      19.7% |
+| Verified, other than correct |  26,874 |      53.5% |
+| Not verified                 |  13,506 |      26.9% |
 
 #### Shortlist of available records
 At this point, the total pool of available records for immediate harvest in iRecord sits at ~79,101 records. This figure is from the simple unique record (`Correct`) dataset figure of 88,990, minus the overlap in correct records of 9,889.
@@ -135,33 +135,33 @@ If verfiers which are known to have disobeyed the iRecord/BWARS verification gui
 A breakdown of the broad-scale taxonomic composition of the iRecord and BWARS datasets. Only iRecord data which has passed the Checker is used in this section due to the need for precision in nomenclature. The BWARS subset used is the de-duplicated `simple unique record` set.
 
 #### Taxon groupings
-|Name|Description|
-|---|---|
-|Bombus|All non-aggregate species in the genus 'Bombus'|
-|Other bee|All non-aggregate species in the family 'Apidae' other than in the genus 'Bombus'|
-|Eusocial wasps|All non-aggregate species in the genera Vespa, Vespula, and Dolichovespula|
-|Other wasps| All non-aggregate species other then eusocials, bees, or ants|
-|Ants|All non-aggregate species of Formicidea|
+| Name           | Description                                                                       |
+| -------------- | --------------------------------------------------------------------------------- |
+| Bombus         | All non-aggregate species in the genus 'Bombus'                                   |
+| Other bee      | All non-aggregate species in the family 'Apidae' other than in the genus 'Bombus' |
+| Eusocial wasps | All non-aggregate species in the genera Vespa, Vespula, and Dolichovespula        |
+| Other wasps    | All non-aggregate species other then eusocials, bees, or ants                     |
+| Ants           | All non-aggregate species of Formicidea                                           |
 
 #### Absolute record count taxonomic composition
 A breakdown of each scheme's broad scale taxonomic content, including a subdivision to `Correct` and `Considered correct`. Reported as absolute record counts
-|Scheme|Bombus|Other bee|Eusocial wasp|Other Wasp|Ant|
-|---|---:|---:|---:|---:|---:|
-|BWARS|191,618|340,765|30,523|161,215|48,100|
-|iRecord|139,019|141,190|30,512|21,630|9,027|
-|iRecord Correct**|29,895|42,829|9,365|3,995|110|
-|iRecord Considered correct**|42,389|38,312|8,085|7,636|189|
+| Scheme                       |  Bombus | Other bee | Eusocial wasp | Other Wasp |    Ant |
+| ---------------------------- | ------: | --------: | ------------: | ---------: | -----: |
+| BWARS                        | 191,618 |   340,765 |        30,523 |    161,215 | 48,100 |
+| iRecord                      | 139,019 |   141,190 |        30,512 |     21,630 |  9,027 |
+| iRecord Correct**            |  29,895 |    42,829 |         9,365 |      3,995 |    110 |
+| iRecord Considered correct** |  42,389 |    38,312 |         8,085 |      7,636 |    189 |
 
 ** Verifiers known to have not followed the iRecord or BWARS verification ruleset removed. This will ***very*** strongly impact ant records.
 
 #### Percentage-based taxonomic composition
 A breakdown of each scheme's broad scale taxonomic content, including a subdivision to `Correct` and `Considered correct`. Reported as the percentage of each scheme's total
-|Scheme|Bombus|Other bee|Eusocial wasp|Other Wasp|Ant|
-|---|---:|---:|---:|---:|---:|
-|BWARS|24.8%|44.1%|4.0%|20.9%|6.2%
-|iRecord|40.7%|41.4%|8.9%|6.3%|2.6%
-|iRecord Correct**|34.7%|49.7%|10.9%|4.6%|0.1%
-|iRecord Considered correct**|43.9%|39.7%|8.4%|7.9%|0.2%
+| Scheme                       | Bombus | Other bee | Eusocial wasp | Other Wasp |  Ant |
+| ---------------------------- | -----: | --------: | ------------: | ---------: | ---: |
+| BWARS                        |  24.8% |     44.1% |          4.0% |      20.9% | 6.2% |
+| iRecord                      |  40.7% |     41.4% |          8.9% |       6.3% | 2.6% |
+| iRecord Correct**            |  34.7% |     49.7% |         10.9% |       4.6% | 0.1% |
+| iRecord Considered correct** |  43.9% |     39.7% |          8.4% |       7.9% | 0.2% |
 
 ** Verifiers known to have not followed the iRecord or BWARS verification ruleset removed. This will ***very*** strongly impact ant records.
 
@@ -170,16 +170,16 @@ This section examines the breakdown of 'id difficulty', as created by Mike Edwar
 
 In the case of sub-specialisations (e.g. '3 not males'), the additional information has been removed and the difficulty rating condensed to the major rank (in this case, 3). There are only two Understandings where this has been applied and the impact is expected to be minimal.
 
-|Difficulty|Number of Understandings|
-|---|:---:|
-|1|18|
-|2|47|
-|3|53|
-|4|188|
-|5|323|
-|6|1|
-|NA|2|
-|NULL|55|
+| Difficulty | Number of Understandings |
+| ---------- | :----------------------: |
+| 1          |            18            |
+| 2          |            47            |
+| 3          |            53            |
+| 4          |           188            |
+| 5          |           323            |
+| 6          |            1             |
+| NA         |            2             |
+| NULL       |            55            |
 
 `NA` results are a product of the non-use of Understandings. `NULL` results are an indication of numenclatural instability. Both classifications will be ignored from here on, as their results will be misleading.
 
@@ -188,14 +188,14 @@ The main take away from this analysis is that iRecord data has a far higher weig
 
 Note that *Melecta albifrons* was considered difficulty 5 but, due to the probable extinction of potential confusion taxa, should now be considered difficulty 1. Verifiers have treated this taxon as difficulty 1 and photo-identifiable. Of the 15,511 difficulty 5 records, 1,252 (8.1%) are of *M. albifrons*.
 
-|Difficulty|BWARS|iRecord|
-|---|---:|---:|
-|1|168,351|159,339|
-|2|113,421|47,747|
-|3|139,463|54,923|
-|4|237,295|56,003|
-|5|108,159|15,511|
-|6|2|0|
+| Difficulty |   BWARS | iRecord |
+| ---------- | ------: | ------: |
+| 1          | 168,351 | 159,339 |
+| 2          | 113,421 |  47,747 |
+| 3          | 139,463 |  54,923 |
+| 4          | 237,295 |  56,003 |
+| 5          | 108,159 |  15,511 |
+| 6          |       2 |       0 |
 
 ### Scheme difficulty comparison as 'number of records per group'
 The below table converts the scheme difficulty comparison table so that the values displayed are the number of records per member of each difficulty group according to the formula:
@@ -204,49 +204,49 @@ The below table converts the scheme difficulty comparison table so that the valu
 
 The result highlights the paucity of data on the very hard-to-identify taxa.
 
-|Difficulty|BWARS|iRecord|
-|---|---:|---:|
-|1|9,353|8,852
-|2|2,413|1,016
-|3|2,631|1,036
-|4|1,262|298
-|5|335|48
-|5**|335|44
-|6|2|0
+| Difficulty | BWARS | iRecord |
+| ---------- | ----: | ------: |
+| 1          | 9,353 |   8,852 |
+| 2          | 2,413 |   1,016 |
+| 3          | 2,631 |   1,036 |
+| 4          | 1,262 |     298 |
+| 5          |   335 |      48 |
+| 5**        |   335 |      44 |
+| 6          |     2 |       0 |
 
 ** Without *M. albifrons* data
 
 #### iRecord difficulty distribution by verification status 2
 Due to space constraints, abbreviations have been used for iRecord's verification status 2 attribute. The abbreviations are as follows:
 
-|Abbreviation|Full|
-|---|---|
-|C|Correct|
-|CC|Considered correct|
-|P|Plausible|
-|U|Unable to verify|
+| Abbreviation | Full               |
+| ------------ | ------------------ |
+| C            | Correct            |
+| CC           | Considered correct |
+| P            | Plausible          |
+| U            | Unable to verify   |
 
 There is a lot of information contained in this result. On speaking with verifiers, there is considerable bias towards using `Plausible` over `Unable to verify` when a record is plausible but cannot be verified.  Considering this, it is clear that difficulty 3 & 4 taxa are considerably harder to verify.
 
 It also seems that non-photographic recorders tend to record more of the common taxa than photographic, which is also expected. Surveys require that *all* taxa are recorded, not just interesting observations.
 
-|Difficulty|All|C|CC|P|U|
-|---|---:|---:|---:|---:|---:|
-|1|159,339|40,702|51,147|911|469
-|2|47,747|16,755|14,205|505|274
-|3|54,923|13,579|15,572|1,109|309
-|4|56,003|14,188|17,295|1,483|611
-|5|15,511|3,099|5,423|629|173
-|6|0|0|0|0|0 
+| Difficulty |     All |      C |     CC |     P |    U |
+| ---------- | ------: | -----: | -----: | ----: | ---: |
+| 1          | 159,339 | 40,702 | 51,147 |   911 |  469 |
+| 2          |  47,747 | 16,755 | 14,205 |   505 |  274 |
+| 3          |  54,923 | 13,579 | 15,572 | 1,109 |  309 |
+| 4          |  56,003 | 14,188 | 17,295 | 1,483 |  611 |
+| 5          |  15,511 |  3,099 |  5,423 |   629 |  173 |
+| 6          |       0 |      0 |      0 |     0 |    0 |
 
 Expressed as percentages of 'All'
-|Difficulty|All|C|CC|P|U|
-|---|---:|---:|---:|---:|---:|
-|1|159,339|25.5%|32.1%|0.6%|0.3%
-|2|47,747|35.1%|29.8%|1.1%|0.6%
-|3|54,923|24.7%|28.4%|2.0%|0.6%
-|4|56,003|25.3%|30.9%|2.6%|1.1%
-|5|15,511|20.0%|35.0%|4.1%|1.1%
+| Difficulty |     All |     C |    CC |    P |    U |
+| ---------- | ------: | ----: | ----: | ---: | ---: |
+| 1          | 159,339 | 25.5% | 32.1% | 0.6% | 0.3% |
+| 2          |  47,747 | 35.1% | 29.8% | 1.1% | 0.6% |
+| 3          |  54,923 | 24.7% | 28.4% | 2.0% | 0.6% |
+| 4          |  56,003 | 25.3% | 30.9% | 2.6% | 1.1% |
+| 5          |  15,511 | 20.0% | 35.0% | 4.1% | 1.1% |
 
 
 ### iRecord Verifiers & Rules
@@ -254,16 +254,16 @@ There are 252,671 verified records with a verifier's name against them in iRecor
 
 #### iRecord
 
-|Status|Explanation|
-|---|---|
-|*Correct*|The verifier is able to confirm that the species has been identified correctly, usually on the basis of photo/s within iRecord (or specimen/s outside iRecord)|
-|*Considered correct*|The verifier has not seen photo/s or specimen/s but has a high degree of confidence that the record is likely to be correct, based on difficulty of ID, date, location and recorder skills/experience etc.|
+| Status               | Explanation                                                                                                                                                                                                |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Correct*            | The verifier is able to confirm that the species has been identified correctly, usually on the basis of photo/s within iRecord (or specimen/s outside iRecord)                                             |
+| *Considered correct* | The verifier has not seen photo/s or specimen/s but has a high degree of confidence that the record is likely to be correct, based on difficulty of ID, date, location and recorder skills/experience etc. |
 
 #### BWARS
-|Status|Explanation|
-|---|---|
-|*Correct*|The verifier has examined the individual record and is confident that the determination is correct|
-|*Considered correct*|The verifier has *not* examined the individual record, but trusts the origin of the record enough to accept the record|
+| Status               | Explanation                                                                                                            |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| *Correct*            | The verifier has examined the individual record and is confident that the determination is correct                     |
+| *Considered correct* | The verifier has *not* examined the individual record, but trusts the origin of the record enough to accept the record |
 
 #### Custom rules
 There are also situations in which the verifier simply makes up their own rules. The third most prolific verifier in the system (8,583 records, 3.4%) is such a person.
@@ -276,10 +276,10 @@ Under iRecord rules, records which are placed as `Correct` should have photos at
 
 This table shows the number of records marked as `Correct`, followed by the subset of these without accompanying photos.
 
-|||
-|---|---:|
-|Correct|106,579|
-|Correct with no images|11,425|
+|                        |         |
+| ---------------------- | ------: |
+| Correct                | 106,579 |
+| Correct with no images |  11,425 |
 
 #### Multi-record processing
 Further examination of the 'Correct with no images' data paints a picture of misapplication of both the BWARS and iRecord scoring rulesets. It appears fairly common, on a verifier-by-verifier level, to apply the Verification Status 2 ranks (Correct, Considered Corrrect, Plausible, Unable to verify, Incorrect) as pure confidence ranks based on any set of characteristics. Unfortunately, there is no way to identify multi-record processings reliably, due to the timestamp only reaching minute resolution. However, 14 situations where the verifier has verified > 60 records-per-minute have been identified. It is considered very unlikely that a verifier can reach a rate of > 1 record verification per second.
@@ -292,22 +292,22 @@ Two different sets of verification statuses exist within iRecord. These are refe
 
 Despite the ability to use `verification status 1` being heavily reduced around 2020, someone *still* managed to find a way around that in 2023.
 
-|Year|# records|
-|---|---:|
-|2010|58
-|2011|63
-|2012|1089
-|2013|16851
-|2014|9215
-|2015|10323
-|2016|5372
-|2017|8543
-|2018|7894
-|2019|858
-|2020|38
-|2022|51
-|2023|1
-|NULL|663
+| Year | # records |
+| ---- | --------: |
+| 2010 |        58 |
+| 2011 |        63 |
+| 2012 |      1089 |
+| 2013 |     16851 |
+| 2014 |      9215 |
+| 2015 |     10323 |
+| 2016 |      5372 |
+| 2017 |      8543 |
+| 2018 |      7894 |
+| 2019 |       858 |
+| 2020 |        38 |
+| 2022 |        51 |
+| 2023 |         1 |
+| NULL |       663 |
 
 #### Broad taxon composition
 

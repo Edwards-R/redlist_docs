@@ -276,7 +276,7 @@ Under iRecord rules, records which are placed as `Correct` should have photos at
 
 This table shows the number of records marked as `Correct`, followed by the subset of these without accompanying photos.
 
-|                        |         |
+| Verification status 2  | Records |
 | ---------------------- | ------: |
 | Correct                | 106,579 |
 | Correct with no images |  11,425 |

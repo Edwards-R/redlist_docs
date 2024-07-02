@@ -564,3 +564,5 @@ AND verifier != 'Hargreaves, Ben'
 AND verifier != 'Fox, Mike'
 AND ver_2 = 'Correct'
 ```
+
+## B. lapidarius

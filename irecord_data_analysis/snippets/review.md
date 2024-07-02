@@ -50,9 +50,9 @@ Bit confusing. Need to group things better? Going to try splitting up here. The 
 ### Considered correct data
 |Reviewed Status|Count|Percentage|
 |---|---|---|
-|*Entire dataset*|*276*|-|
+|*Entire dataset*|*277*|-|
 |Correct|9|3%|
-|Considered correct|152|55%|
+|Considered correct|153|55%|
 |Incorrect|8|3%|
 |Plausible|0|0%|
 |Unable to verify|107|39%|
@@ -61,10 +61,10 @@ Bit confusing. Need to group things better? Going to try splitting up here. The 
 |Reviewed Status|Count|Percentage|
 |---|---|---|
 |*Entire dataset*|*89*|-|
-|Correct|3|3%|
+|Correct|0|0%|
 |Considered correct|0|0%|
 |Incorrect|15|17%|
-|Plausible|8|9%|
+|Plausible|3|12%|
 |Unable to verify|63|71%|
 
 ### Rejected data
@@ -154,5 +154,3 @@ Broken down, total # is 983:
 |No change|824|
 |Within usable bounds (C/CC)|910|
 |No longer usable|73|
-
->**Problem**: Data table differs by 60 in the 'Correct -> Considered Correct'. This is throwing off my numbers drastically and I need Clare to check that figure for me.

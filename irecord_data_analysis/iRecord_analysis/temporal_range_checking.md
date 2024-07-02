@@ -5,6 +5,12 @@ The term 'day of year' is frequently abbreviated to 'doy', especially in code sn
 
 The data used in this section is only that which has passed the Checker. Automated bounds checking on a per-species level require exact-to-type precision in order to not fall foul of nomenclatural confusion. This precision is supplied by Understandings assigned by the Checker.
 
+### A word of caution
+The temporal range checking performed here is very much in its infancy. A rejection of data does not in any way mean that the incoming record is at all wrong. Instead, the rejection is an indicator that the record is outside of expected timing and requiring specific attention from a human. Aculeate hymenoptera are known for their proclivity to adapt and interrupt their own phenology, with the result being records from species at very *odd* timings.
+
+### Which scheme is 'right'?
+The short answer is 'neither of them'. iRecord data is being compared to BWARS data as the latter is 'stricter' than the former, due to the higher general threshold of entry. However, whilst this strictness improves data quality at an individual level, breadth of data does suffer as a result. A higher bar to entry creates a smaller pool of data, with the potential to miss many true outliers. The mechanism of comparison is also imperfect, being *incredibly* blunt. 
+
 ### Sources of major error
 Ants are known to fail temporal range checks repeatedly, as their phenology leads to far greater year-round observations than most other aculeate hymenoptera.
 
@@ -150,5 +156,5 @@ Examination of the Understandings present in rejections provides a good amount o
 
 `Considered correct` data has a lower volume of rejection in both absolute and percentage terms than `Correct` data. `Unverified` data has a higher volume of rejection than both `Correct` and `Considered correct`.
 
-Further examination is required to delve further into this scenario. Enough information has been gathered, however, to provide a reasonable picture of the state of the data to the Red List core team. Verification is resulting in fewer temporal rejections, but the exact size of the resulting data/rejection rate is unknowable without a before & after comparison.
+Further examination is required to delve further into this scenario. Enough information has been gathered, however, to provide a reasonable picture of the state of both iRecord and BWARS data to the Red List core team. Verification is resulting in fewer temporal rejections, but the exact size of the resulting data/rejection rate is unknowable without a before & after comparison. It is very plausible that the increased spread of recorders is detecting a higher number of 'true' outliers, but this cannot be automatically verified.
 

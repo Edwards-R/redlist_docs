@@ -23,7 +23,7 @@ Bit confusing. Need to group things better? Going to try splitting up here. The 
 ### Of the 860 already verified:
 
 - 17 determination disagreements
-- 2 M. europea out-of-season. Reedbed is a warning flag for potential for rearing records, does the behaviour of the taxon match? BWARS website just says parasitises nests.
+- 2 M. europea out-of-season. Reedbed is a warning flag for potential for rearing records, does the behaviour of the taxon match? BWARS website just says parasitises nests. `M. Edwards says NO.`
 - 9 No-photo & highly dubious time periods
 - 150 records where date is not possible to verify through various means
 - 28 disturbances that should be pushed to year-only date
@@ -127,8 +127,32 @@ If this is the 'error rate' (note - someone has checked the rejections and made 
 
 Does it *really* matter? The goal is a clean dataset - if we *can* clean up the iRecord dataset to a better standard than BWARS current, shouldn't we? Everything will fall down to the lowest quality level, so we're not adding any problems (which would be ***bad***).
 
+347 records with photos in the non-verified group of rejections. 26% of these get accepted. Need a reason - is this deliberate by verifiers? It certainly looks like it is! If so, verification is working, but can be significantly improved upon.
+
 ## Spatial outliers
 Far far fewer problems. To be expected as this is an area that people are much better at spotting (though there are still mistakes).
 
-Of the 'Correct' records:
+### Re-verification
+How many records does Clare agree on the ver_2 of? Subset to rejections on a spatial basis of accepted data only (C/CC).
 
+Of 981 'Correct' records
+
+|Clare ver_2|Count|
+|---|---|
+|Correct|822|
+|Considered correct|86|
+|Incorrect|18|
+|Plausible|7|
+|Unable to verify|48|
+
+*All CC records unchanged.*
+
+Broken down, total # is 983:
+
+|Status|Count|
+|---|---|
+|No change|824|
+|Within usable bounds (C/CC)|910|
+|No longer usable|73|
+
+>**Problem**: Data table differs by 60 in the 'Correct -> Considered Correct'. This is throwing off my numbers drastically and I need Clare to check that figure for me.

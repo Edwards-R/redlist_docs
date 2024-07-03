@@ -21,7 +21,7 @@ How many records passed the Checker
 | No   |  57,418 |      14.4% |
 
 #### Checker failure reason
-> Records may fail on multiple attributes
+> Records may fail on multiple attributes, the # output may not match the # input
 
 By far the most common cause of failure is the inability to assign a binomial to an Understanding (14.1%). This failure is directly equivalent to an inability to confidently assign the record to a Type. Inability to resolve a binomial to type is only resolvable through specific, highly skilled, human intervention - typically reserved for taxonomists with a specific goal in mind.
 
@@ -282,7 +282,9 @@ This table shows the number of records marked as `Correct`, followed by the subs
 | Correct with no images |  11,425 |
 
 #### Multi-record processing
-Further examination of the 'Correct with no images' data paints a picture of misapplication of both the BWARS and iRecord scoring rulesets. It appears fairly common, on a verifier-by-verifier level, to apply the Verification Status 2 ranks (Correct, Considered Corrrect, Plausible, Unable to verify, Incorrect) as pure confidence ranks based on any set of characteristics. Unfortunately, there is no way to identify multi-record processings reliably, due to the timestamp only reaching minute resolution. However, 14 situations where the verifier has verified > 60 records-per-minute have been identified. It is considered very unlikely that a verifier can reach a rate of > 1 record verification per second.
+Further examination of the 'Correct with no images' data paints a picture of misapplication of both the BWARS and iRecord scoring rulesets. It appears fairly common, on a verifier-by-verifier level, to apply the Verification Status 2 ranks (`Correct`, `Considered Corrrect`, `Plausible`, `Unable to verify`, `Incorrect`) as pure confidence ranks based on any set of characteristics. Unfortunately, there is no way to identify multi-record processings reliably, due to the timestamp only reaching minute resolution. However, 14 situations where the verifier has verified > 60 records-per-minute have been identified. It is considered very unlikely that a verifier can reach a rate of > 1 record verification per second.
+
+Further conversations and peer review have uncovered that this is a mixture of multi-record processing and 'spam clicking' through a pre-selected dataset using the individual processing tools. Both situations are most typically from either a period where the current verification ruleset was not in place, or from a verifier who was not aware of the current verification ruleset.
 
 ### Verification Status 1 vs Verification Status 2
 Two different sets of verification statuses exist within iRecord. These are referred to in the data as `verification status 1` and `verification status 2`. There have been issues in the past where records would be verified under `verification status 1` by one processing avenue and `verification status 2` by another avenue, all by the same verifier in the same session.
@@ -309,8 +311,8 @@ Despite the ability to use `verification status 1` being heavily reduced around 
 | 2023 |         1 |
 | NULL |       663 |
 
-#### Broad taxon composition
-
+### Number of known incorrect BWARS records present in iRecord
+There are 95 records in the iRecord dataset which have been marked as suspended in the BWARS dataset.
 
 ### Conclusion
 An unexpectedly high rate of rejection was encountered when attempting to handle the conversion of binomials to binomial Understandings (14.1%). These rejections are almost entirely (98.0%) on the basis that the binomial cannot be resolved precisely to a type.
@@ -321,7 +323,7 @@ The largest portion of records with a functional 'verification status 2' are tho
 
 The mistaken use of verification status 2 is driven by a mis-match between how the verifier reads the status and how iRecord/BWARS's rules mandate the status to be used.
 
-In total, 52,441 records were found to match between the de-duplicated BWARS dataset and the raw iRecord dataset. This figure represents 15.9% of all of iRecord's data. The overlap is dominated by *Bombus*, with the notable exception of *Colletes hederae*, which was the subject of targeted effort.
+In total, 52,441 records were found to match between the de-duplicated BWARS dataset and the raw iRecord dataset. This figure represents 15.9% of all of iRecord's data. The overlap is dominated by *Bombus*, with the notable exception of *Colletes hederae*, which was the subject of targeted effort. There are 95 records deemed incorrect by BWARS that are still live in the iRecord dataset.
 
 Overlap between iRecord and BWARS was predominantly found in the `Considered correct` subset (53.5%), followed by `Unverified` (26.9%). This division is unsurprising and reflects the general difference in submitters between the two datasets.
 

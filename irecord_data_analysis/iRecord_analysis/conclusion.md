@@ -1,11 +1,9 @@
 ## Conclusion
-This section examines the results from the data breakdown, spatial range checking, temporal range checking, and re-verification. The output is intended to be a summary of findings across the component work, with the goal of informing the core Red List team of results.
+Peer review and in depth analysis recommend against the use of iRecord data in a Red List without further verification to bring data up to the same standard as the BWARS dataset/current iRecord guidance. Whilst there is a degree of overlap between the iRecord and BWARS datasets, there is still high quality data which is held in iRecord and not present in BWARS. There are considerable difficulties in identifying the low-quality data, or mistakes in data entry, which preclude the immediate use of the entire iRecord dataset. The Red List process in particular is noted as having specific weakness to small volumes of incorrect data in already small datasets. The timescale of the iRecord dataset also invites skew as the scheme has not yet been recording for 30 years. However, this skew is fairly reliably identifiable and easy to therefore mitigate during interpretation of models.
 
-### Notes
-- How many records are there?
-- How many can be used with confidence?
-    - What is the general taxonomic distribution of these records?
-    - Different conditions
-    - Error associated with each condition
-- General bias
+The iRecord data generally adheres to a standardised format, making it very easy to manipulate, the need to translate binomials to binomial Understandings is a significant barrier to safe utilisation. There are also a number of general data errors e.g. a date of 1st Jan 1970 scatter into the data that require identification and correction (where possible).
+
+Expert advice is that the overall iRecord dataset requires directed attention in order to reach a level where the data would be of sufficient quality for use. The majority of the attention stems from the age of the data and the changes over time that have been made to how verifiers have utilised the iRecord system.
+
+Examination of flight period has identified a higher than expected number of records which are deemed to be highly likely to be inaccurate. Examination of spatial outliers found few records deemed highly likely to be inaccurate.
 

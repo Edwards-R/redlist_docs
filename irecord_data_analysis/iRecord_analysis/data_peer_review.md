@@ -1,5 +1,3 @@
-# iRecord data verification peer review <!-- omit from toc -->
-
 ## Introduction
 A selection of records which were identified as being out of expected bounds were sent to an experienced verifier and data handler for a second opinion. The two sets of data identified were:
 
@@ -17,12 +15,14 @@ The re-verifier was asked to complete the iRecord verification status, using the
 - **Plausible**: The record is plausible based on species, date and location, but there is not enough supporting evidence for the possibility of misidentification to be ruled out, and the record remains within the "Unconfirmed" category
 
 ## Temporal range checking
-1,234 temporal outliers were supplied. Of these, 887 were re-verified and 347 verified for the first time. In the re-verification set, the highest degree of change was in the level of confidence that the verifier was willing to accept. 87 (21%) of the 'Correct' records were downgraded to 'Unable to verify', as were 107 (39%) of the 'Considered correct' records. Of all 188 non-correct data, only 4 records (2%) were moved into one of the 'correct' categories. 'Correct' records were evaluated to be 299 (287 maintained and 12 incoming) against an initial 422, whilst Considered correct records were 153 (152 maintained and 1 incoming) against an initial 276. In summary, of the 'potentially usable' Correct/Considered correct data, totalling 698 records, 452 records (65%) remained post re-verification.
+1,234 temporal outliers were supplied. Of these, 887 were re-verified and 347 verified for the first time. In the re-verification set, the highest degree of change was in the level of confidence that the verifier was willing to accept. 87 (21%) of the `Correct` records were downgraded to `Unable to verify`, as were 107 (39%) of the `Considered correct` records. Of all 188 non-correct data, only 4 records (2%) were moved into one of the 'correct' categories. `Correct` records were evaluated to be 299 (287 maintained and 12 incoming) against an initial 422, whilst `Considered correct` records were 153 (152 maintained and 1 incoming) against an initial 276.
 
-Of the 347 newly verified records, 93 (27%) were accepted to either Correct or Considered correct. Such a low acceptance rate suggests that verifiers may be leaving records unverified rather than verifying them under a 'failing' grade.
+In summary, of the 'potentially usable' `Correct`/`Considered correct` data, totalling 698 records, 452 records (65%) remained post re-verification.
+
+Of the 347 newly verified records, 93 (27%) were accepted to either `Correct` or `Considered correct`. Such a low acceptance rate suggests that verifiers may be leaving records unverified rather than verifying them under a 'failing' grade.
 
 ## Spatial range checking
-Only Correct and Considered Correct records were sent to be re-verified due to the limited time available. Spatial extent checks, though usually done entirely by eye, are more familiar to the discipline than temporal checks. Accordingly, the error rate is expected to be significantly lower.
+Only `Correct` and `Considered Correct` records were sent to be re-verified due to the limited time available. Spatial extent checks, though usually done entirely by eye, are more familiar to the discipline than temporal checks. Accordingly, the error rate is expected to be significantly lower.
 
 Of the 983 reviewed records, 981 were intially verified as `Correct`. The post review breakdown of these is as follows:
 
@@ -54,3 +54,6 @@ There is significant potential to the idea of using a similar review process, ta
 A few further specifically notable errors were observed. Firstly, the presence of data from 1st Jan 1970 for a taxon which was not present in GB at this time. It is strongly suspected that this date is from an epoch-date of 0, in turn likely from a record which did not have a date entered. This lack of date has, somewhere, been interpreted as '0', leading to 1st Jan 1970. Such an situation is not unheard of, indeed being fairly typical. All incoming data should be searched for 1st Jan 1970 and, if found, discarded as being unusable.
 
 Rearing records, as well as disturbance records, were present in low volume. Each of these records need to be converted to year-range records for BWARS purposes as the dates present in the record represent altered phenology. BWARS tracks date for the purpose of identifying flight period, not for tracking recorder activity.
+
+## Conclusion
+Expert advice from peer review is to not incorporate iRecord data without further review. Analysis of records which are outside of 'known' spatial distribution according to the BWARS dataset suggests a reasonable degree of spatial expansion is possible for a select group of species. Temporal range analysis demonstrated the presence of a significant error within the iRecord dataset. A significant number of records which should be graded as `Considered correct` exist under the `Correct` verification status, which results from changes over time to the way in which `verification status 2` has been applied to records.

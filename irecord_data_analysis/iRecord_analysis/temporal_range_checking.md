@@ -1,5 +1,5 @@
 ## Temporal Range Checking
-Thd temporal checking system works in a similar way to the spatial range checking. The first step is to identify a pool of 'similar as possible' records of the given taxon and year. From this pool, the minimum and maximum day of year (0-366) is identified. Incoming records of the given taxon and year are then checked to see whether they extend past these bounds, which would indicate a *potential* error in determination.
+The temporal checking system works in a similar way to the spatial range checking. The first step is to identify a pool of 'similar as possible' records of the given taxon and year. From this pool, the minimum and maximum day of year (0-366) is identified. Incoming records of the given taxon and year are then checked to see whether they extend past these bounds, which would indicate a *potential* error in determination.
 
 The term 'day of year' is frequently abbreviated to 'doy', especially in code snippets and explanations found online. Should there be a need to relate day of year back to a given Julian calendar date, NASA provide a useful calendar tool to help do that: https://www.esrl.noaa.gov/gmd/grad/neubrew/Calendar.jsp
 

@@ -3,13 +3,13 @@ The temporal checking system works in a similar way to the spatial range checkin
 
 The term 'day of year' is frequently abbreviated to 'doy', especially in code snippets and explanations found online. Should there be a need to relate day of year back to a given Julian calendar date, NASA provide a useful calendar tool to help do that: https://www.esrl.noaa.gov/gmd/grad/neubrew/Calendar.jsp
 
-The data used in this section is only that which has passed the Checker. Automated bounds checking on a per-species level require exact-to-type precision in order to not fall foul of nomenclatural confusion. This precision is supplied by Understandings assigned by the Checker.
+The data used in temporal range checking are only those which have passed the Checker. Automated bounds checking on a per-species level require exact-to-type precision in order to not fall foul of nomenclatural confusion. The requisite nomenclatural precision is supplied by Understandings assigned by the Checker.
 
 ### A word of caution
 The temporal range checking performed here is very much in its infancy. A rejection of data does not in any way mean that the incoming record is at all wrong. Instead, the rejection is an indicator that the record is outside of expected timing and requiring specific attention from a human. Aculeate hymenoptera are known for their proclivity to adapt and interrupt their own phenology, with the result being records from species at very *odd* timings.
 
 ### Which scheme is 'right'?
-The short answer is 'neither of them'. iRecord data is being compared to BWARS data as the latter is 'stricter' than the former, due to the higher general threshold of entry. However, whilst this strictness improves data quality at an individual level, breadth of data does suffer as a result. A higher bar to entry creates a smaller pool of data, with the potential to miss many true outliers. The mechanism of comparison is also imperfect, being *incredibly* blunt. 
+The short answer is 'neither of them'. iRecord data is being compared to BWARS data as the latter is 'stricter' than the former, due to the higher general threshold of entry. However, whilst the strictness improves data quality at an individual level, breadth of data does suffer as a result. A higher bar to entry creates a smaller pool of data, with the potential to miss many true outliers. The mechanism of comparison is also imperfect, being *incredibly* blunt. 
 
 ### Sources of major error
 Ants are known to fail temporal range checks repeatedly, as their phenology leads to far greater year-round observations than most other aculeate hymenoptera.
@@ -133,16 +133,16 @@ Comparison to BWARS is not possible at this point, since using BWARS data to che
 Of the most common rejected Understandings, *Vespa crabro*, *Vespa vulgaris*, and *Vespula germanica* all hibernate in places which humans regularly disturb. Wood piles, chimneys etc. A quick sampling of records strongly suggests a pattern of disturbance, with many correspondents writing that they encountered the specimen through disturbing it whilst hibernating.
 
 #### *Bombus lapidarius*
-*Bombus lapidarius* has been the subject of a previous project which looked at date of emergence. The project found that a great many people are misidentifying this taxon, which explains the large number of 'too-early' records. Many 'out of bounds' records in this sector are out by > 40 days compared to those in BWARS. Either BWARS data is highly insufficient, or the verifications of this taxon are incorrect. Examination of the BWARS records over multiple years provides a high degree of continuity, suggesting significant misidentification. The timings provided by the BWARS data also match up to those expected by ecologists, whilst the timings provided by iRecord data contradict expectations.
+Many 'out of bounds' records in this sector are out by > 40 days compared to those in BWARS. Either BWARS data is highly insufficient, or the verifications of this taxon are incorrect. Subsequent peer review of these records has found that the majority of rejected *Bombus lapidarius* records in accurate, with the taxon able to emerge significantly earlier than anticipated.
 
 #### *Bombus pratorum*/*pascuorum*
 Conversations with Mike Edwards suggests that the majority of rejected records of these two taxa are the result of misidentification.
 
 #### *Bombus sylvarum*
-A lot of suspicious rejected records. Mike Edwards's comment was that this would be unusual to find on Hawthorne flowers in mid February, as claimed by a subsample of records.
+A lot of suspicious rejected records. Mike Edwards's comment was that it would be unusual to find *Bombus sylvarum* on Hawthorne flowers in mid February, as claimed by a subsample of records.
 
 #### Does verification work?
-Yes. The 'verified other than correct/considered correct' data runs a rejection rate of 3.9% against that of verified data at 1.2%. Incoming data sits at 1.5%, though this value is highly affected by the presence of large volumes of data destined for `Considered correct` i.e. acceptance based on the verifier's trust in the recorder. As such, photographic verification provides a greater than 0.3% decrease in rejections than suggested by pure figures.
+Yes. The 'verified other than correct/considered correct' data runs a rejection rate of 3.9% against that of verified data at 1.2%. Incoming data sits at 1.5%, though the value is highly affected by the presence of large volumes of data destined for `Considered correct` i.e. acceptance based on the verifier's trust in the recorder. As such, photographic verification provides a greater than 0.3% decrease in rejections than suggested by pure figures.
 
 #### Further investigation
 The main avenue which entomologists would like to explore are the potential 'confusion' taxa which are leading to the out-of-bounds records. Knowing the potential confusions for photographic recording will aid future verifiers avoid such situations, leading to higher quality data output.
@@ -156,5 +156,5 @@ Examination of the Understandings present in rejections provides a good amount o
 
 `Considered correct` data has a lower volume of rejection in both absolute and percentage terms than `Correct` data. `Unverified` data has a higher volume of rejection than both `Correct` and `Considered correct`.
 
-Further examination is required to delve further into this scenario. Enough information has been gathered, however, to provide a reasonable picture of the state of both iRecord and BWARS data to the Red List core team. Verification is resulting in fewer temporal rejections, but the exact size of the resulting data/rejection rate is unknowable without a before & after comparison. It is very plausible that the increased spread of recorders is detecting a higher number of 'true' outliers, but this cannot be automatically verified.
+Further examination is required to delve further into temporal range checking. Enough information has been gathered, however, to provide a reasonable picture of the state of both iRecord and BWARS data to the Red List core team. Verification is resulting in fewer temporal rejections, but the exact size of the resulting data/rejection rate is unknowable without a before & after comparison. It is very plausible that the increased spread of recorders is detecting a higher number of 'true' outliers, but this cannot be automatically verified.
 

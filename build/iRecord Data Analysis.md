@@ -1,6 +1,6 @@
 ## Introduction
 ### Why check data so carefully?
-Due to the assessment processes of the Red List, combined with the manner in which data are collected, great emphasis is placed on maintaining a very high quality of data. Put succinctly, there are a great many taxa which are under-recorded. This under-recording typically results from a lack of people with the requisite time and enthusiasm to devote years to honing identification skills. As such, the small volume of high quality data being output by this skilled contingent is at high risk of being drowned out by large volumes of lower-skilled collectors. The consequences for this happening are severe and, in many cases, immediately impactful. Since the Red List protocol utilises a form of occupancy for the majority of Aculeate Hymenoptera assessments, small volumes of incorrect data can have vastly disproportionate impacts upon Red List criteria.
+Due to the assessment processes of the Red List, combined with the manner in which data are collected, great emphasis is placed on maintaining a very high quality of data. Put succinctly, there are a great many taxa which are under-recorded. Such under-recording typically results from a lack of people with the requisite time and enthusiasm to devote years to honing identification skills. As such, the small volume of high quality data being output by the skilled contingent is at high risk of being drowned out by large volumes of lower-skilled collectors. The consequences for 'drowning' happening are severe and, in many cases, immediately impactful. Since the Red List protocol utilises a form of occupancy for the majority of Aculeate Hymenoptera assessments, small volumes of incorrect data can have vastly disproportionate impacts upon Red List criteria.
 
 The BWARS (Bees Wasps and Ants) data has gone through a significant quality control process, including:
 
@@ -90,7 +90,7 @@ Verification status 2 contains the most precise categorisation of the two availa
 
 The low number of `Incorrect` records is due to the difficulty in making a definitive 'no' answer. Records are far more likely to fall into 'plausible' category as accurately identifying incorrect data points, especially in the absence of critical information, is very hard to do. Verifiers are also reluctant to assign data to `Incorrect` through fear of discouraging newcomers.
 
-Records typically pass through one of two streams. The first stream is where the verifier trusts the originator of a dataset to be accurate. This dataset will then be assigned `Considered correct`. The second stream is where a verifier examines and assesses individual records one-by-one. This scenario is the only one whereby a record can reach `Correct`. There is no way to know whether a rejected record (`Plausible` or `Unable to verify`) was sourced from bulk-processing or individual examination.
+Records typically pass through one of two verification streams. The first stream is where the verifier trusts the originator of a dataset to be accurate. The dataset will then be assigned `Considered correct` without further consideration, in an effort to process as much data as possible as quickly as possible. The second stream is where a verifier examines and assesses individual records one-by-one. The second scenario is the only one whereby a record can reach `Correct` under current guidance. Historically, records could reach `Correct` on the basis of the first verification stream, though doing so caused multiple issues and has been discontinued. There is no way to know whether a rejected record (`Plausible` or `Unable to verify`) was sourced from bulk-processing or individual examination.
 
 From examination of the ratio of `Considered correct` to `Plausible` and `Unable to verify` data, it seems that verifiers do not attempt to verify non-photographic data unless they have prior connection to the originator which they can use as a basis for assessment. As such, records marked as `Plausible`, `Unable to verify`, and `Incorrect` stem from the assessment of individual records.
 
@@ -107,10 +107,10 @@ From examination of the ratio of `Considered correct` to `Plausible` and `Unable
 ### Threshold for use
 The criteria for acceptance into the BWARS database is that `a record must have been identified by a person known to be capable of identifying that taxa`. The current import stream for BWARS relies on a verifier approaching BWARS to donate their data, upon which experienced entomologists will examine the incoming data to look for potential problems or errors. The submitter may be asked to provide specimens or vouchers for particular records, especially those with significant potential for confusion. The experienced entomologist will then run through the key and specimen alongside the submitter, as well as provide assistance on other specimens as requested. In this way BWARS maintains high data quality whilst also providing a way to provide targeted help and tutoring to entomologists.
 
-In the absence of checking individual determiner names, the only way to extract such information from the iRecord dataset is to use the verification status `Correct`. This is the only status which requires that the verifier has seen the individual record in question, and agrees that the record is valid. There will still be some level of error, but the level should, if all is proceeding correctly, be comparable to the level of accuracy found in BWARS.
+In the absence of checking individual determiner names, the only way to extract such collector/determiner level information from the iRecord dataset is to use the verification status `Correct`. `Correct` is the only status which requires that the verifier has seen the individual record in question, and agrees that the record is valid. There will still be some level of error, but the level should, if all is proceeding correctly, be comparable to the level of accuracy found in BWARS.
 
 #### Correct: simple unique record
-The compression rate for simple unique records on this subset of data is still low enough to not be a concern in forming comparisons to the BWARS database.
+The compression rate for simple unique records on the subset of iRecord data is still low enough to not be a concern in forming comparisons to the BWARS database.
 
 | Raw records | Simple unique records | Compression |
 | :---------: | :-------------------: | :---------: |
@@ -133,9 +133,9 @@ There are 52,441 (15.9% of iRecord) records which are directly found in both the
 | Vespa crabro: iso. Archer: 1989                 | 828      |
 
 #### iRecord and BWARS userbase comparison
-BWARS data is almost exclusively from people who have spent significant time and effort to develop their identification skills. Where the data is not from this source, it has invariably passed through such a source before it will be accepted. Of these sources, a large amount of the records from from users who perform contracted surveys. Samples of which include development work and nature reserve assessments.
+BWARS data is almost exclusively from people who have spent significant time and effort to develop their identification skills. Where the data is not from such a source, it has invariably passed through such a source before it will be accepted. Of these sources, a large amount of the records from from users who perform contracted surveys. Samples of which include development work and nature reserve assessments.
 
-Accuracy in aculeate hymenoptera identification is an *advanced* skill, as one of the requirements for accuracy is understanding the limitations of your knowledge. Such a level of skill development does not happen without significant time investment, which typically manifests as also producing large volumes of data. In turn, these large volumes of data get fed into a recording platform. Said platform can be anywhere from a handwritten fieldbook to dedicated recording platforms such as Recorder and iRecord. Such people are *highly* unlikely to submit photographic vouchers for every single record, simply due to the time and inconvenience that would cause. Their data therefore defaults to `Considered correct`, leading to the majority overlap residing in this particular verification category.
+Accuracy in aculeate hymenoptera identification is an *advanced* skill, as one of the requirements for accuracy is understanding the limitations of your knowledge. Such a level of skill development does not happen without significant time investment, which typically manifests as also producing large volumes of data. In turn, these large volumes of data get fed into a recording platform. Said platform can be anywhere from a handwritten field book to dedicated recording platforms such as Recorder and iRecord. Such people are *highly* unlikely to submit photographic vouchers for every single record, simply due to the time and inconvenience that would cause. Their data therefore defaults to `Considered correct`, leading to the majority overlap residing in the `Considered correct` verification category.
 
 #### Verification status of overlap
 Attempting to obtain exact figures for overlap is impossible without fully converting the iRecord dataset to simple unique record. None the less, it is possible to get an appropriate estimate (within compression + 3%).
@@ -151,9 +151,9 @@ The results suggest that BWARS is managing to source iRecord data from far more 
 | Not verified                 |  13,506 |      26.9% |
 
 #### Shortlist of available records
-At this point, the total pool of available records for immediate harvest in iRecord sits at ~79,101 records. This figure is from the simple unique record (`Correct`) dataset figure of 88,990, minus the overlap in correct records of 9,889.
+At this point in the selection process, the total pool of available records for immediate harvest in iRecord sits at ~79,101 records. This figure is from the simple unique record (`Correct`) dataset figure of 88,990, minus the overlap in correct records of 9,889.
 
-If verfiers which are known to have disobeyed the iRecord/BWARS verification guide are excluded, the pool decreases by approximately 2,600 records to ~76,600 `Correct`, unique, non-overlap records.
+If verifiers which are known to have disobeyed the iRecord/BWARS verification guide are excluded, the pool decreases by approximately 2,600 records to ~76,600 `Correct`, unique, non-overlap records.
 
 ### Taxon grouping
 A breakdown of the broad-scale taxonomic composition of the iRecord and BWARS datasets. Only iRecord data which has passed the Checker is used in this section due to the need for precision in nomenclature. The BWARS subset used is the de-duplicated `simple unique record` set.
@@ -577,107 +577,107 @@ For this section, the only data which can be used is that which has passed the C
 ### Impact of tolerance
 Give that the temporal check is 'cutoff' check, there is minimal ability to adapt to records which are 'almost' within the time period. In the BWARS database, a 'tolerance' value can be applied to the outlier checking to ease the strain of checking large volumes of data. The following table examines the impact of various tolerances on the number of flagged records.
 
-|Tolerance|# records|
-|---|---:|
-|0|5,047|
-|1|4,814|
-|2|4,576|
-|3|4,366|
-|4|4,173|
-|5|4,019|
-|6|3,825|
-|7|3,668|
-|10|3,235|
-|14|2,807|
-|21|2,239|
+| Tolerance | # records |
+| --------- | --------: |
+| 0         |     5,047 |
+| 1         |     4,814 |
+| 2         |     4,576 |
+| 3         |     4,366 |
+| 4         |     4,173 |
+| 5         |     4,019 |
+| 6         |     3,825 |
+| 7         |     3,668 |
+| 10        |     3,235 |
+| 14        |     2,807 |
+| 21        |     2,239 |
 
 ### Breakdown per taxon
 A breakdown of temporal rejections, using various grouping metrics. This section uses a tolerance of 2 days, which is the same value used in BWARS import routines. In the absence of any statistical examination and experimentation of bounds checking, experience will have to suffice to provide a 'reasonable bound'. 2 days tolerance has proven to be a reasonable compromise between false positive/negative results during BWARS data entry.
 
 Records must have their lower and upper dates be within the tolerance of one another in order for temporal range checking to work. Practically, this requirement removes records where the variance between the recorded lower and upper dates (e.g. month-only, year-only records) is greater than the permitted variance in checking. See table for example.
 
-|Tolerance|Lower doy|Upper doy|Acceptable|
-|---|:---:|:---:|:---:|
-|2|113|113|Y|
-|2|187|189|Y|
-|2|201|209|N|
-|1|165|167|N|
-|2|1|366|N
+| Tolerance | Lower doy | Upper doy | Acceptable |
+| --------- | :-------: | :-------: | :--------: |
+| 2         |    113    |    113    |     Y      |
+| 2         |    187    |    189    |     Y      |
+| 2         |    201    |    209    |     N      |
+| 1         |    165    |    167    |     N      |
+| 2         |     1     |    366    |     N      |
 
 #### Breakdown of rejections per Understanding, all records
 A breakdown of where temporal rejections occur, per Understanding
 
-|Understanding|# rejections|
-|---|---:|
-|Vespa crabro: iso. Archer: 1989|	362
-|Vespula vulgaris: iso. Archer: 1989|	344
-|Bombus lapidarius: iso. Cameron et al: 2007|	332
-|Bombus pratorum: iso. Cameron et al: 2007|	239
-|Bombus hypnorum: iso. Cameron et al: 2007|	148
-|Vespula germanica: iso. Archer: 1989|	120
-|Bombus pascuorum: iso. Cameron et al: 2007|	86
-|Colletes hederae: iso. Schmidt & Westrich: 1993|	84
-|Andrena nitida: iso. Perkins: 1919|	66
-|Bombus hortorum: iso. Cameron et al: 2007|	62
-|Andrena cineraria: iso. Perkins: 1919|	59
-|Anthophora plumipes: iso. Amiet et al: 2007|	58
-|Dolichovespula media: iso. Archer: 1989|	54
-|Bombus humilis: iso. Cameron et al: 2007|	45
-|Andrena fulva: iso. Perkins: 1919|	45
+| Understanding                                   | # rejections |
+| ----------------------------------------------- | -----------: |
+| Vespa crabro: iso. Archer: 1989                 |          362 |
+| Vespula vulgaris: iso. Archer: 1989             |          344 |
+| Bombus lapidarius: iso. Cameron et al: 2007     |          332 |
+| Bombus pratorum: iso. Cameron et al: 2007       |          239 |
+| Bombus hypnorum: iso. Cameron et al: 2007       |          148 |
+| Vespula germanica: iso. Archer: 1989            |          120 |
+| Bombus pascuorum: iso. Cameron et al: 2007      |           86 |
+| Colletes hederae: iso. Schmidt & Westrich: 1993 |           84 |
+| Andrena nitida: iso. Perkins: 1919              |           66 |
+| Bombus hortorum: iso. Cameron et al: 2007       |           62 |
+| Andrena cineraria: iso. Perkins: 1919           |           59 |
+| Anthophora plumipes: iso. Amiet et al: 2007     |           58 |
+| Dolichovespula media: iso. Archer: 1989         |           54 |
+| Bombus humilis: iso. Cameron et al: 2007        |           45 |
+| Andrena fulva: iso. Perkins: 1919               |           45 |
 
 ### Breakdown per Understanding, `Correct` only
 A breakdown of where temporal rejections occur, per Understanding, using only `Correct` verification status 2 records.
 
-|Understanding|# rejections|
-|---|---:|
-|Vespa crabro: iso. Archer: 1989|	168
-|Bombus lapidarius: iso. Cameron et al: 2007|	117
-|Vespula vulgaris: iso. Archer: 1989|	84
-|Bombus hypnorum: iso. Cameron et al: 2007|	51
-|Bombus pascuorum: iso. Cameron et al: 2007|	38
-|Bombus pratorum: iso. Cameron et al: 2007|	35
-|Vespula germanica: iso. Archer: 1989|	35
-|Anthophora plumipes: iso. Amiet et al: 2007|	26
-|Andrena cineraria: iso. Perkins: 1919|	24
-|Andrena nitida: iso. Perkins: 1919|	23
-|Bombus sylvarum: iso. Cameron et al: 2007|	22
-|Bombus hortorum: iso. Cameron et al: 2007|	22
-|Osmia cornuta: iso. Amiet et al: 2004|	19
-|Andrena fulva: iso. Perkins: 1919|	18
-|Bombus vestalis: iso. Cameron et al: 2007|	16
+| Understanding                               | # rejections |
+| ------------------------------------------- | -----------: |
+| Vespa crabro: iso. Archer: 1989             |          168 |
+| Bombus lapidarius: iso. Cameron et al: 2007 |          117 |
+| Vespula vulgaris: iso. Archer: 1989         |           84 |
+| Bombus hypnorum: iso. Cameron et al: 2007   |           51 |
+| Bombus pascuorum: iso. Cameron et al: 2007  |           38 |
+| Bombus pratorum: iso. Cameron et al: 2007   |           35 |
+| Vespula germanica: iso. Archer: 1989        |           35 |
+| Anthophora plumipes: iso. Amiet et al: 2007 |           26 |
+| Andrena cineraria: iso. Perkins: 1919       |           24 |
+| Andrena nitida: iso. Perkins: 1919          |           23 |
+| Bombus sylvarum: iso. Cameron et al: 2007   |           22 |
+| Bombus hortorum: iso. Cameron et al: 2007   |           22 |
+| Osmia cornuta: iso. Amiet et al: 2004       |           19 |
+| Andrena fulva: iso. Perkins: 1919           |           18 |
+| Bombus vestalis: iso. Cameron et al: 2007   |           16 |
 
 ### Breakdown per Understanding, `Considered correct` only
 A breakdown of where temporal rejections occur, per Understanding, using only `Considered correct` verification status 2 records.
 
-|Understanding|# rejections|
-|---|---:|
-|Bombus lapidarius: iso. Cameron et al: 2007|	92
-|Vespula vulgaris: iso. Archer: 1989|	83
-|Vespa crabro: iso. Archer: 1989|	52
-|Bombus hypnorum: iso. Cameron et al: 2007|	29
-|Bombus pratorum: iso. Cameron et al: 2007|	29
-|Bombus pascuorum: iso. Cameron et al: 2007|	15
-|Anthophora plumipes: iso. Amiet et al: 2007|	15
-|Vespula germanica: iso. Archer: 1989|	14
-|Bombus hortorum: iso. Cameron et al: 2007|	14
-|Colletes hederae: iso. Schmidt & Westrich: 1993|	11
-|Lasius flavus: iso. Bolton & Collingwood: 1975|	11
-|Bombus sylvarum: iso. Cameron et al: 2007|	10
-|Dolichovespula sylvestris: iso. Archer: 1989|	10
-|Dolichovespula media: iso. Archer: 1989|	8
-|Andrena fulva: iso. Perkins: 1919|	7
+| Understanding                                   | # rejections |
+| ----------------------------------------------- | -----------: |
+| Bombus lapidarius: iso. Cameron et al: 2007     |           92 |
+| Vespula vulgaris: iso. Archer: 1989             |           83 |
+| Vespa crabro: iso. Archer: 1989                 |           52 |
+| Bombus hypnorum: iso. Cameron et al: 2007       |           29 |
+| Bombus pratorum: iso. Cameron et al: 2007       |           29 |
+| Bombus pascuorum: iso. Cameron et al: 2007      |           15 |
+| Anthophora plumipes: iso. Amiet et al: 2007     |           15 |
+| Vespula germanica: iso. Archer: 1989            |           14 |
+| Bombus hortorum: iso. Cameron et al: 2007       |           14 |
+| Colletes hederae: iso. Schmidt & Westrich: 1993 |           11 |
+| Lasius flavus: iso. Bolton & Collingwood: 1975  |           11 |
+| Bombus sylvarum: iso. Cameron et al: 2007       |           10 |
+| Dolichovespula sylvestris: iso. Archer: 1989    |           10 |
+| Dolichovespula media: iso. Archer: 1989         |            8 |
+| Andrena fulva: iso. Perkins: 1919               |            7 |
 
 ### Rates of rejection
 A comparison of % rejection between various verification 2 statuses. We can see that photo-verifying incoming data drastically increases accuracy, but that data from experienced sources is yet drastically better still. 
 
-|Grouping|All|Rejections|% rejection|
-|---|---:|---:|---:|
-|Correct|85,845|1,022|1.2|
-|Considered correct|98,154|572|0.6|
-|Plausible|4,714|150|3.2|
-|Considered correct**|98,154|507|0.5|
-|Not reviewed|82,349|1,217|1.5|
-|Verified, other than C/CC|6,595|257|3.9|
+| Grouping                  |    All | Rejections | % rejection |
+| ------------------------- | -----: | ---------: | ----------: |
+| Correct                   | 85,845 |      1,022 |         1.2 |
+| Considered correct        | 98,154 |        572 |         0.6 |
+| Plausible                 |  4,714 |        150 |         3.2 |
+| Considered correct**      | 98,154 |        507 |         0.5 |
+| Not reviewed              | 82,349 |      1,217 |         1.5 |
+| Verified, other than C/CC |  6,595 |        257 |         3.9 |
 
 ** 'Considered correct' with the two main verifiers who used 'verification status 2' as confidence-based removed.
 
@@ -742,13 +742,13 @@ Only `Correct` and `Considered Correct` records were sent to be re-verified due 
 
 Of the 983 reviewed records, 981 were intially verified as `Correct`. The post review breakdown of these is as follows:
 
-|Review status|Count|Percentage|
-|---|---|---|
-|Correct|822|84%|
-|Considered correct|86|9%|
-|Incorrect|18|2%|
-|Plausible|7|1%|
-|Unable to verify|48|5%|
+| Review status      | Count | Percentage |
+| ------------------ | ----- | ---------- |
+| Correct            | 822   | 84%        |
+| Considered correct | 86    | 9%         |
+| Incorrect          | 18    | 2%         |
+| Plausible          | 7     | 1%         |
+| Unable to verify   | 48    | 5%         |
 
 All 2 of the `Considered correct` spatial outliers were accepted under review.
 

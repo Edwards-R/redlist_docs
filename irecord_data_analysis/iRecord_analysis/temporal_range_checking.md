@@ -130,7 +130,7 @@ Comparison to BWARS is not possible at this point, since using BWARS data to che
 ### Discussion
 
 #### Human disturbance
-Of the most common rejected Understandings, *Vespa crabro*, *Vespa vulgaris*, and *Vespula germanica* all hibernate in places which humans regularly disturb. Wood piles, chimneys etc. A quick sampling of records strongly suggests a pattern of disturbance, with many correspondants writing that they encountered the specimen through disturbing it whilst hibernating.
+Of the most common rejected Understandings, *Vespa crabro*, *Vespa vulgaris*, and *Vespula germanica* all hibernate in places which humans regularly disturb. Wood piles, chimneys etc. A quick sampling of records strongly suggests a pattern of disturbance, with many correspondents writing that they encountered the specimen through disturbing it whilst hibernating.
 
 #### *Bombus lapidarius*
 *Bombus lapidarius* has been the subject of a previous project which looked at date of emergence. The project found that a great many people are misidentifying this taxon, which explains the large number of 'too-early' records. Many 'out of bounds' records in this sector are out by > 40 days compared to those in BWARS. Either BWARS data is highly insufficient, or the verifications of this taxon are incorrect. Examination of the BWARS records over multiple years provides a high degree of continuity, suggesting significant misidentification. The timings provided by the BWARS data also match up to those expected by ecologists, whilst the timings provided by iRecord data contradict expectations.

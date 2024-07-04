@@ -3,12 +3,12 @@ The spatial checking system works in a similar way to temporal range checking. T
 
 The data used in this section are only those which have passed the Checker. Automated bounds checking on a per-species level require exact-to-type precision in order to not fall foul of nomenclatural confusion. This precision is supplied by Understandings assigned by the Checker.
 
-Note that this routine does not evaluate any magnitude of rejection. For a Red List, magnitude of rejection is an incredibly important metric for the purpose of spatial threat categories. Two records which are extremely out of known range will likely have far more impact on spatially based threat categories than a hundred 'just outside' records. As the number of known records gets smaller and smaller, it becomes even more imperative to only use trusted data given the greater impact each individual records posesses.
+Note that this routine does not evaluate any magnitude of rejection. For a Red List, magnitude of rejection is an incredibly important metric for the purpose of spatial threat categories. Two records which are extremely out of known range will likely have far more impact on spatially based threat categories than a hundred 'just outside' records. As the number of known records gets smaller and smaller, it becomes even more imperative to only use trusted data given the greater impact each individual records possesses.
 
 >An attempt at examining this 'magnitude of rejection' was made during this project. The method looks at the distance from a given record to the edge of the 40km envelope. This distance is then combined with others in any applicable groupings to establish metrics, or individual records can be examined. Bear in mind that this *is* a first attempt to use this particular metric, even if the foundation is fundamental geometry.
 
 ### Sources of major error
-The 40 km buffer used represents the generalised expected potential colonisation front of the taxon. Due to the lack of information on taxon-specific colonisation fronts it was not possible to create bespoke distances. The 40 km buffer region has been used in prior work succesfully, including the BWARS import routine, and as such the distance has been used in this project as well.
+The 40 km buffer used represents the generalised expected potential colonisation front of the taxon. Due to the lack of information on taxon-specific colonisation fronts it was not possible to create bespoke distances. The 40 km buffer region has been used in prior work successfully, including the BWARS import routine, and as such the distance has been used in this project as well.
 
 However, as with all generalisations, there are likely taxa to which the 40 km radius is more applicable to than others. As before, the lack of strong comparable evidence makes the construction of an autecologically-based taxon-specific metric impractical.
 

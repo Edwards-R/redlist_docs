@@ -24,7 +24,7 @@ Of the 347 newly verified records, 93 (27%) were accepted to either `Correct` or
 ## Spatial range checking
 Only `Correct` and `Considered Correct` records were sent to be re-verified due to the limited time available. Spatial extent checks, though usually done entirely by eye, are more familiar to the discipline than temporal checks. Accordingly, the error rate is expected to be significantly lower.
 
-Of the 983 reviewed records, 981 were intially verified as `Correct`. The post review breakdown of these is as follows:
+Of the 983 reviewed records, 981 were initially verified as `Correct`. The post review breakdown of these is as follows:
 
 |Review status|Count|Percentage|
 |---|---|---|

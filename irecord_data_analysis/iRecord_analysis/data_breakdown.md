@@ -171,7 +171,7 @@ A breakdown of each scheme's broad scale taxonomic content, including a subdivis
 ** Verifiers known to have not followed the iRecord or BWARS verification ruleset removed. This will ***very*** strongly impact ant records.
 
 ### Identification difficulty
-This section examines the breakdown of 'id difficulty', as created by Mike Edwards. The id difficulty rankings used for this were created for use in iRecord in 2013. The list has not been updated to Understandings, though the names have been converted using the Checker. The vast majority of nomenclature changes that cannot be automatically converted can be safely assigned to the highest difficulty. The assignment is based on the number of splits occurring that require highly detailed knowledge to identify being far greater than the number of simple 'new colonist' taxa.
+This section examines the breakdown of 'id difficulty', as created by Mike Edwards. The id difficulty rankings used for this were created for use in iRecord in 2013. The list has not been updated to Understandings, though the names have been converted, where possible, using the Checker. The vast majority of nomenclature changes that cannot be automatically converted can be safely assigned to the highest difficulty. The assignment is based on the number of splits occurring that require highly detailed knowledge to identify being far greater than the number of simple 'new colonist' taxa.
 
 In the case of sub-specialisations (e.g. '3 not males'), the additional information has been removed and the difficulty rating condensed to the major rank (in this case, 3). There are only two Understandings where re-classification has been applied and the impact is expected to be minimal.
 

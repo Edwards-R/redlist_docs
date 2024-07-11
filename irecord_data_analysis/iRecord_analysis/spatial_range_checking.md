@@ -165,7 +165,7 @@ The second main cluster of rejection was from the Isle of Mull (an island to the
 *Bombus hypnorum* underwent colonisation followed by significant, rapid expansion. The presence of the taxon near the top of the `Considered correct` rejections list is entirely expected, though records will still need examination to assess the degree of magnitude involved in the rejection.
 
 #### *Anthophora plumipes*
-An awkward species. Thought to have expanded rapidly over the past few years, there are still significant identification problems with two common bumblebees that led consulted entomologists to express concern and uncertainty over data quality.
+An awkward species to assess. Thought to have expanded rapidly over the past few years, there are still significant identification problems with two common bumblebees that led consulted entomologists to express concern and uncertainty over data quality.
 
 #### Lack of general theme
 In the temporal range checker there is a general theme of 'disturbed/interrupted behaviour' which explains a large number of the most common rejections. In the spatial set there is no such obvious, demonstrated, theme that covers any large group of taxa.

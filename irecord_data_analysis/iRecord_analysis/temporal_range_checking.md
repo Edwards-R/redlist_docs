@@ -133,7 +133,7 @@ Comparison to BWARS is not possible at this point, since using BWARS data to che
 Of the most common rejected Understandings, *Vespa crabro*, *Vespa vulgaris*, and *Vespula germanica* all hibernate in places which humans regularly disturb. Wood piles, chimneys etc. A quick sampling of records strongly suggests a pattern of disturbance, with many correspondents writing that they encountered the specimen through disturbing it whilst hibernating.
 
 #### *Bombus lapidarius*
-Many 'out of bounds' records in this sector are out by > 40 days compared to those in BWARS. Either BWARS data is highly insufficient, or the verifications of this taxon are incorrect. Subsequent peer review of these records has found that the majority of rejected *Bombus lapidarius* records in accurate, with the taxon able to emerge significantly earlier than anticipated.
+Many 'out of bounds' records in this sector are out by > 40 days compared to those in BWARS. Either BWARS data is highly insufficient, or the verifications of this taxon are incorrect. Subsequent peer review of these records has found that the majority of rejected *Bombus lapidarius* records are accurate, with the taxon able to emerge significantly earlier than anticipated.
 
 #### *Bombus pratorum*/*pascuorum*
 Conversations with Mike Edwards suggests that the majority of rejected records of these two taxa are the result of misidentification.
@@ -142,7 +142,7 @@ Conversations with Mike Edwards suggests that the majority of rejected records o
 A lot of suspicious rejected records. Mike Edwards's comment was that it would be unusual to find *Bombus sylvarum* on Hawthorne flowers in mid February, as claimed by a subsample of records.
 
 #### Does verification work?
-Yes. The 'verified other than correct/considered correct' data runs a rejection rate of 3.9% against that of verified data at 1.2%. Incoming data sits at 1.5%, though the value is highly affected by the presence of large volumes of data destined for `Considered correct` i.e. acceptance based on the verifier's trust in the recorder. As such, photographic verification provides a greater than 0.3% decrease in rejections than suggested by pure figures.
+Yes. The 'verified other than correct/considered correct' data runs a rejection rate of 3.9% against that of verified data at 1.2%. Incoming data sits at 1.5%, though the value is highly affected by the presence of large volumes of data destined for `Considered correct` i.e. acceptance based on the verifier's trust in the recorder. As such, photographic verification provides a greater than 0.3% decrease in rejections than suggested by pure figures. Peer review identified far more incorrect records from within the temporal rejections than the spatial rejections. This suggests that verifiers are more aware of spatial inconsistencies than temporal inconsistencies.
 
 #### Further investigation
 The main avenue which entomologists would like to explore are the potential 'confusion' taxa which are leading to the out-of-bounds records. Knowing the potential confusions for photographic recording will aid future verifiers avoid such situations, leading to higher quality data output.

@@ -397,7 +397,7 @@ The BWARS verification system is designed to match the exact requirements of dat
 There are also situations in which the verifier simply makes up their own rules. The third most prolific verifier in the system (8,583 records, 3.4%) is such a person.
 
 ### 2.10. Verification status breakdown
-The range of approaches to verification in iRecord causes significant challenge to the ability to peer reviewed these verifications. It is at this point in the input and assessment process that 'invisible' errors - those which cannot be found without repeating the verification of the entire dataset - come to the front. Finding [incorrect Correct](./glossary.md#incorrect-correct-error) records which have photos is only possible to do through human examination of individual records.
+The range of approaches to verification in iRecord causes significant challenge to the ability to peer reviewed these verifications. It is at this point in the input and assessment process that 'invisible' errors - those which cannot be found without repeating the verification of the entire dataset - come to the front. Finding [incorrect Correct](#124-incorrect-correct-error) records which have photos is only possible to do through human examination of individual records.
 
 ### 2.11. Misapplication of Correct
 Under iRecord rules, records which are placed as `Correct` should have photos attached. Under BWARS rules, a photo *can*, under very specific circumstances, be marked as `Correct` without a photo. However, these records are very few and far between, applying to very few taxa. These taxa are ones which exhibit distinctive behavioural patterns in the absence of potential confusions and should be readily identifiable from the data.
@@ -898,7 +898,7 @@ The person verifying a record
 The person who makes the taxonomic determination of a record
 
 ### 12.4. Incorrect Correct error
-A record has been given the status of 'Correct', without the record possessing the required [voucher](#voucher), in the assessment of the [reviewer](#reviewer). Note that different verifiers may accept different levels of voucher completeness.
+A record has been given the status of 'Correct', without the record possessing the required [voucher](#125-voucher), in the assessment of the [reviewer](#121-reviewer). Note that different verifiers may accept different levels of voucher completeness.
 
 ### 12.5. Voucher
 A catch-all term for information contained with a record that may be used to arrive at a determination.

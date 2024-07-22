@@ -56,7 +56,7 @@ One option is to attempt to use iRecord data to bolster a taxon out of 'Data Def
  - Re-run appropriate analysis, incorporating the iRecord data
 
 ## Impact on Critically Endangered taxa
-Another option for the use of extra data is to examine whether the inclusion of more data removes taxa from the Critically Endangered status. Particular care needs to be taken *if* a decision is made to use a population estimate threat criterion that the inclusion of extra data is explicitly mentioned. There are not expected to be many taxa which arive at this threat status, based on preliminary investigation.
+Another option for the use of extra data is to examine whether the inclusion of more data removes taxa from the Critically Endangered status. Particular care needs to be taken *if* a decision is made to use a population estimate threat criterion that the inclusion of extra data is explicitly mentioned. There are not expected to be many taxa which arrive at this threat status, based on preliminary investigation.
 
 ### Process of Selection
  - Identify taxa with `CR` status

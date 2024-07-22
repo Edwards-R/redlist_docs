@@ -6,14 +6,14 @@ This document states which Red List criteria can be used for each model, sourced
 ## Raw Data
 | Criterion | Used | Comment |
 | --- |--- |---|
-| A2 | Yes | Record numbers are an index of abudance appropriate to the taxon. Tetrad area is Area of Occupancy |
+| A2 | Yes | Record numbers are an index of abundance appropriate to the taxon. Tetrad area is Area of Occupancy |
 | A3 | No | No future predictions are made by this model |
 | B2 | Yes | Tetrad area is considered base data |
 
 ## Buffer Union
 | Criterion | Used | Comment |
 | --- |--- |---|
-| A2 | Yes | Buffer union is EoO and an index of abudance appropriate to the taxon |
+| A2 | Yes | Buffer union is EoO and an index of abundance appropriate to the taxon |
 | A3 | No | No future predictions are made by this model |
 | B2 | No | Model does not address AoO |
 

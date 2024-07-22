@@ -7,3 +7,23 @@ Expert advice is that the overall iRecord dataset requires directed attention in
 
 Examination of flight period has identified a higher than expected number of records which are deemed to be highly likely to be inaccurate. Examination of spatial outliers found few records deemed highly likely to be inaccurate.
 
+### Data to use in extended Red List
+Given the level of pollution identified between `Correct` and `Considered correct`, the best available action is to treat all `Correct` data as `Considered correct`. Accordingly, the expanded dataset used in the extended Red List will involve:
+
+- All current Red List data
+- All iRecord data identified as `Correct` or `Considered correct`
+- All additional BWARS submitted data
+
+The iRecord component of the additional data is 155,806 records. This is the total number of records:
+
+- which passed the Checker
+- are in either the `Correct` or `Considered correct` verification_status_2 bracket
+- are between 1992 and 2021 (inclusive)
+
+### Use of spatial envelopes
+The use of the spatial envelope to identify outliers has emerged as a highly efficient method of targeting limited resources in such a way to derive the maximal positive impact on the Red List spatial assessment criteria. Firmer spatial ranges benefit many spatial models, including
+
+  - Minimum Convex Polygon
+  - Tetrad count
+  - Buffer-Union
+  - Alpha Hull

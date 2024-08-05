@@ -1,5 +1,4 @@
-# Data Reliability
-
+## Data Reliability
 - Methods used in Red List require precision *or* enough standardised, directed sampling effort (not data)
   - The MCP is designed for standardised, directed sampling effort. Outliers will therefore be wrong, as we can statistically ignore them. But MCP doesn't work here because
     - Outliers are not wrong but a potential effect of opportunistic survey
@@ -34,14 +33,14 @@ There are two main problems with the use of maps as the main source of quality c
 
 Efforts are being made to address the deficit, such as highlighting records which are either out-of-season or out-of-range, but these metrics are imprecise and, currently, lacking in a verifier-friendly user interface.
 
-## Why does quality matter so much?
+### Why does quality matter so much?
 There are, very broadly speaking, two ways to analyse occurence data in regards to quality. The first is to assume that every record is correct, the other is to assume that every record is potentially incorrect.
 
 Why would anyone ever use the first option? Because there is no way to implement the second option that does not remove outliers. The vast majority of outliers which are readily identifiable, post data-cleaning, are typically entirely correct records. The most prevalent cause of these outliers is taxon movement in response to changing conditions. Additionally, outliers maybe simply be the result of very low data volume/sampling effort/sampling ability. Accordingly, the removal of outliers from a post data-cleaning dataset typically results in the removal of more correct data than incorrect data. In terms of extractable information on spatial occupancy trends, which form the majority of usable Red List criteria for aculeate hymenoptera, removing outliers results in a far less accurate view of the status of a given taxon.
 
 As a result of the difficulty in removing outliers without removing valid information, the only option is to treat every record as valid. Accordingly, great importance is placed upon cleaning the dataset as much as possible. Data quality is *especially* important when working with taxa with low data volume, as it can take very few incorrect records to provoke significant confusion as to a taxon's status. Ten incorrect records amongst the 43,995 records of *Bombus pascuorum*: iso. Cameron et al: 2007 are not likely to be noticed. Ten incorrect records of *Bethylus dendrophilus*: iso. Perkins: 1976 represents a doubling of the entire BWARS dataset.
 
-## Assessing a determiner's capability
+### Assessing a determiner's capability
 There are no 'official' statistics on the time taken to reach any given level of quality in recording aculeate hymenoptera. However, general opinion is that it takes 5 years of study to reach a level of general competency at identifying a reasonable selection of the simpler groups. Even then, many recorders do not keep up to date with the latest nomenclatural changes, instead relying on their extant knowledge and regular, unmodified, keys. Without Understandings being mainstream, one of the greatest skills of a verifier is knowing which interpretation to assign to an uncertain binomial. One such example of skills is identifying whether post-split components are present, or only pre-split. If a recorder has determined *Lasius platythorax* as well as *Lasius niger*, in the same year, the recorder is aware of the split. Accordingly, these binomials are most likely to be *Lasius platythorax*: iso. Seifert: 1992 and *Lasius niger*: iso. Seifert: 1992, respectively.
 
 Post-determination conversion of binomials to Understandings is imprecise. However, in the absence of Understandings being used, assigning by proxy remains the only practical way to upgrade a determination to an Understanding. In rare cases the determiner may respond to a query, but the process of asking, clarifying, and explaining takes too long to be applied to every incoming record.

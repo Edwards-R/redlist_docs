@@ -388,8 +388,11 @@ In order to use NT, the expert must document at least one of the following:
  - A belief that a decline is occurring, combined with the timescale of change
  - A clearly identified threat, with a mechanism for how it may affect the taxon
 
- ### Example 1
- A taxon where multiple models state declines of ~ 25% may be classified as `NT` under Expert Opinion:A2 on the basis that there is evidence for decline which is not significant enough to qualify for `VU`. Expert opinion is that the taxon has declined, though probably not at greater than 30% over ten years.
+### Example 1
+A taxon where multiple models state declines of ~ 25% may be classified as `NT` under Expert Opinion:A2 on the basis that there is evidence for decline which is not significant enough to qualify for `VU`. Expert opinion is that the taxon has declined, though probably not at greater than 30% over ten years.
 
- ### Example 2
- A taxon which has been experiencing long term slow decline at a rate too low to qualify for `VU` will, according to the **Guidance**, go un-reported due to the lack of absolute population metrics for the subject taxa. `NT` provides a way to draw attention to such long-term declines using `index of abundance` within the framework provided.
+### Example 2
+A taxon which has been experiencing long term slow decline at a rate too low to qualify for `VU` will, according to the **Guidance**, go un-reported due to the lack of absolute population metrics for the subject taxa. `NT` provides a way to draw attention to such long-term declines using `index of abundance` within the framework provided.
+
+## Extinction
+A taxon may be declared regionally extinct if it has not been seen for 30 years with targeted survey effort, or for 40 years without targeted survey effort.

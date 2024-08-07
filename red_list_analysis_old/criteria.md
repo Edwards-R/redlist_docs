@@ -64,6 +64,22 @@ Extent of occurrence is to be interpreted as [discrete extent of occurrence](./r
 | iv) Number of locations | Yes | Locations are defined by threat as per [ruling](./rulings.md#threat-defined-locations) |
 | v) Number of mature individuals| No | No data exists for number of mature individuals that matches the Red List standards. |
 
+# Criterion C
+| Criterion | Used | Reason for rejection |
+|---|---|---|
+| C | No | No population level figures of a quality that satisfies Red List standards exist |
+
+# Criterion D
+| Criterion | Used | Reason for rejection |
+|---|---|---|
+| D | No | No population level figures of a quality that satisfies Red List standards exist |
+| D2 | No | Difficulty in making the subcriteria fit the taxa leads to this category becoming a repeat of A3. Two criteria should not assess the exact same aspect to prevent over-emphasis from occurring. A3 is more accurately defined for use with aculeate hymenoptera, and so A3 takes precedent and D2 is retired.|
+
+# Criterion E
+| Criterion | Used | Reason for rejection |
+|---|---|---|
+| E | No | No reliable models exist to provide '% chance of extinction' in the subject taxa. No meaningful manner of obtaining such a model can be found. |
+
 # Summary
 These are the assessment criteria which may be used. Note that `B` requires *both* [minor criteria](#minor-criteria-1) to be met and at *least* one [subcriterion](#subcriteria-for-b) before it can be assigned.
 
@@ -72,3 +88,4 @@ These are the assessment criteria which may be used. Note that `B` requires *bot
 | A2 | b, c | |
 | A3 | b, c | |
 | B2 | a, b | i), ii), iii) |
+

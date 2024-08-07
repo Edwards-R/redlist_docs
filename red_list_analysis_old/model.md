@@ -11,6 +11,11 @@ The bare minimum of statistical calculations performed on the raw data. This con
 
 In addition, the internal review team has the capability to create maps on demand via QGIS and postGIS. One such example would be the creation of a map to show the spread of a parasite and its host on one map, within a custom defined time slice.
 
+## Minimum Convex Polygon
+The minimum convex polygon, based on 10km resolution cells. No length culling is introduced due to the problems in establishing 'true' length vs observation-limited length.
+
+Many low-data-volume taxa experience significant problems with minimum convex polygon drawing, where one or two new nodes in the polygon cause significant variation in the area contained.
+
 ## Buffer Union
 See [buffer union](./glossary.md#buffer-union) for a description
 
@@ -27,12 +32,14 @@ This metric is designed to highlight problems related to low area coverage by th
 
 An increase in this metric over time slices suggests an expanding population. Correspondingly, a decrease in this metric over time suggests a declining population.
 
-Provisionally, if this metric remains below 80% through the majority of the assessment period, this suggests that this model, and others, will suffer from problems associated with low data density.
+If the BU%A metric remains below 80% through the majority of the assessment period, this suggests that this model, and others, will suffer from problems associated with low data density. Such figures are typically associated with sporadically found taxa without continuous detection.
 
 ### History of BU%A
 The idea from this metric arose from trials using alpha hulls, which are highly vulnerable to small adjustments in data when at low data *density*. By expressing the alpha hull as the percentage of the sum of the alpha hulls it was possible to look for low values in this metric, identifying taxa where the alpha hull was at risk of misrepresentation.
 
-The *X*%A metric has been kept in for use with buffer union, though initial testing suggests that buffer union is so stable that data density has to get to incredibly low values for the buffer union to destabilise.
+Buffer-union has been used in other studies to examine species range spread and is not a novel concept by itself.
+
+The '*X%A*' metric has been kept in for use with buffer union, though initial testing suggests that buffer union is so stable that data density has to reach incredibly low values for the buffer union figure to destabilise. As a result, the buffer union is an extremely stable alternative to the potentially volatile minimum convex polygon, especially at the lower data volumes that a lot of taxa in this assessment are operating at.
 
 ## Bayesian Occupancy Trend
 This model uses a Bayesian method to estimate the occupancy of a taxon on an annual basis. As this is a complex, and at times, contentious model, please see [the documentation](./bayesian_docs.md) for more details on how this model was constructed.

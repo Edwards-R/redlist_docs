@@ -3,6 +3,9 @@ This document is a brief outline of what a nomenclatural 'Understanding' is. The
 
 ***NB:** Understandings do not fix everything automatically. If in doubt, or if precision is critical, please check the current nomenclature lists. Understandings used in this Red List are only correct for Great Britain, Ireland, and the Channel Isles.*
 
+### The short version
+Understandings are a way to avoid problems in maintaining modern nomenclature and thus taxonomic accuracy. There have been numerous changes to the taxonomy of this specific group over the last 20 years, which has led to a lot of uncertainty in determinations of older data. Understandings solve the uncertainty without having to resort to numerical codes.
+
 ### What does a binomial Understanding look like?
 Some selected examples:
 - *Myrmica ruginodis: iso. Bolton & Collingwood: 1975*

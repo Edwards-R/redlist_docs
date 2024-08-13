@@ -1,15 +1,12 @@
-# Data Collection
-This section provides an overview of the methods by which data were assembled for use in the Red List project.
-
 ## Sources of data
 The data used for this Red List come from two sources: the UK Bees Wasps and Ants Recording Society (BWARS), and the Essex Field Club. Both of these data sources are considered tertiary data sources as they compile data from a range of primary sources. Furthermore, both sources are considered to be *opportunistic occurrence* datasets.
 
-## Essex Field Club
+### Essex Field Club
 The Essex Field Club hold data on multiple taxa for the 'Essex' general region. This data is held as a commercial interest of the Essex Field Club and is therefore not openly available. There is a degree of overlap with the BWARS dataset, with some contributors submitting to both schemes, as well as open data being sourced to both schemes.
 
 This dataset consists of 85,770 records with an unknown degree of overlap with the BWARS dataset.
 
-## BWARS
+### BWARS
 The BWARS dataset covers Great Britain, all of Ireland, as well as the Channel Islands.BWARS data is not open sourced and instead relies on a crowd-sourcing license. A significant portion of data is derived from commercial surveys and activities - many of which have financial vested interests. The use of a crowd sourcing license allows BWARS freedom to accept data which cannot be released under open access restrictions.
 
 The BWARS dataset consists of 1,116,599 unique records for Great Britain.

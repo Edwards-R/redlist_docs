@@ -25,3 +25,4 @@ Regional rarity assesses a taxon based on how many unique tetrads are occupied. 
 | ID | Insufficient Data | Experts do not consider there to be enough data to classify the taxon |
 
 The inclusion of `NF` and `ID` remove the possibility for a taxon to have the same status - blank - for two entirely different reasons.
+

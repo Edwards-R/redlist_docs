@@ -1,5 +1,5 @@
 ## Internal Review Overview
-The Internal Review is the first point where a taxon is assessed for a threat status. Three people are presented with a spread of information regarding each taxon and must assess the taxon accordingly.
+The Internal Review is the first point where a taxon is assessed for a threat status. Three people are presented with a spread of information regarding each taxon and must assess the taxon accordingly. This Red List is one of the first attempts to utilise more complex statistical models in entomological datasets, as well as utilising a composite approach to assessment using said models. Accordingly, the section below provides an overview of why this approach was taken.
 
 ### The use of models in the Red List
 There is no standardised recording or monitoring protocol in place for the vast majority of taxa covered by this Red List. Instead, the vast majority of data collected for the taxon group is opportunistic. The difficulty is then in extracting reliable trend information from this opportunistic dataset, which can then be assessed according to the Red List **guidance**.
@@ -12,3 +12,10 @@ All models are liable to errors. The more complex models in this assessment, Fre
 >*All models are wrong but some models are useful* - George Box
 
 The principle reason to use statistical models for a Red List is driven by the desire of the Red List assessment categories to utilise numerical values for change. Asking an expert to rule on whether has something decline by 'between 30% and 50%' will tend to get you a very blank look, as the expert tries to work out what those percentages would represent in their experience. Experts tend to be very good at telling you whether something has declined or not, and far less able to attach quantified, numerical amounts to the direction. By utilising multiple models with different assumptions and methods, a greater chance at forming an accurate view of a taxon's conservation trend is achieved.
+
+## Wider review
+A group of experienced field entomologists, all with significant experience working with the assessment taxa, are asked to review the output of the Internal Review. The responses from this are fed back to the internal team, who then review the responses against the Red List criteria. Any eligible changes are then debated and necessary adjustments made.
+
+## Release
+The reviewed Red List is then released for consumption. The idea is that the review is not final, but forms part of a rolling review which taxon-specific projects may feed into.
+

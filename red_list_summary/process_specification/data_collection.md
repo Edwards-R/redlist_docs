@@ -11,8 +11,11 @@ The BWARS dataset covers Great Britain, all of Ireland, as well as the Channel I
 
 The BWARS dataset consists of 1,116,599 unique records for Great Britain.
 
+## De-duplication
+The combined data set was filtered for duplication on the basis of a match of what, where, and when. No finer-grain de-duplication was attempted due to the size of the combined datasets against the probable impact of doing so. Taxa at such low data volume that the duplication of individual records would matter will be marked as Data Deficient against statistical models that rely on this metric.
+
 ## Collection methodology
-There is no standardised collection or survey method for either dataset. Very little structured recording of most taxa in this Red List is performed. Both datasets therefore focus on collecting as much reliable data as possible, from as many sources as possible, and as such focus on the 'most common data', which consists of:
+There is no standardised collection or survey method present in either dataset. Very little structured recording of the vast majority of the taxa in this Red List is performed, especially at a level representative of 'Great Britain'. Both datasets therefore focus on collecting as much reliable data as possible, from as many sources as possible, and as such focus on the 'most common data', which consists of:
 
 - What
 - Where
@@ -38,3 +41,4 @@ An entomologist regularly walks a local nature reserve and collects species-leve
 In order to achieve an practical and usable abundance dataset, sampling methodologies must be defined, followed, and quality controlled. If one wishes to know how many of a thing there are, one must also know the detectability of the item in question, the detection capability of the sensory equipment (in this case, the recorder), the time spent searching, how targetted the search effort was etc. Aculeate hymenoptera are typically a low-frequency encounter, with the searcher's skill *drastically* affecting the probability of observation.
 
 Given then none of this data is collected, in same cases even collectable, there is no known nor accepted way to translate occurrence data into abundance.
+

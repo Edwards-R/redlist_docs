@@ -7,7 +7,7 @@ Data reliability is a core aspect of the BWARS dataset. Specifically, that the o
 - The provided date (or date range) is reasonable, given our current understanding of when the taxon can be detected (e.g. flight period)
 
 
-The hardest part to correcting an incorrect record is to first of all *notice* that a record is incorrect. Until this project, the predominant way in which data were peer-reviewed was through the BWARS maps. Accordingly, this method could only detect spatial outliers. Occasionally a recipient of the BWARS dataset would identify other outliers - notably when attempting to make a regional atlas - but the vast majority of 'incorrect record' notifications arose through the BWARS maps.
+The hardest part to correcting an incorrect record is to first of all *notice* that a record is incorrect. Until this project, the predominant way in which data were peer reviewed was through the BWARS maps. Accordingly, this method could only detect spatial outliers. Occasionally a recipient of the BWARS dataset would identify other outliers - notably when attempting to make a regional atlas - but the vast majority of 'incorrect record' notifications arose through the BWARS maps.
 
 There are two main problems with the use of maps as the main source of quality control:
 

@@ -8,3 +8,4 @@ The fundamental protocol of this Red List is to utilise multiple models, statist
 - 40 km buffered polygon (Buffer-Union)
 - Frescalo (Taxon association mitigation)
 - Bayesian Occupancy (Bayesian frequency interpretation)
+

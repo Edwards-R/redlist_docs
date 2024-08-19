@@ -13,6 +13,8 @@ All models are liable to errors. The more complex models in this assessment, Fre
 
 The principle reason to use statistical models for a Red List is driven by the desire of the Red List assessment categories to utilise numerical values for change. Asking an expert to rule on whether has something decline by 'between 30% and 50%' will tend to get you a very blank look, as the expert tries to work out what those percentages would represent in their experience. Experts tend to be very good at telling you whether something has declined or not, and far less able to attach quantified, numerical amounts to the direction. By utilising multiple models with different assumptions and methods, a greater chance at forming an accurate view of a taxon's conservation trend is achieved.
 
+Models exist to be interpreted rather than blindly believed. A model is *not* the same as reality, and requires interpretation to be applied to reality. Knowing where and how models utilised in this Red List fail has been the subject of considerable effort between the Internal Review Team and the developers of these models. Neither party expects the models to perform flawlessly, given the variation in data supplied per species.
+
 ## Wider review
 A group of experienced field entomologists, all with significant experience working with the assessment taxa, are asked to review the output of the Internal Review. The responses from this are fed back to the internal team, who then review the responses against the Red List criteria. Any eligible changes are then debated and necessary adjustments made.
 

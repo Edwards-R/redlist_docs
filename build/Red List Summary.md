@@ -41,14 +41,13 @@ There is no standardised collection or survey method present in either dataset. 
 - When
 
 ## Citizen Science
-BWARS and Hymettus do not consider the moniker 'Citizen Scientist' to have supportable meaning for aculeate hymenoptera recording. There are so few opportunities for 'professional' work that the majority of contributors to the BWARS dataset would be considered 'non-professionals', despite their considerable knowledge of the taxa. Furthermore, professionals *do* contribute large volumes of data to BWARS, as do academics.
+BWARS and Hymettus do not consider the moniker 'Citizen Scientist' to have supportable meaning for aculeate hymenoptera recording. There are so few opportunities for 'professional' work that the majority of contributors to the BWARS dataset would be considered 'non-professionals', despite their considerable knowledge of the taxa. Furthermore, professionals *do* contribute large volumes of data to BWARS, as do academics. Accordingly, 'Citizen Science' is devoid of meaningful separation or distinct. Such absence of meaning is particularly present in the most important area of aculeate hymenoptera, which is the ability to accuracy determine taxa at species level. 
 
 ## Examples of collection methods
-
 The following sections illustrate a few known collection 'methodologies' for data in the BWARS dataset.
 
 ### Roadside opportunity
-A utility worked saw an interesting bee whilst on their lunch break. The bee was collected and identified under a microscope that weekend, and the data added to the BWARS database.
+A utility worker saw an interesting bee whilst on their lunch break. The bee was collected and identified under a microscope that weekend, and the data added to the BWARS database.
 
 ### Academic survey
 A student collected data as part of a controlled sampling effort in their PhD. With the assistance of experienced taxonomists, this material was identified to species level, then added to the BWARS database.
@@ -57,7 +56,7 @@ A student collected data as part of a controlled sampling effort in their PhD. W
 An entomologist regularly walks a local nature reserve and collects species-level data across a wide range of invertebrates. This data is then shared with the nature reserve wardens, BWARS, and the NBN.
 
 ## Reasons for non-abundance data
-In order to achieve an practical and usable abundance dataset, sampling methodologies must be defined, followed, and quality controlled. If one wishes to know how many of a thing there are, one must also know the detectability of the item in question, the detection capability of the sensory equipment (in this case, the recorder), the time spent searching, how targetted the search effort was etc. Aculeate hymenoptera are typically a low-frequency encounter, with the searcher's skill *drastically* affecting the probability of observation.
+In order to achieve an practical and usable abundance dataset, sampling methodologies must be defined, followed, and quality controlled. If one wishes to know how many of a thing there are, one must also know the detectability of the item in question, the detection capability of the sensory equipment (in this case, the recorder), the time spent searching, how targeted the search effort was etc. Aculeate hymenoptera are typically a low-frequency encounter, with the searcher's skill *drastically* affecting the probability of observation.
 
 Given then none of this data is collected, in same cases even collectable, there is no known nor accepted way to translate occurrence data into abundance.
 
@@ -70,7 +69,7 @@ Data reliability is a core aspect of the BWARS dataset. Specifically, that the o
 - The provided date (or date range) is reasonable, given our current understanding of when the taxon can be detected (e.g. flight period)
 
 
-The hardest part to correcting an incorrect record is to first of all *notice* that a record is incorrect. Until this project, the predominant way in which data were peer-reviewed was through the BWARS maps. Accordingly, this method could only detect spatial outliers. Occasionally a recipient of the BWARS dataset would identify other outliers - notably when attempting to make a regional atlas - but the vast majority of 'incorrect record' notifications arose through the BWARS maps.
+The hardest part to correcting an incorrect record is to first of all *notice* that a record is incorrect. Until this project, the predominant way in which data were peer reviewed was through the BWARS maps. Accordingly, this method could only detect spatial outliers. Occasionally a recipient of the BWARS dataset would identify other outliers - notably when attempting to make a regional atlas - but the vast majority of 'incorrect record' notifications arose through the BWARS maps.
 
 There are two main problems with the use of maps as the main source of quality control:
 
@@ -90,6 +89,7 @@ As a result of the difficulty in removing outliers without removing valid inform
 There are no 'official' statistics on the time taken to reach any given level of quality in recording aculeate hymenoptera. However, general opinion is that it takes 5 years of study to reach a level of general competency at identifying a reasonable selection of the simpler groups. Even then, many recorders do not keep up to date with the latest nomenclatural changes, instead relying on their extant knowledge and regular, unmodified, keys. Without Understandings being mainstream, one of the greatest skills of a verifier is knowing which interpretation to assign to an uncertain binomial. One such example of skills is identifying whether post-split components are present, or only pre-split. If a recorder has determined *Lasius platythorax* as well as *Lasius niger*, in the same year, the recorder is aware of the split. Accordingly, these binomials are most likely to be *Lasius platythorax*: iso. Seifert: 1992 and *Lasius niger*: iso. Seifert: 1992, respectively.
 
 Post-determination conversion of binomials to Understandings is imprecise. However, in the absence of Understandings being used, assigning by proxy remains the only practical way to upgrade a determination to an Understanding. In rare cases the determiner may respond to a query, but the process of asking, clarifying, and explaining takes too long to be applied to every incoming record.
+
 ## Internal Review Overview
 The Internal Review is the first point where a taxon is assessed for a threat status. Three people are presented with a spread of information regarding each taxon and must assess the taxon accordingly. This Red List is one of the first attempts to utilise more complex statistical models in entomological datasets, as well as utilising a composite approach to assessment using said models. Accordingly, the section below provides an overview of why this approach was taken.
 
@@ -104,6 +104,8 @@ All models are liable to errors. The more complex models in this assessment, Fre
 >*All models are wrong but some models are useful* - George Box
 
 The principle reason to use statistical models for a Red List is driven by the desire of the Red List assessment categories to utilise numerical values for change. Asking an expert to rule on whether has something decline by 'between 30% and 50%' will tend to get you a very blank look, as the expert tries to work out what those percentages would represent in their experience. Experts tend to be very good at telling you whether something has declined or not, and far less able to attach quantified, numerical amounts to the direction. By utilising multiple models with different assumptions and methods, a greater chance at forming an accurate view of a taxon's conservation trend is achieved.
+
+Models exist to be interpreted rather than blindly believed. A model is *not* the same as reality, and requires interpretation to be applied to reality. Knowing where and how models utilised in this Red List fail has been the subject of considerable effort between the Internal Review Team and the developers of these models. Neither party expects the models to perform flawlessly, given the variation in data supplied per species.
 
 ## Wider review
 A group of experienced field entomologists, all with significant experience working with the assessment taxa, are asked to review the output of the Internal Review. The responses from this are fed back to the internal team, who then review the responses against the Red List criteria. Any eligible changes are then debated and necessary adjustments made.

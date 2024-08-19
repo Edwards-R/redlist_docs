@@ -22,14 +22,13 @@ There is no standardised collection or survey method present in either dataset. 
 - When
 
 ## Citizen Science
-BWARS and Hymettus do not consider the moniker 'Citizen Scientist' to have supportable meaning for aculeate hymenoptera recording. There are so few opportunities for 'professional' work that the majority of contributors to the BWARS dataset would be considered 'non-professionals', despite their considerable knowledge of the taxa. Furthermore, professionals *do* contribute large volumes of data to BWARS, as do academics.
+BWARS and Hymettus do not consider the moniker 'Citizen Scientist' to have supportable meaning for aculeate hymenoptera recording. There are so few opportunities for 'professional' work that the majority of contributors to the BWARS dataset would be considered 'non-professionals', despite their considerable knowledge of the taxa. Furthermore, professionals *do* contribute large volumes of data to BWARS, as do academics. Accordingly, 'Citizen Science' is devoid of meaningful separation or distinct. Such absence of meaning is particularly present in the most important area of aculeate hymenoptera, which is the ability to accuracy determine taxa at species level. 
 
 ## Examples of collection methods
-
 The following sections illustrate a few known collection 'methodologies' for data in the BWARS dataset.
 
 ### Roadside opportunity
-A utility worked saw an interesting bee whilst on their lunch break. The bee was collected and identified under a microscope that weekend, and the data added to the BWARS database.
+A utility worker saw an interesting bee whilst on their lunch break. The bee was collected and identified under a microscope that weekend, and the data added to the BWARS database.
 
 ### Academic survey
 A student collected data as part of a controlled sampling effort in their PhD. With the assistance of experienced taxonomists, this material was identified to species level, then added to the BWARS database.
@@ -38,7 +37,7 @@ A student collected data as part of a controlled sampling effort in their PhD. W
 An entomologist regularly walks a local nature reserve and collects species-level data across a wide range of invertebrates. This data is then shared with the nature reserve wardens, BWARS, and the NBN.
 
 ## Reasons for non-abundance data
-In order to achieve an practical and usable abundance dataset, sampling methodologies must be defined, followed, and quality controlled. If one wishes to know how many of a thing there are, one must also know the detectability of the item in question, the detection capability of the sensory equipment (in this case, the recorder), the time spent searching, how targetted the search effort was etc. Aculeate hymenoptera are typically a low-frequency encounter, with the searcher's skill *drastically* affecting the probability of observation.
+In order to achieve an practical and usable abundance dataset, sampling methodologies must be defined, followed, and quality controlled. If one wishes to know how many of a thing there are, one must also know the detectability of the item in question, the detection capability of the sensory equipment (in this case, the recorder), the time spent searching, how targeted the search effort was etc. Aculeate hymenoptera are typically a low-frequency encounter, with the searcher's skill *drastically* affecting the probability of observation.
 
 Given then none of this data is collected, in same cases even collectable, there is no known nor accepted way to translate occurrence data into abundance.
 

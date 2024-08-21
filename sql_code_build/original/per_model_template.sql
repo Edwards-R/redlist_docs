@@ -7,6 +7,7 @@ WITH taxa AS (
 )
 
 SELECT taxa.r_nik,
+COALESCE(pall.num_records, 0) pall,
 COALESCE(p1.num_records, 0) p1,
 COALESCE(p2.num_records, 0) p2,
 COALESCE(p3.num_records, 0) p3,
@@ -15,6 +16,7 @@ COALESCE(p2b.num_records, 0) p2b,
 COALESCE(p3a.num_records, 0) p3a,
 COALESCE(p3b.num_records, 0) p3b
 FROM taxa
+LEFT OUTER JOIN redlist_original.processed_all pall ON taxa.r_nik = pall.r_nik
 LEFT OUTER JOIN redlist_original.processed_1 p1 ON taxa.r_nik = p1.r_nik
 LEFT OUTER JOIN redlist_original.processed_2 p2 ON taxa.r_nik = p2.r_nik
 LEFT OUTER JOIN redlist_original.processed_3 p3 ON taxa.r_nik = p3.r_nik

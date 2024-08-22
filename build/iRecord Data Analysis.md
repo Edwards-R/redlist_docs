@@ -109,7 +109,7 @@ The BWARS (Bees Wasps and Ants) data has gone through a significant quality cont
 - Directed outlier verification
 - Ongoing querying and resolution of potential errors in individual records
 
-This project aims to bring as much of that quality control process to the iRecord data set. Doing so will advance our knowledge on:
+This project aims to bring as much of that quality control process to the iRecord dataset. Doing so will advance our knowledge on:
 
 - How complete the BWARS dataset is
 - How complete the iRecord dataset is

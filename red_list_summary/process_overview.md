@@ -4,7 +4,7 @@ This document outlines the general process by which this Red List is produced. R
 ### Data collection
 Selection and sourcing of available data to be used in the analysis stage. Specifically, data has been sourced from the UK Bees Wasps and Ants Recording Society (BWARS) and the Essex Field Club. These are both organisations which place a high emphasis on the quality of data generated as opposed to simply assembling the largest possible volume of data.
 
-Any overlap in records between the two data sets was removed prior to calculations.
+Any overlap in records between the two datasets was removed prior to calculations.
 
 ### Internal Assessment
 The initial assessment of taxa, determining eligibility and threat status as per the **Guidance**, with additional project-specific rulings documented as required by the **Guidance**.

@@ -9,21 +9,21 @@
 ## 1. Introduction
 This document details the impact of the inclusion of all `Correct` and `Considered correct` records to the combined BWARS & Essex Field Club (EFC) dataset.
 
-In order to make the comparison reasonable, all three data sets were extracted at the same general time. This means that the BWARS & EFC data used for this comparison is *not* the same as that used in the Red List. Notably, since the Red List data set was compiled:
+In order to make the comparison reasonable, all three datasets were extracted at the same general time. This means that the BWARS & EFC data used for this comparison is *not* the same as that used in the Red List. Notably, since the Red List dataset was compiled:
 
 - A number of taxa have been subject to nomenclatural adjustment
 - Some records have been removed from consideration with BWARS due to lack of supporting evidence
 
-The data sets used in this document are defined as follows:
+The datasets used in this document are defined as follows:
 
-| Data set   | Description                                                                                                                                                                          |
+| dataset   | Description                                                                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| *Red List* | The original Red List data set, formed of BWARS and EFC data. This data set is the basis for the current Red List assessment, including the statistical models developed by CEH/BRC. |
+| *Red List* | The original Red List dataset, formed of BWARS and EFC data. This dataset is the basis for the current Red List assessment, including the statistical models developed by CEH/BRC. |
 | *Combined* | Modern BWARS, EFC, and iRecord's `Correct` and `Considered correct` data                                                                                                             |
 | *iRecord*  | iRecord's `Correct` and `Considered correct` data                                                                                                                                    |
 
 ## 2. Comparison of difference using model taxa
-15 model taxa have been selected to investigate the variance between these data sets. The 15 taxa are composed of 5 sets of 3. The 5 major groupings are designed to break up iRecord data into rough recording groups. These groups are:
+15 model taxa have been selected to investigate the variance between these datasets. The 15 taxa are composed of 5 sets of 3. The 5 major groupings are designed to break up iRecord data into rough recording groups. These groups are:
 
 - Bumblebee
 - Other bee
@@ -40,7 +40,7 @@ Each major group is then subdivided into three groups. Each group must be clear 
 Taxa were selected by taxon experts to meet these criteria. All taxa must also be as recordable as possible from the widest range of data sources possible. The intent behind this requirement is to capture the best possible response from iRecord, which incorporates a large amount of data from sources of unknown taxonomic experience.
 
 ## 3. Absolute value changes
-This table shows the absolute change (Δ) between the *Red List* and *Combined* data sets. The number of records in the *iRecord* data set is shown to indicate where changes records are coming from. Note that there are data overlaps between iRecord, BWARS, and the EFC. Numbers will not add up perfectly - this is expected and a known feature of working with these datasets.
+This table shows the absolute change (Δ) between the *Red List* and *Combined* datasets. The number of records in the *iRecord* dataset is shown to indicate where changes records are coming from. Note that there are data overlaps between iRecord, BWARS, and the EFC. Numbers will not add up perfectly - this is expected and a known feature of working with these datasets.
 
 | Group       | Purpose    | Taxon                                               | Δ Number of records | Records in iRecord | Δ Tetrad (km^2) | Δ Buffer Union (km^2) | Δ MCP (km^2) |
 | ----------- | ---------- | --------------------------------------------------- | :-----------------: | :----------------: | :-------------: | :-------------------: | :----------: |
@@ -61,7 +61,7 @@ This table shows the absolute change (Δ) between the *Red List* and *Combined* 
 | Ant         | Restricted | Formica sanguinea: iso. Bolton & Collingwood: 1875  |         36          |         49         |       20        |           0           |      0       |
 
 ## 4. Percentage value changes
-This table shows the percentage change (Δ%) between the *Red List* and *Combined* data sets. It is the majority of the previous table, expressed in terms of percentages where it is supportable to do so.
+This table shows the percentage change (Δ%) between the *Red List* and *Combined* datasets. It is the majority of the previous table, expressed in terms of percentages where it is supportable to do so.
 
 | Group       | Purpose    | Taxon                                               | Δ% Number of records | Δ% Tetrad | Δ% Buffer Union | Δ% MCP |
 | ----------- | ---------- | --------------------------------------------------- | :------------------: | :-------: | :-------------: | :----: |
@@ -86,7 +86,7 @@ Examination of records on percentage change is, at first glance, more informativ
 
 The majority of additional records from iRecord appear to represent a 'filling in' of known range, without major expansion of that range. *Bombus pascuorum* demonstrates this well, with a 35% increase in records - with the majority likely deriving from iRecords - resulting in ~1% increase in Buffer Union area.
 
-Record taxon distribution is, as expected, very heavily weighted towards the *Bombus* and common social wasps. Data on *Vespa crabro* in the iRecord data set should be viewed with considerable suspicion, as this taxon is known to suffer from consistent and frequent misidentification.
+Record taxon distribution is, as expected, very heavily weighted towards the *Bombus* and common social wasps. Data on *Vespa crabro* in the iRecord dataset should be viewed with considerable suspicion, as this taxon is known to suffer from consistent and frequent misidentification.
 
 The 'restricted range' taxa selected are generally climate restricted. Climate restricted taxa are showing across-the-board increases in their abundance and distribution, on average, due to the warming climate of the region. The inclusion of iRecord data highlights this range spread, with more sampling points relating to finer resolution of results. When assessing taxa for threat status however, none of these taxa would be candidates for any threat status due to their current trend of increasing abundance and discrete extent of occurrence.
 

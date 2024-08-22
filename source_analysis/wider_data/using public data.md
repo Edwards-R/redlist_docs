@@ -103,7 +103,7 @@ This tier covers data with an *unknown* level of confidence in its accuracy. Spe
 ### Masked quality
 This tier is achieved by using the high quality data as a mask for the unknown quality data. Doing so does not raise the quality of the data to high quality as doing so would be an un-managed self-referrential systems. That would be a very bad thing when the goal is an increase in quality.
 
-This approach is part of what BWARS uses for outlier detection and what is planned for usage in the upcoming Record Cleaner work. A 'masked' data set could be used to include data into the Red List, but the approach is entirely untested and will introduce unknown measures of bias and skew to the project.
+This approach is part of what BWARS uses for outlier detection and what is planned for usage in the upcoming Record Cleaner work. A 'masked' dataset could be used to include data into the Red List, but the approach is entirely untested and will introduce unknown measures of bias and skew to the project.
 
 ## Alternative methodology - Loop Over
 *This method can be combined with Data Tiers*

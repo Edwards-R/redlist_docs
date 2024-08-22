@@ -1,5 +1,5 @@
 # Data Breakdown
-A documentation of examination into the iRecord data, breaking the data set down into various sub-categories in a bid to develop greater understanding of the information contained.
+A documentation of examination into the iRecord data, breaking the dataset down into various sub-categories in a bid to develop greater understanding of the information contained.
 
 ## Importing iRecord data
 This section examines the number of records in the incoming iRecord dataset, the number of records which failed to pass the Checker, as well as their reasons for failure.

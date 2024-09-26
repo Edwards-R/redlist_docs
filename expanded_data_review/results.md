@@ -100,7 +100,7 @@ Record taxon distribution is, as expected, very heavily weighted towards the *Bo
 
 The 'restricted range' taxa selected are generally climate restricted. Climate restricted taxa are showing across-the-board increases in their abundance and distribution, on average, due to the warming climate of the region. The inclusion of iRecord data highlights this range spread, with more sampling points relating to finer resolution of results. When assessing taxa for threat status however, none of these taxa would be candidates for any threat status due to their current trend of increasing abundance and discrete extent of occurrence.
 
-Taxa where the `Δ Number of records` is negative, in here *Dolichovespula media*, are the result of where BWARS has removed larger volumes of data from the pool of records. These suspensions are typically performed on the basis of lack of trust in a record once that record is queried by an expert.Similarly, the negative MCP change in *Vespula germanica* is likely a 'real' change, resulting from the removal of suspect data.
+Taxa where the `Δ Number of records` is negative, in here *Dolichovespula norwegica*, are the result of where BWARS has removed larger volumes of data from the pool of records. These suspensions are typically performed on the basis of lack of trust in a record once that record is queried by an expert.Similarly, the negative MCP change in *Vespula germanica* is likely a 'real' change, resulting from the removal of suspect data.
 
 These tests reveal baseline data for the inclusion of a large dataset of unknown confidence. The baseline very much follows predictions, demonstrated especially by the similar responses in the 'Purpose' classes.
 

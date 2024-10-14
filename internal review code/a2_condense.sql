@@ -64,20 +64,22 @@ WHERE final_status_2 != 'NE';
 INSERT INTO a2_support (assessment, value)
 SELECT id, 'b'
 FROM a2_assessment
-WHERE support LIKE '%b%'
+WHERE support LIKE '%b%';
 
 -- c
 INSERT INTO a2_support (assessment, value)
 SELECT id, 'c'
 FROM a2_assessment
-WHERE support LIKE '%c%'
+WHERE support LIKE '%c%';
 
 
 -- View results
 WITH accepts AS(
-	SELECT *
-	FROM a2_assessment
+	SELECT a2.*
+	FROM a2_assessment a2
+	LEFT OUTER JOIN raw_support s ON s.tik = a2.nik
 	WHERE accepted = 'Yes'
+	AND a2.status = s.final_status_2
 ),
 dat AS (
 	SELECT nik, value

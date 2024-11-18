@@ -12,6 +12,8 @@ NE considers the process of the Red List to be defined by the document `Guidelin
 
 Since this is a regional assesment, the document `Guidelines for application of IUCN Red List criteria at regional and national levels v4.0` must also be considered. However, this document is many years older than the current **Guidance** document and is considerably outdated.
 
+Where the **Regional guidance** contradicts rather than supports the **guidance** documentation, the **guidance** is considered superior by default. Deviations must be supported by a ruling.
+
 ```
 G 2.1.2
 To do this it is important to refer to guidelines prepared by the IUCN SSC Regional Applications Working Group (e.g., Gärdenfors et al. 2001; IUCN 2003, 2012a; Miller et al. 2007).
@@ -396,3 +398,11 @@ A taxon which has been experiencing long term slow decline at a rate too low to 
 
 ## Extinction
 A taxon may be declared regionally extinct if it has not been seen for 30 years with targeted survey effort, or for 40 years without targeted survey effort.
+
+## NA vs NE
+Taxa are marked 'NA' following the Regional guidance is their non-assessment was due to non-synanthropic colonisation. This decision is based on taking the 2022 **guidance** documentation as superior to the 2010 **Regional guidance** documentation.
+
+Taxa are marked 'NE', following the 2022 **Guidance** if:
+- They are the subject of significant, widespread nomenclatural confusion (we don't know what the correct name to call this is)
+- They are the subject of significant, widespread taxonomic confusion (we don't know what the types are within this complex)
+- They are only present in the assessment area due to synanthropic colonisation (we think that humans brought them here)

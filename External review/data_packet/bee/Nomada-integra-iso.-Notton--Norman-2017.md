@@ -1,0 +1,60 @@
+# Nomada integra: iso. Notton & Norman: 2017
+## Provisional status: DD
+- A2 b,c
+- A3 b
+- D2
+
+## Justification
+*N/A*
+## QA Metrics
+### Decade
+| Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
+|---|---|---|---|---|
+|1992 - 2001|4|16|22204|34%|
+|2002 - 2011|4|16|10184|16%|
+|2012 - 2021|15|44|49209|77%|
+### 5-year
+| Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
+|---|---|---|---|---|
+|2002 - 2006|2|8|7594|11%|
+|2007 - 2011|2|8|6694|10%|
+|2012 - 2016|2|8|8753|13%|
+|2017 - 2021|13|40|47430|74%|
+## Criterion A2 (Statistical)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|Raw record count|LC|550%|No|Nomenclatural split|
+|AoO|LC|400%|No|Nomenclatural split|
+|dEoO|LC|442%|No|Nomenclatural split|
+|Bayesian|DD|*NaN*%|Yes||
+|Bayesian (Expert interpretation)|DD|*N/A*|Yes||
+## Criterion A2 (Expert Inference)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|Internal review|DD|Nomenclatural split|Yes||
+## Criterion A3 (Expert Inference)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|Internal review|DD||Yes||
+## Criterion B
+|Criterion| Value|
+|---|---|
+|Locations|>10|
+|Subcriteria||
+|Support||
+### B1
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|MCP|LC|61700|No|Nomenclatural split|
+### B2
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|Tetrad|LC|68|No|Nomenclatural split|
+## Criterion D2
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|D2|DD|*N/A*|Yes||
+---
+ ---
+ <br><br>
+ 

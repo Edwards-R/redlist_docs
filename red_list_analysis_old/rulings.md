@@ -400,9 +400,18 @@ A taxon which has been experiencing long term slow decline at a rate too low to 
 A taxon may be declared regionally extinct if it has not been seen for 30 years with targeted survey effort, or for 40 years without targeted survey effort.
 
 ## NA vs NE
-Taxa are marked 'NA' following the Regional guidance is their non-assessment was due to non-synanthropic colonisation. This decision is based on taking the 2022 **guidance** documentation as superior to the 2010 **Regional guidance** documentation.
+Taxa are marked 'NA' following the Regional guidance if their non-assessment was due to non-synanthropic colonisation and there is insufficient information to arrive at a trend (e.g. peri-assessment colonisation). This decision is based on taking the 2022 **guidance** documentation as superior to the 2010 **Regional guidance** documentation.
 
 Taxa are marked 'NE', following the 2022 **Guidance** if:
 - They are the subject of significant, widespread nomenclatural confusion (we don't know what the correct name to call this is)
 - They are the subject of significant, widespread taxonomic confusion (we don't know what the types are within this complex)
 - They are only present in the assessment area due to synanthropic colonisation (we think that humans brought them here)
+
+## Use of host threat to override DD on parasite
+A complete host's threat status, or the lowest threat status of all partial hosts, should be used to override any DD result on a parasite.
+
+## Singular use of Moderation
+There are multiple places within the **Guidance** that enable the use of moderation. To avoid repeated moderation distorting a taxon's status, moderation may only be performed *once*. This moderation is performed at the end of the evaluation of *every* model rather than within a given model. Standardising the placement of moderation in such a manner does not remove any capability outlined in the Red List whilst simultaneously enabling tracking of when, and where, moderation has been performed.
+
+## Moderation of `DD`
+A taxon may be moderated to or from `DD` to or from any status, if there is sufficient support from reviewers that such a status is appropriate.

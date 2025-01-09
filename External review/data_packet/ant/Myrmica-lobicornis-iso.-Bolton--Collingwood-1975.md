@@ -1,0 +1,61 @@
+# Myrmica lobicornis: iso. Bolton & Collingwood: 1975
+## Provisional status: LC
+- A2 b,c
+- B1 a,b, 
+- B2 a,b, 
+- D2
+
+## Justification
+*N/A*
+## QA Metrics
+### Decade
+| Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
+|---|---|---|---|---|
+|1992 - 2001|62|164|129342|62%|
+|2002 - 2011|48|164|138492|66%|
+|2012 - 2021|32|80|54841|26%|
+### 5-year
+| Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
+|---|---|---|---|---|
+|2002 - 2006|14|52|57834|27%|
+|2007 - 2011|34|112|90780|43%|
+|2012 - 2016|29|68|40914|19%|
+|2017 - 2021|3|12|19215|9%|
+## Criterion A2 (Statistical)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|Raw record count|CE|-90%|No|Insufficient data|
+|AoO|CE|-82%|No|Insufficient data|
+|dEoO|EN|-53%|No|Insufficient data|
+|Bayesian|LC|5%|No|Insufficient data|
+|Bayesian (Expert interpretation)|DD|*N/A*|Yes||
+## Criterion A2 (Expert Inference)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|Internal review|LC||Yes||
+## Criterion A3 (Expert Inference)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|Internal review|DD||Yes||
+## Criterion B
+|Criterion| Value|
+|---|---|
+|Locations|>10|
+|Subcriteria||
+|Support||
+### B1
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|MCP|LC|278550|Yes||
+### B2
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|Tetrad|LC|400|Yes||
+## Criterion D2
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|D2|LC|*N/A*|Yes||
+---
+ ---
+ <br><br>
+

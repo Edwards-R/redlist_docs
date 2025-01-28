@@ -6,6 +6,7 @@
 - [5. Baseline data changes](#5-baseline-data-changes)
 - [6. Discussion](#6-discussion)
 - [7. Conclusion](#7-conclusion)
+- [8. Appendix](#8-appendix)
 
 ## 1. Introduction
 This document details the impact of the inclusion of all `Correct` and `Considered correct` records to the combined BWARS & Essex Field Club (EFC) dataset.
@@ -106,3 +107,29 @@ These tests reveal baseline data for the inclusion of a large dataset of unknown
 
 ## 7. Conclusion
 Incorporating the `Correct` and `Considered correct` data has not caused any change in how the model taxa would be assessed under the Red List assessment. With the current background trends of increasing population, the use of the expanded *Combined* dataset is most likely of use when attempting to assess taxa with very low volume. However, taxa with low volume are frequently those with significantly problematic identification, leading to a requirement to check records carefully.
+
+## 8. Appendix
+Following on from this work, a new tool was developed to aid in assessing the impact of changes to a dataset through the use of GIS. This tool displays:
+ - The spread of records from the *Red List* dataset (BWARS + EFC)
+ - The spread of records from the modernised BWARS datatset
+ - The spread of records from the *iRecord* dataset
+
+The following table is a review of attempting to assess any visual change from including the iRecord dataset that might be missed from a purely statistical perspective. Comments focus on the potential for this method to identify a *reason to change the status* based on the inclusion of the iRecord dataset. 
+
+| Group       | Purpose    | Taxon                                               | Comment | 
+| ----------- | ---------- | --------------------------------------------------- | ------------------- | 
+| Bumblebee   | Common     | Bombus pascuorum: iso. Cameron et al: 2007          | No discernable change. The distributions completely overlap, as expected from a common, easily identifiable, and large bee. | 
+| Bumblebee   | Rarer      | Bombus monticola: iso. Cameron et al: 2007          | Some filling in of areas, increasing the tetrad count. Nothing that will change the Buffer-Union metric or MCP to any noticable degree. Some more data filling in the south-west of Edinburgh region, but that's not going to make any difference to how the taxon is viewed as this was expected | 
+| Bumblebee   | Restricted | Bombus humilis: iso. Cameron et al: 2007            | One slight addition in the form of a record further north than any others, but not by any significant margin. Older records (<1914) from the BWARS dataset reach much further north. I am not familiar with temperature patterns at this time scale, especially as the records date back to the 1800s. Either way, not an entirely unexpected addition. Interesting, but of minimal impact on the Red List itself. BH asked for comment. | 
+| Other bee   | Common     | Andrena haemorrhoa: iso. Amiet et al: 2010          | No change observed. Very common. | 
+| Other bee   | Rarer      | Halictus tumulorum: iso. Amiet et al: 2001          | No changes observed. iRecord dataset very much a smaller subset of the BWARS datset, as is to be expected given the age of the iRecord dataset. | 
+| Other bee   | Restricted | Andrena hattorfiana: iso. Perkins: 1919             | Some records have been removed from the modern BWARS dataset that were otherwise present. These records were on the northermost border (~ 30km from nearest northern neighbour) of the taxon distribution and were removed for being unable to be supported. Some are pending responses and may be reinstated should proof emerge. No significant effect suspected from either inclusion of removal on any metric. A singular record suspension is likely where the 4-5% BU/MCP change arises from. | 
+| Social wasp | Common     | Vespula germanica: iso. Archer: 1989                | No discernable change. All datasets overlap | 
+| Social wasp | Rarer      | Dolichovespula norwegica: iso. Archer: 1989         | A number of records have been suspended from the BWARS dataset on the basis of boundary checking. All suspended records are nested well within otherwise accepted records, meaning that the change to BU & MCP is expected to be utterly minimal. The BWARS-suspended records are still present in iRecord data as there is no established pathway for communication between the two datasets other than (extremely overworked) human intervention | 
+| Social wasp | Restricted | Vespa crabro: iso. Archer: 1989                     | iRecord data blankets the known area, though the quality of this data is *highly* questionable. Plenty of people see a big queen wasp and go *hornet!* The northernmost limit of the iRecord dataset does however agree with the northernmost limit of the BWARS dataset, with the exception of the record from Perth. This is a specifically confirmed record, known to BWARS, which is considered to be a synanthropically moved fertilised female that established a nest| 
+| Other wasp  | Common     | Ectemnius continuus: iso. Richards: 1980            | No discernable change | 
+| Other wasp  | Rarer      | Ammophila sabulosa: iso. Richards: 1980             | No discernable change | 
+| Other wasp  | Restricted | Gorytes laticinctus: iso. Richards: 1980            | iRecord dataset fills in some spaces. BWARS modern data has post-assessment records expanding further into the north. As expected of an expanding taxon and backed up by metrics. No difference what so ever to assessment | 
+| Ant         | Common     | Myrmica ruginodis: iso. Bolton & Collingwood: 1975  | No discernable change | 
+| Ant         | Rarer      | Lasius fuliginosus: iso. Bolton & Collingwood: 1975 | No discernable change | 
+| Ant         | Restricted | Formica sanguinea: iso. Bolton & Collingwood: 1875  | One out-of-place record was removed from the BWARS dataset during cleaning. Otherwise, no discernable change | 

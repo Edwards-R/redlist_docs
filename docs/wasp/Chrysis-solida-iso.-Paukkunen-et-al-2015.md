@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Chrysis solida: iso. Paukkunen et al: 2015
 ## Provisional status: NE
 

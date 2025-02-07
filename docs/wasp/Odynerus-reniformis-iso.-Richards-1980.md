@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Odynerus reniformis: iso. Richards: 1980
 ## Provisional status: RE
 - A2 

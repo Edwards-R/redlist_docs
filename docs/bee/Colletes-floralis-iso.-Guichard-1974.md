@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Colletes floralis: iso. Guichard: 1974
 ## Provisional status: VU
 - B2 a,b, i

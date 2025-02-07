@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Crossocerus elongatulus: iso. Bitsch & Leclercq: 1993
 ## Provisional status: LC
 - A2 b,c

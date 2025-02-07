@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Priocnemis pusilla: iso. Day: 1988
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Psenulus chevrieri: iso. Schmid-Egger: 2016
 ## Provisional status: DD
 - A2 b

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Polistes dominula: iso. Dvorak & Roberts: 2006
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Priocnemis confusor: iso. Wiśniowski: 2009
 ## Provisional status: LC
 - B1 a,b, 

@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena ovatula: iso. Praz et al: 2022
 ## Provisional status: NE
 

@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Melitta dimidiata: iso. Amiet et al: 2007
 ## Provisional status: NT
 - A2 b,c

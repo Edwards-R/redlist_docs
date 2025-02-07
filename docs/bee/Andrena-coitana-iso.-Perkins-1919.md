@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena coitana: iso. Perkins: 1919
 ## Provisional status: NT
 - A2 b,c

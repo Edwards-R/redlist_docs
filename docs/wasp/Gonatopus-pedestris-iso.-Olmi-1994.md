@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Gonatopus pedestris: iso. Olmi: 1994
 ## Provisional status: DD
 - A2 

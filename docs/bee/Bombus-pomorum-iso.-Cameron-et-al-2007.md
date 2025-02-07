@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus pomorum: iso. Cameron et al: 2007
 ## Provisional status: NE
 

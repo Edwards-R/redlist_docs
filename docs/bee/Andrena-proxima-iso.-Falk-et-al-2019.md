@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena proxima: iso. Falk et al: 2019
 ## Provisional status: DD
 - A2 b,c

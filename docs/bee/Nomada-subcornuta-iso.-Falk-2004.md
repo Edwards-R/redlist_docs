@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada subcornuta: iso. Falk: 2004
 ## Provisional status: DD
 - A2 

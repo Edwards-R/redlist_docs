@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Anthophora furcata: iso. Amiet et al: 2007
 ## Provisional status: LC
 - A2 b,c

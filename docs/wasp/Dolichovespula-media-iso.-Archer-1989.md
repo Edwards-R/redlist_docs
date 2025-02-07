@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Dolichovespula media: iso. Archer: 1989
 ## Provisional status: LC
 - A2 b,c

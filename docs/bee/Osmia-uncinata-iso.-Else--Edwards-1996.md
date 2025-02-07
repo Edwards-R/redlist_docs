@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Osmia uncinata: iso. Else & Edwards: 1996
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Mystrophorus formicaeformis: iso. Olmi: 1994
 ## Provisional status: NE
 

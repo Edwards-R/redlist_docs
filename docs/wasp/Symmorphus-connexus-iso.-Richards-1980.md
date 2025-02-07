@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Symmorphus connexus: iso. Richards: 1980
 ## Provisional status: DD
 - A2 b,c

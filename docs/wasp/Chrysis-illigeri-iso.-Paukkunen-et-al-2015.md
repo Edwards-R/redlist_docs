@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Chrysis illigeri: iso. Paukkunen et al: 2015
 ## Provisional status: LC
 - A2 b,c

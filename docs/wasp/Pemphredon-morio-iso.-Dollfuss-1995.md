@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Pemphredon morio: iso. Dollfuss: 1995
 ## Provisional status: NE
 

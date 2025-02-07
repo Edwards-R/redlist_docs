@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Arachnospila consobrina: iso. Day: 1988
 ## Provisional status: EN
 - B2 a,b, iii

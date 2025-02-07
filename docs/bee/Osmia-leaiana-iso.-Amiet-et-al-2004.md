@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Osmia leaiana: iso. Amiet et al: 2004
 ## Provisional status: LC
 - A2 b,c

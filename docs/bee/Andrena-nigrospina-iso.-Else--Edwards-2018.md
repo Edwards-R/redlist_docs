@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena nigrospina: iso. Else & Edwards: 2018
 ## Provisional status: DD
 - A2 b

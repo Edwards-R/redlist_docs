@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Heriades rubicola: iso. Else & Edwards: 2018
 ## Provisional status: NE
 

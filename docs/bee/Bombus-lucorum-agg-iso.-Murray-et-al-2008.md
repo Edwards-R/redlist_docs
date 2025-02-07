@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus lucorum agg: iso. Murray et al: 2008
 ## Provisional status: LC
 - A2 b

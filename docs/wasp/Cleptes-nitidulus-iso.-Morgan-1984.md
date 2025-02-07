@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Cleptes nitidulus: iso. Morgan: 1984
 ## Provisional status: LC
 - B1 a,b, 

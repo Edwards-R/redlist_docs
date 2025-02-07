@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena polita: iso. Amiet et al: 2010
 ## Provisional status: NA
 

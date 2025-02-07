@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Polistes nimpha: iso. Schmid-Egger et al: 2017
 ## Provisional status: NE
 

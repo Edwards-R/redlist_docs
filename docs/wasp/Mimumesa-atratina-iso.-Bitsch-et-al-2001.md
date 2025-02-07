@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Mimumesa atratina: iso. Bitsch et al: 2001
 ## Provisional status: DD
 - A2 b,c

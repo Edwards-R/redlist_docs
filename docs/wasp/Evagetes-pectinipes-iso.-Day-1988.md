@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Evagetes pectinipes: iso. Day: 1988
 ## Provisional status: LC
 - A2 b,c

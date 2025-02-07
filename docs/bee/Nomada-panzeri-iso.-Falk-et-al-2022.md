@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada panzeri: iso. Falk et al: 2022
 ## Provisional status: NE
 

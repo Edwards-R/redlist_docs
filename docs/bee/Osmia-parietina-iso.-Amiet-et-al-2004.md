@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Osmia parietina: iso. Amiet et al: 2004
 ## Provisional status: NT
 - A2 b

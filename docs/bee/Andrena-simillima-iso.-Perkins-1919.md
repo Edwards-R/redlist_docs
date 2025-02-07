@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena simillima: iso. Perkins: 1919
 ## Provisional status: LC
 - A2 b,c
@@ -72,6 +75,9 @@
  ---
  <br><br>
  
+---
+parent: Bees
+---
 # Andrena simillima: iso. Perkins: 1919
 ## Provisional status: LC
 - A2 b,c

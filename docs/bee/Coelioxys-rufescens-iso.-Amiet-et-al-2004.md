@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Coelioxys rufescens: iso. Amiet et al: 2004
 ## Provisional status: LC
 - B1 a,b, 

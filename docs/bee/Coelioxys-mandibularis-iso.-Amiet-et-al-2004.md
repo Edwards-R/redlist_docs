@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Coelioxys mandibularis: iso. Amiet et al: 2004
 ## Provisional status: EN
 - B2 a,b, iii

@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus ruderarius: iso. Cameron et al: 2007
 ## Provisional status: VU
 - A2 b,c

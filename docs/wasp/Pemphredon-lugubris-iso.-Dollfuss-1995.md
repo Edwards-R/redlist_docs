@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Pemphredon lugubris: iso. Dollfuss: 1995
 ## Provisional status: LC
 - A2 b,c

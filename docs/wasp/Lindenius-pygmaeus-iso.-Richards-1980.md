@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Lindenius pygmaeus: iso. Richards: 1980
 ## Provisional status: NE
 

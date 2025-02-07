@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Anthophora bimaculata: iso. Amiet et al: 2007
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Priocnemis propinqua: iso. Day: 1988
 ## Provisional status: NE
 

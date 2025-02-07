@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Rhopalum gracile: iso. Richards: 1980
 ## Provisional status: DD
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Crossocerus varus: iso. Bitsch & Leclercq: 1993
 ## Provisional status: LC
 - A2 b,c

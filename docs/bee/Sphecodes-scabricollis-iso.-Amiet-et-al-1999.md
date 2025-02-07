@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Sphecodes scabricollis: iso. Amiet et al: 1999
 ## Provisional status: LC
 - A2 b,c

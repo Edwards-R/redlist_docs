@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Polistes gallicus: iso. Guiglia: 1972
 ## Provisional status: NE
 

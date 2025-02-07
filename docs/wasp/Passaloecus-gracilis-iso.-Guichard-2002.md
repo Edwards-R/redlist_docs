@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Passaloecus gracilis: iso. Guichard: 2002
 ## Provisional status: LC
 - A2 b,c

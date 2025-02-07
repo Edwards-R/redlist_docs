@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Epyris bilineatus: iso. Perkins: 1976
 ## Provisional status: DD
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Chrysis longula: iso. Morgan: 1984
 ## Provisional status: RE
 - A2 

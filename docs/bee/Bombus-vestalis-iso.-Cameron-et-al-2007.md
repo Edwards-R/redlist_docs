@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus vestalis: iso. Cameron et al: 2007
 ## Provisional status: LC
 - A2 b,c

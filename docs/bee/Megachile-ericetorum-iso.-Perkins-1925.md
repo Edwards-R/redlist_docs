@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Megachile ericetorum: iso. Perkins: 1925
 ## Provisional status: NE
 

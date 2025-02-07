@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Harpactus tumidus: iso. Bitsch et al: 1997
 ## Provisional status: LC
 - A2 b,c

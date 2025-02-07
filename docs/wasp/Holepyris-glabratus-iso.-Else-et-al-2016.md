@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Holepyris glabratus: iso. Else et al: 2016
 ## Provisional status: NE
 

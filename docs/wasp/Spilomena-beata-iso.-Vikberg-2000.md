@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Spilomena beata: iso. Vikberg: 2000
 ## Provisional status: LC
 - B1 a,b, 

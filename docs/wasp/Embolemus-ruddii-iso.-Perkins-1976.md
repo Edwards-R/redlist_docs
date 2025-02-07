@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Embolemus ruddii: iso. Perkins: 1976
 ## Provisional status: DD
 - A2 b,c

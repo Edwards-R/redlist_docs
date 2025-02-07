@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Megachile circumcincta: iso. Perkins: 1925
 ## Provisional status: VU
 - A2 b,c

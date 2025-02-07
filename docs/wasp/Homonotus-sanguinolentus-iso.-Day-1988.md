@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Homonotus sanguinolentus: iso. Day: 1988
 ## Provisional status: EN
 - B1 a,b, iii

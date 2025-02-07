@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Isodontia mexicana: iso. Bitsch et al: 1997
 ## Provisional status: NE
 

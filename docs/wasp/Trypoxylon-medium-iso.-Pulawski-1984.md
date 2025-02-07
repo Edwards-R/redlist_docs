@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Trypoxylon medium: iso. Pulawski: 1984
 ## Provisional status: LC
 - A2 b,c

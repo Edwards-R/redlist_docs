@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Pristocera depressa: iso. Perkins: 1976
 ## Provisional status: NE
 

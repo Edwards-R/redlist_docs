@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Bethylus cephalotes: iso. Perkins: 1976
 ## Provisional status: LC
 - B1 a,b, 

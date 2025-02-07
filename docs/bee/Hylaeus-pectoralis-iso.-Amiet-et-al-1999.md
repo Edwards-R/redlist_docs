@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Hylaeus pectoralis: iso. Amiet et al: 1999
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Gonatopus albosignatus: iso. Olmi: 1994
 ## Provisional status: DD
 - A2 b,c

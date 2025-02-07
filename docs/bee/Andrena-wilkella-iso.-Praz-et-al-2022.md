@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena wilkella: iso. Praz et al: 2022
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Colletes hederae: iso. Schmidt & Westrich: 1993
 ## Provisional status: LC
 - A2 b,c

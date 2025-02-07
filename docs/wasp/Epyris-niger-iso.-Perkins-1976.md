@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Epyris niger: iso. Perkins: 1976
 ## Provisional status: LC
 - A2 b,c

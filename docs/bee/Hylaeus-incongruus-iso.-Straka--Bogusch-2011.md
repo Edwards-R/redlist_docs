@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Hylaeus incongruus: iso. Straka & Bogusch: 2011
 ## Provisional status: DD
 - A2 b,c

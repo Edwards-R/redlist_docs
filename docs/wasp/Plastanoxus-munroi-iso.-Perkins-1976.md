@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Plastanoxus munroi: iso. Perkins: 1976
 ## Provisional status: NE
 

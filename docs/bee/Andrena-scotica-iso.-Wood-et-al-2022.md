@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena scotica: iso. Wood et al: 2022
 ## Provisional status: NE
 

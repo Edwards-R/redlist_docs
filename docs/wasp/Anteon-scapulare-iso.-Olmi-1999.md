@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Anteon scapulare: iso. Olmi: 1999
 ## Provisional status: DD
 - A2 b,c

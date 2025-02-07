@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada facilis: iso. Notton & Norman: 2017
 ## Provisional status: DD
 - A2 b

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Anteon faciale: iso. Burn and de Rond: 1998
 ## Provisional status: DD
 - A2 b,c

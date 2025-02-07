@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Bethylus boops: iso. Burn: 1997
 ## Provisional status: DD
 - A2 b,c

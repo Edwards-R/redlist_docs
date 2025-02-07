@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Hedychrum rutilans: iso. Morgan: 1984
 ## Provisional status: NE
 

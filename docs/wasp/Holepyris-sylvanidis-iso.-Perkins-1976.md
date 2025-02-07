@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Holepyris sylvanidis: iso. Perkins: 1976
 ## Provisional status: NE
 

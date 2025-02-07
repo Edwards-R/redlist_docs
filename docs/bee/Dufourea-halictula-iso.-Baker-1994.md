@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Dufourea halictula: iso. Baker: 1994
 ## Provisional status: RE
 - A2 

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Plastanoxus westwoodi: iso. Perkins: 1976
 ## Provisional status: NE
 

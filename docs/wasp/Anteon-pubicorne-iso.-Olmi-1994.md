@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Anteon pubicorne: iso. Olmi: 1994
 ## Provisional status: LC
 - B1 a,b, 

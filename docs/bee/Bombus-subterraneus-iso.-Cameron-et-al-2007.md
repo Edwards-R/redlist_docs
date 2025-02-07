@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus subterraneus: iso. Cameron et al: 2007
 ## Provisional status: RE
 - A2 b

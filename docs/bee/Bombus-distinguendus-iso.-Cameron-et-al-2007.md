@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus distinguendus: iso. Cameron et al: 2007
 ## Provisional status: VU
 - B2 a,b, iii

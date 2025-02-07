@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Gonatopus helleni: iso. Olmi: 1994
 ## Provisional status: DD
 - A2 

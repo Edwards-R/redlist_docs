@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Hedychridium roseum: iso. Morgan: 1984
 ## Provisional status: NE
 

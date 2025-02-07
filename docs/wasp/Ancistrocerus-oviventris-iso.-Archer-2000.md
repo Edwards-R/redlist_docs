@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Ancistrocerus oviventris: iso. Archer: 2000
 ## Provisional status: LC
 - A2 b,c

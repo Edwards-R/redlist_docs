@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada fulvicornis: iso. Falk: 2004
 ## Provisional status: LC
 - A2 b,c

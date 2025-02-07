@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus cullumanus: iso. Cameron et al: 2007
 ## Provisional status: RE
 - A2 

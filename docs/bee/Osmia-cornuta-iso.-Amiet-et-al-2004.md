@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Osmia cornuta: iso. Amiet et al: 2004
 ## Provisional status: NE
 

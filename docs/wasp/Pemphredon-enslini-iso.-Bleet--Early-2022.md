@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Pemphredon enslini: iso. Bleet & Early: 2022
 ## Provisional status: NE
 

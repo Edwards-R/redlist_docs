@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Lasioglossum laeve: iso. Amiet et al: 2001
 ## Provisional status: NE
 

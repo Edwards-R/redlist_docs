@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus monticola: iso. Cameron et al: 2007
 ## Provisional status: NT
 - A3 b

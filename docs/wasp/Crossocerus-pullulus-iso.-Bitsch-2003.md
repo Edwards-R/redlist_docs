@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Crossocerus pullulus: iso. Bitsch: 2003
 ## Provisional status: NA
 

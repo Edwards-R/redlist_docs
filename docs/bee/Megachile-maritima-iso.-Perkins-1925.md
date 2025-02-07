@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Megachile maritima: iso. Perkins: 1925
 ## Provisional status: LC
 - A2 b,c

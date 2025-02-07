@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Dufourea minuta: iso. Baker: 1994
 ## Provisional status: NE
 

@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena russala: iso. Praz et al: 2022
 ## Provisional status: LC
 - A2 b

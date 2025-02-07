@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Lindenius panzeri: iso. Richards: 1988
 ## Provisional status: LC
 - A2 b,c

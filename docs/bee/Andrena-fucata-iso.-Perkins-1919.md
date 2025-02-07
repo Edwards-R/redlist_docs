@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena fucata: iso. Perkins: 1919
 ## Provisional status: LC
 - A2 b,c

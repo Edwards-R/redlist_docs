@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada integra: iso. Notton & Norman: 2017
 ## Provisional status: LC
 - A2 b,c

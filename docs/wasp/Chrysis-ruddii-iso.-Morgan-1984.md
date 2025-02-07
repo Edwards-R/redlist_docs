@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Chrysis ruddii: iso. Morgan: 1984
 ## Provisional status: LC
 - A2 b,c

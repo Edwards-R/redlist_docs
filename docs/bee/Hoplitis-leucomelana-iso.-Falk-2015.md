@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Hoplitis leucomelana: iso. Falk: 2015
 ## Provisional status: RE
 - A2 

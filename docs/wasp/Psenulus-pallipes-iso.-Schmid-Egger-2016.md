@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Psenulus pallipes: iso. Schmid-Egger: 2016
 ## Provisional status: LC
 - A2 b

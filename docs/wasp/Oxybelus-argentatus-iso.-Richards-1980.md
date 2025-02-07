@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Oxybelus argentatus: iso. Richards: 1980
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena nana: iso. Amiet et al: 2010
 ## Provisional status: RE
 - A2 

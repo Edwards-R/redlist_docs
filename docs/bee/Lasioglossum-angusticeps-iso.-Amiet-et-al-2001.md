@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Lasioglossum angusticeps: iso. Amiet et al: 2001
 ## Provisional status: NT
 - A2 b,c

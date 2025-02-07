@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Vespula austriaca: iso. Archer: 1989
 ## Provisional status: VU
 - B1 a,b, 

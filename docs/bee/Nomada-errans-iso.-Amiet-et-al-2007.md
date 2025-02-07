@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada errans: iso. Amiet et al: 2007
 ## Provisional status: RE
 - A2 

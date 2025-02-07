@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Monosapyga clavicornis: iso. Amiet: 2008
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Ectemnius borealis: iso. Richards: 1980
 ## Provisional status: LC
 - A2 b,c

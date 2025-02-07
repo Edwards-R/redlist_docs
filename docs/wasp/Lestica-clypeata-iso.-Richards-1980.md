@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Lestica clypeata: iso. Richards: 1980
 ## Provisional status: NE
 

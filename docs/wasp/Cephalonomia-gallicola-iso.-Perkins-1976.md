@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Cephalonomia gallicola: iso. Perkins: 1976
 ## Provisional status: NE
 

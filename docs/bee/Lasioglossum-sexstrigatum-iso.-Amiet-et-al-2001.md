@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Lasioglossum sexstrigatum: iso. Amiet et al: 2001
 ## Provisional status: NA
 

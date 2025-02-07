@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Omalus puncticollis: iso. Paukkunen et al: 2015
 ## Provisional status: LC
 - B1 a,b, 

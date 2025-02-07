@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Hylaeus dilatatus: iso. Notton and Dathe: 2008
 ## Provisional status: LC
 - A2 b,c

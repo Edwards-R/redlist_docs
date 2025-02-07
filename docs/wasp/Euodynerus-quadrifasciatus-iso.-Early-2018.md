@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Euodynerus quadrifasciatus: iso. Early: 2018
 ## Provisional status: DD
 - A2 b,c

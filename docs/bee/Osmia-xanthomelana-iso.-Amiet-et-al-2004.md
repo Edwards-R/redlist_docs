@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Osmia xanthomelana: iso. Amiet et al: 2004
 ## Provisional status: CR
 - B2 a,b, i

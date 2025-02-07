@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Cephalonomia waterstoni: iso. Perkins: 1976
 ## Provisional status: NE
 

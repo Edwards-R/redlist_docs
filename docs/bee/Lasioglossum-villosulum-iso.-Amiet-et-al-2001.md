@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Lasioglossum villosulum: iso. Amiet et al: 2001
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Didineis lunicornis: iso. Bitsch et al: 1997
 ## Provisional status: LC
 - B1 a,b, 

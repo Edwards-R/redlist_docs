@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada glabella: iso. Falk et al: 2022
 ## Provisional status: NE
 

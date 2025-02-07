@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Passaloecus turionum: iso. Guichard: 2002
 ## Provisional status: DD
 - A2 b,c

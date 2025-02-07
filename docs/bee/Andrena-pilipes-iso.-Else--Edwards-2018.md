@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena pilipes: iso. Else & Edwards: 2018
 ## Provisional status: LC
 - B1 a,b, 

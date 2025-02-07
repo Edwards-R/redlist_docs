@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Sapyga quinquepunctata: iso. Richards: 1980
 ## Provisional status: LC
 - A2 b,c

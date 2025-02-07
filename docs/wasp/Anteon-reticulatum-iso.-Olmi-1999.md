@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Anteon reticulatum: iso. Olmi: 1999
 ## Provisional status: NE
 

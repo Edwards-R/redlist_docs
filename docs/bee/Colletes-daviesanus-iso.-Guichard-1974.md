@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Colletes daviesanus: iso. Guichard: 1974
 ## Provisional status: LC
 - A2 b,c

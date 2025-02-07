@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Laelius pedatus: iso. Vikberg & Koponen: 2005
 ## Provisional status: NE
 

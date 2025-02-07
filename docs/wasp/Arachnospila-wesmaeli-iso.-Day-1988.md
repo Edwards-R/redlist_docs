@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Arachnospila wesmaeli: iso. Day: 1988
 ## Provisional status: LC
 - B1 a,b, 

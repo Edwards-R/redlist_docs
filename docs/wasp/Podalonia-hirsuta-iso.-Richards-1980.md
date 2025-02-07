@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Podalonia hirsuta: iso. Richards: 1980
 ## Provisional status: LC
 - A2 b,c

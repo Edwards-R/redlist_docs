@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Trypoxylon attenuatum: iso. Richards: 1980
 ## Provisional status: LC
 - A2 b,c

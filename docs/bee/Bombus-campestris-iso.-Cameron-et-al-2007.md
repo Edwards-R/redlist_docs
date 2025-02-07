@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus campestris: iso. Cameron et al: 2007
 ## Provisional status: NT
 - A2 b,c

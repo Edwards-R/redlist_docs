@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Bombus magnus: iso. Murray et al: 2008
 ## Provisional status: DD
 - A2 b

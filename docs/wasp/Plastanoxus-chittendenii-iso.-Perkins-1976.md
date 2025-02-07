@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Plastanoxus chittendenii: iso. Perkins: 1976
 ## Provisional status: RE
 - A2 

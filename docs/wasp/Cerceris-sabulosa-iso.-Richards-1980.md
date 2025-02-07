@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Cerceris sabulosa: iso. Richards: 1980
 ## Provisional status: NE
 

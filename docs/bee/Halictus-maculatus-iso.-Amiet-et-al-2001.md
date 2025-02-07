@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Halictus maculatus: iso. Amiet et al: 2001
 ## Provisional status: RE
 - A2 

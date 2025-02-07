@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Mimesa bruxellensis: iso. Bitsch et al: 2001
 ## Provisional status: LC
 - B1 a,b, 

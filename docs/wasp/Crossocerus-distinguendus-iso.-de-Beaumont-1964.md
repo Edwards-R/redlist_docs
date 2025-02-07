@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Crossocerus distinguendus: iso. de Beaumont: 1964
 ## Provisional status: LC
 - A2 b,c

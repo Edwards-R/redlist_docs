@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Hylaeus punctulatissimus: iso. Amiet et al: 1999
 ## Provisional status: NE
 

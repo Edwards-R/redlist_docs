@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Trypoxylon minus: iso. Pulawski: 1984
 ## Provisional status: NE
 

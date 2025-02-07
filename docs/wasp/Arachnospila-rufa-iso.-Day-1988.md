@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Arachnospila rufa: iso. Day: 1988
 ## Provisional status: RE
 - A2 

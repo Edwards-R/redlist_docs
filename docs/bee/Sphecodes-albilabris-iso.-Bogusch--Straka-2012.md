@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Sphecodes albilabris: iso. Bogusch & Straka: 2012
 ## Provisional status: NA
 

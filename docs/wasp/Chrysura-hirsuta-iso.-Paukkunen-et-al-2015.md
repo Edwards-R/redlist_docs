@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Chrysura hirsuta: iso. Paukkunen et al: 2015
 ## Provisional status: DD
 - A2 b,c

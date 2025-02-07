@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Vespula rufa: iso. Archer: 1989
 ## Provisional status: VU
 - A2 b,c

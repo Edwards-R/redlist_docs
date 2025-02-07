@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Hoplitis adunca: iso. Else & Edwards: 2018
 ## Provisional status: NE
 

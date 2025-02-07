@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada alboguttata: iso. Sann et al: 2010
 ## Provisional status: NA
 

@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Panurgus calcaratus: iso. Amiet et al: 2010
 ## Provisional status: LC
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Mellinus crabroneus: iso. Richards: 1980
 ## Provisional status: RE
 - A2 

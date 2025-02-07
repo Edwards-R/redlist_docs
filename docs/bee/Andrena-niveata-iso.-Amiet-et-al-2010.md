@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena niveata: iso. Amiet et al: 2010
 ## Provisional status: EN
 - B2 a,b, i

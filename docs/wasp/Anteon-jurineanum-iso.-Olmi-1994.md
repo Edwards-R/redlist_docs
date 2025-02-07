@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Anteon jurineanum: iso. Olmi: 1994
 ## Provisional status: LC
 - B1 a,b, 

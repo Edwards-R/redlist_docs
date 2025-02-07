@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Colletes halophilus: iso. Guichard: 1974
 ## Provisional status: NT
 - A3 c

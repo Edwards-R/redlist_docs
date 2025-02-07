@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena tridentata: iso. Perkins: 1919
 ## Provisional status: RE
 - A2 

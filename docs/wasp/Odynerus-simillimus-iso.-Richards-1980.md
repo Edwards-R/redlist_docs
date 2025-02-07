@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Odynerus simillimus: iso. Richards: 1980
 ## Provisional status: VU
 - B1 a,b, iii

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Oxybelus uniglumis: iso. Richards: 1980
 ## Provisional status: LC
 - A2 b,c

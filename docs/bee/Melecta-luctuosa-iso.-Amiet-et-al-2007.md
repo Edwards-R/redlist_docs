@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Melecta luctuosa: iso. Amiet et al: 2007
 ## Provisional status: RE
 - A2 

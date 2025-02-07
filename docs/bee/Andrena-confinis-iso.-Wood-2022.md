@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Andrena confinis: iso. Wood: 2022
 ## Provisional status: LC
 - A2 b

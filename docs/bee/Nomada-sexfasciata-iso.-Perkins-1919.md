@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada sexfasciata: iso. Perkins: 1919
 ## Provisional status: CR
 - B1 a,b, i

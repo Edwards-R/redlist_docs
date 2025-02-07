@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Miscophus concolor: iso. Richards: 1980
 ## Provisional status: LC
 - B1 a,b, 

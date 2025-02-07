@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Lasioglossum smeathmanellum: iso. Amiet et al: 2001
 ## Provisional status: LC
 - A2 b,c

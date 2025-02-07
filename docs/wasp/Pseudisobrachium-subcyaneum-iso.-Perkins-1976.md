@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Pseudisobrachium subcyaneum: iso. Perkins: 1976
 ## Provisional status: DD
 - A2 b,c

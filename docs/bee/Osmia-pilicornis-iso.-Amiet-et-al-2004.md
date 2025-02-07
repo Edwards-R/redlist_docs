@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Osmia pilicornis: iso. Amiet et al: 2004
 ## Provisional status: EN
 - A2 b,c

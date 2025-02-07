@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Miscophus bicolor: iso. Bitsch et al: 2001
 ## Provisional status: NA
 

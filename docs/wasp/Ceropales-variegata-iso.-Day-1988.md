@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Ceropales variegata: iso. Day: 1988
 ## Provisional status: DD
 - A2 b,c

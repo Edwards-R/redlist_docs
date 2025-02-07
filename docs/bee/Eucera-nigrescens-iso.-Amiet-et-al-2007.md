@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Eucera nigrescens: iso. Amiet et al: 2007
 ## Provisional status: RE
 - A2 

@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Hylaeus annularis: iso. Notton and Dathe: 2008
 ## Provisional status: VU
 - B2 a,b, iii

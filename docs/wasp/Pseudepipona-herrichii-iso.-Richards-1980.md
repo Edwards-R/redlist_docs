@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Pseudepipona herrichii: iso. Richards: 1980
 ## Provisional status: EN
 - B1 a,b, iii

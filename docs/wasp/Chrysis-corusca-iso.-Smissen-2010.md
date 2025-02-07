@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Chrysis corusca: iso. Smissen: 2010
 ## Provisional status: DD
 - A2 b,c

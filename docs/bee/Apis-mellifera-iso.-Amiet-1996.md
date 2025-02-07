@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Apis mellifera: iso. Amiet: 1996
 ## Provisional status: NE
 

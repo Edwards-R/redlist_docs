@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Eumenes pedunculatus: iso. Gereys: 2016
 ## Provisional status: NE
 

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Crossocerus annulipes: iso. Richards: 1980
 ## Provisional status: LC
 - A2 b,c

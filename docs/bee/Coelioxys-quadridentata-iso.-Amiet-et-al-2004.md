@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Coelioxys quadridentata: iso. Amiet et al: 2004
 ## Provisional status: DD
 - A2 b,c

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Goniozus claripennis: iso. Perkins: 1976
 ## Provisional status: LC
 - B1 a,b, 

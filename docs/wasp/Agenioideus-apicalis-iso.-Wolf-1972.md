@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Agenioideus apicalis: iso. Wolf: 1972
 ## Provisional status: NE
 

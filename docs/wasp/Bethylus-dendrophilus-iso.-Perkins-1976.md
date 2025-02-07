@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Bethylus dendrophilus: iso. Perkins: 1976
 ## Provisional status: DD
 - A2 b,c

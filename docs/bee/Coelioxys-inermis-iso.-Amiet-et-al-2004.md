@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Coelioxys inermis: iso. Amiet et al: 2004
 ## Provisional status: LC
 - A2 b,c

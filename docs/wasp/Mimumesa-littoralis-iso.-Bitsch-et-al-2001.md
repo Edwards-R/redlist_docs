@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Mimumesa littoralis: iso. Bitsch et al: 2001
 ## Provisional status: VU
 - B2 a,b, iii

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Pemphredon fabricii: iso. Falk & Early: 2021
 ## Provisional status: NE
 

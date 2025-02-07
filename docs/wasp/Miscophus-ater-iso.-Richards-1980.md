@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Miscophus ater: iso. Richards: 1980
 ## Provisional status: NT
 - D2

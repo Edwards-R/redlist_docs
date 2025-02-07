@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Episyron gallicum: iso. Wiśniowski: 2009
 ## Provisional status: NE
 

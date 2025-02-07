@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Ancistrocerus claripennis: iso. Else et al: 2016
 ## Provisional status: RE
 - A2 

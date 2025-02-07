@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Nomada signata: iso. Perkins: 1919
 ## Provisional status: LC
 - A2 b,c

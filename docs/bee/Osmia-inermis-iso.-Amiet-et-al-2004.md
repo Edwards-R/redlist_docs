@@ -1,3 +1,6 @@
+---
+parent: Bees
+---
 # Osmia inermis: iso. Amiet et al: 2004
 ## Provisional status: EN
 - D2

@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Eumenes papillarius: iso. Archer: 2014
 ## Provisional status: DD
 - A2 b,c

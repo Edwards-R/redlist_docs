@@ -1,3 +1,6 @@
+---
+parent: Wasps
+---
 # Vespula vulgaris: iso. Archer: 1989
 ## Provisional status: LC
 - A2 b,c

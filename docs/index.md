@@ -6,14 +6,12 @@ This site contains the draft assessments of the GB Acueleate Hymenoptera Red Lis
 
 # Ants
 
-{% for taxon in ant %}
- 
+{% for taxon in site.ant %}
 <ul>
- 
-<li>
-    <h3>
-        Zounds!
-    </h3>
-</li>
- 
-</ul>{% endfor %}
+    <li>
+        <h3>
+            Zounds!
+        </h3>
+    </li>
+</ul>
+{% endfor %}

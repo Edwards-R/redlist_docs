@@ -1,4 +1,7 @@
-# Tetramorium atratulum: iso. Seifert: 2007
+---
+parent: Ants
+---
+#Tetramorium atratulum: iso. Seifert: 2007
 ## Provisional status: DD
 - A2 b,c
 - A3 b

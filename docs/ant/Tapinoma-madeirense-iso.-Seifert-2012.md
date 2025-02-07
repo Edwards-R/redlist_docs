@@ -1,4 +1,7 @@
-# Tapinoma madeirense: iso. Seifert: 2012
+---
+parent: Ants
+---
+#Tapinoma madeirense: iso. Seifert: 2012
 ## Provisional status: NE
 
 ## Justification

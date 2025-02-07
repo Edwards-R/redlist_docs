@@ -1,4 +1,7 @@
-# Formica picea: iso. Seifert: 2007
+---
+parent: Ants
+---
+#Formica picea: iso. Seifert: 2007
 ## Provisional status: VU
 - B2 a,b, iii
 

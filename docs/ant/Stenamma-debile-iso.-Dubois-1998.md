@@ -1,4 +1,7 @@
-# Stenamma debile: iso. Dubois: 1998
+---
+parent: Ants
+---
+#Stenamma debile: iso. Dubois: 1998
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

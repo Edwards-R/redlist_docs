@@ -1,4 +1,7 @@
-# Tetramorium caespitum: iso. Schlick-Steiner: 2006
+---
+parent: Ants
+---
+#Tetramorium caespitum: iso. Schlick-Steiner: 2006
 ## Provisional status: NE
 
 ## Justification

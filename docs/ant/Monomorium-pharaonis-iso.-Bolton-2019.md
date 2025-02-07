@@ -1,4 +1,7 @@
-# Monomorium pharaonis: iso. Bolton: 2019
+---
+parent: Ants
+---
+#Monomorium pharaonis: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

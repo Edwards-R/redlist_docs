@@ -1,4 +1,7 @@
-# Formica exsecta: iso. Bolton & Collingwood: 1975
+---
+parent: Ants
+---
+#Formica exsecta: iso. Bolton & Collingwood: 1975
 ## Provisional status: VU
 - B2 a,b, iii
 

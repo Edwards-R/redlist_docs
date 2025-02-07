@@ -1,4 +1,7 @@
-# Myrmica lonae: iso. Seifert: 2000
+---
+parent: Ants
+---
+#Myrmica lonae: iso. Seifert: 2000
 ## Provisional status: NE
 
 ## Justification

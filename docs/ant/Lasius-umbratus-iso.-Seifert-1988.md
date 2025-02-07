@@ -1,4 +1,7 @@
-# Lasius umbratus: iso. Seifert: 1988
+---
+parent: Ants
+---
+#Lasius umbratus: iso. Seifert: 1988
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

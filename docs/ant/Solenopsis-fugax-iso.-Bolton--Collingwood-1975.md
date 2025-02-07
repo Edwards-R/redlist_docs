@@ -1,4 +1,7 @@
-# Solenopsis fugax: iso. Bolton & Collingwood: 1975
+---
+parent: Ants
+---
+#Solenopsis fugax: iso. Bolton & Collingwood: 1975
 ## Provisional status: DD
 - A2 b,c
 - A3 b

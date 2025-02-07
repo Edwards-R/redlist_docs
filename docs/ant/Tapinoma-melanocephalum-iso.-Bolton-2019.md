@@ -1,4 +1,7 @@
-# Tapinoma melanocephalum: iso. Bolton: 2019
+---
+parent: Ants
+---
+#Tapinoma melanocephalum: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

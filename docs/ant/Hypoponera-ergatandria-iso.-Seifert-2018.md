@@ -1,4 +1,7 @@
-# Hypoponera ergatandria: iso. Seifert: 2018
+---
+parent: Ants
+---
+#Hypoponera ergatandria: iso. Seifert: 2018
 ## Provisional status: NE
 
 ## Justification

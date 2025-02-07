@@ -1,4 +1,7 @@
-# Lasius meridionalis: iso. Seifert: 1988
+---
+parent: Ants
+---
+#Lasius meridionalis: iso. Seifert: 1988
 ## Provisional status: LC
 - B1 a,b, 
 - B2 a,b, 

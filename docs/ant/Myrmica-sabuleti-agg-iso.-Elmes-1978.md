@@ -1,4 +1,7 @@
-# Myrmica sabuleti agg: iso. Elmes: 1978
+---
+parent: Ants
+---
+#Myrmica sabuleti agg: iso. Elmes: 1978
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

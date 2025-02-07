@@ -1,4 +1,7 @@
-# Tapinoma erraticum: iso. Seifert: 2012
+---
+parent: Ants
+---
+#Tapinoma erraticum: iso. Seifert: 2012
 ## Provisional status: DD
 - A2 b,c
 - A3 b

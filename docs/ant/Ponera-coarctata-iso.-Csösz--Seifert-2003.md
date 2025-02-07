@@ -1,4 +1,7 @@
-# Ponera coarctata: iso. Csösz & Seifert: 2003
+---
+parent: Ants
+---
+#Ponera coarctata: iso. Csösz & Seifert: 2003
 ## Provisional status: LC
 - A2 b,c
 

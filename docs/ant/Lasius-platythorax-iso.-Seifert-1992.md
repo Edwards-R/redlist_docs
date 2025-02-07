@@ -1,4 +1,7 @@
-# Lasius platythorax: iso. Seifert: 1992
+---
+parent: Ants
+---
+#Lasius platythorax: iso. Seifert: 1992
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

@@ -1,4 +1,7 @@
-# Lasius neglectus: iso. Seifert: 2007
+---
+parent: Ants
+---
+#Lasius neglectus: iso. Seifert: 2007
 ## Provisional status: NE
 
 ## Justification

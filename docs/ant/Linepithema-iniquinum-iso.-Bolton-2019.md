@@ -1,4 +1,7 @@
-# Linepithema iniquinum: iso. Bolton: 2019
+---
+parent: Ants
+---
+#Linepithema iniquinum: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

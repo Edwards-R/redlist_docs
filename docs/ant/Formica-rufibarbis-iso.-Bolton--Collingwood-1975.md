@@ -1,4 +1,7 @@
-# Formica rufibarbis: iso. Bolton & Collingwood: 1975
+---
+parent: Ants
+---
+#Formica rufibarbis: iso. Bolton & Collingwood: 1975
 ## Provisional status: EN
 - B2 a,b, iii
 iv

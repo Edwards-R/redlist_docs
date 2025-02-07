@@ -1,4 +1,7 @@
-# Leptothorax acervorum: iso. Bolton & Collingwood: 1975
+---
+parent: Ants
+---
+#Leptothorax acervorum: iso. Bolton & Collingwood: 1975
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

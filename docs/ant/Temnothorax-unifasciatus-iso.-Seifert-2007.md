@@ -1,4 +1,7 @@
-# Temnothorax unifasciatus: iso. Seifert: 2007
+---
+parent: Ants
+---
+#Temnothorax unifasciatus: iso. Seifert: 2007
 ## Provisional status: NE
 
 ## Justification

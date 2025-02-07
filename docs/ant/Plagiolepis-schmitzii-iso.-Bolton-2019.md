@@ -1,4 +1,7 @@
-# Plagiolepis schmitzii: iso. Bolton: 2019
+---
+parent: Ants
+---
+#Plagiolepis schmitzii: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

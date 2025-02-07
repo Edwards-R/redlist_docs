@@ -2,23 +2,17 @@
 This site contains the draft assessments of the GB Acueleate Hymenoptera Red List and National Rarity. These statuses have not yet passed RedList QA and should be considered provisional and un-accepted. Species-specific narratives are yet to be created.
 
 - [Ants](/ant/Cardiocondyla-britteni-iso.-Bolton-2019.md)
-- [Ants with docs](/docs/ant/Cardiocondyla-britteni-iso.-Bolton-2019.md)
 
----
-layout: default
----
 
 # Ants
 
-{% for post in site.ant %}
+{% for taxon in ant %}
  
 <ul>
  
 <li>
     <h3>
-        <a href="{{ post.url | relative_url }}">
-            {{ post.title }}
-        </a>
+        Zounds!
     </h3>
 </li>
  

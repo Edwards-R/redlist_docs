@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Tetramorium impurum: iso. Schlick-Steiner: 2006
+# Tetramorium impurum: iso. Schlick-Steiner: 2006
 ## Provisional status: DD
 - A2 
 - A3 b

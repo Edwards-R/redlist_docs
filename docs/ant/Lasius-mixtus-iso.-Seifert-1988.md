@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Lasius mixtus: iso. Seifert: 1988
+# Lasius mixtus: iso. Seifert: 1988
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

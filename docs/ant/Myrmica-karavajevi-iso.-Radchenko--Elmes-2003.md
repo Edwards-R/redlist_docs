@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Myrmica karavajevi: iso. Radchenko & Elmes: 2003
+# Myrmica karavajevi: iso. Radchenko & Elmes: 2003
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

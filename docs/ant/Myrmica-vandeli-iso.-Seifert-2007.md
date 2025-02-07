@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Myrmica vandeli: iso. Seifert: 2007
+# Myrmica vandeli: iso. Seifert: 2007
 ## Provisional status: DD
 - A2 b,c
 - A3 b

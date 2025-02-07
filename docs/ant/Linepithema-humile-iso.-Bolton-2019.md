@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Linepithema humile: iso. Bolton: 2019
+# Linepithema humile: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Lasius psammophilus: iso. Seifert: 2007
+# Lasius psammophilus: iso. Seifert: 2007
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

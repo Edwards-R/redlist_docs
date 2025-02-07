@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Tetramorium caldarium: iso. Bolton: 2019
+# Tetramorium caldarium: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

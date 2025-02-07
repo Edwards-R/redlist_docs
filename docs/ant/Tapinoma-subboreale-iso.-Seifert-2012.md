@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Tapinoma subboreale: iso. Seifert: 2012
+# Tapinoma subboreale: iso. Seifert: 2012
 ## Provisional status: DD
 - A2 b,c
 - A3 b

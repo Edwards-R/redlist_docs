@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Myrmecina graminicola: iso. Bolton & Collingwood: 1975
+# Myrmecina graminicola: iso. Bolton & Collingwood: 1975
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

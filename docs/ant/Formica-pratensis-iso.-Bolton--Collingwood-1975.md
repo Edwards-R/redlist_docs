@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Formica pratensis: iso. Bolton & Collingwood: 1975
+# Formica pratensis: iso. Bolton & Collingwood: 1975
 ## Provisional status: RE
 - A2 
 

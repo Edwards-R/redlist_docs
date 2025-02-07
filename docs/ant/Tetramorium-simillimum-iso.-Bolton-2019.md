@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Tetramorium simillimum: iso. Bolton: 2019
+# Tetramorium simillimum: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Strumigenys perplexa: iso. Hamer et al: 2021
+# Strumigenys perplexa: iso. Hamer et al: 2021
 ## Provisional status: NE
 
 ## Justification

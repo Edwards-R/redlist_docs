@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Cardiocondyla britteni: iso. Bolton: 2019
+# Cardiocondyla britteni: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

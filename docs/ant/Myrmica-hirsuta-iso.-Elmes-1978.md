@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Myrmica hirsuta: iso. Elmes: 1978
+# Myrmica hirsuta: iso. Elmes: 1978
 ## Provisional status: DD
 - A2 b,c
 - A3 b

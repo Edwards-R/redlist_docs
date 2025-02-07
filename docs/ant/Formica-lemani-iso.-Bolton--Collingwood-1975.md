@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Formica lemani: iso. Bolton & Collingwood: 1975
+# Formica lemani: iso. Bolton & Collingwood: 1975
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

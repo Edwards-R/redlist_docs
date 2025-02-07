@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Lasius niger: iso. Seifert: 1992
+# Lasius niger: iso. Seifert: 1992
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

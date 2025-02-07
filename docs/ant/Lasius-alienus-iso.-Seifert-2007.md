@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Lasius alienus: iso. Seifert: 2007
+# Lasius alienus: iso. Seifert: 2007
 ## Provisional status: LC
 - B1 a,b, 
 - B2 a,b, 

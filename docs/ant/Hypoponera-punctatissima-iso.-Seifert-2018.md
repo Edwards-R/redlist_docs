@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Hypoponera punctatissima: iso. Seifert: 2018
+# Hypoponera punctatissima: iso. Seifert: 2018
 ## Provisional status: NE
 
 ## Justification

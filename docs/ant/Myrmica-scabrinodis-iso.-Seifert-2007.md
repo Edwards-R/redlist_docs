@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Myrmica scabrinodis: iso. Seifert: 2007
+# Myrmica scabrinodis: iso. Seifert: 2007
 ## Provisional status: NE
 
 ## Justification

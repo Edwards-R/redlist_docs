@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Lasius emarginatus: iso. Bolton & Collingwood: 1975
+# Lasius emarginatus: iso. Bolton & Collingwood: 1975
 ## Provisional status: NE
 
 ## Justification

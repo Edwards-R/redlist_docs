@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Tetramorium bicarinatum: iso. Bolton: 2019
+# Tetramorium bicarinatum: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

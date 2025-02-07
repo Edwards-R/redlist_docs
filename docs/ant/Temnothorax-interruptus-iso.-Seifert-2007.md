@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Temnothorax interruptus: iso. Seifert: 2007
+# Temnothorax interruptus: iso. Seifert: 2007
 ## Provisional status: EN
 - B2 a,b, iii
 ii

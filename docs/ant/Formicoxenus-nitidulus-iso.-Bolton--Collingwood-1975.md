@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Formicoxenus nitidulus: iso. Bolton & Collingwood: 1975
+# Formicoxenus nitidulus: iso. Bolton & Collingwood: 1975
 ## Provisional status: VU
 - A2 b,c
 

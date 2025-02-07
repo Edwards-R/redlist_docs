@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Stenamma westwoodii: iso. Dubois: 1998
+# Stenamma westwoodii: iso. Dubois: 1998
 ## Provisional status: DD
 - A2 b,c
 - A3 b

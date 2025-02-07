@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Ponera testacea: iso. Csösz & Seifert: 2003
+# Ponera testacea: iso. Csösz & Seifert: 2003
 ## Provisional status: LC
 - B1 a,b, 
 - B2 a,b, 

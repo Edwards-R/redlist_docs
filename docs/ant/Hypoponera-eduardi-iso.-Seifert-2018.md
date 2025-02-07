@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Hypoponera eduardi: iso. Seifert: 2018
+# Hypoponera eduardi: iso. Seifert: 2018
 ## Provisional status: NE
 
 ## Justification

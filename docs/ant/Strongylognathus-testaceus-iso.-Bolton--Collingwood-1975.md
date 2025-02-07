@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Strongylognathus testaceus: iso. Bolton & Collingwood: 1975
+# Strongylognathus testaceus: iso. Bolton & Collingwood: 1975
 ## Provisional status: DD
 - A2 b,c
 - A3 b

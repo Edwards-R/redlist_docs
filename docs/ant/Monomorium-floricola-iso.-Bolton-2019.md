@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Monomorium floricola: iso. Bolton: 2019
+# Monomorium floricola: iso. Bolton: 2019
 ## Provisional status: NE
 
 ## Justification

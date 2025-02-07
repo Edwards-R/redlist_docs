@@ -1,7 +1,7 @@
 ---
 parent: Ants
 ---
-#Formica sanguinea: iso. Bolton & Collingwood: 1875
+# Formica sanguinea: iso. Bolton & Collingwood: 1875
 ## Provisional status: LC
 - A2 b,c
 - B1 a,b, 

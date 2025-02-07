@@ -3,3 +3,23 @@ This site contains the draft assessments of the GB Acueleate Hymenoptera Red Lis
 
 - [Ants](/ant/Cardiocondyla-britteni-iso.-Bolton-2019.md)
 - [Ants with docs](/docs/ant/Cardiocondyla-britteni-iso.-Bolton-2019.md)
+
+---
+layout: default
+---
+
+# Ants
+
+{% for post in site.ant %}
+ 
+<ul>
+ 
+<li>
+    <h3>
+        <a href="{{ post.url | relative_url }}">
+            {{ post.title }}
+        </a>
+    </h3>
+</li>
+ 
+</ul>{% endfor %}

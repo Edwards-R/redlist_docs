@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Hylaeus annularis: iso. Notton and Dathe: 2008
 
 ## Provisional Red List status: VU

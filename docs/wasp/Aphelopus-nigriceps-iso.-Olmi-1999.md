@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Aphelopus nigriceps: iso. Olmi: 1999
 
 ## Provisional Red List status: DD

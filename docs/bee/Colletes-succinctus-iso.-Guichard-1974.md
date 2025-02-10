@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Colletes succinctus: iso. Guichard: 1974
 
 ## Provisional Red List status: LC

@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Osmia xanthomelana: iso. Amiet et al: 2004
 
 ## Provisional Red List status: CR

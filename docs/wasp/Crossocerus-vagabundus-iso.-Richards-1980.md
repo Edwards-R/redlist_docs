@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Crossocerus vagabundus: iso. Richards: 1980
 
 ## Provisional Red List status: VU

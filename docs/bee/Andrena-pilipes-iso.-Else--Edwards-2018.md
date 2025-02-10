@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Andrena pilipes: iso. Else & Edwards: 2018
 
 ## Provisional Red List status: LC

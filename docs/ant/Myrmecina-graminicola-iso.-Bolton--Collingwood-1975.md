@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Myrmecina graminicola: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: LC

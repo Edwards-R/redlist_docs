@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Myrmica ruginodis: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: LC

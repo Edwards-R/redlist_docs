@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Trypoxylon deceptorium: iso. Antropov: 1991
 
 ## Provisional Red List status: DD

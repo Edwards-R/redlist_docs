@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Mystrophorus formicaeformis: iso. Olmi: 1994
 
 ## Provisional Red List status: NE

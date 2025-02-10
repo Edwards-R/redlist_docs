@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Dufourea halictula: iso. Baker: 1994
 
 ## Provisional Red List status: RE

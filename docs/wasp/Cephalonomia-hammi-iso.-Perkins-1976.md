@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Cephalonomia hammi: iso. Perkins: 1976
 
 ## Provisional Red List status: NA

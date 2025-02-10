@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Psenulus chevrieri: iso. Schmid-Egger: 2016
 
 ## Provisional Red List status: DD

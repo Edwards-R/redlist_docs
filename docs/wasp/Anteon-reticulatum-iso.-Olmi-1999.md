@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Anteon reticulatum: iso. Olmi: 1999
 
 ## Provisional Red List status: NE

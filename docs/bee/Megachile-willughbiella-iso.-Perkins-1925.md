@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Megachile willughbiella: iso. Perkins: 1925
 
 ## Provisional Red List status: LC

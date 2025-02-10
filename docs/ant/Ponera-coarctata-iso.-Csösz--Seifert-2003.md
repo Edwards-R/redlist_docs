@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Ponera coarctata: iso. Csösz & Seifert: 2003
 
 ## Provisional Red List status: LC

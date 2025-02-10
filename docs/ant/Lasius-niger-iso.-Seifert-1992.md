@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Lasius niger: iso. Seifert: 1992
 
 ## Provisional Red List status: LC

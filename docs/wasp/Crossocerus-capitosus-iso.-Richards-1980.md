@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Crossocerus capitosus: iso. Richards: 1980
 
 ## Provisional Red List status: LC

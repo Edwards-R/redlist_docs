@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Stenamma debile: iso. Dubois: 1998
 
 ## Provisional Red List status: LC

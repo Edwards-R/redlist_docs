@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Agenioideus apicalis: iso. Wolf: 1972
 
 ## Provisional Red List status: NE

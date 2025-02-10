@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Myrmosa atra: iso. Amiet: 2008
 
 ## Provisional Red List status: LC

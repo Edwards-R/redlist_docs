@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Lasius neglectus: iso. Seifert: 2007
 
 ## Provisional Red List status: NE

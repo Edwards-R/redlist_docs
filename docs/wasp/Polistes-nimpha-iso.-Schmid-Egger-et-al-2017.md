@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Polistes nimpha: iso. Schmid-Egger et al: 2017
 
 ## Provisional Red List status: NE

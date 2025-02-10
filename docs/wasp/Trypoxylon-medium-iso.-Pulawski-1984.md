@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Trypoxylon medium: iso. Pulawski: 1984
 
 ## Provisional Red List status: LC

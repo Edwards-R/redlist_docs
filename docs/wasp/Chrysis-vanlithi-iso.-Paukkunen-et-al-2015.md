@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Chrysis vanlithi: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: LC

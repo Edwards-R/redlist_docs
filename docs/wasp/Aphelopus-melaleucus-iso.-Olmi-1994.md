@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Aphelopus melaleucus: iso. Olmi: 1994
 
 ## Provisional Red List status: LC

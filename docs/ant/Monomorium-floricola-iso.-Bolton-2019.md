@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Monomorium floricola: iso. Bolton: 2019
 
 ## Provisional Red List status: NE

@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Nomada obtusifrons: iso. Perkins: 1919
 
 ## Provisional Red List status: NT

@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Diodontus insidiosus: iso. Richards: 1980
 
 ## Provisional Red List status: LC

@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Andrena ovatula: iso. Praz et al: 2022
 
 ## Provisional Red List status: NE

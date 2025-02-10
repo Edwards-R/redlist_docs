@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Oxybelus mandibularis: iso. Richards: 1980
 
 ## Provisional Red List status: LC

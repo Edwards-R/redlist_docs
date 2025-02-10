@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Priocnemis pusilla: iso. Day: 1988
 
 ## Provisional Red List status: LC

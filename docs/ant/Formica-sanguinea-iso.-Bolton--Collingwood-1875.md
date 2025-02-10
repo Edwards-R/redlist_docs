@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Formica sanguinea: iso. Bolton & Collingwood: 1875
 
 ## Provisional Red List status: LC

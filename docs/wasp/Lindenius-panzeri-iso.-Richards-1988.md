@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Lindenius panzeri: iso. Richards: 1988
 
 ## Provisional Red List status: LC

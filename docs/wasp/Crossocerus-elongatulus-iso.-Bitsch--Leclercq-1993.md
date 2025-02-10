@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Crossocerus elongatulus: iso. Bitsch & Leclercq: 1993
 
 ## Provisional Red List status: LC

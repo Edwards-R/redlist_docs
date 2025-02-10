@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Holopyga generosa: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: NA

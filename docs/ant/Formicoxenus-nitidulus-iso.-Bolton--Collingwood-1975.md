@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Formicoxenus nitidulus: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: VU

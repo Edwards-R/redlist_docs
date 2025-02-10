@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Tetramorium impurum: iso. Schlick-Steiner: 2006
 
 ## Provisional Red List status: DD

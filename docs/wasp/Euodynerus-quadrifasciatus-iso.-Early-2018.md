@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Euodynerus quadrifasciatus: iso. Early: 2018
 
 ## Provisional Red List status: DD

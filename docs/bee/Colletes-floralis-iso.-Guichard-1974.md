@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Colletes floralis: iso. Guichard: 1974
 
 ## Provisional Red List status: VU

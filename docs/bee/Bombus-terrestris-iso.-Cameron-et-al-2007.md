@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Bombus terrestris: iso. Cameron et al: 2007
 
 ## Provisional Red List status: LC

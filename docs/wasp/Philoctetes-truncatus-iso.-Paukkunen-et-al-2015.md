@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Philoctetes truncatus: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: DD

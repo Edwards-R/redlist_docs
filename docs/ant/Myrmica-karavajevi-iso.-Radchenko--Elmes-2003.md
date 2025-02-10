@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Myrmica karavajevi: iso. Radchenko & Elmes: 2003
 
 ## Provisional Red List status: LC

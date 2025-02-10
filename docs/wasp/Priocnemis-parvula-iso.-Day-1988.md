@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Priocnemis parvula: iso. Day: 1988
 
 ## Provisional Red List status: LC

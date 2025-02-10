@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Plagiolepis schmitzii: iso. Bolton: 2019
 
 ## Provisional Red List status: NE

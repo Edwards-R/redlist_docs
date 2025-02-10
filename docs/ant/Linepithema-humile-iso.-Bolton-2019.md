@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Linepithema humile: iso. Bolton: 2019
 
 ## Provisional Red List status: NE

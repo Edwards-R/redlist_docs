@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Priocnemis confusor: iso. Wiśniowski: 2009
 
 ## Provisional Red List status: LC

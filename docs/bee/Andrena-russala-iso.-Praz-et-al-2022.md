@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Andrena russala: iso. Praz et al: 2022
 
 ## Provisional Red List status: LC

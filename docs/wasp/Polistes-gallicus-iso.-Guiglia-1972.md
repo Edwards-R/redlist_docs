@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Polistes gallicus: iso. Guiglia: 1972
 
 ## Provisional Red List status: NE

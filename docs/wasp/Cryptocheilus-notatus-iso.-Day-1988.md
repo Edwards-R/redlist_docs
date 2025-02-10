@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Cryptocheilus notatus: iso. Day: 1988
 
 ## Provisional Red List status: LC

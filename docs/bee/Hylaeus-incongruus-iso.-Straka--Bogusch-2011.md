@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Hylaeus incongruus: iso. Straka & Bogusch: 2011
 
 ## Provisional Red List status: DD

@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Osmia parietina: iso. Amiet et al: 2004
 
 ## Provisional Red List status: NT

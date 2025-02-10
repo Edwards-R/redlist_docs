@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Dryinus niger: iso. Olmi: 1994
 
 ## Provisional Red List status: DD

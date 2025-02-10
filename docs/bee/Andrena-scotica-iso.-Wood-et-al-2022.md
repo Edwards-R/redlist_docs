@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Andrena scotica: iso. Wood et al: 2022
 
 ## Provisional Red List status: NE

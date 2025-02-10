@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Cerceris rybyensis: iso. Richards: 1980
 
 ## Provisional Red List status: LC

@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Andrena ampla: iso. Falk et al: 2019
 
 ## Provisional Red List status: DD

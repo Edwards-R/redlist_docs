@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Ancistrocerus claripennis: iso. Else et al: 2016
 
 ## Provisional Red List status: RE

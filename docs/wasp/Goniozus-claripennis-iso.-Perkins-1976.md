@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Goniozus claripennis: iso. Perkins: 1976
 
 ## Provisional Red List status: LC

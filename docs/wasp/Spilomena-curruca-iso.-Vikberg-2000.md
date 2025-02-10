@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Spilomena curruca: iso. Vikberg: 2000
 
 ## Provisional Red List status: LC

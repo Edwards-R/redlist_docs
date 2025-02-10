@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Mimumesa dahlbomi: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: LC

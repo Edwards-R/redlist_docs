@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Myrmica sabuleti: iso. Elmes: 1978
 
 ## Provisional Red List status: NE

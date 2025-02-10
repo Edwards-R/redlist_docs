@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Andrena polita: iso. Amiet et al: 2010
 
 ## Provisional Red List status: NA

@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Bethylus boops: iso. Burn: 1997
 
 ## Provisional Red List status: DD

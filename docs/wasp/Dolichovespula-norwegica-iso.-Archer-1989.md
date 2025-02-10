@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Dolichovespula norwegica: iso. Archer: 1989
 
 ## Provisional Red List status: NT

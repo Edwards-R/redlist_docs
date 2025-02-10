@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Hoplitis claviventris: iso. Falk: 2015
 
 ## Provisional Red List status: LC

@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Stelis ornatula: iso. Amiet et al: 2004
 
 ## Provisional Red List status: LC

@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Strongylognathus testaceus: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: DD

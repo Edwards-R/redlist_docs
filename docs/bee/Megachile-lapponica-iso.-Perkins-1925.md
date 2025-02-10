@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Megachile lapponica: iso. Perkins: 1925
 
 ## Provisional Red List status: NE

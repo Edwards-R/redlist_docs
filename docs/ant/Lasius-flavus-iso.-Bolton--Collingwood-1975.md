@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Lasius flavus: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: LC

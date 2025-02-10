@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Cephalonomia tarsalis: iso. Perkins: 1976
 
 ## Provisional Red List status: NE

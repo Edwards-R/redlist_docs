@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Hylaeus punctulatissimus: iso. Amiet et al: 1999
 
 ## Provisional Red List status: NE

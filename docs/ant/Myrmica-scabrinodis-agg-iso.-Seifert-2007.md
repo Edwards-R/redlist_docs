@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Myrmica scabrinodis agg: iso. Seifert: 2007
 
 ## Provisional Red List status: LC

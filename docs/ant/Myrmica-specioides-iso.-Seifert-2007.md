@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Myrmica specioides: iso. Seifert: 2007
 
 ## Provisional Red List status: LC

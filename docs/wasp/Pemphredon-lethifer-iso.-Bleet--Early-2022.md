@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Pemphredon lethifer: iso. Bleet & Early: 2022
 
 ## Provisional Red List status: NE

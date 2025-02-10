@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Lasius brunneus: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: LC

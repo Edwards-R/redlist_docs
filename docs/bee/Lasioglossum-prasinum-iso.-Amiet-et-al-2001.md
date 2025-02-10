@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Lasioglossum prasinum: iso. Amiet et al: 2001
 
 ## Provisional Red List status: LC

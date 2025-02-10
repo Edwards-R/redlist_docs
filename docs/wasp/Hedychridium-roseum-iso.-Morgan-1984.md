@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Hedychridium roseum: iso. Morgan: 1984
 
 ## Provisional Red List status: NE

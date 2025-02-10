@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Cephalonomia gallicola: iso. Perkins: 1976
 
 ## Provisional Red List status: NE

@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Pompilus cinereus: iso. Day: 1988
 
 ## Provisional Red List status: LC

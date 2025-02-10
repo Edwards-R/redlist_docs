@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Andrena proxima: iso. Falk et al: 2019
 
 ## Provisional Red List status: DD

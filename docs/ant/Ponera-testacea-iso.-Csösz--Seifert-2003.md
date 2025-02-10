@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Ponera testacea: iso. Csösz & Seifert: 2003
 
 ## Provisional Red List status: LC

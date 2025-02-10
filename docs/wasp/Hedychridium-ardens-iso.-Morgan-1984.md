@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Hedychridium ardens: iso. Morgan: 1984
 
 ## Provisional Red List status: LC

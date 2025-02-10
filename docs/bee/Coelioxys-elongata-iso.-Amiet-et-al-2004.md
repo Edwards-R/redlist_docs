@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Coelioxys elongata: iso. Amiet et al: 2004
 
 ## Provisional Red List status: LC

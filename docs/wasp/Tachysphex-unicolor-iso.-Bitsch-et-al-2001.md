@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Tachysphex unicolor: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: EN

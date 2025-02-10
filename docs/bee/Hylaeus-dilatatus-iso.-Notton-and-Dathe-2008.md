@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Hylaeus dilatatus: iso. Notton and Dathe: 2008
 
 ## Provisional Red List status: LC

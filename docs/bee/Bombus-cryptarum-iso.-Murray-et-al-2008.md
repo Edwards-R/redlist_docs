@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Bombus cryptarum: iso. Murray et al: 2008
 
 ## Provisional Red List status: DD

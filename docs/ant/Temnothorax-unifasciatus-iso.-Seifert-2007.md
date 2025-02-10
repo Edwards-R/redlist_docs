@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Temnothorax unifasciatus: iso. Seifert: 2007
 
 ## Provisional Red List status: NE

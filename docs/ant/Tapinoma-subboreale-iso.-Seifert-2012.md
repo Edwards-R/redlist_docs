@@ -1,3 +1,6 @@
+---
+parent: ant
+---
 # Tapinoma subboreale: iso. Seifert: 2012
 
 ## Provisional Red List status: DD

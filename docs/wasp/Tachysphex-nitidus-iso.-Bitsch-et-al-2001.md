@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Tachysphex nitidus: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: LC

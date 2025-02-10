@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Anteon faciale: iso. Burn and de Rond: 1998
 
 ## Provisional Red List status: DD

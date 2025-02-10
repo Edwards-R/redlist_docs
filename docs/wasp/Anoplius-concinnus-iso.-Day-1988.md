@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Anoplius concinnus: iso. Day: 1988
 
 ## Provisional Red List status: LC

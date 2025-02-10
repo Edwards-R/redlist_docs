@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Nomada guttulata: iso. Perkins: 1919
 
 ## Provisional Red List status: LC

@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Nomada roberjeotiana: iso. Amiet et al: 2007
 
 ## Provisional Red List status: NT

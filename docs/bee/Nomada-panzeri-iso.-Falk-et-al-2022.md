@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Nomada panzeri: iso. Falk et al: 2022
 
 ## Provisional Red List status: NE

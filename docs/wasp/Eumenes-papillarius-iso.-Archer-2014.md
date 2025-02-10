@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Eumenes papillarius: iso. Archer: 2014
 
 ## Provisional Red List status: DD

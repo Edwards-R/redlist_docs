@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Pemphredon austriaca: iso. Bleet & Early: 2022
 
 ## Provisional Red List status: NE

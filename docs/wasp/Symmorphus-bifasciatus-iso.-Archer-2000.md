@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Symmorphus bifasciatus: iso. Archer: 2000
 
 ## Provisional Red List status: LC

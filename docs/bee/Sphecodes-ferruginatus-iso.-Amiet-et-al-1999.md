@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Sphecodes ferruginatus: iso. Amiet et al: 1999
 
 ## Provisional Red List status: LC

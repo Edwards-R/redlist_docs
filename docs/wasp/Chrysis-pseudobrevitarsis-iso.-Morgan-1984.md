@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Chrysis pseudobrevitarsis: iso. Morgan: 1984
 
 ## Provisional Red List status: RE

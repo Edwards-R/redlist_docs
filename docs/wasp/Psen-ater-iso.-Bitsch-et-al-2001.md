@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Psen ater: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: NE

@@ -1,3 +1,6 @@
+---
+parent: bee
+---
 # Nomada sheppardana: iso. Amiet et al: 2007
 
 ## Provisional Red List status: LC

@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Trypoxylon figulus: iso. Pulawski: 1984
 
 ## Provisional Red List status: LC

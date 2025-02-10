@@ -1,3 +1,6 @@
+---
+parent: wasp
+---
 # Cleptes nitidulus: iso. Morgan: 1984
 
 ## Provisional Red List status: LC

@@ -1,12 +1,10 @@
----
-parent: Wasps
----
 # Pseudepipona herrichii: iso. Richards: 1980
-## Provisional status: EN
+
+## Provisional Red List status: EN
 - B1 a,b, iii
 - B2 a,b, iii
 
-## Justification
+## Red List Justification
 Land management practices within the sole known location are proving unfavourable, leading to decline in available habitat. This is backed up with transect data.
 ### Quantified Attributes
 |Attribute|Result|
@@ -15,7 +13,23 @@ Land management practices within the sole known location are proving unfavourabl
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/650.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -29,7 +43,7 @@ Land management practices within the sole known location are proving unfavourabl
 |2007 - 2011|5|12|8305|89%|
 |2012 - 2016|5|12|7594|81%|
 |2017 - 2021|7|16|7594|81%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|40%|No|Insufficient data|
@@ -37,39 +51,47 @@ Land management practices within the sole known location are proving unfavourabl
 |dEoO|LC|0%|Yes||
 |Bayesian|LC|0%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|VU|Land management practices within the sole known location are proving unfavourable, leading to decline in available habitat. This is backed up with transect data.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria|iii|
 |Support|Land management practices within the sole known location are proving unfavourable, leading to decline in available habitat. This is backed up with transect data.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|EN|550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|EN|52|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|VU|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|EN|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|5|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+

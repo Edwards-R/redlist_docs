@@ -1,7 +1,8 @@
 # Apis mellifera: iso. Amiet: 1996
-## Provisional status: NE
 
-## Justification
+## Provisional Red List status: NE
+
+## Red List Justification
 It is not possible to separate any 'wild' populations from anthropically managed populations. Surveys of this taxon reveal far more about the activities of beekeeping than they do of the taxon.
 ### Quantified Attributes
 |Attribute|Result|
@@ -10,7 +11,22 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/646.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -24,7 +40,7 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |2007 - 2011|1867|2936|285782|75%|
 |2012 - 2016|2200|3636|302648|79%|
 |2017 - 2021|2019|2336|287287|75%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-8%|||
@@ -32,39 +48,47 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |dEoO|LC|-5%|||
 |Bayesian|LC|42%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|511900|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9704|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|979|
+|Calculated|NF|
+|Final||
+|Moderation support||
+
+
+

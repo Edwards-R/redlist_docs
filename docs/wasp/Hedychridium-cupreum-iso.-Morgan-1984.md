@@ -1,14 +1,12 @@
----
-parent: Wasps
----
 # Hedychridium cupreum: iso. Morgan: 1984
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17,7 +15,23 @@ parent: Wasps
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/614.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -31,7 +45,7 @@ parent: Wasps
 |2007 - 2011|10|40|42672|32%|
 |2012 - 2016|7|24|38258|29%|
 |2017 - 2021|8|28|40489|30%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|14%|No|Insufficient data|
@@ -39,39 +53,47 @@ parent: Wasps
 |dEoO|LC|6%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10/NaN|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|182050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|224|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|The data supports the idea that variation in records is primarily driven by the activity of recorders rather than true presence.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|40|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+

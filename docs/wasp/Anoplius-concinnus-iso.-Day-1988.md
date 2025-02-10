@@ -1,14 +1,12 @@
----
-parent: Wasps
----
 # Anoplius concinnus: iso. Day: 1988
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17,7 +15,23 @@ parent: Wasps
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/436.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -31,7 +45,7 @@ parent: Wasps
 |2007 - 2011|34|116|125125|50%|
 |2012 - 2016|62|160|114907|46%|
 |2017 - 2021|37|112|110891|45%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-40%|No|Insufficient data|
@@ -39,39 +53,47 @@ parent: Wasps
 |dEoO|LC|-3%|Yes||
 |Bayesian|LC|8%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|272150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|644|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|135|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+

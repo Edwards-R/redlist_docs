@@ -1,10 +1,8 @@
----
-parent: Bees
----
 # Sphecodes albilabris: iso. Bogusch & Straka: 2012
-## Provisional status: NA
 
-## Justification
+## Provisional Red List status: NA
+
+## Red List Justification
 Post-assessment colonist.. Expected to become LC very quickly. Host (Colletes cunicularius: iso. Guichard: 1974) is LC and expanding.
 ### Quantified Attributes
 |Attribute|Result|
@@ -13,7 +11,16 @@ Post-assessment colonist.. Expected to become LC very quickly. Host (Colletes cu
 |Vagrancy|No|
 |Colonisation|Post-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/1637.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -27,7 +34,7 @@ Post-assessment colonist.. Expected to become LC very quickly. Host (Colletes cu
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -35,39 +42,40 @@ Post-assessment colonist.. Expected to become LC very quickly. Host (Colletes cu
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NA|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+

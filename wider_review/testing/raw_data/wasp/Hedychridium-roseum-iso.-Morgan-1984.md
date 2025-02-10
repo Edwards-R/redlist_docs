@@ -1,7 +1,8 @@
 # Hedychridium roseum: iso. Morgan: 1984
-## Provisional status: NE
 
-## Justification
+## Provisional Red List status: NE
+
+## Red List Justification
 Unresolved nomenclatural/taxonomic confusion
 ### Quantified Attributes
 |Attribute|Result|
@@ -10,7 +11,22 @@ Unresolved nomenclatural/taxonomic confusion
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/613.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -24,7 +40,7 @@ Unresolved nomenclatural/taxonomic confusion
 |2007 - 2011|109|340|72507|65%|
 |2012 - 2016|101|260|81817|74%|
 |2017 - 2021|111|308|74579|67%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|10%|Yes||
@@ -32,39 +48,47 @@ Unresolved nomenclatural/taxonomic confusion
 |dEoO|LC|-9%|||
 |Bayesian|LC|10%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|74000|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1476|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|161|
+|Calculated|NF|
+|Final||
+|Moderation support||
+
+
+

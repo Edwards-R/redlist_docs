@@ -87,8 +87,8 @@ The EOO
 }
 ```
 
-## Criterion D
-For Criterion D, the number of locations 
+## Criterion D2
+For Criterion D2, the number of locations 
 ```
 {
     {
@@ -100,7 +100,13 @@ For Criterion D, the number of locations
         }
         sufficient subcriteria for classification as VU
     } OR {
-        exceeds five, exceeding the VU threshold
+        exceeds the VU threshold of five and there is
+        {
+            no plausible threat
+        } OR {
+            at least one plausible threat
+        }
+        that could drive the taxon to CR or RE in a very short time
     }
 } OR {
     was not accepted
@@ -111,15 +117,15 @@ For Criterion D, the number of locations
 ## Example
 
 ### Crossocerus dimidiatus: iso. Richards: 1980
-The highest accepted population change estimate is -13% (AoO), which does not exceed the 30% required for qualification as VU under Criterion A. The EOO (314,400 km2) exceeds the 20,000 km2 VU threshold, and the AOO (1,072 km2) is below the 2,000 km2 VU threshold but does not satisfy sufficient subcriteria for classification as VU. For Criterion D, the number of locations exceeds five, exceeding the VU threshold.
+The highest accepted population change estimate is -13% (AoO), which does not exceed the 30% required for qualification as VU under Criterion A. The EOO (314,400 km2) exceeds the 20,000 km2 VU threshold, and the AOO (1,072 km2) is below the 2,000 km2 VU threshold but does not satisfy sufficient subcriteria for classification as VU. For Criterion D2, the number of locations exceeds the VU threshold of five locations and there is no plausible threat that could drive the taxon to CR or RE in a very short time.
 
 ### Bombus distinguendus: iso. Cameron et al: 2007
-The highest accepted population change was NT under Criterion A, based on expert suspicion of future threats over the next 100 years. The EOO (69,700 km2) exceeds the 20,000 km2 VU threshold, and the AOO (1,356 km2) is below the 2,000 km2 VU threshold and satisfies sufficient subcriteria for classification as VU. For Criterion D, the number of locations is five or fewer, meeting the threshold for VU, but does not satisfy sufficient subcriteria for classification as VU.
+The highest accepted population change was NT under Criterion A, based on expert suspicion of future threats over the next 100 years. The EOO (69,700 km2) exceeds the 20,000 km2 VU threshold, and the AOO (1,356 km2) is below the 2,000 km2 VU threshold and satisfies sufficient subcriteria for classification as VU. For Criterion D2, the number of locations is five or fewer, meeting the threshold for VU, but does not satisfy sufficient subcriteria for classification as VU.
 
 The majority of habitat is at current sea level. Rises to high water marks will destroy significant amounts of this habitat. If this destruction happens as part of a major event, this taxon has limited ability to adapt or recolonise at many sites.
 
 ### Tetramorium atratulum: iso. Seifert: 2007
-The highest accepted population change estimate is 0% (Buffer-Union), which was not accepted under Criterion A. The EOO was not accepted, and the AOO was not accepted. For Criterion D, the number of locations was not accepted.
+The highest accepted population change estimate is 0% (Buffer-Union), which was not accepted under Criterion A. The EOO was not accepted, and the AOO was not accepted. For Criterion D2, the number of locations was not accepted.
 
 There are serious issues with the volume of ant data that could be found for this project. iRecord data has been used for this group, and still there is a low volume of data.
 

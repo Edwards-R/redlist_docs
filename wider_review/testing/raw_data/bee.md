@@ -1,10 +1,11 @@
 # Andrena ampla: iso. Falk et al: 2019
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b,c
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13,7 +14,23 @@
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/7.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -27,7 +44,7 @@
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|12|32|33043|100%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Nomenclature change|
@@ -35,49 +52,58 @@
 |dEoO|LC|?%|No|Nomenclature change|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Taxon results from a recent nomenclatural change. There is insufficient data and knowledge to arrive at a supportable conclusion.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|38500|No|Nomenclature change|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|32|No|Nomenclature change|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|The hypothesis of the wider reviewers that there is a defined east-west split between A. ampla and proxima has been considered. However, the core review team feels that there are insufficient data which can be relied upon to reach any further status. There are multiple records within central southern England that remain to be checked and assigned to either side of this split.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|7|
+|Calculated|NR|
+|Final|ID|
+|Moderation support||
+
+
+
 # Andrena proxima: iso. Falk et al: 2019
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b,c
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -86,7 +112,23 @@
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/8.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -100,7 +142,7 @@
 |2007 - 2011|2|8|11863|27%|
 |2012 - 2016|2|8|8015|18%|
 |2017 - 2021|18|68|39263|90%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|800%|No|Nomenclature change|
@@ -108,48 +150,57 @@
 |dEoO|LC|390%|No|Nomenclature change|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Taxon results from a recent nomenclatural change. There is insufficient data and knowledge to arrive at a supportable conclusion.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|19100|No|Nomenclature change|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|100|No|Nomenclature change|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Re-assessed|
 |**Reviewed Status**|LC|
 |**Justification**|Expert inference and wider review agree that this taxon is more widespread than the data show, and is likely expanding.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|18|
+|Calculated|NS|
+|Final|ID|
+|Moderation support|Taxon results from a recent nomenclatural change.|
+
+
+
 # Andrena pilipes: iso. Else & Edwards: 2018
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - B1 a,b, 
 - B2 a,b, 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -158,7 +209,23 @@
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/10.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -172,7 +239,7 @@
 |2007 - 2011|4|12|20082|23%|
 |2012 - 2016|8|24|22091|26%|
 |2017 - 2021|114|244|83415|98%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|1325%|No|Nomenclature change|
@@ -180,49 +247,58 @@
 |dEoO|LC|278%|No|Nomenclature change|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Taxon results from a recent nomenclatural change. There is insufficient data and knowledge to arrive at a supportable conclusion.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|62250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|276|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Re-assessed|
 |**Reviewed Status**|LC|
 |**Justification**|The core review panel considers there to be too much uncertainty surrounding potential records to be able to assign records to either side of this split. However, the evidence provided is sufficient to assign this taxon to B1 & B2 (a,b) based on the distribution of known records confirmed to be A. pilipes: iso. Else & Edwards: 2018|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|47|
+|Calculated|NS|
+|Final|ID|
+|Moderation support|Taxon results from a recent nomenclatural change.|
+
+
+
 # Andrena nigrospina: iso. Else & Edwards: 2018
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -231,7 +307,23 @@
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/12.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -245,7 +337,7 @@
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|1|4|6694|20%|
 |2017 - 2021|6|20|27305|85%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|500%|No|Nomenclature change|
@@ -253,44 +345,53 @@
 |dEoO|LC|308%||Nomenclature change|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Taxon results from a recent nomenclatural change. There is insufficient data and knowledge to arrive at a supportable conclusion.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|21600|No|Nomenclature change|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|28|No|Nomenclature change|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|The core review team feels that there are insufficient data which can be relied upon to reach any further status.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|6|
+|Calculated|NR|
+|Final|ID|
+|Moderation support||
+
+
+
 # Andrena gravida: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 c
@@ -298,7 +399,7 @@ c
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -307,7 +408,23 @@ c
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/14.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -321,7 +438,7 @@ c
 |2007 - 2011|5|12|11745|47%|
 |2012 - 2016|25|48|15625|63%|
 |2017 - 2021|47|92|23641|96%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|88%|Yes||
@@ -329,44 +446,53 @@ c
 |dEoO|LC|51%|Yes||
 |Bayesian|LC|2%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Recently re-colonised and spreading.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|6900|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|152|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|23|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena flavipes: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 c
@@ -374,7 +500,7 @@ c
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -383,7 +509,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/15.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -397,7 +539,7 @@ c
 |2007 - 2011|1071|2060|166231|78%|
 |2012 - 2016|1087|1984|175492|82%|
 |2017 - 2021|1872|3020|210668|99%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|72%|Yes||
@@ -405,44 +547,53 @@ c
 |dEoO|LC|20%|Yes||
 |Bayesian|LC|29%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding northwards|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|168400|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9260|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|720|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena haemorrhoa: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 c
@@ -450,7 +601,7 @@ c
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -459,7 +610,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/16.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -473,7 +640,7 @@ c
 |2007 - 2011|1368|3064|321174|85%|
 |2012 - 2016|1675|3592|308422|81%|
 |2017 - 2021|2078|4152|327913|86%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|24%|Yes||
@@ -481,44 +648,53 @@ c
 |dEoO|LC|6%|Yes||
 |Bayesian|LC|73%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding northwards|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|376450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|14780|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1398|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena dorsata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 c
@@ -526,7 +702,7 @@ c
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -535,7 +711,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/22.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -549,7 +741,7 @@ c
 |2007 - 2011|957|1952|147363|74%|
 |2012 - 2016|858|1788|161678|81%|
 |2017 - 2021|1231|2332|174282|88%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|43%|Yes||
@@ -557,50 +749,59 @@ c
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|31%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|148950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7912|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|664|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena angustior: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -609,7 +810,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/24.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -623,7 +840,7 @@ c
 |2007 - 2011|85|212|73550|32%|
 |2012 - 2016|91|280|150178|66%|
 |2017 - 2021|140|316|161393|71%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|54%|Yes||
@@ -631,48 +848,57 @@ c
 |dEoO|LC|7%|Yes||
 |Bayesian|LC|11%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Appear stable.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|199050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1376|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|229|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena tarsata: iso. Perkins: 1919
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b,c
 - A3 b
 
-## Justification
+## Red List Justification
 Significant inconsistencies noted in data, suspected to be the result of a specific pattern rather than absolute truth.
 
 Taxon is noted to be disappearing from southern locations. Importantly, this taxon appears to have coped well in the period 2007-2016 where other Andrena did not. Population increase did not continue 2017-2021. The taxon has been the subject of targeted survey effort which has uncovered a wider distribution in the northern regions.
@@ -685,7 +911,23 @@ Potential loser to climate change due to warming climate. Exact reason unknown.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/25.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -699,7 +941,7 @@ Potential loser to climate change due to warming climate. Exact reason unknown.
 |2007 - 2011|117|256|174825|61%|
 |2012 - 2016|151|268|152596|53%|
 |2017 - 2021|89|164|139156|48%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-41%|No|Data volume does not fit established pattern of long-term increase|
@@ -707,46 +949,55 @@ Potential loser to climate change due to warming climate. Exact reason unknown.
 |dEoO|LC|-9%|Yes||
 |Bayesian|LC|11%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Noted to be disappearing from southern locations. Notably, did well in the period 2007-2016 where other Andrena did not. Population increase did not continue 2017-2021. Has been the subject of targeted survey effort which has uncovered a wider distribution in the northern regions.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Potential loser to climate change due to warming climate. Exact reason unknown.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|351300|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|804|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Andrena polita: iso. Amiet et al: 2010
-## Provisional status: NA
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|148|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
+# Andrena polita: iso. Amiet et al: 2010
+
+## Provisional Red List status: NA
+
+## Red List Justification
 Recent re-colonist. There is not enough data to come to any supportable conclusion in threat status.
 ### Quantified Attributes
 |Attribute|Result|
@@ -755,7 +1006,23 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/26.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -769,7 +1036,7 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|3|4|6694|100%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Recent colonist|
@@ -777,44 +1044,53 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |dEoO|LC|?%|No|Recent colonist|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Recent re-colonist. There is not enough data to come to any supportable conclusion.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|100|No|Recent colonist|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4|No|Recent colonist|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NA|
 |**Justification**|Due to the regularity of survey effort in this area, it is considered to be very unlikely that this taxon has existed undetected for 90 years. The bee is very big and very obvious.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1|
+|Calculated|NR|
+|Final|ID|
+|Moderation support||
+
+
+
 # Andrena florea: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 c
@@ -822,7 +1098,7 @@ c
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -831,7 +1107,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/27.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -845,7 +1137,7 @@ c
 |2007 - 2011|87|212|23376|42%|
 |2012 - 2016|140|152|36670|65%|
 |2017 - 2021|249|372|54851|98%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|78%|Yes||
@@ -853,50 +1145,59 @@ c
 |dEoO|LC|50%|Yes||
 |Bayesian|LC|1%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding range northwards|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|28600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1148|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|92|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena labiata: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -905,7 +1206,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/28.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -919,7 +1236,7 @@ c
 |2007 - 2011|181|480|109759|58%|
 |2012 - 2016|163|440|128817|68%|
 |2017 - 2021|317|608|144252|77%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|94%|Yes||
@@ -927,50 +1244,59 @@ c
 |dEoO|LC|12%|Yes||
 |Bayesian|LC|17%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Has been increasing since 1980, having declined prior to that.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|180150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2240|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|291|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena tibialis: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -979,7 +1305,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/29.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -993,7 +1335,7 @@ c
 |2007 - 2011|56|148|68363|53%|
 |2012 - 2016|47|144|65500|50%|
 |2017 - 2021|72|136|78790|61%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|53%|Yes||
@@ -1001,50 +1343,59 @@ c
 |dEoO|LC|20%|Yes||
 |Bayesian|LC|6%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|121600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|764|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|120|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena bimaculata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1053,7 +1404,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/31.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1067,7 +1434,7 @@ c
 |2007 - 2011|133|336|73759|63%|
 |2012 - 2016|96|228|79057|67%|
 |2017 - 2021|116|272|93865|80%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|21%|Yes||
@@ -1075,48 +1442,57 @@ c
 |dEoO|LC|19%|Yes||
 |Bayesian|LC|7%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|95250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1036|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|137|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena coitana: iso. Perkins: 1919
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b,c
 - A3 b
 
-## Justification
+## Red List Justification
 Retreating northwards. Fewer records in the south of England, despite higher sampling present in this area. Low data volume makes anything more precise impossible.
 
 Potential decline from warming climate expected in the future.
@@ -1127,7 +1503,23 @@ Potential decline from warming climate expected in the future.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/32.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1141,7 +1533,7 @@ Potential decline from warming climate expected in the future.
 |2007 - 2011|22|64|86095|31%|
 |2012 - 2016|39|96|96907|35%|
 |2017 - 2021|35|100|93244|34%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-10%|Yes||
@@ -1149,50 +1541,59 @@ Potential decline from warming climate expected in the future.
 |dEoO|LC|-4%|Yes||
 |Bayesian|LC|11%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Retreating northwards. Fewer records in the south of England, despite higher sampling present in this area. Low data volume makes anything more precise impossible.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Potential decline from warming climate.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|367650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|496|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|116|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena nitidiuscula: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1201,7 +1602,23 @@ Potential decline from warming climate expected in the future.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/33.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1215,7 +1632,7 @@ Potential decline from warming climate expected in the future.
 |2007 - 2011|12|44|38016|56%|
 |2012 - 2016|19|64|33886|50%|
 |2017 - 2021|26|80|51099|75%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|37%|Yes||
@@ -1223,50 +1640,59 @@ Potential decline from warming climate expected in the future.
 |dEoO|LC|51%|Yes||
 |Bayesian|LC|3%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Noticeably expanding range northwards.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|36650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|392|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|58|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena chrysosceles: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1275,7 +1701,23 @@ Potential decline from warming climate expected in the future.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/34.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1289,7 +1731,7 @@ Potential decline from warming climate expected in the future.
 |2007 - 2011|467|1204|172459|70%|
 |2012 - 2016|525|1324|198708|81%|
 |2017 - 2021|635|1492|217924|89%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|21%|Yes||
@@ -1297,50 +1739,59 @@ Potential decline from warming climate expected in the future.
 |dEoO|LC|10%|Yes||
 |Bayesian|LC|37%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|221250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7276|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|825|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena subopaca: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1349,7 +1800,23 @@ Potential decline from warming climate expected in the future.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/35.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1363,7 +1830,7 @@ Potential decline from warming climate expected in the future.
 |2007 - 2011|424|1204|270935|78%|
 |2012 - 2016|384|1088|255336|74%|
 |2017 - 2021|492|1188|261654|76%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|28%|Yes||
@@ -1371,50 +1838,59 @@ Potential decline from warming climate expected in the future.
 |dEoO|LC|2%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|ID difficulty with Andrena minutula: iso. Amiet et al: 2010.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|354300|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|5800|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|767|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena semilaevis: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1423,7 +1899,23 @@ Potential decline from warming climate expected in the future.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/36.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1437,7 +1929,7 @@ Potential decline from warming climate expected in the future.
 |2007 - 2011|297|784|222240|74%|
 |2012 - 2016|243|680|200436|67%|
 |2017 - 2021|275|780|216848|72%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|13%|Yes||
@@ -1445,49 +1937,58 @@ Potential decline from warming climate expected in the future.
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|31%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Being found more frequently in the North West of England, particularly at higher altitudes.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|331500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4184|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|574|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena niveata: iso. Amiet et al: 2010
-## Provisional status: EN
+
+## Provisional Red List status: EN
 - B2 a,b, i
 ii
 iii
 
-## Justification
+## Red List Justification
 Intensification of agriculture is perceived as a moderate probability/high threat risk. This particularly covers conversion of current habitat to permanent pasture, vineyards, and cereal crops. The taxon has not been observed on oilseed rape, and is instead on Charlock beside the crop. Known locations are extremely localised, showing little ability to expand.
 ### Quantified Attributes
 |Attribute|Result|
@@ -1496,7 +1997,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/37.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1510,7 +2027,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|23|48|15601|47%|
 |2012 - 2016|6|16|8015|24%|
 |2017 - 2021|9|28|19790|60%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|50%|No|Insufficient data|
@@ -1518,51 +2035,60 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|147%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Has not been observed on oilseed rape, is instead on Charlock beside the crop. Is extremely localised.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Intensification of agriculture is perceived as a moderate probability/high threat risk. This particularly covers conversion to permanent pasture, vineyards, and cereal crops. |Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria|i, ii, iii|
 |Support|Intensification of agriculture is perceived as a moderate probability/high threat risk. This particularly covers conversion to permanent pasture, vineyards, and cereal crops. |
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|21300|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|EN|104|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|VU|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|VU|
 |**Justification**|Core review team agrees that the Red List criteria overstates the threat to this taxon.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|14|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Andrena minutuloides: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1571,7 +2097,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/40.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1585,7 +2127,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|81|204|51703|61%|
 |2012 - 2016|56|128|50367|60%|
 |2017 - 2021|77|236|66645|79%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|38%|Yes||
@@ -1593,51 +2135,60 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|32%|Yes||
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding as the climate warms.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|58750|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|872|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|105|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena minutula: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1646,7 +2197,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/41.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1660,7 +2227,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|830|1868|203055|78%|
 |2012 - 2016|895|1988|217767|83%|
 |2017 - 2021|1025|2136|238754|91%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|15%|Yes||
@@ -1668,50 +2235,59 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|10%|Yes||
 |Bayesian|LC|37%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|252000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|8800|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|866|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena falsifica: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1720,7 +2296,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/43.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1734,7 +2326,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|5|16|19079|29%|
 |2012 - 2016|10|40|19165|30%|
 |2017 - 2021|4|16|19155|30%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-60%|No|Insufficient data|
@@ -1742,50 +2334,59 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|0%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Always scarce, no changes to taxon noticed.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|36850|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|156|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|Map represents significant under-recording, not decline. 'Buffer-Union % All' figures support a pattern of substantial under-recording with no figure reaching > 80%. Data shows the activity of recording rather than the taxon. Comments are noted on the reliance on brownfield sites in Wales and their threats, however the limited currently known scope of this impact is considered insufficient to elevate the taxon to NT. Multiple records of this taxon have emerged from the north-west of England, within the time period, demonstrating the wider 'true' range of this taxon.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|32|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena alfkenella: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1794,7 +2395,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/44.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1808,7 +2425,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|39|128|46482|48%|
 |2012 - 2016|40|100|45251|47%|
 |2017 - 2021|53|172|80786|84%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|33%|Yes||
@@ -1816,50 +2433,59 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|79%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Increasing overall. Now having two broods in response to warming climate|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|60700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|548|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|98|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena vaga: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1868,7 +2494,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/45.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1882,7 +2524,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|4|4|6694|26%|
 |2012 - 2016|25|24|19140|74%|
 |2017 - 2021|46|32|21193|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|84%|Yes||
@@ -1890,50 +2532,59 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|11%|Yes||
 |Bayesian|LC|0%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Re-colonisation and expanding. Diversity of Salix sp probably important, as it elongates the period of floral availability.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|8550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|48|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|8|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Andrena thoracica: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -1942,7 +2593,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/46.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -1956,7 +2623,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|160|364|138812|81%|
 |2012 - 2016|188|360|116148|68%|
 |2017 - 2021|224|480|140486|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|19%|Yes||
@@ -1964,51 +2631,60 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|21%|Yes||
 |Bayesian|LC|8%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|2018 arrived in Lancs|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|156250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1516|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|192|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena nitida: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2017,7 +2693,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/47.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2031,7 +2723,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|683|1524|152297|68%|
 |2012 - 2016|812|1832|188005|84%|
 |2017 - 2021|1285|2648|203052|91%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|58%|Yes||
@@ -2039,51 +2731,60 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|41%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|170350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|8484|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|836|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena nigroaenea: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2092,7 +2793,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/48.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2106,7 +2823,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|831|1812|248075|80%|
 |2012 - 2016|977|2236|247924|80%|
 |2017 - 2021|1331|2524|267422|86%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|36%|Yes||
@@ -2114,51 +2831,60 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|48%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding northward|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|292550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9264|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|991|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena cineraria: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2167,7 +2893,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/49.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2181,7 +2923,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|675|1476|199120|70%|
 |2012 - 2016|1161|2572|230537|81%|
 |2017 - 2021|1390|2724|264481|93%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|20%|Yes||
@@ -2189,50 +2931,59 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|15%|Yes||
 |Bayesian|LC|43%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding range northwards|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|287150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7208|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|868|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena marginata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2241,7 +2992,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/50.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2255,7 +3022,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|62|128|94288|70%|
 |2012 - 2016|53|112|70708|52%|
 |2017 - 2021|153|192|90328|67%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|189%|Yes||
@@ -2263,50 +3030,59 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|28%|Yes||
 |Bayesian|LC|3%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Showing signs of northward expansion in England and Wales. Previously had markedly disjunct distribution|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|263400|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|444|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|Maintained by majority consensus. Potential decline in Cornwall is noted.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|65|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena barbilabris: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2315,7 +3091,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/51.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2329,7 +3121,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|322|708|239209|75%|
 |2012 - 2016|357|776|250935|78%|
 |2017 - 2021|265|600|215840|67%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-26%|Yes||
@@ -2337,50 +3129,59 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|-14%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|VU|*N/A*|No|Model not considered reliable|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|328000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2736|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|406|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena argentata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2389,7 +3190,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/52.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2403,7 +3220,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|52|144|30888|67%|
 |2012 - 2016|34|76|40317|87%|
 |2017 - 2021|28|68|32815|71%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-18%|Yes||
@@ -2411,50 +3228,59 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|-19%|Yes||
 |Bayesian|LC|2%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Low sampling suspected.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|44400|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|448|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|Majority consensus|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|32|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena rosae: iso. Else & Edwards: 2018
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2463,7 +3289,23 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/54.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2477,7 +3319,7 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |2007 - 2011|3|12|20065|44%|
 |2012 - 2016|72|124|41560|92%|
 |2017 - 2021|32|80|31561|70%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-56%|No|Survey effort has distorted values entirely|
@@ -2485,33 +3327,33 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |dEoO|LC|-24%|No|Survey effort has distorted values entirely|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Most records coast, but data indicates potential under-recording inland|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|35900|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|184|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
@@ -2519,18 +3361,27 @@ Intensification of agriculture is perceived as a moderate probability/high threa
 |**Justification**|Increased sampling noted as being the cause of increased numbers is noted, but this is not considered to be sufficient reason for a threat status. There is the potential for taxonomic confusion, but this is an unresolved issue under the current Understandings. This Understanding is currently considered to be in good standing, and has thus been assessed.
 
 Vulnerability of habitat components is noted, but without a widespread evidence of threat there is limited potential for the ability for vulnerability to impact a Red List assessment.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|18|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena ferox: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2539,7 +3390,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/55.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2553,7 +3420,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|44|20|6694|25%|
 |2012 - 2016|16|20|18285|69%|
 |2017 - 2021|12|20|17143|64%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-25%|No|Insufficient data|
@@ -2561,50 +3428,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|-6%|No|Insufficient data|
 |Bayesian|LC|0%|No|Insufficient data|
 |Bayesian (Expert interpretation)|LC|*N/A*|No|Insufficient data|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Significant detection problems due to behaviour.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||No||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|7750|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|64|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|Potential threats noted, but none cross the border to the point where they warrant NT under Red List criteria.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|10|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Andrena bucephala: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2613,7 +3489,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/56.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2627,7 +3519,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|50|108|67293|51%|
 |2012 - 2016|61|176|97491|74%|
 |2017 - 2021|125|312|121612|93%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|105%|Yes||
@@ -2635,50 +3527,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|25%|Yes||
 |Bayesian|LC|9%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Uses a lot of tree pollen. Expanding range northwards.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|95150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|912|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|167|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena labialis: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2687,7 +3588,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/57.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2701,7 +3618,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|173|420|97692|63%|
 |2012 - 2016|88|244|88153|57%|
 |2017 - 2021|244|552|121098|78%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|177%|Yes||
@@ -2709,51 +3626,60 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|37%|Yes||
 |Bayesian|LC|9%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding northwards|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|126000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1804|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|248|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena ruficrus: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2762,7 +3688,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|N|
+
+
+## Distribution map
+![](../map/58.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2776,7 +3718,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|45|140|69402|51%|
 |2012 - 2016|28|84|72921|54%|
 |2017 - 2021|97|224|89613|66%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|246%|No|Record increase due to discovery of autecology|
@@ -2784,50 +3726,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|23%|No|Record increase due to discovery of autecology|
 |Bayesian|LC|19%|No|Record increase due to discovery of autecology|
 |Bayesian (Expert interpretation)|LC|*N/A*|No|Record increase due to discovery of autecology|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Increasing information shows no sign of declines|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Northern species, has potential for declines under climate change in the future, but no evidence so far.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|130050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|448|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|77|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena bicolor: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2836,7 +3787,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/59.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2850,7 +3817,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|903|1800|278967|76%|
 |2012 - 2016|1006|2124|277984|76%|
 |2017 - 2021|1350|2524|287326|78%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|34%|Yes||
@@ -2858,50 +3825,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|3%|Yes||
 |Bayesian|LC|49%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|363250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9152|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|994|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena simillima: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2910,7 +3886,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/61.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2924,7 +3916,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|12|20|24794|72%|
 |2012 - 2016|9|8|13388|38%|
 |2017 - 2021|24|44|22835|66%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|167%|No|Insufficient data|
@@ -2932,50 +3924,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|71%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|Fragmented|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|15650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|120|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|NT|
 |**Justification**|Whilst the taxon does not meet the full criteria for criteria B2, the taxon meets the AoO threshold for EN and is extremely fragmented. The wider reviewers have a majority consensus for NT, which supports moderating this taxon to a higher threat category.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|16|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena nigriceps: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -2984,7 +3985,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/62.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -2998,7 +4015,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|16|52|62197|34%|
 |2012 - 2016|34|100|85418|47%|
 |2017 - 2021|46|132|91240|50%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|35%|Yes||
@@ -3006,50 +4023,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|7%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Becoming more widespread in South Lancashire|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|220750|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|456|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|Distribution may have changed, but is not sufficiently different to be a significant decrease during the duration of the Red List.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|80|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena fuscipes: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3058,7 +4084,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/63.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3072,7 +4114,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|153|448|164001|58%|
 |2012 - 2016|119|300|171575|61%|
 |2017 - 2021|188|464|166099|59%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|58%|Yes||
@@ -3080,51 +4122,60 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|-3%|Yes||
 |Bayesian|LC|13%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Dependency on heather limits available habitat|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|324050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2004|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|228|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena denticulata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3133,7 +4184,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/64.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3147,7 +4214,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|113|340|184631|62%|
 |2012 - 2016|125|392|208752|70%|
 |2017 - 2021|134|384|208106|70%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|7%|Yes||
@@ -3155,50 +4222,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|0%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Declined in the south of England.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Potential decline under climate change|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|300750|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1984|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|318|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena fulvago: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3207,7 +4283,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/65.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3221,7 +4313,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|75|208|75804|51%|
 |2012 - 2016|110|180|90543|61%|
 |2017 - 2021|189|332|116961|79%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|72%|Yes||
@@ -3229,50 +4321,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|29%|||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding northward in range.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|124750|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|928|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|159|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena humilis: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3281,7 +4382,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/66.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3295,7 +4412,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|84|256|149373|68%|
 |2012 - 2016|111|276|146369|67%|
 |2017 - 2021|113|260|157378|72%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|2%|Yes||
@@ -3303,50 +4420,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|10%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|176850|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1352|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|232|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena hattorfiana: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3355,7 +4481,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/67.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3369,7 +4511,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|62|152|89318|72%|
 |2012 - 2016|113|204|92151|75%|
 |2017 - 2021|148|212|99156|80%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|31%|Yes||
@@ -3377,50 +4519,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|3%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Common on continent.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|99250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|616|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|93|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena varians: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3429,7 +4580,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/68.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3443,7 +4610,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|46|112|64331|52%|
 |2012 - 2016|30|76|56535|46%|
 |2017 - 2021|30|92|69983|57%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|0%|No|Insufficient data|
@@ -3451,50 +4618,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|24%|No|Insufficient data|
 |Bayesian|LC|6%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Considered extinct in NW England (1940s)|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|111700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|444|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|Whilst the distribution on the map changes, the overall number of cells remains relatively consistent throughout. Multiple metrics suggest that any changes in spread are due to a lack of detection rather than true changes in distribution.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|81|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena synadelpha: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3503,7 +4679,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/69.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3517,7 +4709,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|95|244|105409|53%|
 |2012 - 2016|107|268|112095|57%|
 |2017 - 2021|92|292|126746|64%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-14%|Yes||
@@ -3525,50 +4717,59 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|13%|Yes||
 |Bayesian|LC|16%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Restricted to Morcombe Bay in NW England (warmth).|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|241850|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1320|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|222|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena praecox: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3577,7 +4778,23 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/70.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3591,7 +4808,7 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |2007 - 2011|215|548|126015|65%|
 |2012 - 2016|171|464|122070|63%|
 |2017 - 2021|212|584|168055|87%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|24%|Yes||
@@ -3599,47 +4816,56 @@ Vulnerability of habitat components is noted, but without a widespread evidence 
 |dEoO|LC|38%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Becoming more common in the north-west of England|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|154700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2212|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|311|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena lapponica: iso. Perkins: 1919
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A3 b
 
-## Justification
+## Red List Justification
 Host plant distribution is expected to shrink under climate change predictions.
 ### Quantified Attributes
 |Attribute|Result|
@@ -3648,7 +4874,23 @@ Host plant distribution is expected to shrink under climate change predictions.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/71.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3662,7 +4904,7 @@ Host plant distribution is expected to shrink under climate change predictions.
 |2007 - 2011|77|260|131522|52%|
 |2012 - 2016|73|252|148509|59%|
 |2017 - 2021|101|300|185379|74%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|38%|Yes||
@@ -3670,50 +4912,59 @@ Host plant distribution is expected to shrink under climate change predictions.
 |dEoO|LC|25%|Yes||
 |Bayesian|LC|21%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Climate change at risk of reducing viable habitat area of host plants|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|249350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1204|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**|Evidence suggests that the host plant is decreasing, even as far north as Cumbria. Whilst the taxon is currently common where it is found, this is projected to change within the projected 100 year time period used under A3.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|201|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena helvola: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3722,7 +4973,23 @@ Host plant distribution is expected to shrink under climate change predictions.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/72.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3736,7 +5003,7 @@ Host plant distribution is expected to shrink under climate change predictions.
 |2007 - 2011|76|256|157115|59%|
 |2012 - 2016|84|284|185895|70%|
 |2017 - 2021|155|380|165172|62%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|85%|Yes||
@@ -3744,50 +5011,59 @@ Host plant distribution is expected to shrink under climate change predictions.
 |dEoO|LC|-11%|Yes||
 |Bayesian|LC|40%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Increasing in north west. ID difficulty with Andrena fucata: iso. Perkins: 1919 and Andrena helvola: iso. Perkins: 1919|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|255500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1932|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|317|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena fulva: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3796,7 +5072,23 @@ Host plant distribution is expected to shrink under climate change predictions.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/73.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3810,7 +5102,7 @@ Host plant distribution is expected to shrink under climate change predictions.
 |2007 - 2011|857|1652|208933|80%|
 |2012 - 2016|1016|2104|204592|79%|
 |2017 - 2021|1194|2284|241328|93%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|18%|Yes||
@@ -3818,50 +5110,59 @@ Host plant distribution is expected to shrink under climate change predictions.
 |dEoO|LC|18%|Yes||
 |Bayesian|LC|40%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|232750|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7744|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|902|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena fucata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3870,7 +5171,23 @@ Host plant distribution is expected to shrink under climate change predictions.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/74.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3884,7 +5201,7 @@ Host plant distribution is expected to shrink under climate change predictions.
 |2007 - 2011|133|440|220738|67%|
 |2012 - 2016|101|316|200485|61%|
 |2017 - 2021|141|444|223384|68%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|40%|Yes||
@@ -3892,50 +5209,59 @@ Host plant distribution is expected to shrink under climate change predictions.
 |dEoO|LC|11%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|ID difficulty with Andrena fucata: iso. Perkins: 1919 and Andrena helvola: iso. Perkins: 1919. Most common of the comparable group.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|335600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2172|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|389|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena clarkella: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -3944,7 +5270,23 @@ Host plant distribution is expected to shrink under climate change predictions.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/75.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -3958,7 +5300,7 @@ Host plant distribution is expected to shrink under climate change predictions.
 |2007 - 2011|332|832|248925|72%|
 |2012 - 2016|392|872|250388|72%|
 |2017 - 2021|378|888|250443|72%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-4%|Yes||
@@ -3966,50 +5308,59 @@ Host plant distribution is expected to shrink under climate change predictions.
 |dEoO|LC|0%|Yes||
 |Bayesian|LC|39%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Under-recorded.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|415600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3608|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|525|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena apicata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4018,7 +5369,23 @@ Host plant distribution is expected to shrink under climate change predictions.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/76.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4032,7 +5399,7 @@ Host plant distribution is expected to shrink under climate change predictions.
 |2007 - 2011|48|152|61065|44%|
 |2012 - 2016|65|148|76920|56%|
 |2017 - 2021|59|164|100351|73%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-9%|Yes||
@@ -4040,49 +5407,58 @@ Host plant distribution is expected to shrink under climate change predictions.
 |dEoO|LC|30%|Yes||
 |Bayesian|LC|7%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|122600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|640|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|109|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Hylaeus annularis: iso. Notton and Dathe: 2008
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - B2 a,b, iii
 ii
 i
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4091,7 +5467,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/78.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4105,7 +5497,7 @@ i
 |2007 - 2011|13|36|27374|53%|
 |2012 - 2016|3|12|20082|39%|
 |2017 - 2021|4|8|11102|21%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|33%|No|Insufficient data|
@@ -4113,50 +5505,59 @@ i
 |dEoO|VU|-45%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Very little data as a result of complex nomenclatural change|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=10|
 |Subcriteria|iii, ii, i|
 |Support|Vulnerable to storm damage, coastal development and coastal engineering.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|44600|Yes|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|VU|68|Yes|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Re-assessed|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|13|
+|Calculated|NR|
+|Final|ID|
+|Moderation support||
+
+
+
 # Hylaeus dilatatus: iso. Notton and Dathe: 2008
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4165,7 +5566,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/79.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4179,7 +5596,7 @@ i
 |2007 - 2011|202|548|103052|80%|
 |2012 - 2016|232|552|110963|86%|
 |2017 - 2021|236|624|112470|87%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|2%|Yes||
@@ -4187,50 +5604,59 @@ i
 |dEoO|LC|1%|Yes||
 |Bayesian|LC|14%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|90550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2472|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|296|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Hylaeus hyalinatus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4239,7 +5665,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/80.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4253,7 +5695,7 @@ i
 |2007 - 2011|327|840|209171|76%|
 |2012 - 2016|325|780|230336|84%|
 |2017 - 2021|321|748|238187|87%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-1%|Yes||
@@ -4261,50 +5703,59 @@ i
 |dEoO|LC|3%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|234600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3568|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|535|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Hylaeus signatus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4313,7 +5764,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/81.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4327,7 +5794,7 @@ i
 |2007 - 2011|163|364|113946|70%|
 |2012 - 2016|149|424|119704|73%|
 |2017 - 2021|151|384|136347|84%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|1%|Yes||
@@ -4335,50 +5802,59 @@ i
 |dEoO|LC|14%|Yes||
 |Bayesian|LC|12%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|132500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1744|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|251|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Hylaeus pectoralis: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4387,7 +5863,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/82.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4401,7 +5893,7 @@ i
 |2007 - 2011|103|228|61058|74%|
 |2012 - 2016|96|168|57738|70%|
 |2017 - 2021|68|144|60778|74%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-29%|Yes||
@@ -4409,49 +5901,58 @@ i
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|52700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|568|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|80|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Hylaeus incongruus: iso. Straka & Bogusch: 2011
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b,c
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4460,7 +5961,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/83.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4474,7 +5991,7 @@ i
 |2007 - 2011|10|28|18893|70%|
 |2012 - 2016|6|16|10061|37%|
 |2017 - 2021|2|8|12287|45%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-67%|No|Insufficient data|
@@ -4482,50 +5999,59 @@ i
 |dEoO|LC|22%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Very hard to ID. Extreme identification difficulties. Name change was direct, not a split.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|7900|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|168|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|NT|
 |**Justification**|Moderated on basis of expert inference from wider review|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|24|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Hylaeus confusus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4534,7 +6060,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/84.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4548,7 +6090,7 @@ i
 |2007 - 2011|159|444|175482|65%|
 |2012 - 2016|115|388|173611|64%|
 |2017 - 2021|246|684|214785|80%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|114%|Yes||
@@ -4556,50 +6098,59 @@ i
 |dEoO|LC|24%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|280350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2672|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|403|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Hylaeus brevicornis: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4608,7 +6159,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/85.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4622,7 +6189,7 @@ i
 |2007 - 2011|125|408|164749|64%|
 |2012 - 2016|173|496|176502|69%|
 |2017 - 2021|171|560|181269|71%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-1%|Yes||
@@ -4630,50 +6197,59 @@ i
 |dEoO|LC|3%|Yes||
 |Bayesian|LC|28%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|242250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2796|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|438|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Hylaeus pictipes: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4682,7 +6258,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/86.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4696,7 +6288,7 @@ i
 |2007 - 2011|74|80|52023|52%|
 |2012 - 2016|61|68|54290|54%|
 |2017 - 2021|84|132|64454|64%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|38%|Yes||
@@ -4704,50 +6296,59 @@ i
 |dEoO|LC|19%|Yes||
 |Bayesian|LC|2%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|76650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|368|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|67|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Hylaeus communis: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4756,7 +6357,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/88.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4770,7 +6387,7 @@ i
 |2007 - 2011|711|1656|194789|78%|
 |2012 - 2016|583|1408|191492|77%|
 |2017 - 2021|921|1992|218528|88%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|58%|Yes||
@@ -4778,50 +6395,59 @@ i
 |dEoO|LC|14%|Yes||
 |Bayesian|LC|37%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|231900|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7672|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|789|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Hylaeus cornutus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4830,7 +6456,23 @@ i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/89.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4844,7 +6486,7 @@ i
 |2007 - 2011|88|240|69635|81%|
 |2012 - 2016|77|168|56438|66%|
 |2017 - 2021|63|200|74147|86%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-18%|Yes||
@@ -4852,47 +6494,56 @@ i
 |dEoO|LC|31%|Yes||
 |Bayesian|LC|6%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|52600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1120|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|140|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Anthophora retusa: iso. Amiet et al: 2007
-## Provisional status: EN
+
+## Provisional Red List status: EN
 - B2 a,b, iii
 
-## Justification
+## Red List Justification
 A large area of known nesting habitat was destroyed in one summer storm, leading to substantial population reduction. Taxon is considered to be recovering, but is at risk of a repeat of the same event before recovery completes.
 ### Quantified Attributes
 |Attribute|Result|
@@ -4901,7 +6552,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/91.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4915,7 +6582,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|24|24|14288|54%|
 |2012 - 2016|11|16|14288|54%|
 |2017 - 2021|29|4|6694|25%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|164%|No|Insufficient data|
@@ -4923,50 +6590,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|EN|-53%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria|iii|
 |Support|Large area of nesting habitat was destroyed in one summer storm, leading to substantial population reduction. Taxon is considered to be recovering, but is at risk of a repeat of the same event.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|VU|8350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|EN|56|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|EN|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|6|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Anthophora bimaculata: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -4975,7 +6651,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/92.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -4989,7 +6681,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|269|588|89302|72%|
 |2012 - 2016|227|524|98880|79%|
 |2017 - 2021|401|680|110077|88%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|77%|Yes||
@@ -4997,50 +6689,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|11%|Yes||
 |Bayesian|LC|9%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|88150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2032|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|200|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Anthophora quadrimaculata: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5049,7 +6750,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/93.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5063,7 +6780,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|40|108|54726|48%|
 |2012 - 2016|57|100|58640|51%|
 |2017 - 2021|224|176|79836|70%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|293%|Yes||
@@ -5071,50 +6788,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|36%|Yes||
 |Bayesian|LC|3%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|84350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|560|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|96|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Anthophora furcata: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5123,7 +6849,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/94.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5137,7 +6879,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|243|444|208322|70%|
 |2012 - 2016|238|536|224460|75%|
 |2017 - 2021|399|808|241827|81%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|68%|Yes||
@@ -5145,50 +6887,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|8%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|272000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2712|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|452|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Anthophora plumipes: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5197,7 +6948,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/95.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5211,7 +6978,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|1008|1568|176014|77%|
 |2012 - 2016|1523|2156|185600|81%|
 |2017 - 2021|2520|2520|211420|93%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|65%|Yes||
@@ -5219,50 +6986,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|14%|Yes||
 |Bayesian|LC|25%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|193700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7052|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|750|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum zonulum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5271,7 +7047,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/116.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5285,7 +7077,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|125|312|100804|73%|
 |2012 - 2016|149|368|98279|71%|
 |2017 - 2021|266|560|113274|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|79%|Yes||
@@ -5293,50 +7085,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|15%|Yes||
 |Bayesian|LC|10%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|103800|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2216|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|243|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum xanthopus: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5345,7 +7146,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/117.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5359,7 +7176,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|49|108|58423|51%|
 |2012 - 2016|38|92|55122|48%|
 |2017 - 2021|52|140|65597|57%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|37%|Yes||
@@ -5367,50 +7184,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|19%|Yes||
 |Bayesian|LC|5%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Appears to be limited by warmth rather than anything else|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|79400|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|704|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|118|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum sexnotatum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5419,7 +7245,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/118.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5433,7 +7275,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|12|16|8305|47%|
 |2012 - 2016|11|24|12896|73%|
 |2017 - 2021|89|108|16185|92%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|709%|Yes||
@@ -5441,50 +7283,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|26%|Yes||
 |Bayesian|LC|0%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Thermally limited, potential re-colonisation from mainland Europe|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|Fragmented|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|3500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|144|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|12|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Lasioglossum quadrinotatum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5493,7 +7344,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/119.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5507,7 +7374,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|33|124|70622|63%|
 |2012 - 2016|25|88|48088|43%|
 |2017 - 2021|40|100|57608|52%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|60%|Yes||
@@ -5515,50 +7382,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|20%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Scarce. Difficult ID with Lasioglossum lativentre: iso. Amiet et al: 2001. |Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|81550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|468|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|88|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Lasioglossum prasinum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5567,7 +7443,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/120.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5581,7 +7473,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|64|144|34228|49%|
 |2012 - 2016|66|136|38888|56%|
 |2017 - 2021|30|84|43760|63%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-55%|No|Insufficient data suspected, decline not backed up by distribution or spread. The loss of a major recorder in the last 5-year period is suspected to be the cause.|
@@ -5589,50 +7481,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|13%|Yes||
 |Bayesian|LC|2%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Huge numbers if in the right place at the right time, otherwise very sporadically found. Despite lower absolute record numbers, is being found at most known previous site and some new ones in the past 10 years. The loss of a major recorder of this taxon is noted, which is considered to be the leading cause of the decline in number of records.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|70600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|560|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|52|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Lasioglossum leucozonium: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5641,7 +7542,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/121.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5655,7 +7572,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|500|1212|210528|84%|
 |2012 - 2016|746|1664|222341|89%|
 |2017 - 2021|724|1744|213350|85%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-3%|Yes||
@@ -5663,50 +7580,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|-4%|Yes||
 |Bayesian|LC|32%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|237150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7308|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|750|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum lativentre: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5715,7 +7641,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/122.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5729,7 +7671,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|173|496|149120|71%|
 |2012 - 2016|175|488|149991|72%|
 |2017 - 2021|444|1064|170641|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|154%|Yes||
@@ -5737,50 +7679,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|14%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|162250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3368|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|430|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum laevigatum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5789,7 +7740,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/123.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5803,7 +7770,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|63|192|78117|54%|
 |2012 - 2016|53|172|83780|58%|
 |2017 - 2021|147|332|95942|66%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|177%|Yes||
@@ -5811,50 +7778,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|15%|Yes||
 |Bayesian|LC|9%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Despite evidence of sporadric revisiting of previous sites, taxon is still expanding range. This suggests a healthy expansion.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|123800|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1436|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|198|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum villosulum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5863,7 +7839,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/124.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5877,7 +7869,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|529|1224|242822|79%|
 |2012 - 2016|710|1484|224339|73%|
 |2017 - 2021|589|1568|248126|81%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-17%|Yes||
@@ -5885,50 +7877,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|11%|Yes||
 |Bayesian|LC|36%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Noted to be fluctuating, though reason is unknown. Overall, still expanding.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|278150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7416|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|835|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum semilucens: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -5937,7 +7938,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/125.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -5951,7 +7968,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|7|20|19118|47%|
 |2012 - 2016|4|12|15448|38%|
 |2017 - 2021|7|20|19218|47%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|75%|No|Insufficient data|
@@ -5959,51 +7976,60 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|24%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Very localised, needs knowledge to find. No known threats|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|18100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|104|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|20|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Lasioglossum rufitarse: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6012,7 +8038,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/126.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6026,7 +8068,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|70|200|112025|47%|
 |2012 - 2016|56|188|141861|60%|
 |2017 - 2021|97|260|131119|55%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|73%|Yes||
@@ -6034,50 +8076,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|-8%|Yes||
 |Bayesian|LC|26%|No|Too much poor Rhat|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Common in north. |Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Should be watched for potential negative climate change response.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|243450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1244|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|220|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum puncticolle: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6086,7 +8137,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/127.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6100,7 +8167,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|129|256|54392|51%|
 |2012 - 2016|96|200|67351|63%|
 |2017 - 2021|156|372|82000|77%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|63%|Yes||
@@ -6108,50 +8175,59 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|22%|Yes||
 |Bayesian|LC|5%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|73200|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1312|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|155|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum punctatissimum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6160,7 +8236,23 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/128.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6174,7 +8266,7 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |2007 - 2011|205|540|162677|65%|
 |2012 - 2016|164|416|148359|59%|
 |2017 - 2021|235|564|166043|66%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|43%|Yes||
@@ -6182,44 +8274,53 @@ A large area of known nesting habitat was destroyed in one summer storm, leading
 |dEoO|LC|12%|Yes||
 |Bayesian|LC|15%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|243850|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2744|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|329|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum pauxillum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 c
@@ -6227,7 +8328,7 @@ c
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6236,7 +8337,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/129.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6250,7 +8367,7 @@ c
 |2007 - 2011|520|1028|98299|65%|
 |2012 - 2016|468|908|114314|76%|
 |2017 - 2021|942|1596|130622|87%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|101%|Yes||
@@ -6258,50 +8375,59 @@ c
 |dEoO|LC|14%|Yes||
 |Bayesian|LC|20%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Very favourable response to climate change|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Very favourable response to climate change|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|122450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4676|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|433|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum pauperatum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6310,7 +8436,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/130.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6324,7 +8466,7 @@ c
 |2007 - 2011|162|228|52529|80%|
 |2012 - 2016|119|164|45123|68%|
 |2017 - 2021|60|160|47185|71%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-50%|No|Changes in recorder activity within Thames corridor responsible for decline in records.|
@@ -6332,50 +8474,59 @@ c
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|36400|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|616|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|79|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Lasioglossum parvulum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6384,7 +8535,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/131.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6398,7 +8565,7 @@ c
 |2007 - 2011|200|516|108494|55%|
 |2012 - 2016|243|588|122490|62%|
 |2017 - 2021|208|628|157504|79%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-14%|Yes||
@@ -6406,49 +8573,58 @@ c
 |dEoO|LC|29%|Yes||
 |Bayesian|LC|17%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|173000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3108|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|369|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum nitidiusculum: iso. Amiet et al: 2001
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b,c
 - A3 b
 c
 
-## Justification
+## Red List Justification
 Suspected disappearance from south eastern England, with reason unknown. Can be found in abundance in Scotland.
 
 Potential negative response to climate change predictions.
@@ -6459,7 +8635,23 @@ Potential negative response to climate change predictions.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/132.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6473,7 +8665,7 @@ Potential negative response to climate change predictions.
 |2007 - 2011|29|88|94244|39%|
 |2012 - 2016|28|68|74382|31%|
 |2017 - 2021|37|120|116517|48%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|32%|Yes||
@@ -6481,50 +8673,59 @@ Potential negative response to climate change predictions.
 |dEoO|LC|57%|Yes||
 |Bayesian|LC|7%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Suspected disappearance from south eastern England, with reason unknown. Can be found in abundance in Scotland.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Potential negative response to climate change.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|307350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|632|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|128|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum minutissimum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6533,7 +8734,23 @@ Potential negative response to climate change predictions.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/133.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6547,7 +8764,7 @@ Potential negative response to climate change predictions.
 |2007 - 2011|270|628|124984|72%|
 |2012 - 2016|329|660|133736|77%|
 |2017 - 2021|298|748|144842|84%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-9%|Yes||
@@ -6555,44 +8772,53 @@ Potential negative response to climate change predictions.
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|16%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|128350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3272|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|383|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum malachurum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 c
@@ -6600,7 +8826,7 @@ c
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6609,7 +8835,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/134.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6623,7 +8865,7 @@ c
 |2007 - 2011|434|924|103177|70%|
 |2012 - 2016|489|1012|121305|83%|
 |2017 - 2021|687|1356|138224|94%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|40%|Yes||
@@ -6631,50 +8873,59 @@ c
 |dEoO|LC|14%|Yes||
 |Bayesian|LC|17%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|104150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|5472|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|490|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum laticeps: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6683,7 +8934,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/135.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6697,7 +8964,7 @@ c
 |2007 - 2011|2|8|6694|49%|
 |2012 - 2016|4|16|12825|94%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|CE|-100%|No|Insufficient data|
@@ -6705,50 +8972,59 @@ c
 |dEoO|CE|-100%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Edge of range taxon, thought to be limited by warmth.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|1600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|60|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|Taxon is found on green roofs in Europe and is not restricted to the current UK habitat. L. angusticeps is given NT on the basis of higher threat status in Europe via moderation. This statement does not hold true for L. laticeps.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|7|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Lasioglossum fulvicorne: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6757,7 +9033,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/137.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6771,7 +9063,7 @@ c
 |2007 - 2011|251|668|162547|66%|
 |2012 - 2016|245|640|171625|70%|
 |2017 - 2021|513|844|191246|78%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|109%|Yes||
@@ -6779,50 +9071,59 @@ c
 |dEoO|LC|11%|Yes||
 |Bayesian|LC|16%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|246950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3452|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|458|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum fratellum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6831,7 +9132,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/138.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6845,7 +9162,7 @@ c
 |2007 - 2011|142|372|179918|58%|
 |2012 - 2016|127|396|212078|68%|
 |2017 - 2021|157|404|187259|60%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|24%|Yes||
@@ -6853,50 +9170,59 @@ c
 |dEoO|LC|-12%|Yes||
 |Bayesian|LC|28%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Possible confusion with Lasioglossum fulvicorne: iso. Amiet et al: 2001 in the northern range, but not to an impactful degree.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|302350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2108|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|361|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum calceatum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6905,7 +9231,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/139.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6919,7 +9261,7 @@ c
 |2007 - 2011|1231|3000|310135|81%|
 |2012 - 2016|1489|3248|305519|80%|
 |2017 - 2021|1694|2976|320700|84%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|14%|Yes||
@@ -6927,50 +9269,59 @@ c
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|71%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Considerable potential for misidentification with Lasioglossum albipes: iso. Amiet et al: 2001, though not thought to have an impact.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|385100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|12976|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1274|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum brevicorne: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -6979,7 +9330,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/140.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -6993,7 +9360,7 @@ c
 |2007 - 2011|26|88|50978|54%|
 |2012 - 2016|19|68|55428|58%|
 |2017 - 2021|21|60|26008|27%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|11%|No|Insufficient data|
@@ -7001,50 +9368,59 @@ c
 |dEoO|EN|-53%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Very restricted where it can occur. No evidence of any declines, has been found in large numbers when encountered. Northwestern England records require checking specimens to ensure ID accuracy.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|72900|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|444|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|60|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Lasioglossum angusticeps: iso. Amiet et al: 2001
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 Taxon is NT in the European Red List. Also, the cliff habitat has the potential for eutrophication due to leaching or slumping of substrate above nesting aggregations.
 ### Quantified Attributes
 |Attribute|Result|
@@ -7053,7 +9429,23 @@ Taxon is NT in the European Red List. Also, the cliff habitat has the potential 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/141.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7067,7 +9459,7 @@ Taxon is NT in the European Red List. Also, the cliff habitat has the potential 
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|2|8|10666|54%|
 |2017 - 2021|1|4|6694|34%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-50%|No|Insufficient data|
@@ -7075,50 +9467,59 @@ Taxon is NT in the European Red List. Also, the cliff habitat has the potential 
 |dEoO|VU|-37%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|3350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|48|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**|Moderation has already been used. Discussions could not arrive at a definition of a threat by which criterion B could be utilised, leaving this as NT.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|10|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Lasioglossum albipes: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7127,7 +9528,23 @@ Taxon is NT in the European Red List. Also, the cliff habitat has the potential 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/142.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7141,7 +9558,7 @@ Taxon is NT in the European Red List. Also, the cliff habitat has the potential 
 |2007 - 2011|368|976|264710|73%|
 |2012 - 2016|479|1276|277692|76%|
 |2017 - 2021|550|1564|317251|87%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|15%|Yes||
@@ -7149,50 +9566,59 @@ Taxon is NT in the European Red List. Also, the cliff habitat has the potential 
 |dEoO|LC|14%|Yes||
 |Bayesian|LC|59%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Potential for confusion with Lasioglossum calceatum: iso. Amiet et al: 2001, though not expected to cause a change in status.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|403000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|6752|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|890|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum smeathmanellum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7201,7 +9627,23 @@ Taxon is NT in the European Red List. Also, the cliff habitat has the potential 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/143.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7215,7 +9657,7 @@ Taxon is NT in the European Red List. Also, the cliff habitat has the potential 
 |2007 - 2011|226|644|194767|71%|
 |2012 - 2016|362|792|208359|76%|
 |2017 - 2021|365|748|224474|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|1%|Yes||
@@ -7223,46 +9665,55 @@ Taxon is NT in the European Red List. Also, the cliff habitat has the potential 
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|23%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Has expanded into northwestern England|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|253600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3780|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Lasioglossum sexstrigatum: iso. Amiet et al: 2001
-## Provisional status: NA
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|541|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
+# Lasioglossum sexstrigatum: iso. Amiet et al: 2001
+
+## Provisional Red List status: NA
+
+## Red List Justification
 Recent re-colonist. There is not enough data to come to any supportable conclusion in threat status.
 ### Quantified Attributes
 |Attribute|Result|
@@ -7271,7 +9722,23 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/144.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7285,7 +9752,7 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|7|16|14427|68%|
 |2017 - 2021|1|4|6694|31%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|CE|-86%|||
@@ -7293,50 +9760,59 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |dEoO|EN|-54%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|6200|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|20|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NA|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|5|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Lasioglossum morio: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7345,7 +9821,23 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/145.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7359,7 +9851,7 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |2007 - 2011|914|1908|224513|83%|
 |2012 - 2016|1171|2120|221646|82%|
 |2017 - 2021|1265|2280|223096|83%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|8%|Yes||
@@ -7367,50 +9859,59 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |dEoO|LC|1%|Yes||
 |Bayesian|LC|37%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding northwards|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|252300|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9068|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|866|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum leucopus: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7419,7 +9920,23 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/146.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7433,7 +9950,7 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |2007 - 2011|288|796|237448|67%|
 |2012 - 2016|375|1028|249082|70%|
 |2017 - 2021|567|1180|260194|73%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|51%|Yes||
@@ -7441,44 +9958,53 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |dEoO|LC|4%|Yes||
 |Bayesian|LC|48%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|376500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|5248|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|712|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Lasioglossum cupromicans: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 c
@@ -7486,7 +10012,7 @@ c
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7495,7 +10021,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/147.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7509,7 +10051,7 @@ c
 |2007 - 2011|89|244|167489|59%|
 |2012 - 2016|105|328|176413|62%|
 |2017 - 2021|107|280|154520|54%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|2%|Yes||
@@ -7517,50 +10059,59 @@ c
 |dEoO|LC|-12%|Yes||
 |Bayesian|LC|23%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expected to respond negatively to climate change|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|266650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1432|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|282|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Dasypoda hirtipes: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7569,7 +10120,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/170.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7583,7 +10150,7 @@ c
 |2007 - 2011|232|460|114087|74%|
 |2012 - 2016|186|432|125940|82%|
 |2017 - 2021|398|824|128512|83%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|114%|Yes||
@@ -7591,50 +10158,59 @@ c
 |dEoO|LC|2%|Yes||
 |Bayesian|LC|10%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|138200|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1844|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|191|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Ceratina cyanea: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7643,7 +10219,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/176.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7657,7 +10249,7 @@ c
 |2007 - 2011|87|228|39619|71%|
 |2012 - 2016|95|196|44284|79%|
 |2017 - 2021|119|240|45607|81%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|25%|Yes||
@@ -7665,49 +10257,58 @@ c
 |dEoO|LC|3%|Yes||
 |Bayesian|LC|5%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|30100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|848|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|92|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Coelioxys rufescens: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7716,7 +10317,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/203.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7730,7 +10347,7 @@ c
 |2007 - 2011|44|124|80211|43%|
 |2012 - 2016|26|72|55189|29%|
 |2017 - 2021|31|108|87978|47%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|19%|No|Insufficient data|
@@ -7738,49 +10355,58 @@ c
 |dEoO|LC|59%|No|Insufficient data|
 |Bayesian|LC|9%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Sporadically recorded. ID was difficult until the publication of new keys ~ 2018 (Falk and Else & Edwards)|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|153100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|668|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|122|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Coelioxys quadridentata: iso. Amiet et al: 2004
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b,c
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7789,7 +10415,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/204.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7803,7 +10445,7 @@ c
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Insufficient data|
@@ -7811,47 +10453,56 @@ c
 |dEoO|LC|?%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|1300|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|8|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|Significant decline over 100+ years noted and agreed with, but the Red List does not provide the ability to assess this taxon as such. This is something which is now so rare that it is difficult to obtain data to statistically justify any trend under the Red List criteria. There is also the potential for significant misidentification in older data, with many keys of that era containing significant errors.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|2|
+|Calculated|NR|
+|Final|ID|
+|Moderation support||
+
+
+
 # Coelioxys mandibularis: iso. Amiet et al: 2004
-## Provisional status: EN
+
+## Provisional Red List status: EN
 - B2 a,b, iii
 
-## Justification
+## Red List Justification
 The majority of the population exists in a narrow strip of dune, which is at risk of damage during storm events.
 ### Quantified Attributes
 |Attribute|Result|
@@ -7860,7 +10511,23 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/205.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7874,7 +10541,7 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |2007 - 2011|16|52|32926|65%|
 |2012 - 2016|29|64|23631|47%|
 |2017 - 2021|17|32|22815|45%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-41%|No|Insufficient data|
@@ -7882,50 +10549,59 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |dEoO|LC|-3%|No|Insufficient data|
 |Bayesian|LC|2%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria|iii|
 |Support|Majority of population exists in a narrow strip of dune, which is at risk of damage during storm events.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|69350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|EN|172|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|VU|
 |**Justification**|Wider review panel has demonstrated evidence of presence in other dune systems.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|23|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Coelioxys inermis: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -7934,7 +10610,23 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/206.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -7948,7 +10640,7 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |2007 - 2011|38|132|97891|51%|
 |2012 - 2016|63|216|150986|79%|
 |2017 - 2021|89|236|117448|61%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|41%|No|Data distorted by publication of new ID methods|
@@ -7956,50 +10648,59 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |dEoO|LC|-22%|No|Data distorted by publication of new ID methods|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|169200|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|820|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|160|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Coelioxys elongata: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8008,7 +10709,23 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/207.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8022,7 +10739,7 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |2007 - 2011|61|180|129324|50%|
 |2012 - 2016|86|248|139857|54%|
 |2017 - 2021|95|284|187452|72%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|10%|Yes||
@@ -8030,50 +10747,59 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |dEoO|LC|34%|Yes||
 |Bayesian|LC|23%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|273150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1036|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|190|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Coelioxys conoidea: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8082,7 +10808,23 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/208.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8096,7 +10838,7 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |2007 - 2011|90|252|117795|72%|
 |2012 - 2016|108|280|91697|56%|
 |2017 - 2021|99|284|135856|83%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-8%|Yes||
@@ -8104,50 +10846,59 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |dEoO|LC|48%|Yes||
 |Bayesian|LC|9%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|136150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1028|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|139|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Eucera longicornis: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8156,7 +10907,23 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/213.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8170,7 +10937,7 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |2007 - 2011|79|200|97111|74%|
 |2012 - 2016|132|204|86387|66%|
 |2017 - 2021|260|364|106971|81%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|97%|Yes||
@@ -8178,50 +10945,59 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |dEoO|LC|24%|Yes||
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|99500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|796|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|123|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Halictus tumulorum: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8230,7 +11006,23 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/220.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8244,7 +11036,7 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |2007 - 2011|573|1372|234215|77%|
 |2012 - 2016|1006|2140|243362|80%|
 |2017 - 2021|1285|2448|248832|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|28%|Yes||
@@ -8252,50 +11044,59 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |dEoO|LC|2%|Yes||
 |Bayesian|LC|45%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|281400|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9388|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|956|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Halictus confusus: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8304,7 +11105,23 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/222.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8318,7 +11135,7 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |2007 - 2011|13|24|21693|51%|
 |2012 - 2016|13|40|25038|59%|
 |2017 - 2021|7|24|23279|55%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-46%|No|Insufficient data|
@@ -8326,50 +11143,59 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |dEoO|LC|-7%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|28600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|160|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|23|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Halictus rubicundus: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8378,7 +11204,23 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/223.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8392,7 +11234,7 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |2007 - 2011|492|1352|284754|79%|
 |2012 - 2016|667|1740|294794|82%|
 |2017 - 2021|704|1756|319232|88%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|6%|Yes||
@@ -8400,50 +11242,59 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|63%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|357850|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7164|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|957|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Halictus eurygnathus: iso. Amiet et al: 2001
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8452,7 +11303,23 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/225.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8466,7 +11333,7 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |2007 - 2011|10|8|7594|76%|
 |2012 - 2016|13|16|8305|83%|
 |2017 - 2021|21|32|9305|93%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|62%|No|Insufficient data|
@@ -8474,46 +11341,55 @@ The majority of the population exists in a narrow strip of dune, which is at ris
 |dEoO|LC|12%|Yes||
 |Bayesian|LC|0%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|750|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|48|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|Taxon is expanding from recent colonisation|
----
- ---
- <br><br>
- 
-# Osmia cornuta: iso. Amiet et al: 2004
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|6|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
+# Osmia cornuta: iso. Amiet et al: 2004
+
+## Provisional Red List status: NE
+
+## Red List Justification
 Synanthropic colonist. Thought to have been introduced by people purchasing pre-populated 'bee hotels' from continental Europe.
 ### Quantified Attributes
 |Attribute|Result|
@@ -8522,7 +11398,23 @@ Synanthropic colonist. Thought to have been introduced by people purchasing pre-
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/231.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8536,7 +11428,7 @@ Synanthropic colonist. Thought to have been introduced by people purchasing pre-
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|4|12|8494|23%|
 |2017 - 2021|11|32|36314|99%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|175%|||
@@ -8544,50 +11436,59 @@ Synanthropic colonist. Thought to have been introduced by people purchasing pre-
 |dEoO|LC|328%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|18850|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|40|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|10|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Osmia bicornis: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8596,7 +11497,23 @@ Synanthropic colonist. Thought to have been introduced by people purchasing pre-
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/232.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8610,7 +11527,7 @@ Synanthropic colonist. Thought to have been introduced by people purchasing pre-
 |2007 - 2011|1064|1876|254783|81%|
 |2012 - 2016|1322|2268|248653|79%|
 |2017 - 2021|1465|2036|268669|86%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|11%|Yes||
@@ -8618,50 +11535,59 @@ Synanthropic colonist. Thought to have been introduced by people purchasing pre-
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|42%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|296300|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9972|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1077|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Osmia bicolor: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8670,7 +11596,23 @@ Synanthropic colonist. Thought to have been introduced by people purchasing pre-
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/233.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8684,7 +11626,7 @@ Synanthropic colonist. Thought to have been introduced by people purchasing pre-
 |2007 - 2011|294|616|103166|80%|
 |2012 - 2016|392|756|116624|90%|
 |2017 - 2021|464|732|103790|80%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|18%|Yes||
@@ -8692,50 +11634,59 @@ Synanthropic colonist. Thought to have been introduced by people purchasing pre-
 |dEoO|LC|-11%|Yes||
 |Bayesian|LC|13%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|95150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2292|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|251|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Osmia xanthomelana: iso. Amiet et al: 2004
-## Provisional status: CR
+
+## Provisional Red List status: CR
 - B2 a,b, i
 ii
 iii
 iv
 
-## Justification
+## Red List Justification
 The singular existing colony is at risk of localised storm surges damaging the nesting site. Pastures above the nesting location cliffs are being improved, resulting in enrichment of the area,, again damaging the nesting site. These measures result in the taxon reaching EN status.
 
 The Isle of Wight population cannot be found, reducing the known viable locations to one. Farming practices place additional pressure upon the remaining known site, specifically regarding availability of suitable floral resource. For these reasons, this taxon is elevated to CR.
@@ -8746,7 +11697,23 @@ The Isle of Wight population cannot be found, reducing the known viable location
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/234.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8760,7 +11727,7 @@ The Isle of Wight population cannot be found, reducing the known viable location
 |2007 - 2011|5|4|6694|46%|
 |2012 - 2016|7|8|7594|53%|
 |2017 - 2021|2|8|7594|53%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-71%|No|Insufficient data|
@@ -8768,50 +11735,59 @@ The Isle of Wight population cannot be found, reducing the known viable location
 |dEoO|LC|0%|No|Insufficient data|
 |Bayesian|LC|0%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Singular existing colony is at risk of localised storm surges. Pastures above the nesting location cliffs are being improved, resulting in enrichment of area.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria|i, ii, iii, iv|
 |Support|Significant habitat loss. Isle of Wight population cannot be refound. Welsh population is on unstable cliffs, where there is not a large enough population to maintain stability. Pastures above the nesting location cliffs are being improved, resulting in enrichment of area.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|VU|6100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|EN|20|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|VU|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|CR|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|3|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Osmia uncinata: iso. Else & Edwards: 1996
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -8820,7 +11796,23 @@ The Isle of Wight population cannot be found, reducing the known viable location
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|N|
+|Scotland|Y|
+|Wales|N|
+
+
+## Distribution map
+![](../map/235.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8834,7 +11826,7 @@ The Isle of Wight population cannot be found, reducing the known viable location
 |2007 - 2011|13|20|12707|48%|
 |2012 - 2016|21|40|14714|56%|
 |2017 - 2021|21|52|13423|51%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|0%|No|Insufficient data|
@@ -8842,47 +11834,56 @@ The Isle of Wight population cannot be found, reducing the known viable location
 |dEoO|LC|-9%|No|Insufficient data|
 |Bayesian|LC|4%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Reliant on targeted survey effort. Nesting habitat is variable and widespread. Stable where found.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|7500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|144|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|No threat could be identified to classify this under a Red List status. Single site declines are indicative, but insufficient for use as the basis of a threatened status|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|20|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Osmia pilicornis: iso. Amiet et al: 2004
-## Provisional status: EN
+
+## Provisional Red List status: EN
 - A2 b,c
 
-## Justification
+## Red List Justification
 Taxon has been subjected to targeted survey effort, yet cannot be re-found in many previous sites. Forestry management practices used to provide a range of suitable nesting habitats, but these practices have changed. Deadwood and stumps are now routinely destroyed via mechanical management, removing nesting opportunities. Has similar habitat requirements to the small pearl-bordered fritillaries.
 ### Quantified Attributes
 |Attribute|Result|
@@ -8891,7 +11892,23 @@ Taxon has been subjected to targeted survey effort, yet cannot be re-found in ma
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/236.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8905,7 +11922,7 @@ Taxon has been subjected to targeted survey effort, yet cannot be re-found in ma
 |2007 - 2011|2|4|6694|15%|
 |2012 - 2016|9|12|13587|32%|
 |2017 - 2021|4|8|6694|15%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-56%|No|Insufficient data|
@@ -8913,47 +11930,56 @@ Taxon has been subjected to targeted survey effort, yet cannot be re-found in ma
 |dEoO|EN|-51%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|EN|Has been subjected to targeted survey effort, yet taxon cannot be re-found in many previous sites. Forestry management practices used to provide a range of suitable nesting habitats. These practices have changed. Deadwood and stumps are now routinely destroyed via mechanical management, removing nesting opportunities. Has similar habitat requirements to the small pearl-bordered fritillaries.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=10|
 |Subcriteria|iii|
 |Support|Forestry management practices used to provide a range of suitable nesting habitats. These practices have changed. Deadwood and stumps are now routinely destroyed via mechanical management, removing nesting opportunities.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|23000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|VU|140|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|EN|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|23|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Osmia parietina: iso. Amiet et al: 2004
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b
 
-## Justification
+## Red List Justification
 Noticeably less found over the past 10 years during survey work.
 ### Quantified Attributes
 |Attribute|Result|
@@ -8962,7 +11988,23 @@ Noticeably less found over the past 10 years during survey work.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/237.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -8976,7 +12018,7 @@ Noticeably less found over the past 10 years during survey work.
 |2007 - 2011|5|16|20758|31%|
 |2012 - 2016|8|16|19629|29%|
 |2017 - 2021|1|4|6694|10%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|CE|-88%|No|Insufficient data|
@@ -8984,47 +12026,56 @@ Noticeably less found over the past 10 years during survey work.
 |dEoO|EN|-66%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Noticeably less found over the past 10 years during survey work.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria|v|
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|71950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|132|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|27|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Osmia inermis: iso. Amiet et al: 2004
-## Provisional status: EN
+
+## Provisional Red List status: EN
 - D2
 
-## Justification
+## Red List Justification
 Taxon requires specific targeted survey effort and unusual patterns to find. No such survey has happened in the 10 year period. Due to the paucity of data and lack of knowledge, it was not possible to place this taxon any higher threat status than VU.
 
 Taking into account wider knowledge, which has no place to be captured under the available rules, the threat status to this taxon should be much higher. Even when subjected to targeted survey effort, records were scarce. Existing locations were at risk of conversion to commercial pine forest or inappropriate grazing. No recent survey effort has been undertaken. The pressures from the last targeted work are considered to have been maintained. This species is therefore considered to be under far higher threat than can be captured within the Red List methodology.
@@ -9035,7 +12086,23 @@ Taking into account wider knowledge, which has no place to be captured under the
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|N|
+
+
+## Distribution map
+![](../map/238.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9049,7 +12116,7 @@ Taking into account wider knowledge, which has no place to be captured under the
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Insufficient data|
@@ -9057,50 +12124,59 @@ Taking into account wider knowledge, which has no place to be captured under the
 |dEoO|LC|?%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Requires specific targeted survey effort and unusual patterns to find. No such survey has happened in the 10 year period.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|An arctic/montaine species. Global warming is predicted to be detrimental to this taxon.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|21300|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|28|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|VU|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|EN|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|6|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Osmia aurulenta: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9109,7 +12185,23 @@ Taking into account wider knowledge, which has no place to be captured under the
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/239.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9123,7 +12215,7 @@ Taking into account wider knowledge, which has no place to be captured under the
 |2007 - 2011|149|336|138081|74%|
 |2012 - 2016|190|348|119051|63%|
 |2017 - 2021|197|408|128072|68%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|4%|Yes||
@@ -9131,50 +12223,59 @@ Taking into account wider knowledge, which has no place to be captured under the
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|8%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|176000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1380|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|172|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Osmia leaiana: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9183,7 +12284,23 @@ Taking into account wider knowledge, which has no place to be captured under the
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/240.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9197,7 +12314,7 @@ Taking into account wider knowledge, which has no place to be captured under the
 |2007 - 2011|242|584|144485|63%|
 |2012 - 2016|364|784|173185|76%|
 |2017 - 2021|568|892|202204|89%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|56%|Yes||
@@ -9205,46 +12322,55 @@ Taking into account wider knowledge, which has no place to be captured under the
 |dEoO|LC|17%|Yes||
 |Bayesian|LC|21%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|204000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2916|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Osmia niveata: iso. Amiet et al: 2004
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|436|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
+# Osmia niveata: iso. Amiet et al: 2004
+
+## Provisional Red List status: NE
+
+## Red List Justification
 This species' presence in the project area is considered to be the result of a misidentification.
 ### Quantified Attributes
 |Attribute|Result|
@@ -9253,7 +12379,23 @@ This species' presence in the project area is considered to be the result of a m
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/241.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9267,7 +12409,7 @@ This species' presence in the project area is considered to be the result of a m
 |2007 - 2011|1|4|6694|88%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|||
@@ -9275,50 +12417,59 @@ This species' presence in the project area is considered to be the result of a m
 |dEoO|LC|?%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|200|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|8|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|2|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Osmia caerulescens: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9327,7 +12478,23 @@ This species' presence in the project area is considered to be the result of a m
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/242.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9341,7 +12508,7 @@ This species' presence in the project area is considered to be the result of a m
 |2007 - 2011|384|708|170677|67%|
 |2012 - 2016|399|832|191772|75%|
 |2017 - 2021|592|888|200548|79%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|48%|Yes||
@@ -9349,50 +12516,59 @@ This species' presence in the project area is considered to be the result of a m
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|29%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|241900|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3372|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|472|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Osmia spinulosa: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9401,7 +12577,23 @@ This species' presence in the project area is considered to be the result of a m
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/243.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9415,7 +12607,7 @@ This species' presence in the project area is considered to be the result of a m
 |2007 - 2011|360|736|126269|78%|
 |2012 - 2016|409|772|130472|81%|
 |2017 - 2021|434|900|144696|90%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|6%|Yes||
@@ -9423,50 +12615,59 @@ This species' presence in the project area is considered to be the result of a m
 |dEoO|LC|11%|Yes||
 |Bayesian|LC|11%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|129250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3076|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|359|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Melitta tricincta: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9475,7 +12676,23 @@ This species' presence in the project area is considered to be the result of a m
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/244.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9489,7 +12706,7 @@ This species' presence in the project area is considered to be the result of a m
 |2007 - 2011|68|180|58202|55%|
 |2012 - 2016|100|264|85138|80%|
 |2017 - 2021|157|364|78963|75%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|57%|Yes||
@@ -9497,50 +12714,59 @@ This species' presence in the project area is considered to be the result of a m
 |dEoO|LC|-7%|Yes||
 |Bayesian|LC|8%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding with warming climate|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|92550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1384|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|165|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Melitta leporina: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9549,7 +12775,23 @@ This species' presence in the project area is considered to be the result of a m
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/245.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9563,7 +12805,7 @@ This species' presence in the project area is considered to be the result of a m
 |2007 - 2011|152|288|117074|64%|
 |2012 - 2016|112|256|126642|70%|
 |2017 - 2021|283|584|125911|69%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|153%|Yes||
@@ -9571,50 +12813,59 @@ This species' presence in the project area is considered to be the result of a m
 |dEoO|LC|-1%|Yes||
 |Bayesian|LC|14%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|155500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1728|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|244|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Melitta haemorrhoidalis: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9623,7 +12874,23 @@ This species' presence in the project area is considered to be the result of a m
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/246.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9637,7 +12904,7 @@ This species' presence in the project area is considered to be the result of a m
 |2007 - 2011|47|136|84752|52%|
 |2012 - 2016|70|124|85369|53%|
 |2017 - 2021|91|232|114109|70%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|30%|Yes||
@@ -9645,50 +12912,59 @@ This species' presence in the project area is considered to be the result of a m
 |dEoO|LC|34%|Yes||
 |Bayesian|LC|8%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|150350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|864|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|149|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Melitta dimidiata: iso. Amiet et al: 2007
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 Found only in Salisbury Plain military ranges, associated only with the wild variant of the host plant. According to field experience, the cultivar does not suit this taxon. Taxon is also NT in the European Red List.
 ### Quantified Attributes
 |Attribute|Result|
@@ -9697,7 +12973,23 @@ Found only in Salisbury Plain military ranges, associated only with the wild var
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/247.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9711,7 +13003,7 @@ Found only in Salisbury Plain military ranges, associated only with the wild var
 |2007 - 2011|9|20|9780|88%|
 |2012 - 2016|10|8|7594|68%|
 |2017 - 2021|24|36|10294|92%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|140%|Yes||
@@ -9719,50 +13011,59 @@ Found only in Salisbury Plain military ranges, associated only with the wild var
 |dEoO|LC|36%|Yes||
 |Bayesian|LC|0%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|1050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|96|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|8|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Megachile maritima: iso. Perkins: 1925
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9771,7 +13072,23 @@ Found only in Salisbury Plain military ranges, associated only with the wild var
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/248.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9785,7 +13102,7 @@ Found only in Salisbury Plain military ranges, associated only with the wild var
 |2007 - 2011|143|352|135069|67%|
 |2012 - 2016|119|356|148339|74%|
 |2017 - 2021|141|408|156871|78%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|18%|Yes||
@@ -9793,47 +13110,56 @@ Found only in Salisbury Plain military ranges, associated only with the wild var
 |dEoO|LC|6%|Yes||
 |Bayesian|LC|12%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|214800|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1596|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|221|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Megachile circumcincta: iso. Perkins: 1925
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - A2 b,c
 
-## Justification
+## Red List Justification
 Observed far less frequently during surveys, notably in VC 59. Has not been reliably observed in the south of England. Southern records in the BWARS database require active checking to be certain, which involves needing to re-check physical specimens. Many records do not conform to known autecological information, which is suspected to be the result of difficulty in identification rather than a shift in knowledge. Many Red List assessment methods were declared as unusable, due to the uncertainty in the data.
 
  Overall, suspected >80% decline in observation in south eastern England.
@@ -9844,7 +13170,23 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/249.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9858,7 +13200,7 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |2007 - 2011|38|116|120217|51%|
 |2012 - 2016|36|84|65617|28%|
 |2017 - 2021|24|56|66445|28%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-33%|No|Insufficient data|
@@ -9866,50 +13208,59 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |dEoO|LC|1%|No|Insufficient data|
 |Bayesian|LC|10%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|VU|Observed far less frequently during surveys, notably in VC 59. Has not been reliably observed in the south of England. Southern data points in the BWARS database require active checking to be certain. Overall, suspected >80% decline in observation in south eastern England.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|264450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|496|No|Significant errors suspected in recorded data have distorted this metric past the point where it can be used.|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|89|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Megachile versicolor: iso. Perkins: 1925
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9918,7 +13269,23 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/250.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -9932,7 +13299,7 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |2007 - 2011|236|604|184437|68%|
 |2012 - 2016|191|652|221496|81%|
 |2017 - 2021|208|648|227895|84%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|9%|Yes||
@@ -9940,50 +13307,59 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |dEoO|LC|3%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|238350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3400|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|491|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Megachile ligniseca: iso. Perkins: 1925
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -9992,7 +13368,23 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/251.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10006,7 +13398,7 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |2007 - 2011|231|612|125715|66%|
 |2012 - 2016|322|756|164764|86%|
 |2017 - 2021|504|944|172185|90%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|57%|Yes||
@@ -10014,50 +13406,59 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|17%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|182500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3192|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|428|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Megachile centuncularis: iso. Perkins: 1925
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10066,7 +13467,23 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/253.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10080,7 +13497,7 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |2007 - 2011|314|804|235458|73%|
 |2012 - 2016|425|948|257792|80%|
 |2017 - 2021|530|972|259941|81%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|25%|Yes||
@@ -10088,50 +13505,59 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |dEoO|LC|1%|Yes||
 |Bayesian|LC|40%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|325450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3736|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|570|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Megachile leachella: iso. Scheuchl: 2006
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10140,7 +13566,23 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/254.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10154,7 +13596,7 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |2007 - 2011|196|372|116908|72%|
 |2012 - 2016|221|412|128961|80%|
 |2017 - 2021|325|660|146953|91%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|47%|Yes||
@@ -10162,50 +13604,59 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |dEoO|LC|14%|Yes||
 |Bayesian|LC|7%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|163500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1452|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|163|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Megachile willughbiella: iso. Perkins: 1925
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10214,7 +13665,23 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/255.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10228,7 +13695,7 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |2007 - 2011|410|1060|254251|75%|
 |2012 - 2016|440|1060|237529|70%|
 |2017 - 2021|432|1008|278128|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-2%|Yes||
@@ -10236,46 +13703,55 @@ Observed far less frequently during surveys, notably in VC 59. Has not been reli
 |dEoO|LC|17%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|333650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|5028|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Nomada bifasciata: iso. Amiet et al: 2007
-## Provisional status: NA
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|691|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
+# Nomada bifasciata: iso. Amiet et al: 2007
+
+## Provisional Red List status: NA
+
+## Red List Justification
 Taxon has colonised the project area within the last 5 years. There is as yet insufficient data to establish any trajectory or specific threats to the taxon.
 ### Quantified Attributes
 |Attribute|Result|
@@ -10284,7 +13760,23 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/309.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10298,7 +13790,7 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|16|28|12268|100%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|||
@@ -10306,49 +13798,58 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |dEoO|LC|?%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|1300|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|28|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NA|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|5|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Nomada facilis: iso. Notton & Norman: 2017
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10357,7 +13858,23 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/310.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10371,7 +13888,7 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|13|32|35618|100%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Nomenclatural split|
@@ -10379,47 +13896,56 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |dEoO|LC|?%|No|Nomenclatural split|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Nomenclatural split with no time to obtain data yet|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|17000|No|Nomenclatural split|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|32|No|Nomenclatural split|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|There is not enough data which has reached a reliable point to arrive at any statistically-based assessment.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|8|
+|Calculated|NR|
+|Final|ID|
+|Moderation support||
+
+
+
 # Nomada integra: iso. Notton & Norman: 2017
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10428,7 +13954,23 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/311.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10442,7 +13984,7 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |2007 - 2011|2|8|6694|10%|
 |2012 - 2016|2|8|8753|13%|
 |2017 - 2021|13|40|47430|74%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|550%|No|Nomenclatural split|
@@ -10450,47 +13992,56 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |dEoO|LC|442%|No|Nomenclatural split|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|61700|No|Nomenclatural split|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|68|No|Nomenclatural split|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Re-assessed|
 |**Reviewed Status**|DD|
 |**Justification**|There is not enough data which has reached a reliable point to arrive at any statistically-based assessment. Re-assessed using Expert Inference|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|15|
+|Calculated|NR|
+|Final|ID|
+|Moderation support||
+
+
+
 # Nomada fulvicornis: iso. Falk: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10499,7 +14050,23 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/314.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10513,7 +14080,7 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |2007 - 2011|14|48|48840|43%|
 |2012 - 2016|7|24|38812|34%|
 |2017 - 2021|52|156|102823|91%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|643%|No|Nomenclatural split|
@@ -10521,46 +14088,55 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |dEoO|LC|165%|No|Nomenclatural split|
 |Bayesian|LC|4%|No|Nomenclatural split|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|94700|No|Nomenclatural split|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|244|No|Nomenclatural split|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Re-assessed|
 |**Reviewed Status**|LC|
 |**Justification**|Separation needs to be definite, not inferred, to meet standards. Taxon can however be assessed under Expert Inference (A2).|
----
- ---
- <br><br>
- 
-# Nomada alboguttata: iso. Sann et al: 2010
-## Provisional status: NA
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|51|
+|Calculated|NS|
+|Final|ID|
+|Moderation support||
+
+
+
+# Nomada alboguttata: iso. Sann et al: 2010
+
+## Provisional Red List status: NA
+
+## Red List Justification
 Taxon has colonised the project area within the last 5 years. There is as yet insufficient data to establish any trajectory or specific threats to the taxon.
 ### Quantified Attributes
 |Attribute|Result|
@@ -10569,7 +14145,23 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/316.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10583,7 +14175,7 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|5|16|17696|100%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|||
@@ -10591,51 +14183,60 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |dEoO|LC|?%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|3600|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|16|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NA|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|4|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Nomada zonata: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10644,7 +14245,23 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/317.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10658,7 +14275,7 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|3|4|6694|7%|
 |2017 - 2021|205|448|85950|100%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|6733%|Yes||
@@ -10666,50 +14283,59 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |dEoO|LC|1184%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Spreading rapidly|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|55250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|452|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|80|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Nomada striata: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10718,7 +14344,23 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/322.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10732,7 +14374,7 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |2007 - 2011|115|364|166589|65%|
 |2012 - 2016|60|156|128295|50%|
 |2017 - 2021|75|240|144705|56%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|25%|Yes||
@@ -10740,50 +14382,59 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |dEoO|LC|13%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Sporadically found.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|260900|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1360|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|263|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada signata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10792,7 +14443,23 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/323.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10806,7 +14473,7 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |2007 - 2011|49|116|60726|53%|
 |2012 - 2016|16|56|67644|59%|
 |2017 - 2021|33|104|72055|63%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|106%|Yes||
@@ -10814,50 +14481,59 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |dEoO|LC|7%|Yes||
 |Bayesian|LC|6%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|101850|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|360|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|64|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Nomada sheppardana: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -10866,7 +14542,23 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/324.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10880,7 +14572,7 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |2007 - 2011|36|108|77004|59%|
 |2012 - 2016|24|76|65958|50%|
 |2017 - 2021|82|192|86722|66%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|242%|Yes||
@@ -10888,44 +14580,53 @@ Taxon has colonised the project area within the last 5 years. There is as yet in
 |dEoO|LC|31%|Yes||
 |Bayesian|LC|7%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Difficult to ID.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|144050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|756|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|132|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada sexfasciata: iso. Perkins: 1919
-## Provisional status: CR
+
+## Provisional Red List status: CR
 - B1 a,b, i
 ii
 iii
@@ -10935,7 +14636,7 @@ ii
 iii
 iv
 
-## Justification
+## Red List Justification
 This parasitic taxon is currently assumed to be isolated due to a combination of host availability fragmentation, and the small size of the only known parasitised colony. The colony is unable to reach a size where random chance reaches a point where dispersal results in the finding a new host colony, which is itself a very sparse resource.
 
 The main part of this taxon's available host population is close to sea level. Increased wave action and sea level rise will degrade this area. The host has, in the past, moved outside of this area, but not frequently.
@@ -10946,7 +14647,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/325.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -10960,7 +14677,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|2|4|6694|100%|
 |2017 - 2021|1|4|6694|100%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-50%|No|Insufficient data|
@@ -10968,50 +14685,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|0%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Population is isolated from any other population of its host. The host is expanding, but it is not obvious that the host will manage to reconnect to the parasite.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Main part of host population is close to sea level. Increased wave action and sea level rise will degrade this. Host has, in the past, moved outside of this area, but not frequently. Population of Nomada is potentially entirely isolated from other populations of the host.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=1|
 |Subcriteria|i, ii, iii, iv|
 |Support|Main part of host population is close to sea level. Increased wave action and sea level rise will degrade this. Host has, in the past, moved outside of this area, but not frequently. Population of Nomada is potentially entirely isolated from other populations of the host.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|CR|100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|CR|8|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|VU|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|CR|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Nomada rufipes: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11020,7 +14746,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/326.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11034,7 +14776,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|196|556|208443|70%|
 |2012 - 2016|174|456|193033|65%|
 |2017 - 2021|213|504|186804|63%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|22%|Yes||
@@ -11042,50 +14784,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|-3%|Yes||
 |Bayesian|LC|13%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Has demonstrated ability to swap hosts.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|273150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2828|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|344|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada ruficornis: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11094,7 +14845,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/327.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11108,7 +14875,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|358|1028|237916|76%|
 |2012 - 2016|387|1044|229202|73%|
 |2017 - 2021|410|1116|237908|76%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|6%|Yes||
@@ -11116,49 +14883,58 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|4%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Common|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|320150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4896|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|703|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada roberjeotiana: iso. Amiet et al: 2007
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11167,7 +14943,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/328.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11181,7 +14973,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|5|16|26777|45%|
 |2012 - 2016|18|40|29532|50%|
 |2017 - 2021|14|16|17304|29%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-22%|No|Insufficient data|
@@ -11189,49 +14981,58 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|VU|-41%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Localised and very under-recorded. No threats known, but efforts hampered by low detection of taxon.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|118000|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|68|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|13|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Nomada obtusifrons: iso. Perkins: 1919
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11240,7 +15041,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/330.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11254,7 +15071,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|8|28|30978|23%|
 |2012 - 2016|8|28|34793|26%|
 |2017 - 2021|11|40|43276|33%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|38%|No|Insufficient data|
@@ -11262,50 +15079,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|24%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Scarcity of data prevents assessment|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|221850|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|156|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|36|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Nomada marshamella: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11314,7 +15140,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/331.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11328,7 +15170,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|453|1252|268174|74%|
 |2012 - 2016|374|1076|267211|74%|
 |2017 - 2021|654|1604|306070|84%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|75%|Yes||
@@ -11336,50 +15178,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|15%|Yes||
 |Bayesian|LC|68%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Has a large range of hosts|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|363600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|6608|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|899|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada leucophthalma: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11388,7 +15239,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/332.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11402,7 +15269,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|248|724|203704|70%|
 |2012 - 2016|292|784|213881|73%|
 |2017 - 2021|307|784|235638|81%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|5%|Yes||
@@ -11410,50 +15277,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|10%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|320800|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2848|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|425|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada lathburiana: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11462,7 +15338,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/333.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11476,7 +15368,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|226|572|163248|71%|
 |2012 - 2016|226|588|179174|78%|
 |2017 - 2021|310|832|202883|89%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|37%|Yes||
@@ -11484,48 +15376,57 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|13%|Yes||
 |Bayesian|LC|35%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Generally increased|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|180550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2456|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|417|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada hirtipes: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11534,7 +15435,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/334.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11548,7 +15465,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|10|28|45246|38%|
 |2012 - 2016|23|76|69789|58%|
 |2017 - 2021|50|136|102342|86%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|117%|No|Insufficient data|
@@ -11556,48 +15473,57 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|47%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Host is increasing, Nomada is likely also increasing|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|87800|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|420|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|85|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Nomada guttulata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11606,7 +15532,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/335.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11620,7 +15562,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|14|20|27046|27%|
 |2012 - 2016|6|20|30156|30%|
 |2017 - 2021|14|48|58327|59%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|133%|No|Insufficient data|
@@ -11628,50 +15570,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|93%||Insufficient data|
 |Bayesian|LC|3%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Host is scarce, but increasing. Scattered population with wide spread.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|82050|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|136|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|32|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Nomada goodeniana: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11680,7 +15631,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/336.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11694,7 +15661,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|800|1964|242551|80%|
 |2012 - 2016|778|1860|234005|77%|
 |2017 - 2021|1116|2236|246123|81%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|43%|Yes||
@@ -11702,50 +15669,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|50%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|329650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|8676|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|950|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada fucata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11754,7 +15730,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/337.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11768,7 +15760,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|337|816|147381|74%|
 |2012 - 2016|241|616|153443|77%|
 |2017 - 2021|629|1216|181481|91%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|161%|Yes||
@@ -11776,50 +15768,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|18%|Yes||
 |Bayesian|LC|18%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding in line with host|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|161100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4184|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|460|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada flavopicta: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11828,7 +15829,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/338.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11842,7 +15859,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|68|168|99753|57%|
 |2012 - 2016|44|124|84868|48%|
 |2017 - 2021|156|408|120211|69%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|255%|Yes||
@@ -11850,50 +15867,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|42%|Yes||
 |Bayesian|LC|7%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding northwards|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|182000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1236|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|191|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada flavoguttata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11902,7 +15928,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/339.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11916,7 +15958,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|519|1372|248729|74%|
 |2012 - 2016|482|1272|229451|69%|
 |2017 - 2021|807|1636|263200|79%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|67%|Yes||
@@ -11924,50 +15966,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|15%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Potentially low sampling.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|334050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|6680|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|771|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada flava: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -11976,7 +16027,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/340.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -11990,7 +16057,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|581|1628|209208|82%|
 |2012 - 2016|659|1784|219660|86%|
 |2017 - 2021|907|2044|231293|91%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|38%|Yes||
@@ -11998,51 +16065,60 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|49%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Expanding northwards|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|219300|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9260|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|953|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada ferruginata: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12051,7 +16127,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/341.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12065,7 +16157,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|30|104|51336|46%|
 |2012 - 2016|47|132|63786|57%|
 |2017 - 2021|65|176|94944|86%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|38%|Yes||
@@ -12073,50 +16165,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|49%|Yes||
 |Bayesian|LC|7%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Sporadically found. Appears to be thermally restricted.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Host is widespread|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|86150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|468|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|86|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Nomada fabriciana: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12125,7 +16226,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/342.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12139,7 +16256,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|497|1256|224871|78%|
 |2012 - 2016|589|1500|219795|76%|
 |2017 - 2021|727|1624|244707|85%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|23%|Yes||
@@ -12147,48 +16264,57 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|11%|Yes||
 |Bayesian|LC|45%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Everywhere. Wide range of hosts.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|290950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|6548|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|794|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Nomada conjungens: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12197,7 +16323,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/344.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12211,7 +16353,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|6|16|22030|27%|
 |2012 - 2016|1|4|6694|8%|
 |2017 - 2021|17|44|42837|52%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|1600%|No|Insufficient data|
@@ -12219,48 +16361,57 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|540%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Following the host expansion|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|71600|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|100|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|24|
+|Calculated|NS|
+|Final|ID|
+|Moderation support||
+
+
+
 # Nomada baccata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12269,7 +16420,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/345.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12283,7 +16450,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|39|96|19173|52%|
 |2012 - 2016|25|52|24169|66%|
 |2017 - 2021|16|40|29953|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-36%|No|Insufficient data|
@@ -12291,50 +16458,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|24%|No|Insufficient data|
 |Bayesian|LC|1%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Record numbers change a lot, but BU%A remains consistent. This suggests that there is either no change, or a decline in place. Host is Least Concern.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|Fragmented|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|24600|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|352|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|26|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Nomada armata: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12343,7 +16519,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/346.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12357,7 +16549,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|10|4|6694|23%|
 |2012 - 2016|10|16|17913|63%|
 |2017 - 2021|16|28|20435|72%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|60%|No|Insufficient data|
@@ -12365,50 +16557,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|14%|No|Insufficient data|
 |Bayesian|LC|0%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Host has become more common and populations appear to be joining up. No evidence of any decline.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|8950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|84|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|NT|
 |**Justification**|Moderated to NT based on expert consensus|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|13|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Nomada argentata: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12417,7 +16618,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/347.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12431,7 +16648,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|7|12|19758|37%|
 |2012 - 2016|11|32|28859|54%|
 |2017 - 2021|19|56|43128|80%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|73%|No|Insufficient data|
@@ -12439,50 +16656,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|49%|No|Insufficient data|
 |Bayesian|LC|1%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Very low detectability, even with focused survey effort.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|39700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|128|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|No provided threats are sufficient to enable a higher threat under the Red List criteria|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|20|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Chelostoma florisomne: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12491,7 +16717,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/348.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12505,7 +16747,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|124|376|121841|65%|
 |2012 - 2016|121|312|114237|61%|
 |2017 - 2021|125|312|123255|66%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|3%|Yes||
@@ -12513,50 +16755,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|8%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|156250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1852|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|283|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Chelostoma campanularum: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12565,7 +16816,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/349.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12579,7 +16846,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|130|336|103534|78%|
 |2012 - 2016|134|308|99351|75%|
 |2017 - 2021|255|468|118729|90%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|90%|Yes||
@@ -12587,50 +16854,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|20%|Yes||
 |Bayesian|LC|12%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|95050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1928|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|281|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes spinulosus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12639,7 +16915,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/351.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12653,7 +16945,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|11|32|14710|20%|
 |2012 - 2016|4|12|20082|28%|
 |2017 - 2021|10|28|32724|46%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|150%|No|Insufficient data|
@@ -12661,50 +16953,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|63%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|68100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|152|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|31|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Sphecodes scabricollis: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12713,7 +17014,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/352.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12727,7 +17044,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|4|12|12763|17%|
 |2012 - 2016|22|36|28210|38%|
 |2017 - 2021|31|100|54936|74%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|41%|Yes||
@@ -12735,50 +17052,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|95%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Increasing with host|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|42450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|296|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|52|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Sphecodes rubicundus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12787,7 +17113,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/353.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12801,7 +17143,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|43|120|73485|59%|
 |2012 - 2016|10|40|38474|31%|
 |2017 - 2021|49|132|76834|62%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|390%|Yes||
@@ -12809,50 +17151,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|100%|Yes||
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Host is expanding|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|86200|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|604|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|109|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes reticulatus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12861,7 +17212,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/354.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12875,7 +17242,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|57|180|74239|46%|
 |2012 - 2016|79|220|85947|54%|
 |2017 - 2021|105|324|101961|64%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|33%|Yes||
@@ -12883,50 +17250,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|19%|Yes||
 |Bayesian|LC|8%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Increasing with host|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|129200|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1360|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|186|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes puncticeps: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12935,7 +17311,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/355.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -12949,7 +17341,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|122|356|130231|61%|
 |2012 - 2016|130|360|135951|63%|
 |2017 - 2021|150|432|137610|64%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|15%|Yes||
@@ -12957,50 +17349,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|1%|Yes||
 |Bayesian|LC|12%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Exact host(s) unknown|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|179450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2452|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|338|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes pellucidus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13009,7 +17410,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/356.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13023,7 +17440,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|250|524|175237|71%|
 |2012 - 2016|241|584|173722|71%|
 |2017 - 2021|220|540|171296|70%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-9%|Yes||
@@ -13031,50 +17448,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|-1%|Yes||
 |Bayesian|LC|16%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|232650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2412|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|299|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes niger: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13083,7 +17509,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/357.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13097,7 +17539,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|73|216|97890|63%|
 |2012 - 2016|80|248|110499|71%|
 |2017 - 2021|134|368|127836|83%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|68%|Yes||
@@ -13105,50 +17547,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|16%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|110250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1436|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|230|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes monilicornis: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13157,7 +17608,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/358.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13171,7 +17638,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|371|1008|242679|74%|
 |2012 - 2016|340|1012|231989|70%|
 |2017 - 2021|659|1596|247760|75%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|94%|Yes||
@@ -13179,50 +17646,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|7%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|313600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|5828|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|726|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes miniatus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13231,7 +17707,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/359.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13245,7 +17737,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|15|52|37201|52%|
 |2012 - 2016|23|80|50417|71%|
 |2017 - 2021|33|104|42520|60%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|43%|No|Insufficient data|
@@ -13253,49 +17745,58 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|-16%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Uncommon to find, hard to identify. Most records can only be sourced from males.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|40600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|456|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|82|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Sphecodes longulus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13304,7 +17805,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/360.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13318,7 +17835,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|38|120|57295|67%|
 |2012 - 2016|32|100|46987|55%|
 |2017 - 2021|27|84|40704|47%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-16%|No|Insufficient data|
@@ -13326,50 +17843,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|-13%|No|Insufficient data|
 |Bayesian|LC|7%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|78950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|540|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|82|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Sphecodes hyalinatus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13378,7 +17904,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/361.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13392,7 +17934,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|77|236|141882|56%|
 |2012 - 2016|66|184|121260|48%|
 |2017 - 2021|110|256|129467|51%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|67%|Yes||
@@ -13400,50 +17942,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|7%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|253650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1296|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|208|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes gibbus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13452,7 +18003,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/362.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13466,7 +18033,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|89|252|173649|61%|
 |2012 - 2016|104|324|185269|65%|
 |2017 - 2021|193|564|212209|74%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|86%|Yes||
@@ -13474,50 +18041,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|15%|Yes||
 |Bayesian|LC|30%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Potential for decline in southern England, becoming more common in northern England.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|267450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2488|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|400|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes geoffrellus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13526,7 +18102,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/363.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13540,7 +18132,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|307|892|255576|72%|
 |2012 - 2016|334|920|236868|67%|
 |2017 - 2021|376|1000|248177|70%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|13%|Yes||
@@ -13548,47 +18140,56 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|60%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|362850|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|5068|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|668|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes ferruginatus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13597,7 +18198,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/364.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13611,7 +18228,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|14|48|32442|23%|
 |2012 - 2016|10|36|49271|35%|
 |2017 - 2021|17|60|64180|46%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|70%|No|Insufficient data|
@@ -13619,50 +18236,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|30%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Potential ID problems, even with modern keys for females, though enough data is reckoned to be reliable to arrive at a status. May be more frequent in the midlands than the south. Noticeably scarce, though occupies a large range.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|139400|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|404|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Re-assessed|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|76|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Sphecodes ephippius: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13671,7 +18297,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/365.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13685,7 +18327,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|509|1328|187447|74%|
 |2012 - 2016|442|1164|185355|74%|
 |2017 - 2021|652|1484|219691|87%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|48%|Yes||
@@ -13693,50 +18335,59 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|19%|Yes||
 |Bayesian|LC|39%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|219850|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7032|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|749|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Sphecodes crassus: iso. Amiet et al: 1999
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13745,7 +18396,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/366.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13759,7 +18426,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|146|400|136492|57%|
 |2012 - 2016|109|312|124140|52%|
 |2017 - 2021|244|672|168172|70%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|124%|Yes||
@@ -13767,46 +18434,55 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|35%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|249850|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2784|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Heriades rubicola: iso. Else & Edwards: 2018
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|381|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
+# Heriades rubicola: iso. Else & Edwards: 2018
+
+## Provisional Red List status: NE
+
+## Red List Justification
 A synanthropic colonist
 ### Quantified Attributes
 |Attribute|Result|
@@ -13815,7 +18491,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/367.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13829,7 +18521,7 @@ A synanthropic colonist
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|1|4|6694|50%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|CE|-100%|||
@@ -13837,50 +18529,59 @@ A synanthropic colonist
 |dEoO|CE|-100%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|2500|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|8|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|2|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+
 # Heriades truncorum: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13889,7 +18590,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/368.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13903,7 +18620,7 @@ A synanthropic colonist
 |2007 - 2011|81|160|43163|47%|
 |2012 - 2016|121|216|49618|55%|
 |2017 - 2021|306|552|83017|92%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|153%|Yes||
@@ -13911,48 +18628,57 @@ A synanthropic colonist
 |dEoO|LC|67%|Yes||
 |Bayesian|LC|6%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|70300|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1064|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|143|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Stelis odontopyga: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13961,7 +18687,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/380.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -13975,7 +18717,7 @@ A synanthropic colonist
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|18|48|23503|100%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Insufficient data|
@@ -13983,50 +18725,59 @@ A synanthropic colonist
 |dEoO|LC|?%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Recent colonist and expanding|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|10150|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|48|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|8|
+|Calculated|NR|
+|Final|ID|
+|Moderation support||
+
+
+
 # Stelis punctulatissima: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14035,7 +18786,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/381.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14049,7 +18816,7 @@ A synanthropic colonist
 |2007 - 2011|24|76|67653|36%|
 |2012 - 2016|23|80|81128|43%|
 |2017 - 2021|14|44|55274|29%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-39%|No|Insufficient data|
@@ -14057,50 +18824,59 @@ A synanthropic colonist
 |dEoO|VU|-32%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Sporadically found, low density. Host is expanding.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|181450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|428|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|91|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Stelis phaeoptera: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14109,7 +18885,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/382.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14123,7 +18915,7 @@ A synanthropic colonist
 |2007 - 2011|20|32|31662|27%|
 |2012 - 2016|29|60|40876|35%|
 |2017 - 2021|68|100|81477|71%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|134%|Yes||
@@ -14131,50 +18923,59 @@ A synanthropic colonist
 |dEoO|LC|99%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|112250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|216|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|49|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Stelis ornatula: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14183,7 +18984,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/383.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14197,7 +19014,7 @@ A synanthropic colonist
 |2007 - 2011|15|52|50473|39%|
 |2012 - 2016|18|68|67143|52%|
 |2017 - 2021|23|76|56777|44%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|28%|No|Insufficient data|
@@ -14205,50 +19022,59 @@ A synanthropic colonist
 |dEoO|LC|-15%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|106700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|340|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|72|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Stelis breviuscula: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14257,7 +19083,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/384.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14271,7 +19113,7 @@ A synanthropic colonist
 |2007 - 2011|23|36|22117|49%|
 |2012 - 2016|23|48|27016|60%|
 |2017 - 2021|41|92|40492|90%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|78%|Yes||
@@ -14279,50 +19121,59 @@ A synanthropic colonist
 |dEoO|LC|50%|Yes||
 |Bayesian|LC|3%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|19700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|296|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|52|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Panurgus calcaratus: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14331,7 +19182,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/385.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14345,7 +19212,7 @@ A synanthropic colonist
 |2007 - 2011|123|312|75773|60%|
 |2012 - 2016|84|204|63352|50%|
 |2017 - 2021|70|200|78782|62%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-17%|Yes||
@@ -14353,50 +19220,59 @@ A synanthropic colonist
 |dEoO|LC|24%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|113000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1272|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|128|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Panurgus banksianus: iso. Amiet et al: 2010
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14405,7 +19281,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/386.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14419,7 +19311,7 @@ A synanthropic colonist
 |2007 - 2011|80|220|109571|79%|
 |2012 - 2016|82|232|107508|77%|
 |2017 - 2021|93|248|101152|73%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|13%|Yes||
@@ -14427,50 +19319,59 @@ A synanthropic colonist
 |dEoO|LC|-6%|Yes||
 |Bayesian|LC|8%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Suggestion that the taxon has declined in Surrey/Sussex. Extent of decline and magnitude are unknown.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|129950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1136|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|146|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Macropis europaea: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14479,7 +19380,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/426.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14493,7 +19410,7 @@ A synanthropic colonist
 |2007 - 2011|72|184|63929|69%|
 |2012 - 2016|69|148|63569|68%|
 |2017 - 2021|99|220|82694|89%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|43%|Yes||
@@ -14501,50 +19418,59 @@ A synanthropic colonist
 |dEoO|LC|30%|Yes||
 |Bayesian|LC|5%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|56450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|744|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|107|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Epeolus variegatus: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14553,7 +19479,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/453.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14567,7 +19509,7 @@ A synanthropic colonist
 |2007 - 2011|138|392|165705|76%|
 |2012 - 2016|141|432|154702|71%|
 |2017 - 2021|170|484|167292|77%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|21%|Yes||
@@ -14575,50 +19517,59 @@ A synanthropic colonist
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|15%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|176050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2088|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|274|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Epeolus cruciger: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14627,7 +19578,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/454.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14641,7 +19608,7 @@ A synanthropic colonist
 |2007 - 2011|122|356|148268|59%|
 |2012 - 2016|142|368|173087|68%|
 |2017 - 2021|149|400|166036|66%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|5%|Yes||
@@ -14649,46 +19616,55 @@ A synanthropic colonist
 |dEoO|LC|-4%|Yes||
 |Bayesian|LC|12%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|241950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1740|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Xylocopa virginica: iso. Falk: 2015
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|206|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
+# Xylocopa virginica: iso. Falk: 2015
+
+## Provisional Red List status: NE
+
+## Red List Justification
 A synanthropic colonist
 ### Quantified Attributes
 |Attribute|Result|
@@ -14697,7 +19673,22 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/499.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14711,7 +19702,7 @@ A synanthropic colonist
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|||
@@ -14719,48 +19710,57 @@ A synanthropic colonist
 |dEoO|LC|?%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|100|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1|
+|Calculated|NR|
+|Final||
+|Moderation support||
+
+
+
 # Xylocopa violacea: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14769,7 +19769,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/500.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14783,7 +19799,7 @@ A synanthropic colonist
 |2007 - 2011|5|20|23750|43%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|7|20|24766|45%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Insufficient data|
@@ -14791,49 +19807,58 @@ A synanthropic colonist
 |dEoO|LC|?%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Evidence of successful nesting in England, as well as synanthropic introduction outside of the south eastern coast. An edge of range taxon verging on firm colonisation.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|50050|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|96|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|24|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Bombus cryptarum: iso. Murray et al: 2008
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14842,7 +19867,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/529.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14856,7 +19897,7 @@ A synanthropic colonist
 |2007 - 2011|28|112|123179|95%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|11|36|16797|13%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Low data|
@@ -14864,49 +19905,58 @@ A synanthropic colonist
 |dEoO|LC|?%|No|Low data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Subject of a fairly recent split, which so far can only be reliably determined across the range by genetic or chemical analysis.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|221400|No|Low data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|148|No|Low data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|Preliminary research suggests that this species is still very difficult to separate from the B. lucorum/cryptarum/magnus complex. We still lack enough data to be able to arrive at a substantiated status.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|34|
+|Calculated|NS|
+|Final|ID|
+|Moderation support|Subject of a fairly recent split, which so far can only be reliably determined across the range by genetic or chemical analysis.|
+
+
+
 # Bombus magnus: iso. Murray et al: 2008
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14915,7 +19965,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/530.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -14929,7 +19995,7 @@ A synanthropic colonist
 |2007 - 2011|15|60|83710|88%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|7|28|15327|16%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Low data|
@@ -14937,49 +20003,58 @@ A synanthropic colonist
 |dEoO|LC|?%|No|Low data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Subject of a fairly recent split, which so far can only be reliably determined across the range by genetic or chemical analysis.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|142150|No|Low data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|88|No|Low data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|Preliminary research suggests that this species is still very difficult to separate from the B. lucorum/cryptarum/magnus complex. We still lack enough data to be able to arrive at a substantiated status.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|20|
+|Calculated|NS|
+|Final|ID|
+|Moderation support|Subject of a fairly recent split, which so far can only be reliably determined across the range by genetic or chemical analysis.|
+
+
+
 # Bombus lucorum agg: iso. Murray et al: 2008
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -14988,7 +20063,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/531.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15002,7 +20093,7 @@ A synanthropic colonist
 |2007 - 2011|3694|6544|389084|84%|
 |2012 - 2016|3638|6472|408424|89%|
 |2017 - 2021|2556|4880|393256|85%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-30%|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
@@ -15010,49 +20101,58 @@ A synanthropic colonist
 |dEoO|LC|-4%|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
 |Bayesian|DD|*NaN*%|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
 |Bayesian (Expert interpretation)|DD|*N/A*|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Opinions suggest a potential decline in the southern ranges of this taxon's distribution. However, overall certainty is low due to difficulty of identification of this complex, plus the pollution of data with records of B. terrestris: iso. Cameron et al: 2007|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|549000|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|28428|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|2186|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus lucorum: iso. Murray et al: 2008
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -15061,7 +20161,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/532.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15075,7 +20191,7 @@ A synanthropic colonist
 |2007 - 2011|45|164|166554|81%|
 |2012 - 2016|14|44|33471|16%|
 |2017 - 2021|37|108|60676|29%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|164%|No|Low data|
@@ -15083,47 +20199,56 @@ A synanthropic colonist
 |dEoO|LC|81%|No|Low data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Subject of a fairly recent split, which so far can only be reliably determined across the range by genetic or chemical analysis.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|276150|No|Low data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|324|No|Low data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|Preliminary research suggests that this species is still very difficult to separate from the B. lucorum/cryptarum/magnus complex. We still lack enough data to be able to arrive at a substantiated status.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|67|
+|Calculated|NS|
+|Final|ID|
+|Moderation support|Subject of a fairly recent split, which so far can only be reliably determined across the range by genetic or chemical analysis.|
+
+
+
 # Bombus sylvarum: iso. Cameron et al: 2007
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - B2 a,b, iii
 
-## Justification
+## Red List Justification
 Data from first half of the 10-year period is significantly skewed by a period of high recorder activity.
 
 Continuing development pressure in the Thames corridor is reducing continuity of habitat, and the taxon does not seem to do well in fragmented habitat. Development is considered to have had a overall detrimental effect.
@@ -15136,7 +20261,23 @@ Newport sites are under considerable development pressure, as are numerous other
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/533.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15150,7 +20291,7 @@ Newport sites are under considerable development pressure, as are numerous other
 |2007 - 2011|323|404|45637|66%|
 |2012 - 2016|523|388|43242|63%|
 |2017 - 2021|272|248|49931|72%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-48%|No|Data from first half significantly skewed by a period of high recorder activity|
@@ -15158,47 +20299,56 @@ Newport sites are under considerable development pressure, as are numerous other
 |dEoO|LC|15%|No|Data from first half significantly skewed by a period of high recorder activity|
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Continuing development pressure in the Thames corridor is reducing continuity of habitat, and the taxon does not seem to do well in fragmented habitat. Development is considered to have had a overall detrimental effect.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Newport sites are under considerable development pressure, as are numerous other currently occupied brown field sites. Future habitat fragmentation is anticipated.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria|iii|
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|54950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|VU|1020|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|74|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Bombus ruderarius: iso. Cameron et al: 2007
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - A2 b,c
 
-## Justification
+## Red List Justification
 There is a notable lack of data in last 5 year period which cannot be adequately explained. There is always a risk of singular recorders not providing data, stopping recording etc, leading to shortfalls in data. However, a bumblebee experiencing a ~50% decline over a 10 year period is highly unusual. Systematic recording changes could explain this, but there are other warning signs. Two recent books (Bees of Sussex & Bees of Norfolk) note a significant decline in sightings. One potential reason is the loss of edge habitat, but this has not at all been confirmed. Contributing to difficulties is that the taxon is difficult to positively identify.
 ### Quantified Attributes
 |Attribute|Result|
@@ -15207,7 +20357,23 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/534.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15221,7 +20387,7 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |2007 - 2011|133|336|102852|64%|
 |2012 - 2016|148|376|118869|74%|
 |2017 - 2021|60|172|76148|47%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-59%|No|Notable lack of data in last 5 year period seems excessively high|
@@ -15229,51 +20395,60 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |dEoO|VU|-36%|Yes||
 |Bayesian|EN|14%|No|Lack of data in final 5 year period suspected to have over-inflated decline amount|
 |Bayesian (Expert interpretation)|EN|*N/A*|No|Lack of data in final 5 year period suspected to have over-inflated decline amount|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|VU|Identification confusion observed in dataset, suspected to have inflated values. Notable potential confusion in identification by inexperienced recorders. Bees of Sussex & Bees of Norfolk note a significant decline. Potential reason is the loss of scrub/grassland edge habitat which is used for nesting. Bumblebees in general are not typically low data volume taxa, so the lack of records between 2017 and 2021 is highly unusual.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria|ii|
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|224800|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1564|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|224|
+|Calculated|NF|
+|Final|NS|
+|Moderation support|The current distribution and maps show many locations plotted which are dubious.|
+
+
+
 # Bombus pascuorum: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -15282,7 +20457,23 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/535.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15296,7 +20487,7 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |2007 - 2011|7165|9556|376327|86%|
 |2012 - 2016|8765|11996|407217|93%|
 |2017 - 2021|9510|11740|410468|93%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|8%|Yes||
@@ -15304,50 +20495,59 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |dEoO|LC|1%|Yes||
 |Bayesian|LC|90%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|450300|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|39948|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|2443|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus muscorum: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -15356,7 +20556,23 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/536.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15370,7 +20586,7 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |2007 - 2011|442|1080|259925|65%|
 |2012 - 2016|702|1120|248172|62%|
 |2017 - 2021|414|764|209235|53%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-41%|No|Data from first half significantly skewed by a period of high recorder activity|
@@ -15378,50 +20594,59 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |dEoO|LC|-16%|Yes||
 |Bayesian|LC|20%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|543200|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4860|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|NT|
 |**Justification**|Moderated on basis of feedback from reviewers|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|484|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus humilis: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -15430,7 +20655,23 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/537.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15444,7 +20685,7 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |2007 - 2011|670|952|132986|76%|
 |2012 - 2016|1153|1016|144166|82%|
 |2017 - 2021|983|1064|132996|76%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-15%|Yes||
@@ -15452,47 +20693,56 @@ There is a notable lack of data in last 5 year period which cannot be adequately
 |dEoO|LC|-8%|Yes||
 |Bayesian|LC|8%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Currently seems to be expanding into new locations|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|142600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2880|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**|Data contains no evidence of significant decline within the Red List period, despite historic concerns.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|241|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus subterraneus: iso. Cameron et al: 2007
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 b
 
-## Justification
+## Red List Justification
 Previously declared regionally extinct, a reintroduction project was subsequently attempted. This project eventually released a number of queens into Dungeoness, but there is no evidence yet of success.
 ### Quantified Attributes
 |Attribute|Result|
@@ -15501,7 +20751,23 @@ Previously declared regionally extinct, a reintroduction project was subsequentl
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/538.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15515,7 +20781,7 @@ Previously declared regionally extinct, a reintroduction project was subsequentl
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|21|16|7594|100%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|CE|-100%|No|Specific introduction project|
@@ -15523,47 +20789,56 @@ Previously declared regionally extinct, a reintroduction project was subsequentl
 |dEoO|CE|-100%|No|Specific introduction project|
 |Bayesian|DD|*NaN*%|No|Specific introduction project|
 |Bayesian (Expert interpretation)|DD|*N/A*|No||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Was subject to an attempted reintroduction that failed to take.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||No||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|200|No|Specific introduction project|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|16|No|Specific introduction project|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|RE|*N/A*|No||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|2|
+|Calculated|NR|
+|Final|EX|
+|Moderation support||
+
+
+
 # Bombus distinguendus: iso. Cameron et al: 2007
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - B2 a,b, iii
 
-## Justification
+## Red List Justification
 The majority of habitat is at current sea level. Rises to high water marks will destroy significant amounts of this habitat. If this destruction happens as part of a major event, this taxon has limited ability to adapt or recolonise at many sites.
 ### Quantified Attributes
 |Attribute|Result|
@@ -15572,7 +20847,23 @@ The majority of habitat is at current sea level. Rises to high water marks will 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|N|
+|Scotland|Y|
+|Wales|N|
+
+
+## Distribution map
+![](../map/539.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15586,7 +20877,7 @@ The majority of habitat is at current sea level. Rises to high water marks will 
 |2007 - 2011|409|736|65692|81%|
 |2012 - 2016|177|320|46715|58%|
 |2017 - 2021|132|312|52343|65%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-25%|Yes||
@@ -15594,51 +20885,60 @@ The majority of habitat is at current sea level. Rises to high water marks will 
 |dEoO|LC|12%|Yes||
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Population/distribution is stable|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Majority of habitat is at current sea level. Rises to high water marks will destroy significant amounts of this habitat.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria|iii|
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|69700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|VU|1356|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|84|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Bombus pratorum: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -15647,7 +20947,23 @@ The majority of habitat is at current sea level. Rises to high water marks will 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/541.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15661,7 +20977,7 @@ The majority of habitat is at current sea level. Rises to high water marks will 
 |2007 - 2011|3040|5120|347858|87%|
 |2012 - 2016|3390|5880|352743|88%|
 |2017 - 2021|4111|6044|361874|90%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|21%|Yes||
@@ -15669,48 +20985,57 @@ The majority of habitat is at current sea level. Rises to high water marks will 
 |dEoO|LC|3%|Yes||
 |Bayesian|LC|76%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|405550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|22308|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1794|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus monticola: iso. Cameron et al: 2007
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A3 b
 c
 
-## Justification
+## Red List Justification
 Restricted to highlands (~ >400m height). Climate change is anticipated to have a negative effect on significant amounts of habitat, with no opportunity for recovery elsewhere
 ### Quantified Attributes
 |Attribute|Result|
@@ -15719,7 +21044,23 @@ Restricted to highlands (~ >400m height). Climate change is anticipated to have 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/542.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15733,7 +21074,7 @@ Restricted to highlands (~ >400m height). Climate change is anticipated to have 
 |2007 - 2011|265|836|178121|73%|
 |2012 - 2016|265|644|149791|61%|
 |2017 - 2021|218|596|161611|66%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-18%|Yes||
@@ -15741,44 +21082,53 @@ Restricted to highlands (~ >400m height). Climate change is anticipated to have 
 |dEoO|LC|8%|Yes||
 |Bayesian|LC|16%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Restricted to highlands (~ >400m height). Climate change is anticipated to have a negative effect on significant amounts of habitat, with no opportunity for recovery elsewhere|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|273650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3152|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|387|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus jonellus: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 c
@@ -15786,7 +21136,7 @@ c
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -15795,7 +21145,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/543.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15809,7 +21175,7 @@ c
 |2007 - 2011|391|1060|258786|60%|
 |2012 - 2016|414|1192|342326|79%|
 |2017 - 2021|449|1136|339381|78%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|8%|Yes||
@@ -15817,51 +21183,60 @@ c
 |dEoO|LC|-1%|Yes||
 |Bayesian|LC|49%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|541700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|7108|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|860|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus hypnorum: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -15870,7 +21245,23 @@ c
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/544.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15884,7 +21275,7 @@ c
 |2007 - 2011|2817|5772|214179|64%|
 |2012 - 2016|4492|8824|264275|79%|
 |2017 - 2021|3273|5288|325624|98%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-27%|Yes||
@@ -15892,51 +21283,60 @@ c
 |dEoO|LC|23%|Yes||
 |Bayesian|LC|58%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|330700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|16292|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1373|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus vestalis: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -15945,7 +21345,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/545.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -15959,7 +21375,7 @@ c
 |2007 - 2011|1373|3064|204389|73%|
 |2012 - 2016|1374|3088|214840|77%|
 |2017 - 2021|1496|3100|253819|91%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|9%|Yes||
@@ -15967,51 +21383,60 @@ c
 |dEoO|LC|18%|Yes||
 |Bayesian|LC|52%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Host (Bombus terrestris: iso. Cameron et al: 2007) is incredibly widespread|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|249750|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|12772|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1132|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus sylvestris: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16020,7 +21445,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/546.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16034,7 +21475,7 @@ c
 |2007 - 2011|683|1832|261975|75%|
 |2012 - 2016|479|1424|291631|84%|
 |2017 - 2021|520|1348|291501|84%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|9%|Yes||
@@ -16042,51 +21483,60 @@ c
 |dEoO|LC|0%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Now has extra host (Bombus hypnorum: iso. Cameron et al: 2007)|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|347350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|6736|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|913|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus rupestris: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16095,7 +21545,23 @@ c
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/547.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16109,7 +21575,7 @@ c
 |2007 - 2011|398|1052|148513|62%|
 |2012 - 2016|426|1184|177691|75%|
 |2017 - 2021|360|924|194036|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-15%|Yes||
@@ -16117,47 +21583,56 @@ c
 |dEoO|LC|9%|Yes||
 |Bayesian|LC|38%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Now in Scotland|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|195350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4092|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|560|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus campestris: iso. Cameron et al: 2007
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b,c
 
-## Justification
+## Red List Justification
 Despite a utilisation of Bombus pascuorum: iso. Cameron et al: 2007 as a host, which is increasing, this taxon is not following suit. The mismatch of the distribution between potential hosts and this species requires further investigation.
 ### Quantified Attributes
 |Attribute|Result|
@@ -16166,7 +21641,23 @@ Despite a utilisation of Bombus pascuorum: iso. Cameron et al: 2007 as a host, w
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/548.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16180,7 +21671,7 @@ Despite a utilisation of Bombus pascuorum: iso. Cameron et al: 2007 as a host, w
 |2007 - 2011|212|680|220478|71%|
 |2012 - 2016|144|464|210484|68%|
 |2017 - 2021|133|420|203748|65%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-8%|Yes||
@@ -16188,47 +21679,56 @@ Despite a utilisation of Bombus pascuorum: iso. Cameron et al: 2007 as a host, w
 |dEoO|LC|-3%|Yes||
 |Bayesian|LC|34%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Despite a utilisation of Bombus pascuorum: iso. Cameron et al: 2007 as a host, which is increasing, this taxon is not following suit. The mismatch of the distribution between potential hosts and this species requires further investigation.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|322800|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3292|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**|Associated with the Thoracabombus group, most of which are declining - except B. pascuorum which is increasing. Given the decline in B. campestris, this may reflect asynchrony within host phenology which is yet to be understood. |
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|557|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus bohemicus: iso. Cameron et al: 2007
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - A2 b
 
-## Justification
+## Red List Justification
 Retreating northward, but potential confusion in identification with B. vestalis: iso. Cameron et al: 2007 which is expanding into the north. This confusion is suspected to have inflated the record numbers from the 10 year period, hiding a longer-term decline.
 
 Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Unknown host specificity within Bombus lucorum agg: iso. Murray et al: 2008, which itself may be subject to declines.
@@ -16239,7 +21739,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/549.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16253,7 +21769,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|235|588|243422|64%|
 |2012 - 2016|164|528|226542|60%|
 |2017 - 2021|156|464|224793|59%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-5%|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
@@ -16261,52 +21777,61 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|-1%|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
 |Bayesian|DD|*NaN*%|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
 |Bayesian (Expert interpretation)|LC|*N/A*|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|VU|Retreating north, but potential confusion in identification with B. vestalis: iso. Cameron et al: 2007 which is expanding into the north. This is suspected to have inflated the record numbers from the 10 year period, hiding a longer-term decline.
 
 Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Unknown host specificity within Bombus lucorum agg: iso. Murray et al: 2008, which itself may be subject to declines.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|382050|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4320|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**|Overall weighting of opinions suggests a strong decline, supporting the level of VU.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|624|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus barbutellus: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16315,7 +21840,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/550.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16329,7 +21870,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|97|308|163744|59%|
 |2012 - 2016|116|376|186710|67%|
 |2017 - 2021|53|172|132219|47%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-54%|No|Data in last 5 year period considered to be under-recorded|
@@ -16337,51 +21878,60 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|-29%|No|Data in last 5 year period considered to be under-recorded|
 |Bayesian|LC|24%|No|Data in last 5 year period considered to be under-recorded|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Difficult to separate from host B. hortorum: iso. Cameron et al: 2007. Hosts are common, yet this taxon is not expanding to match. Neither host is abundantly found, which may be restricting ability to expand.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|391300|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1544|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|286|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus lapidarius: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16390,7 +21940,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/551.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16404,7 +21970,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|5201|8264|332749|83%|
 |2012 - 2016|6885|10008|343141|85%|
 |2017 - 2021|6710|9248|358907|89%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-3%|Yes||
@@ -16412,51 +21978,60 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|70%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Encountered in almost entire project area|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|411750|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|31168|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1856|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus ruderatus: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16465,7 +22040,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/552.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16479,7 +22070,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|100|256|78101|65%|
 |2012 - 2016|260|356|83233|69%|
 |2017 - 2021|289|492|99941|83%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|11%|Yes||
@@ -16487,51 +22078,60 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|20%|Yes||
 |Bayesian|LC|5%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Seems to be expanding.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|85200|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1164|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|177|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus hortorum: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16540,7 +22140,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/553.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16554,7 +22170,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|2197|4032|393599|85%|
 |2012 - 2016|3125|5004|395003|85%|
 |2017 - 2021|3314|5208|389522|84%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|6%|Yes||
@@ -16562,49 +22178,58 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|-1%|Yes||
 |Bayesian|LC|82%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|544000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|21468|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1987|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus soroeensis: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16613,7 +22238,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/554.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16627,7 +22268,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|79|208|82266|39%|
 |2012 - 2016|52|144|90459|43%|
 |2017 - 2021|92|168|98233|46%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|77%|Yes||
@@ -16635,51 +22276,60 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|9%|Yes||
 |Bayesian|LC|17%|No|Targeted survey effort has entirely distorted the model|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Significant confusion with Bombus terrestris: iso. Cameron et al: 2007. Requires extensive areas of late flower, e.g. moorland. Potentially under-recorded.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|295550|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1704|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|NT|
 |**Justification**|Reviewer consensus|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|248|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Bombus terrestris: iso. Cameron et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16688,7 +22338,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/556.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16702,7 +22368,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|5171|6972|348104|81%|
 |2012 - 2016|6587|8124|366702|85%|
 |2017 - 2021|6340|7480|375841|87%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-4%|Yes||
@@ -16710,50 +22376,59 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|2%|Yes||
 |Bayesian|LC|60%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Difficulties separating from B. lucorum agg: iso. Murray et al: 2008 workers. Only winter-flying bumblebee with established nests.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|521100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|25868|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1764|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Colletes cunicularius: iso. Guichard: 1974
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16762,7 +22437,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/573.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16776,7 +22467,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|272|124|55164|39%|
 |2012 - 2016|130|236|86895|61%|
 |2017 - 2021|221|340|127786|91%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|70%|Yes||
@@ -16784,50 +22475,59 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|47%|Yes||
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Secondary colonisation from mainland Europe currently under way. Both populations undergoing rapid expansion.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|129150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|588|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|92|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Colletes succinctus: iso. Guichard: 1974
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16836,7 +22536,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/574.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16850,7 +22566,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|306|840|309543|79%|
 |2012 - 2016|278|712|258308|66%|
 |2017 - 2021|341|836|270121|69%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|23%|Yes||
@@ -16858,50 +22574,59 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|5%|Yes||
 |Bayesian|LC|35%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|438200|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3580|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|467|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Colletes similis: iso. Guichard: 1974
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16910,7 +22635,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/575.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16924,7 +22665,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|117|364|113595|56%|
 |2012 - 2016|101|292|142854|70%|
 |2017 - 2021|112|320|136989|68%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|11%|Yes||
@@ -16932,50 +22673,59 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|-4%|Yes||
 |Bayesian|LC|11%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|157900|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1728|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|248|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Colletes marginatus: iso. Guichard: 1974
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16984,7 +22734,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/576.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -16998,7 +22764,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|40|108|62375|54%|
 |2012 - 2016|54|140|68060|58%|
 |2017 - 2021|52|140|73889|64%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-4%|Yes||
@@ -17006,50 +22772,59 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|9%|Yes||
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|143450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|472|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|64|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Colletes hederae: iso. Schmidt & Westrich: 1993
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17058,7 +22833,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/577.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17072,7 +22863,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|812|1516|102611|41%|
 |2012 - 2016|2245|4264|216218|87%|
 |2017 - 2021|2890|5252|240834|97%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|29%|Yes||
@@ -17080,47 +22871,56 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|11%|Yes||
 |Bayesian|LC|21%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|203550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|8760|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|774|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Colletes halophilus: iso. Guichard: 1974
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A3 c
 
-## Justification
+## Red List Justification
 All sites live at sea level, with minimal ability to rapidly adapt. Magnitude of impact will depend on the sea level mitigation measures, particularly in managed retreats of sea wall defences.
 ### Quantified Attributes
 |Attribute|Result|
@@ -17129,7 +22929,23 @@ All sites live at sea level, with minimal ability to rapidly adapt. Magnitude of
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/578.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17143,7 +22959,7 @@ All sites live at sea level, with minimal ability to rapidly adapt. Magnitude of
 |2007 - 2011|101|244|64226|76%|
 |2012 - 2016|56|144|52763|63%|
 |2017 - 2021|87|216|70227|83%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|55%|Yes||
@@ -17151,50 +22967,59 @@ All sites live at sea level, with minimal ability to rapidly adapt. Magnitude of
 |dEoO|LC|33%|Yes||
 |Bayesian|LC|5%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|All sites live at sea level, with minimal ability to rapidly adapt. Magnitude of impact will depend on the mitigation measures.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria|i, ii, iv, iii, v|
 |Support|All sites live at sea level, with minimal ability to rapidly adapt|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|77600|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|648|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**|Reviewers match the A2 Expert Inference of LC, but the status of NT is based on the status of the saltmarsh habitat and coastal squeeze over a 100 year period. This aspect is picked up by one reviewer, who wishes to elevate the status based on this fact. As a compromise, the status of NT has been maintained.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|79|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Colletes fodiens: iso. Guichard: 1974
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17203,7 +23028,23 @@ All sites live at sea level, with minimal ability to rapidly adapt. Magnitude of
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/579.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17217,7 +23058,7 @@ All sites live at sea level, with minimal ability to rapidly adapt. Magnitude of
 |2007 - 2011|157|448|157801|70%|
 |2012 - 2016|163|424|155059|68%|
 |2017 - 2021|157|440|153786|68%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-4%|Yes||
@@ -17225,51 +23066,60 @@ All sites live at sea level, with minimal ability to rapidly adapt. Magnitude of
 |dEoO|LC|-1%|Yes||
 |Bayesian|LC|13%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|207700|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1964|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|246|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Colletes floralis: iso. Guichard: 1974
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - B2 a,b, i
 ii
 iii
 iv
 v
 
-## Justification
+## Red List Justification
 Occupying all available habitat. Most sea-level dune systems used are vulnerable to a single Atlantic storm system. Climate change predictions tend to predict a higher intensity and frequency of Atlantic storm systems. These storms have significant potential to cause substantial damage to the existing population and available habitat.
 
 Also a boreal taxon, which may respond negatively to climate change.
@@ -17280,7 +23130,23 @@ Also a boreal taxon, which may respond negatively to climate change.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|N|
+
+
+## Distribution map
+![](../map/580.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17294,7 +23160,7 @@ Also a boreal taxon, which may respond negatively to climate change.
 |2007 - 2011|149|128|39652|66%|
 |2012 - 2016|51|120|39869|66%|
 |2017 - 2021|12|36|18288|30%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-76%|No|Low sampling effort considered reason for change|
@@ -17302,52 +23168,61 @@ Also a boreal taxon, which may respond negatively to climate change.
 |dEoO|EN|-54%|No|Low sampling effort considered reason for change|
 |Bayesian|LC|2%|No||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Occupying all available habitat. Most sea-level dune systems used are vulnerable to a single Atlantic storm system. Climate change predictions tend to predict a higher intensity and frequency of Atlantic storm systems. These storms have significant potential to cause substantial damage to the existing population and available habitat.
 
 Also a boreal taxon, which may respond negatively to climate change.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=10|
 |Subcriteria|i, ii, iii, iv, v|
 |Support|Occupying all available habitat. Most sea-level dune systems used are vulnerable to a single Atlantic storm system. Climate change predictions tend to predict a higher intensity and frequency of Atlantic storm systems. These storms have significant potential to cause substantial damage to the existing population and available habitat.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|36350|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|VU|340|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|36|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Colletes daviesanus: iso. Guichard: 1974
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17356,7 +23231,23 @@ Also a boreal taxon, which may respond negatively to climate change.|Yes||
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/581.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17370,7 +23261,7 @@ Also a boreal taxon, which may respond negatively to climate change.|Yes||
 |2007 - 2011|273|740|236138|80%|
 |2012 - 2016|326|788|215981|73%|
 |2017 - 2021|284|724|242183|82%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-13%|Yes||
@@ -17378,50 +23269,59 @@ Also a boreal taxon, which may respond negatively to climate change.|Yes||
 |dEoO|LC|12%|Yes||
 |Bayesian|LC|37%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|260150|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3556|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|545|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Anthidium manicatum: iso. Amiet et al: 2004
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17430,7 +23330,23 @@ Also a boreal taxon, which may respond negatively to climate change.|Yes||
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/582.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17444,7 +23360,7 @@ Also a boreal taxon, which may respond negatively to climate change.|Yes||
 |2007 - 2011|313|576|190755|72%|
 |2012 - 2016|415|848|220477|84%|
 |2017 - 2021|442|720|209767|79%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|7%|Yes||
@@ -17452,46 +23368,55 @@ Also a boreal taxon, which may respond negatively to climate change.|Yes||
 |dEoO|LC|-5%|Yes||
 |Bayesian|LC|18%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|237500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3052|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Dufourea minuta: iso. Baker: 1994
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|472|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
+# Dufourea minuta: iso. Baker: 1994
+
+## Provisional Red List status: NE
+
+## Red List Justification
 The only record in the project time period is considered a misidentification.
 ### Quantified Attributes
 |Attribute|Result|
@@ -17500,7 +23425,22 @@ The only record in the project time period is considered a misidentification.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/584.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17514,7 +23454,7 @@ The only record in the project time period is considered a misidentification.
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|||
@@ -17522,46 +23462,55 @@ The only record in the project time period is considered a misidentification.
 |dEoO|LC|?%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|100|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Hoplitis adunca: iso. Else & Edwards: 2018
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1|
+|Calculated|NR|
+|Final||
+|Moderation support||
+
+
+
+# Hoplitis adunca: iso. Else & Edwards: 2018
+
+## Provisional Red List status: NE
+
+## Red List Justification
 A synanthropic colonist
 ### Quantified Attributes
 |Attribute|Result|
@@ -17570,7 +23519,22 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/594.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17584,7 +23548,7 @@ A synanthropic colonist
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|11|8|7594|91%|
 |2017 - 2021|5|8|7594|91%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-55%|||
@@ -17592,50 +23556,59 @@ A synanthropic colonist
 |dEoO|LC|0%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|350|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|12|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|4|
+|Calculated|NR|
+|Final||
+|Moderation support||
+
+
+
 # Hoplitis claviventris: iso. Falk: 2015
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17644,7 +23617,23 @@ A synanthropic colonist
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/596.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17658,7 +23647,7 @@ A synanthropic colonist
 |2007 - 2011|90|288|135837|72%|
 |2012 - 2016|96|280|127615|67%|
 |2017 - 2021|139|412|159175|84%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|45%|Yes||
@@ -17666,46 +23655,55 @@ A synanthropic colonist
 |dEoO|LC|25%|Yes||
 |Bayesian|LC|17%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|154200|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1672|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Apis mellifera: iso. Amiet: 1996
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|258|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
+# Apis mellifera: iso. Amiet: 1996
+
+## Provisional Red List status: NE
+
+## Red List Justification
 It is not possible to separate any 'wild' populations from anthropically managed populations. Surveys of this taxon reveal far more about the activities of beekeeping than they do of the taxon.
 ### Quantified Attributes
 |Attribute|Result|
@@ -17714,7 +23712,22 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/646.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17728,7 +23741,7 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |2007 - 2011|1867|2936|285782|75%|
 |2012 - 2016|2200|3636|302648|79%|
 |2017 - 2021|2019|2336|287287|75%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-8%|||
@@ -17736,50 +23749,59 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |dEoO|LC|-5%|||
 |Bayesian|LC|42%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|511900|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9704|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|979|
+|Calculated|NF|
+|Final||
+|Moderation support||
+
+
+
 # Melecta albifrons: iso. Amiet et al: 2007
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17788,7 +23810,23 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/652.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17802,7 +23840,7 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |2007 - 2011|178|460|140991|72%|
 |2012 - 2016|145|388|133890|68%|
 |2017 - 2021|297|592|169967|87%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|105%|Yes||
@@ -17810,48 +23848,57 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |dEoO|LC|27%|Yes||
 |Bayesian|LC|25%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|156450|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1756|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|303|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena russala: iso. Praz et al: 2022
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17860,7 +23907,23 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/1617.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17874,7 +23937,7 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |2007 - 2011|30|96|64066|30%|
 |2012 - 2016|16|56|67417|31%|
 |2017 - 2021|21|76|68027|32%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|31%|No|Insufficient data|
@@ -17882,48 +23945,57 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |dEoO|LC|1%|No|Insufficient data|
 |Bayesian|LC|14%|No|Insufficient data|
 |Bayesian (Expert interpretation)||*N/A*|No|Insufficient data|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Difficult to determine + recent nomenclatural change.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|258950|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|512|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|102|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena confinis: iso. Wood: 2022
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17932,7 +24004,23 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/1618.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -17946,7 +24034,7 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |2007 - 2011|6|20|19778|34%|
 |2012 - 2016|12|32|28921|50%|
 |2017 - 2021|14|40|33603|58%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|17%|No|Insufficient data|
@@ -17954,50 +24042,59 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |dEoO|LC|16%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|No|Insufficient data|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Transient population.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|32250|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|188|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|36|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena wilkella: iso. Praz et al: 2022
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -18006,7 +24103,23 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/1619.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18020,7 +24133,7 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |2007 - 2011|269|704|202317|67%|
 |2012 - 2016|180|560|196716|65%|
 |2017 - 2021|171|536|192734|64%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-5%|Yes||
@@ -18028,50 +24141,59 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |dEoO|LC|-2%|Yes||
 |Bayesian|LC|39%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|300500|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3340|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|518|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+
 # Andrena simillima: iso. Perkins: 1919
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -18080,7 +24202,23 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/61.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18094,7 +24232,7 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |2007 - 2011|12|20|24794|72%|
 |2012 - 2016|9|8|13388|38%|
 |2017 - 2021|24|44|22835|66%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|167%|No|Insufficient data|
@@ -18102,47 +24240,56 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |dEoO|LC|71%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|Fragmented|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|15650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|120|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|NT|
 |**Justification**|Whilst the taxon does not meet the full criteria for criteria B2, the taxon meets the AoO threshold for EN and is extremely fragmented. The wider reviewers have a majority consensus for NT, which supports moderating this taxon to a higher threat category.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|16|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+
 # Andrena lathyri: iso. Amiet et al: 2010
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -18151,7 +24298,17 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/20.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18165,7 +24322,7 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -18173,47 +24330,56 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last seen 1990-05-10. Has been subject to repeated target survey effort ~ 1990 - 2010|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
 # Andrena lepida: iso. Amiet et al: 2010
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -18222,7 +24388,17 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/21.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18236,7 +24412,7 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -18244,46 +24420,55 @@ It is not possible to separate any 'wild' populations from anthropically managed
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last seen 1952-08-02. Has been subject to targeted searches.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||No||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Andrena nanula: iso. Amiet et al: 2010
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
+# Andrena nanula: iso. Amiet et al: 2010
+
+## Provisional Red List status: NE
+
+## Red List Justification
 Presence of this taxon is based on a single specimen, with an unclear label, and a cloud of uncertainty around the validity of this specimen.
 ### Quantified Attributes
 |Attribute|Result|
@@ -18292,7 +24477,16 @@ Presence of this taxon is based on a single specimen, with an unclear label, and
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/38.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18306,7 +24500,7 @@ Presence of this taxon is based on a single specimen, with an unclear label, and
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -18314,47 +24508,49 @@ Presence of this taxon is based on a single specimen, with an unclear label, and
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+
 # Andrena nana: iso. Amiet et al: 2010
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -18363,7 +24559,17 @@ Presence of this taxon is based on a single specimen, with an unclear label, and
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/39.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18377,7 +24583,7 @@ Presence of this taxon is based on a single specimen, with an unclear label, and
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -18385,46 +24591,55 @@ Presence of this taxon is based on a single specimen, with an unclear label, and
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last seen 1930-04-27.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Andrena floricola: iso. Amiet et al: 2010
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
+# Andrena floricola: iso. Amiet et al: 2010
+
+## Provisional Red List status: NE
+
+## Red List Justification
 Presence is based on a single record from 1939, which is considered of dubious origin.
 ### Quantified Attributes
 |Attribute|Result|
@@ -18433,7 +24648,16 @@ Presence is based on a single record from 1939, which is considered of dubious o
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/42.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18447,7 +24671,7 @@ Presence is based on a single record from 1939, which is considered of dubious o
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|No||
@@ -18455,47 +24679,49 @@ Presence is based on a single record from 1939, which is considered of dubious o
 |dEoO|DD|%|No||
 |Bayesian|DD|*NaN*%|No||
 |Bayesian (Expert interpretation)||*N/A*|No||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||No||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||No||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||No||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||No||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|No||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+
 # Andrena tridentata: iso. Perkins: 1919
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -18504,7 +24730,17 @@ Presence is based on a single record from 1939, which is considered of dubious o
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/60.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18518,7 +24754,7 @@ Presence is based on a single record from 1939, which is considered of dubious o
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -18526,46 +24762,55 @@ Presence is based on a single record from 1939, which is considered of dubious o
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last seen 1944-07-30|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Hylaeus punctulatissimus: iso. Amiet et al: 1999
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
+# Hylaeus punctulatissimus: iso. Amiet et al: 1999
+
+## Provisional Red List status: NE
+
+## Red List Justification
 Based on a single record from 1850 in London. Considered a probable misidentification.
 ### Quantified Attributes
 |Attribute|Result|
@@ -18574,7 +24819,16 @@ Based on a single record from 1850 in London. Considered a probable misidentific
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/87.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18588,7 +24842,7 @@ Based on a single record from 1850 in London. Considered a probable misidentific
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -18596,46 +24850,48 @@ Based on a single record from 1850 in London. Considered a probable misidentific
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Lasioglossum laeve: iso. Amiet et al: 2001
-## Provisional status: NE
 
-## Justification
+
+
+
+
+# Lasioglossum laeve: iso. Amiet et al: 2001
+
+## Provisional Red List status: NE
+
+## Red List Justification
 Only known records of Britain are the type and a syntype. No males is known. Species resides within a known difficult complex with historic confusions between two well recognised species.
 ### Quantified Attributes
 |Attribute|Result|
@@ -18644,7 +24900,16 @@ Only known records of Britain are the type and a syntype. No males is known. Spe
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/136.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18658,7 +24923,7 @@ Only known records of Britain are the type and a syntype. No males is known. Spe
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -18666,47 +24931,49 @@ Only known records of Britain are the type and a syntype. No males is known. Spe
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+
 # Eucera nigrescens: iso. Amiet et al: 2007
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -18715,7 +24982,17 @@ Only known records of Britain are the type and a syntype. No males is known. Spe
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/212.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18729,7 +25006,7 @@ Only known records of Britain are the type and a syntype. No males is known. Spe
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -18737,47 +25014,56 @@ Only known records of Britain are the type and a syntype. No males is known. Spe
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last found in 1970.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
 # Halictus maculatus: iso. Amiet et al: 2001
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -18786,7 +25072,17 @@ Only known records of Britain are the type and a syntype. No males is known. Spe
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/224.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18800,7 +25096,7 @@ Only known records of Britain are the type and a syntype. No males is known. Spe
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -18808,46 +25104,55 @@ Only known records of Britain are the type and a syntype. No males is known. Spe
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last seen 1930 in GB|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Megachile lapponica: iso. Perkins: 1925
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
+# Megachile lapponica: iso. Perkins: 1925
+
+## Provisional Red List status: NE
+
+## Red List Justification
 One record from 1847. Considered to be of very dubious presence in GB.
 ### Quantified Attributes
 |Attribute|Result|
@@ -18856,7 +25161,16 @@ One record from 1847. Considered to be of very dubious presence in GB.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/252.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18870,7 +25184,7 @@ One record from 1847. Considered to be of very dubious presence in GB.
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -18878,46 +25192,48 @@ One record from 1847. Considered to be of very dubious presence in GB.
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Megachile ericetorum: iso. Perkins: 1925
-## Provisional status: NE
 
-## Justification
+
+
+
+
+# Megachile ericetorum: iso. Perkins: 1925
+
+## Provisional Red List status: NE
+
+## Red List Justification
 One record from 1844. Considered to be of very dubious presence in GB.
 ### Quantified Attributes
 |Attribute|Result|
@@ -18926,7 +25242,16 @@ One record from 1844. Considered to be of very dubious presence in GB.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/256.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -18940,7 +25265,7 @@ One record from 1844. Considered to be of very dubious presence in GB.
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -18948,51 +25273,53 @@ One record from 1844. Considered to be of very dubious presence in GB.
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+
 # Nomada subcornuta: iso. Falk: 2004
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 
 - A3 b
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -19001,7 +25328,17 @@ One record from 1844. Considered to be of very dubious presence in GB.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+
+
+## Distribution map
+![](../map/313.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19015,7 +25352,7 @@ One record from 1844. Considered to be of very dubious presence in GB.
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -19023,47 +25360,56 @@ One record from 1844. Considered to be of very dubious presence in GB.
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|ID|
+|Moderation support||
+
+
+
 # Nomada errans: iso. Amiet et al: 2007
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -19072,7 +25418,17 @@ One record from 1844. Considered to be of very dubious presence in GB.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/343.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19086,7 +25442,7 @@ One record from 1844. Considered to be of very dubious presence in GB.
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -19094,46 +25450,55 @@ One record from 1844. Considered to be of very dubious presence in GB.
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last recorded in 1982-07-26. Lots of targeted searching under the Biodiversity Action Plan (~ 1995-2010)|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Bombus pomorum: iso. Cameron et al: 2007
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
+# Bombus pomorum: iso. Cameron et al: 2007
+
+## Provisional Red List status: NE
+
+## Red List Justification
 No breeding presence ever established. Potential confusion to Bombus lapidarius males. Specimens cannot be found. In Benton's New Naturalist 2006, he notes that the dates for these taxa vary according to the re-telling, being in one of 1837, 1863, or 1857.
 ### Quantified Attributes
 |Attribute|Result|
@@ -19142,7 +25507,16 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/540.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19156,7 +25530,7 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -19164,47 +25538,49 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+
 # Bombus cullumanus: iso. Cameron et al: 2007
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -19213,7 +25589,17 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/555.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19227,7 +25613,7 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -19235,47 +25621,56 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last record 1940|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
 # Dufourea halictula: iso. Baker: 1994
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -19284,7 +25679,17 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/585.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19298,7 +25703,7 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -19306,47 +25711,56 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last record from 1920-06-24. Nomenclature has been highly confused by swaps with other taxa in good standing.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
 # Hoplitis leucomelana: iso. Falk: 2015
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -19355,7 +25769,17 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/595.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19369,7 +25793,7 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -19377,46 +25801,55 @@ No breeding presence ever established. Potential confusion to Bombus lapidarius 
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Only known record is the type from 1802|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Rophites quinquespinosus: iso. Amiet et al: 1999
-## Provisional status: NE
 
-## Justification
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
+# Rophites quinquespinosus: iso. Amiet et al: 1999
+
+## Provisional Red List status: NE
+
+## Red List Justification
 Only known record from an extremely unlikely source known to have made other problematic determinations.
 ### Quantified Attributes
 |Attribute|Result|
@@ -19425,7 +25858,16 @@ Only known record from an extremely unlikely source known to have made other pro
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/597.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19439,7 +25881,7 @@ Only known record from an extremely unlikely source known to have made other pro
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -19447,47 +25889,49 @@ Only known record from an extremely unlikely source known to have made other pro
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+
 # Melecta luctuosa: iso. Amiet et al: 2007
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -19496,7 +25940,17 @@ Only known record from an extremely unlikely source known to have made other pro
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+
+
+## Distribution map
+![](../map/651.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19510,7 +25964,7 @@ Only known record from an extremely unlikely source known to have made other pro
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|Yes||
@@ -19518,46 +25972,55 @@ Only known record from an extremely unlikely source known to have made other pro
 |dEoO|DD|%|Yes||
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Last record 1911-04-24|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads||
+|Calculated||
+|Final|EX|
+|Moderation support||
+
+
+
 # Andrena scotica: iso. Wood et al: 2022
-## Provisional status: NE
 
-## Justification
+## Provisional Red List status: NE
+
+## Red List Justification
 Post-assessment nomenclatural change
 ### Quantified Attributes
 |Attribute|Result|
@@ -19566,7 +26029,16 @@ Post-assessment nomenclatural change
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Post-assessment change|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/1611.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19580,7 +26052,7 @@ Post-assessment nomenclatural change
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -19588,46 +26060,48 @@ Post-assessment nomenclatural change
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+
 # Andrena trimmerana: iso. Wood et al: 2022
-## Provisional status: NE
 
-## Justification
+## Provisional Red List status: NE
+
+## Red List Justification
 Post-assessment nomenclatural change
 ### Quantified Attributes
 |Attribute|Result|
@@ -19636,7 +26110,16 @@ Post-assessment nomenclatural change
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Post-assessment change|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/1612.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19650,7 +26133,7 @@ Post-assessment nomenclatural change
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -19658,46 +26141,48 @@ Post-assessment nomenclatural change
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Andrena ovatula: iso. Praz et al: 2022
-## Provisional status: NE
 
-## Justification
+
+
+
+
+# Andrena ovatula: iso. Praz et al: 2022
+
+## Provisional Red List status: NE
+
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -19706,7 +26191,16 @@ Post-assessment nomenclatural change
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Post-assessment change|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/1614.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19720,7 +26214,7 @@ Post-assessment nomenclatural change
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -19728,46 +26222,48 @@ Post-assessment nomenclatural change
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review||Post-assessment nomenclatural change|||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+
 # Nomada panzeri: iso. Falk et al: 2022
-## Provisional status: NE
 
-## Justification
+## Provisional Red List status: NE
+
+## Red List Justification
 Post-assessment nomenclatural change
 ### Quantified Attributes
 |Attribute|Result|
@@ -19776,7 +26272,16 @@ Post-assessment nomenclatural change
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Post-assessment change|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/1630.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19790,7 +26295,7 @@ Post-assessment nomenclatural change
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -19798,46 +26303,48 @@ Post-assessment nomenclatural change
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+
 # Nomada glabella: iso. Falk et al: 2022
-## Provisional status: NE
 
-## Justification
+## Provisional Red List status: NE
+
+## Red List Justification
 Post-assessment nomenclatural change
 ### Quantified Attributes
 |Attribute|Result|
@@ -19846,7 +26353,16 @@ Post-assessment nomenclatural change
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Post-assessment change|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/1631.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19860,7 +26376,7 @@ Post-assessment nomenclatural change
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -19868,46 +26384,48 @@ Post-assessment nomenclatural change
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Sphecodes albilabris: iso. Bogusch & Straka: 2012
-## Provisional status: NA
 
-## Justification
+
+
+
+
+# Sphecodes albilabris: iso. Bogusch & Straka: 2012
+
+## Provisional Red List status: NA
+
+## Red List Justification
 Post-assessment colonist.. Expected to become LC very quickly. Host (Colletes cunicularius: iso. Guichard: 1974) is LC and expanding.
 ### Quantified Attributes
 |Attribute|Result|
@@ -19916,7 +26434,16 @@ Post-assessment colonist.. Expected to become LC very quickly. Host (Colletes cu
 |Vagrancy|No|
 |Colonisation|Post-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/1637.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -19930,7 +26457,7 @@ Post-assessment colonist.. Expected to become LC very quickly. Host (Colletes cu
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -19938,46 +26465,48 @@ Post-assessment colonist.. Expected to become LC very quickly. Host (Colletes cu
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NA|
 |**Justification**||
----
- ---
- <br><br>
- 
-# Andrena afzeliella: iso. Praz et al: 2022
-## Provisional status: NE
 
-## Justification
+
+
+
+
+# Andrena afzeliella: iso. Praz et al: 2022
+
+## Provisional Red List status: NE
+
+## Red List Justification
 Post-assessment nomenclatural change
 ### Quantified Attributes
 |Attribute|Result|
@@ -19986,7 +26515,16 @@ Post-assessment nomenclatural change
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Post-assessment change|
-## QA Metrics
+
+
+
+
+
+
+## Distribution map
+![](../map/1641.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -20000,7 +26538,7 @@ Post-assessment nomenclatural change
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|DD|%|||
@@ -20008,39 +26546,40 @@ Post-assessment nomenclatural change
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+
+
+

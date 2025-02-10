@@ -1,9 +1,10 @@
 # Omalus puncticollis: iso. Paukkunen et al: 2015
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - B1 a,b, 
 - B2 a,b, 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12,7 +13,23 @@
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/656.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -26,7 +43,7 @@
 |2007 - 2011|5|16|25855|29%|
 |2012 - 2016|3|8|13388|15%|
 |2017 - 2021|5|20|31185|35%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|67%|No|Insufficient data|
@@ -34,39 +51,47 @@
 |dEoO|LC|133%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Modern data shows it as being known across the entire project area, for which there is not enough information to inform on a trajectory.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10/NaN|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|71950|Yes|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|184|Yes|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Re-assessed|
 |**Reviewed Status**|LC|
 |**Justification**|Re-assessed using B1/B2|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|43|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+

@@ -1,7 +1,8 @@
 # Pemphredon morio: iso. Dollfuss: 1995
-## Provisional status: NE
 
-## Justification
+## Provisional Red List status: NE
+
+## Red List Justification
 Considered to be multiple species based on genetic information. No non-genetic identification methods found or published. Status of the particular species composition in the project area is unknown and requires more information.
 ### Quantified Attributes
 |Attribute|Result|
@@ -10,7 +11,22 @@ Considered to be multiple species based on genetic information. No non-genetic i
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/391.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -24,7 +40,7 @@ Considered to be multiple species based on genetic information. No non-genetic i
 |2007 - 2011|20|64|58433|36%|
 |2012 - 2016|16|52|54361|34%|
 |2017 - 2021|28|92|100790|63%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|75%|||
@@ -32,39 +48,47 @@ Considered to be multiple species based on genetic information. No non-genetic i
 |dEoO|LC|85%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|156550|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|412|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**|Alterations post 2021 do not have evidence or data available yet to assess. Genetic analysis from European mainland supports the existence of multiple species within this Understanding.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|88|
+|Calculated|NS|
+|Final||
+|Moderation support||
+
+
+

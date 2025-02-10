@@ -1,11 +1,9 @@
----
-parent: Ants
----
 # Formica picea: iso. Seifert: 2007
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - B2 a,b, iii
 
-## Justification
+## Red List Justification
 Vulnerable to changes in hydrology of known sites, as well as vegetation succession.
 ### Quantified Attributes
 |Attribute|Result|
@@ -14,7 +12,23 @@ Vulnerable to changes in hydrology of known sites, as well as vegetation success
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/476.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -28,7 +42,7 @@ Vulnerable to changes in hydrology of known sites, as well as vegetation success
 |2007 - 2011|11|28|17952|44%|
 |2012 - 2016|1|4|6694|16%|
 |2017 - 2021|1|4|6694|16%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|0%|No|Insufficient data|
@@ -36,39 +50,47 @@ Vulnerable to changes in hydrology of known sites, as well as vegetation success
 |dEoO|LC|0%|No|Insufficient data|
 |Bayesian|LC|0%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=10|
 |Subcriteria|iii|
 |Support|Vulnerable to changes in hydrology of known sites, as well as vegetation succession, |
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|66000|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|VU|92|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|14|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+

@@ -1,8 +1,9 @@
 # Osmia inermis: iso. Amiet et al: 2004
-## Provisional status: EN
+
+## Provisional Red List status: EN
 - D2
 
-## Justification
+## Red List Justification
 Taxon requires specific targeted survey effort and unusual patterns to find. No such survey has happened in the 10 year period. Due to the paucity of data and lack of knowledge, it was not possible to place this taxon any higher threat status than VU.
 
 Taking into account wider knowledge, which has no place to be captured under the available rules, the threat status to this taxon should be much higher. Even when subjected to targeted survey effort, records were scarce. Existing locations were at risk of conversion to commercial pine forest or inappropriate grazing. No recent survey effort has been undertaken. The pressures from the last targeted work are considered to have been maintained. This species is therefore considered to be under far higher threat than can be captured within the Red List methodology.
@@ -13,7 +14,23 @@ Taking into account wider knowledge, which has no place to be captured under the
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|N|
+
+
+## Distribution map
+![](../map/238.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -27,7 +44,7 @@ Taking into account wider knowledge, which has no place to be captured under the
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|?%|No|Insufficient data|
@@ -35,39 +52,47 @@ Taking into account wider knowledge, which has no place to be captured under the
 |dEoO|LC|?%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Requires specific targeted survey effort and unusual patterns to find. No such survey has happened in the 10 year period.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|An arctic/montaine species. Global warming is predicted to be detrimental to this taxon.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|21300|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|28|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|VU|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|EN|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|6|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+

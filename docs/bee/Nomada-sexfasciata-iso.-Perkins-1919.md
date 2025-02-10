@@ -1,8 +1,6 @@
----
-parent: Bees
----
 # Nomada sexfasciata: iso. Perkins: 1919
-## Provisional status: CR
+
+## Provisional Red List status: CR
 - B1 a,b, i
 ii
 iii
@@ -12,7 +10,7 @@ ii
 iii
 iv
 
-## Justification
+## Red List Justification
 This parasitic taxon is currently assumed to be isolated due to a combination of host availability fragmentation, and the small size of the only known parasitised colony. The colony is unable to reach a size where random chance reaches a point where dispersal results in the finding a new host colony, which is itself a very sparse resource.
 
 The main part of this taxon's available host population is close to sea level. Increased wave action and sea level rise will degrade this area. The host has, in the past, moved outside of this area, but not frequently.
@@ -23,7 +21,23 @@ The main part of this taxon's available host population is close to sea level. I
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/325.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -37,7 +51,7 @@ The main part of this taxon's available host population is close to sea level. I
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|2|4|6694|100%|
 |2017 - 2021|1|4|6694|100%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-50%|No|Insufficient data|
@@ -45,39 +59,47 @@ The main part of this taxon's available host population is close to sea level. I
 |dEoO|LC|0%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Population is isolated from any other population of its host. The host is expanding, but it is not obvious that the host will manage to reconnect to the parasite.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Main part of host population is close to sea level. Increased wave action and sea level rise will degrade this. Host has, in the past, moved outside of this area, but not frequently. Population of Nomada is potentially entirely isolated from other populations of the host.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=1|
 |Subcriteria|i, ii, iii, iv|
 |Support|Main part of host population is close to sea level. Increased wave action and sea level rise will degrade this. Host has, in the past, moved outside of this area, but not frequently. Population of Nomada is potentially entirely isolated from other populations of the host.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|CR|100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|CR|8|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|VU|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|CR|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|1|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+

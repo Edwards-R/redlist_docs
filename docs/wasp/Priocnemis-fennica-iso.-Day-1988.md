@@ -1,14 +1,12 @@
----
-parent: Wasps
----
 # Priocnemis fennica: iso. Day: 1988
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b,c
 - B1 a,b, 
 - B2 a,b, 
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -17,7 +15,23 @@ parent: Wasps
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/681.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -31,7 +45,7 @@ parent: Wasps
 |2007 - 2011|57|152|95010|57%|
 |2012 - 2016|88|112|78030|47%|
 |2017 - 2021|76|180|82563|50%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-14%|Yes||
@@ -39,39 +53,47 @@ parent: Wasps
 |dEoO|LC|6%|Yes||
 |Bayesian|LC|5%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|142650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|796|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|144|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+

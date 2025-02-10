@@ -1,10 +1,11 @@
 # Hylaeus incongruus: iso. Straka & Bogusch: 2011
-## Provisional status: DD
+
+## Provisional Red List status: DD
 - A2 b,c
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -13,7 +14,23 @@
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/83.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -27,7 +44,7 @@
 |2007 - 2011|10|28|18893|70%|
 |2012 - 2016|6|16|10061|37%|
 |2017 - 2021|2|8|12287|45%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|EN|-67%|No|Insufficient data|
@@ -35,39 +52,47 @@
 |dEoO|LC|22%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Very hard to ID. Extreme identification difficulties. Name change was direct, not a split.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|7900|No|Insufficient data|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|168|No|Insufficient data|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|NT|
 |**Justification**|Moderated on basis of expert inference from wider review|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|24|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+

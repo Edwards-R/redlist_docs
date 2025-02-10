@@ -1,8 +1,9 @@
 # Bombus subterraneus: iso. Cameron et al: 2007
-## Provisional status: RE
+
+## Provisional Red List status: RE
 - A2 b
 
-## Justification
+## Red List Justification
 Previously declared regionally extinct, a reintroduction project was subsequently attempted. This project eventually released a number of queens into Dungeoness, but there is no evidence yet of success.
 ### Quantified Attributes
 |Attribute|Result|
@@ -11,7 +12,23 @@ Previously declared regionally extinct, a reintroduction project was subsequentl
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Extinct (*EX*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/538.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -25,7 +42,7 @@ Previously declared regionally extinct, a reintroduction project was subsequentl
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|21|16|7594|100%|
 |2017 - 2021|0|0|0|0%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|CE|-100%|No|Specific introduction project|
@@ -33,39 +50,47 @@ Previously declared regionally extinct, a reintroduction project was subsequentl
 |dEoO|CE|-100%|No|Specific introduction project|
 |Bayesian|DD|*NaN*%|No|Specific introduction project|
 |Bayesian (Expert interpretation)|DD|*N/A*|No||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|RE|Was subject to an attempted reintroduction that failed to take.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||No||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|200|No|Specific introduction project|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|16|No|Specific introduction project|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|RE|*N/A*|No||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|RE|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|2|
+|Calculated|NR|
+|Final|EX|
+|Moderation support||
+
+
+

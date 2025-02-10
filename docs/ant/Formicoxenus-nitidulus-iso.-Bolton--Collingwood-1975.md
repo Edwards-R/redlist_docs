@@ -1,11 +1,9 @@
----
-parent: Ants
----
 # Formicoxenus nitidulus: iso. Bolton & Collingwood: 1975
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - A2 b,c
 
-## Justification
+## Red List Justification
 One host, Formica rufa: iso. Bolton & Collingwood: 1975, is assessed as VU. This is the only host in the south of this taxon's range, and as such constitutes a significant portion of the known taxon's population.
 ### Quantified Attributes
 |Attribute|Result|
@@ -14,7 +12,23 @@ One host, Formica rufa: iso. Bolton & Collingwood: 1975, is assessed as VU. This
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/483.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -28,7 +42,7 @@ One host, Formica rufa: iso. Bolton & Collingwood: 1975, is assessed as VU. This
 |2007 - 2011|30|56|42070|40%|
 |2012 - 2016|17|36|39330|37%|
 |2017 - 2021|2|8|13388|12%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|CE|-88%|No|Insufficient data|
@@ -36,39 +50,47 @@ One host, Formica rufa: iso. Bolton & Collingwood: 1975, is assessed as VU. This
 |dEoO|EN|-66%|No|Insufficient data|
 |Bayesian|LC|2%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|VU|One host, Formica rufa: iso. Bolton & Collingwood: 1975, is assessed as VU. This is the only host in the south of this taxon's range.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|143100|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|344|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Moderated|
 |**Reviewed Status**|NT|
 |**Justification**|Moderated based on feedback|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|48|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+

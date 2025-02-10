@@ -1,12 +1,10 @@
----
-parent: Bees
----
 # Andrena coitana: iso. Perkins: 1919
-## Provisional status: NT
+
+## Provisional Red List status: NT
 - A2 b,c
 - A3 b
 
-## Justification
+## Red List Justification
 Retreating northwards. Fewer records in the south of England, despite higher sampling present in this area. Low data volume makes anything more precise impossible.
 
 Potential decline from warming climate expected in the future.
@@ -17,7 +15,23 @@ Potential decline from warming climate expected in the future.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/32.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -31,7 +45,7 @@ Potential decline from warming climate expected in the future.
 |2007 - 2011|22|64|86095|31%|
 |2012 - 2016|39|96|96907|35%|
 |2017 - 2021|35|100|93244|34%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-10%|Yes||
@@ -39,39 +53,47 @@ Potential decline from warming climate expected in the future.
 |dEoO|LC|-4%|Yes||
 |Bayesian|LC|11%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Retreating northwards. Fewer records in the south of England, despite higher sampling present in this area. Low data volume makes anything more precise impossible.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Potential decline from warming climate.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|367650|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|496|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NT|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|116|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+

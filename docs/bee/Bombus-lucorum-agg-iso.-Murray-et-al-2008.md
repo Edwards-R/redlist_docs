@@ -1,13 +1,11 @@
----
-parent: Bees
----
 # Bombus lucorum agg: iso. Murray et al: 2008
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - A2 b
 - A3 b
 - D2
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -16,7 +14,23 @@ parent: Bees
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Early-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/531.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -30,7 +44,7 @@ parent: Bees
 |2007 - 2011|3694|6544|389084|84%|
 |2012 - 2016|3638|6472|408424|89%|
 |2017 - 2021|2556|4880|393256|85%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-30%|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
@@ -38,39 +52,47 @@ parent: Bees
 |dEoO|LC|-4%|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
 |Bayesian|DD|*NaN*%|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
 |Bayesian (Expert interpretation)|DD|*N/A*|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Opinions suggest a potential decline in the southern ranges of this taxon's distribution. However, overall certainty is low due to difficulty of identification of this complex, plus the pollution of data with records of B. terrestris: iso. Cameron et al: 2007|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|549000|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|28428|No|Recorder behaviour has been so heavily changed by the split that it renders statistical assessment of this taxon impossible.|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|2186|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+

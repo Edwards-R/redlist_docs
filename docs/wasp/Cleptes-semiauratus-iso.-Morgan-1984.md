@@ -1,10 +1,8 @@
----
-parent: Wasps
----
 # Cleptes semiauratus: iso. Morgan: 1984
-## Provisional status: NE
 
-## Justification
+## Provisional Red List status: NE
+
+## Red List Justification
 Unresolved nomenclatural/taxonomic confusion in this taxon prevents assessment.
 ### Quantified Attributes
 |Attribute|Result|
@@ -13,7 +11,22 @@ Unresolved nomenclatural/taxonomic confusion in this taxon prevents assessment.
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/429.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -27,7 +40,7 @@ Unresolved nomenclatural/taxonomic confusion in this taxon prevents assessment.
 |2007 - 2011|5|20|21060|18%|
 |2012 - 2016|9|28|35610|31%|
 |2017 - 2021|5|16|23165|20%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-44%|||
@@ -35,39 +48,47 @@ Unresolved nomenclatural/taxonomic confusion in this taxon prevents assessment.
 |dEoO|VU|-35%|||
 |Bayesian|LC|2%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|91350|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|276|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**|See Paolo, 2024|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|60|
+|Calculated|NS|
+|Final||
+|Moderation support||
+
+
+

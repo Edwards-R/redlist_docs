@@ -1,11 +1,9 @@
----
-parent: Ants
----
 # Formica rufa: iso. Bolton & Collingwood: 1975
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - A2 b,c
 
-## Justification
+## Red List Justification
 Changes to woodland management practices have led to a decline. Current management practices do not lead to suitable conditions for spread. Effects noted across entire survey area by multiple experts, including directed survey efforts and academic projects.
 ### Quantified Attributes
 |Attribute|Result|
@@ -14,7 +12,23 @@ Changes to woodland management practices have led to a decline. Current manageme
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/474.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -28,7 +42,7 @@ Changes to woodland management practices have led to a decline. Current manageme
 |2007 - 2011|177|424|112233|66%|
 |2012 - 2016|114|304|92359|55%|
 |2017 - 2021|162|336|107953|64%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|42%|Yes||
@@ -36,39 +50,47 @@ Changes to woodland management practices have led to a decline. Current manageme
 |dEoO|LC|17%|Yes||
 |Bayesian|LC|5%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|VU|Changes to woodland management practices have led to a decline. Current management practices do not lead to suitable conditions for spread. Effects noted across entire survey area by multiple experts, including directed survey efforts and academic projects.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|134050|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2116|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|198|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+

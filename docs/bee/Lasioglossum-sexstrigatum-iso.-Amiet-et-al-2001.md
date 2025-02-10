@@ -1,10 +1,8 @@
----
-parent: Bees
----
 # Lasioglossum sexstrigatum: iso. Amiet et al: 2001
-## Provisional status: NA
 
-## Justification
+## Provisional Red List status: NA
+
+## Red List Justification
 Recent re-colonist. There is not enough data to come to any supportable conclusion in threat status.
 ### Quantified Attributes
 |Attribute|Result|
@@ -13,7 +11,23 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |Vagrancy|No|
 |Colonisation|Peri-Assessment Colonist|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/144.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -27,7 +41,7 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|7|16|14427|68%|
 |2017 - 2021|1|4|6694|31%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|CE|-86%|||
@@ -35,39 +49,47 @@ Recent re-colonist. There is not enough data to come to any supportable conclusi
 |dEoO|EN|-54%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|6200|||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|20|||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NA|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|5|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+

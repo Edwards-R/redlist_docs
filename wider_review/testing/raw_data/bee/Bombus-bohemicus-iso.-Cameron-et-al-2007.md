@@ -1,8 +1,9 @@
 # Bombus bohemicus: iso. Cameron et al: 2007
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - A2 b
 
-## Justification
+## Red List Justification
 Retreating northward, but potential confusion in identification with B. vestalis: iso. Cameron et al: 2007 which is expanding into the north. This confusion is suspected to have inflated the record numbers from the 10 year period, hiding a longer-term decline.
 
 Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Unknown host specificity within Bombus lucorum agg: iso. Murray et al: 2008, which itself may be subject to declines.
@@ -13,7 +14,23 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Frequent (*NF*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|Y|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/549.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -27,7 +44,7 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |2007 - 2011|235|588|243422|64%|
 |2012 - 2016|164|528|226542|60%|
 |2017 - 2021|156|464|224793|59%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-5%|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
@@ -35,41 +52,49 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |dEoO|LC|-1%|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
 |Bayesian|DD|*NaN*%|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
 |Bayesian (Expert interpretation)|LC|*N/A*|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|VU|Retreating north, but potential confusion in identification with B. vestalis: iso. Cameron et al: 2007 which is expanding into the north. This is suspected to have inflated the record numbers from the 10 year period, hiding a longer-term decline.
 
 Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Unknown host specificity within Bombus lucorum agg: iso. Murray et al: 2008, which itself may be subject to declines.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|382050|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4320|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**|Overall weighting of opinions suggests a strong decline, supporting the level of VU.|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|624|
+|Calculated|NF|
+|Final|NF|
+|Moderation support||
+
+
+

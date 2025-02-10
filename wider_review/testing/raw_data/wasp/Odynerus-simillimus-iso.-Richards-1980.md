@@ -1,9 +1,10 @@
 # Odynerus simillimus: iso. Richards: 1980
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - B1 a,b, iii
 - B2 a,b, iii
 
-## Justification
+## Red List Justification
 Feeds on a weevil associated with aquatic Apium, which is a freshwater plant. Multiple adjacent sites are at risk of a single storm surge bringing a saline inundation, which would damage the prey's host plant.
 ### Quantified Attributes
 |Attribute|Result|
@@ -12,7 +13,23 @@ Feeds on a weevil associated with aquatic Apium, which is a freshwater plant. Mu
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Rare (*NR*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|N|
+
+
+## Distribution map
+![](../map/455.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -26,7 +43,7 @@ Feeds on a weevil associated with aquatic Apium, which is a freshwater plant. Mu
 |2007 - 2011|68|40|8594|39%|
 |2012 - 2016|25|32|8305|38%|
 |2017 - 2021|27|32|10069|46%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|8%|No|Insufficient data|
@@ -34,39 +51,47 @@ Feeds on a weevil associated with aquatic Apium, which is a freshwater plant. Mu
 |dEoO|LC|21%|No|Insufficient data|
 |Bayesian|LC|0%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=10|
 |Subcriteria|iii|
 |Support|Feeds on a weevil associated with aquatic Apium, which is freshwater. Multiple adjacent sites are at risk of a single storm surge bringing a saline inundation.|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|VU|4250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|VU|84|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|11|
+|Calculated|NR|
+|Final|NR|
+|Moderation support||
+
+
+

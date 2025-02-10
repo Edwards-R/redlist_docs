@@ -1,9 +1,10 @@
 # Andrena pilipes: iso. Else & Edwards: 2018
-## Provisional status: LC
+
+## Provisional Red List status: LC
 - B1 a,b, 
 - B2 a,b, 
 
-## Justification
+## Red List Justification
 *N/A*
 ### Quantified Attributes
 |Attribute|Result|
@@ -12,7 +13,23 @@
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|Peri-assessment change|
-## QA Metrics
+
+
+## National Rarity
+Insufficient Data (*ID*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/10.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -26,7 +43,7 @@
 |2007 - 2011|4|12|20082|23%|
 |2012 - 2016|8|24|22091|26%|
 |2017 - 2021|114|244|83415|98%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|1325%|No|Nomenclature change|
@@ -34,39 +51,47 @@
 |dEoO|LC|278%|No|Nomenclature change|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Taxon results from a recent nomenclatural change. There is insufficient data and knowledge to arrive at a supportable conclusion.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|62250|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|276|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Re-assessed|
 |**Reviewed Status**|LC|
 |**Justification**|The core review panel considers there to be too much uncertainty surrounding potential records to be able to assign records to either side of this split. However, the evidence provided is sufficient to assign this taxon to B1 & B2 (a,b) based on the distribution of known records confirmed to be A. pilipes: iso. Else & Edwards: 2018|
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|47|
+|Calculated|NS|
+|Final|ID|
+|Moderation support|Taxon results from a recent nomenclatural change.|
+
+
+

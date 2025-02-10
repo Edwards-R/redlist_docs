@@ -1,11 +1,9 @@
----
-parent: Bees
----
 # Bombus sylvarum: iso. Cameron et al: 2007
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - B2 a,b, iii
 
-## Justification
+## Red List Justification
 Data from first half of the 10-year period is significantly skewed by a period of high recorder activity.
 
 Continuing development pressure in the Thames corridor is reducing continuity of habitat, and the taxon does not seem to do well in fragmented habitat. Development is considered to have had a overall detrimental effect.
@@ -18,7 +16,23 @@ Newport sites are under considerable development pressure, as are numerous other
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/533.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -32,7 +46,7 @@ Newport sites are under considerable development pressure, as are numerous other
 |2007 - 2011|323|404|45637|66%|
 |2012 - 2016|523|388|43242|63%|
 |2017 - 2021|272|248|49931|72%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|VU|-48%|No|Data from first half significantly skewed by a period of high recorder activity|
@@ -40,39 +54,47 @@ Newport sites are under considerable development pressure, as are numerous other
 |dEoO|LC|15%|No|Data from first half significantly skewed by a period of high recorder activity|
 |Bayesian|LC|4%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Continuing development pressure in the Thames corridor is reducing continuity of habitat, and the taxon does not seem to do well in fragmented habitat. Development is considered to have had a overall detrimental effect.|Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Newport sites are under considerable development pressure, as are numerous other currently occupied brown field sites. Future habitat fragmentation is anticipated.|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=5|
 |Subcriteria|iii|
 |Support||
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|54950|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|VU|1020|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|74|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+

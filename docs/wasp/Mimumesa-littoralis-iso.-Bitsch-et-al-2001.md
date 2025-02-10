@@ -1,11 +1,9 @@
----
-parent: Wasps
----
 # Mimumesa littoralis: iso. Bitsch et al: 2001
-## Provisional status: VU
+
+## Provisional Red List status: VU
 - B2 a,b, iii
 
-## Justification
+## Red List Justification
 The major part of population lives in areas at risk of damage by major storm surges
 ### Quantified Attributes
 |Attribute|Result|
@@ -14,7 +12,23 @@ The major part of population lives in areas at risk of damage by major storm sur
 |Vagrancy|No|
 |Colonisation|No|
 |Nomenclature|No|
-## QA Metrics
+
+
+## National Rarity
+Nationally Scarce (*NS*)
+
+## National Presence
+|Country|Presence
+|---|:-:|
+|England|Y|
+|Scotland|N|
+|Wales|Y|
+
+
+## Distribution map
+![](../map/151.svg)
+
+## Red List QA Metrics
 ### Decade
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -28,7 +42,7 @@ The major part of population lives in areas at risk of damage by major storm sur
 |2007 - 2011|8|24|17143|32%|
 |2012 - 2016|6|20|24059|45%|
 |2017 - 2021|5|16|16243|30%|
-## Criterion A2 (Statistical)
+### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Raw record count|LC|-17%|Yes||
@@ -36,39 +50,47 @@ The major part of population lives in areas at risk of damage by major storm sur
 |dEoO|VU|-32%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
-## Criterion A2 (Expert Inference)
+### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
-## Criterion A3 (Expert Inference)
+### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|NT|Major part of population lives in areas at risk of damage by major storm surges|Yes||
-## Criterion B
+### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|<=10|
 |Subcriteria|iii|
 |Support|Major part of population lives in areas at risk of damage by major storm surges. (Dune/slumping cliff - coastal edges)|
-### B1
+#### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|43550|Yes||
-### B2
+#### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|VU|108|Yes||
-## Criterion D2
+### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
-## Wider Review
+### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|VU|
 |**Justification**||
----
- ---
- <br><br>
- 
+
+
+## National Rarity QA Metrics
+|Attribute|Value|
+|---|---|
+|Hectads|19|
+|Calculated|NS|
+|Final|NS|
+|Moderation support||
+
+
+

@@ -30,11 +30,18 @@ The highest accepted population change estimate is `[X]`% (`[Model]`), which
 under Criterion A.
 
 ### Expert Inference (A2)
-The highest accepted population change was inferred at `[XX%]` from expert untargeted general survey experience. This 
+The most threatening accepted population change was inferred at `[XX%]` from 
+
+> - Expert untargeted general survey experienced
+> - the Area of Occupancy change
+> - the discrete Extent of Occurrence change
+> - the absolute count of occurrence records
+
+`[expert untargeted general survey experience]` (pick appropriate). This 
 ```
 {
     {
-        does not exceed the 30% required for qualification as VU
+        does not exceed the 30% decline required for qualification as VU
     } OR {
         exceeds or meets the [[X]]% decline required for qualification as [[XX]]
     }
@@ -45,17 +52,22 @@ The highest accepted population change was inferred at `[XX%]` from expert untar
 under Criterion A.
 
 ### Expert Suspicion (A3)
-The highest accepted population change was NT under Criterion A, based on expert suspicion of future threats over the next 100 years. 
+> use this if A goes by A3 not A2
+
+The highest accepted population change was NT under Criterion A, based on expert suspicion of future threats over the next 100 years.
+
+### No Criterion A, or A is only DD
+There were no models relating to criterion A which provided an acceptable result for this taxon.
 
 ## Criterion B
-The EOO 
+The EoO 
 ```
 {
     ([X] km2)
     {
-        exceeds the 20,000 km2 VU threshold
+        exceeds the 20,000 km2 VU threshold for criteria B1
     } OR {
-        is below the [XX] km2 [XX] threshold
+        is below the [XX] km2 [XX] threshold for criteria B1
         {
             and satisfies
         } OR {
@@ -67,14 +79,14 @@ The EOO
     was not accepted
 }
 ```
-, and the AOO
+, and the AoO
 ```
 {
     ([X] km2)
     {
-        exceeds the 2,000 km2 VU threshold
+        exceeds the 2,000 km2 VU threshold for criterion B2
     } OR {
-        is below the [XX] km2 [XX] threshold
+        is below the [XX] km2 [XX] threshold for criterion B2
         {
             and satisfies
         } OR {

@@ -1,7 +1,3 @@
----
-title: glossary
-parent: 1992-2021 GB Aculeate Hymenoptera Red List (DRAFT)
----
 # Glossary
 
 ## Buffer-Union
@@ -79,7 +75,7 @@ A ruling is defined in this project as guidance on the assessment of taxa which 
 A 'slice' refers to a time slice. The time slices for this assessment are, date-inclusive:
 
 |Name|Start|End|
-|---|---|---|
+|---|:-:|:-:|
 |Slice 1|1992|2001|
 |Slice 2|2002|2011|
 |Slice 3|2012|2021|
@@ -87,7 +83,7 @@ A 'slice' refers to a time slice. The time slices for this assessment are, date-
 An additional set of 'sub slices' have been created to allow expert opinion to act with greater detail than at 10 year resolution. These sub-slices are 5 year divisions of the main slices:
 
 |Name|Start|End|
-|---|---|---|
+|---|:-:|:-:|
 |Slice 2a|2002|2006|
 |Slice 2b|2007|2011|
 |Slice 3a|2012|2026|

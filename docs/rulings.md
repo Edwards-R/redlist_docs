@@ -1,5 +1,5 @@
 # Ruling
-This document contains each [ruling](./glossary.md#ruling) passed, with any supporting evidence.
+This document contains each ruling passed, with any supporting evidence.
 
 ## Support of Rulings
 NE considers the process of the Red List to be defined by the document `Guidelines for using the IUCN Red List categories and criteria v15.1`. Every ruling possible should be supported by reference to this document, or by reference to a specific decision. Any deviation from the Red List documentation must be clearly marked and provide reasoning for this decision.

@@ -44,7 +44,7 @@ Taxa were selected by taxon experts to meet these criteria. All taxa must also b
 ## 3. Absolute value changes
 This table shows the absolute change (Δ) between the *Red List* and *Combined* datasets. The number of records in the *iRecord* dataset is shown to indicate where changes records are coming from. Note that there are data overlaps between iRecord, BWARS, and the EFC. Numbers will not add up perfectly - this is expected and a known feature of working with these datasets.
 
-| Group       | Purpose    | Taxon                                               | Δ Number of records | Records in iRecord | Δ Tetrad (km<sup>2</sup.) | Δ Buffer Union (km<sup>2</sup.) | Δ MCP (km<sup>2</sup.) |
+| Group       | Purpose    | Taxon                                               | Δ Number of records | Records in iRecord | Δ Tetrad (km<sup>2</sup>) | Δ Buffer Union (km<sup>2</sup>) | Δ MCP (km<sup>2</sup>) |
 | ----------- | ---------- | --------------------------------------------------- | :-----------------: | :----------------: | :-------------: | :-------------------: | :----------: |
 | Bumblebee   | Common     | Bombus pascuorum: iso. Cameron et al: 2007          |       14,082        |       17,869       |     10,884      |         5,210         |    1,000     |
 | Bumblebee   | Rarer      | Bombus monticola: iso. Cameron et al: 2007          |         672         |        955         |      1,088      |        18,955         |    7,400     |

@@ -175,6 +175,9 @@ G 4.4
 Generation
 ```
 
+## Obligate mutli-brood taxa
+Obligate multi-brood taxa are considered to have a generational time of 1 year, as both 'generations' must complete within a year to maintain presence.
+
 ## Exponential Decline
 It cannot be assumed that rates of decline are due to constant factors. The identification of ~20 year climate cycle within obtained data specifically precludes the assumption that any declines (or increases) are due to a constant and continuous factor
 

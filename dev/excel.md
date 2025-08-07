@@ -36,34 +36,6 @@ This should provide a succinct summary of the data used for each taxon in Assess
 
 This information is essential for future assessments, so that a category change resulting from a real decline or recovery (a ‘genuine change’) can be distinguisehed from a change in assessment approach or data availability (a ‘non-genuine change’).
 
-## Spec turned into a proper document
-|Attribute|Type|Description|
-|---|:-:|---|
-|Superfamily|Text|Superfamily of the taxon|
-|Family|Text|Family of the taxon|
-|Scientific Name|Text|The scientific name of the taxon, given as an Understanding|
-|TVK|Text|The Taxon Version Key from the UKSI, where possible and of as exact precision as the Understanding. Note that TVKs are not protected from change and that the Understanding should be used in preference to the TVK|
-|Rank|Text|The taxonomic rank of the taxon. Will be `species` or `species aggregate`|
-|Red List Status|Text|The Red List status abbreviation for this taxon e.g. `EN`|
-|Synanthropic status|Text|Is the taxon synanthropically present (did it get here by human means) within the assessment area (`yes`/`no`)|
-|Endemic|Text|Is the taxon endemic to the assessment area (`yes`/`no`)|
-|Red List Category|Text|A comma-separated list of utilised categories|
-|Category Change|Text|`Genuine` or `Non-genuine`|
-|GB Rarity|Text|The GB rarity of the taxon|
-|Generational time|Int|The 'standard' time for a single generation. Obligate multi-brood taxa are considered to have a generational time of 1 year, as both 'generations' must complete within a year to maintain presence.|
-|% Population Change|Decimal|Most severely negative percentage population change result from all accepted models under Criterion A|
-|Extent of Occurrence|Int|The Continuous Extent of Occurrence, measured by MCP, of the taxon over the period 1992-2021 (inclusive)|
-|Area of Occupancy|Int|The Area of Occupancy of the taxon over the period 1992-2021 (inclusive)|
-|Hectad|Int|The number of occupied hectads of the taxon over the period 1992-2021 (inclusive)|
-|Continuing decline|Text|`Cd` if any of B's subcriteria (`i` -> `v`)were assessed to be true|
-|Severely fragmented|Text|`Sf` if B's `severely fragmented` was assessed to be true|
-|Rescue effort|Text|`Re` if there has been any rescue effort|
-|Presence England|Bool|`True` if taxon is known to be present in England during assessment period, `false` if not|
-|Presence Scotland|Bool|`True` if taxon is known to be present in Scotland during assessment period, `false` if not|
-|Presence Wales|Bool|`True` if taxon is known to be present in Wales during assessment period, `false` if not|
-|Rationale|Text|Full text rationale for the taxon. A combination of the narrative statistal readout and Ben's handwritten expert knowledge|
-
-
 ## Attributes not used
 
 ### Synonymy
@@ -83,3 +55,38 @@ Nope
 
 ### Extreme fluctuations
 No taxa qualify
+
+
+## Query for sheet
+Update as time goes on
+```
+SELECT n.sf_name Superfamily, n.f_name Family, m.binomial 'Scientific Name', NULL TVK,
+iif(regexp_like(m.binomial, 'agg:')=1, 'Species aggregate', 'Species') Rank,
+wrc.status 'Red List Status',
+replace(replace(replace(support_formatted, '- ', ''), ',', ' '), '', char(10)) 'Red List Supporting Criteria', /* Replace char(10) with the separator desired */
+IIF(a.synanthropy IS NOT NULL, 'true', 'false') 'Synanthropically Present', 'false' Endemic, 'false' 'Category Change',
+nr.moderated 'National Rarity', 1 'Generational Time', a2.value '% Population Change', mcp.'all' 'Extent of Occurrence',
+ta.'all' 'Area of Occupancy', h.combined 'Hectad',
+IIF((b1_used = 'Yes' OR b2_used = 'Yes') AND b2_support IS NOT NULL,'Cd',NULL) 'Continuing Decline',
+IIF(bd.b_locations = 'Fragmented', 'Sf', NULL) 'Severely Fragmented',
+IIF(a.tik = 538, 'Re', NULL) 'Rescue Effort',
+IIF(h.england > 0, 'true', 'false') 'Presence England',
+IIF(h.scotland > 0, 'true', 'false') 'Presence Scotland',
+IIF(h.wales > 0, 'true', 'false') 'Presence Wales',
+v.narrative || IIF(v.text IS NOT NULL, char(10) || char(10) ||v.text, '') Rationale
+FROM assessment a
+JOIN bwars_nomenclature n ON a.tik = n.id
+JOIN nomenclature m ON a.tik = m.tik
+JOIN wider_review_consolidation wrc ON a.tik = wrc.nik /*Swap to nik from tik expected. Using WRC as it is the last step in assessment */
+JOIN internal_review ir ON a.tik = ir.tik /* Swap back to tik. I hate this. Too 'smart' for my own good */
+JOIN national_rarity nr ON a.tik = nr.tik
+JOIN a2_stat_picked a2 ON a.tik = a2.nik
+JOIN mcp ON a.tik = mcp.tik
+JOIN tetrad_area ta on a.tik = ta.tik
+JOIN regional_hectad_count h ON a.tik = h.tik
+JOIN bd_summary bd ON a.tik = bd.nik
+JOIN narrative v ON a.tik = v.nik
+WHERE wrc.status IS NOT NULL
+AND wrc.status != 'ERROR'
+ORDER BY sf_name, f_name, m.binomial
+```

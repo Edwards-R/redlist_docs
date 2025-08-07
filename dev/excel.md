@@ -63,17 +63,16 @@ Update as time goes on
 SELECT n.sf_name Superfamily, n.f_name Family, m.binomial 'Scientific Name', NULL TVK,
 iif(regexp_like(m.binomial, 'agg:')=1, 'Species aggregate', 'Species') Rank,
 wrc.status 'Red List Status',
-replace(replace(replace(support_formatted, '- ', ''), ',', ' '), '', char(10)) 'Red List Supporting Criteria', /* Replace char(10) with the separator desired */
-IIF(a.synanthropy IS NOT NULL, 'true', 'false') 'Synanthropically Present', 'false' Endemic, 'false' 'Category Change',
+fs.sup_crit 'Red List Supporting Criteria',
+IIF(a.synanthropy IS NOT NULL, 'true', 'false') 'Synanthropically Present', 'false' Endemic, 'Non-genuine' 'Category Change',
 nr.moderated 'National Rarity', 1 'Generational Time', a2.value '% Population Change', mcp.'all' 'Extent of Occurrence',
 ta.'all' 'Area of Occupancy', h.combined 'Hectad',
-IIF((b1_used = 'Yes' OR b2_used = 'Yes') AND b2_support IS NOT NULL,'Cd',NULL) 'Continuing Decline',
-IIF(bd.b_locations = 'Fragmented', 'Sf', NULL) 'Severely Fragmented',
-IIF(a.tik = 538, 'Re', NULL) 'Rescue Effort',
+IIF((b1_used = 'Yes' OR b2_used = 'Yes') AND b2_support IS NOT NULL,'true','false') 'Continuing Decline',
+IIF(bd.b_locations = 'Fragmented', 'true', 'false') 'Severely Fragmented',
 IIF(h.england > 0, 'true', 'false') 'Presence England',
 IIF(h.scotland > 0, 'true', 'false') 'Presence Scotland',
 IIF(h.wales > 0, 'true', 'false') 'Presence Wales',
-v.narrative || IIF(v.text IS NOT NULL, char(10) || char(10) ||v.text, '') Rationale
+replace(v.narrative,'', char(10)) || IIF(v.text IS NOT NULL, char(10) || char(10) ||replace(v.text,'', char(10)), '') Rationale
 FROM assessment a
 JOIN bwars_nomenclature n ON a.tik = n.id
 JOIN nomenclature m ON a.tik = m.tik
@@ -86,6 +85,7 @@ JOIN tetrad_area ta on a.tik = ta.tik
 JOIN regional_hectad_count h ON a.tik = h.tik
 JOIN bd_summary bd ON a.tik = bd.nik
 JOIN narrative v ON a.tik = v.nik
+JOIN format_subcrit fs ON a.tik = fs.tik
 WHERE wrc.status IS NOT NULL
 AND wrc.status != 'ERROR'
 ORDER BY sf_name, f_name, m.binomial

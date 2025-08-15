@@ -85,6 +85,8 @@ The level of uncertainty associated with a particular taxon’s assessment is no
 ### Observed
 This criterion is ineligible for use in this assessment as it requires exact census data, which is not present for any assessed taxa.
 
+> Supplementary note: It was discussed whether it would be possible to use census-style data for *Osmia xanthomelana*. This taxon is known from two locations, only one of which is currently known to be active, and has been surveyed over the past 10 years to various extents. Upon discussion with the current surveyor as well as others in the area, unsurveyed (though small) populations were identified. Additionally, the survey method is unsuitable for inclusion as 'census' data as the completeness of the survey does not meet Red List 'standard'. Given these findings, the ruling of 'no use of `Observed` data' stands.
+
 ```
 G 3.1
 - Population size based on a census of all known mature individuals of the taxon. 

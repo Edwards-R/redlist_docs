@@ -7,6 +7,6 @@ This site contains the draft assessments of the GB Acueleate Hymenoptera Red Lis
 
 ## Download links
 - [The Red List Summary in .csv format](downloads/assessment_summary.csv)
-- [The Red List Summary in .xlsx format]()
+- [The Red List Summary in .xlsx format](downloads/Assessment%20Summary.xlsx)
 - [The csv of taxa, their Red List status, and their National Rarity](downloads/20250207_status_rarity.csv)
 - [The csv of more in-depth National Rarity statuses](downloads/NationalRarity.csv)

@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Paratrechina longicornis: iso. Bolton & Collingwood: 1975
+# Paratrechina longicornis: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: NE
 

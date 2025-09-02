@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Psenulus pallipes agg: iso. Schmid-Egger: 2016
+# Psenulus pallipes agg: iso. Schmid-Egger: 2016
 
 ## Provisional Red List status: 
 

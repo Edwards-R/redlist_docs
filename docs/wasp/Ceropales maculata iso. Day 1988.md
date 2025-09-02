@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Ceropales maculata: iso. Day: 1988
+# Ceropales maculata: iso. Day: 1988
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Homonotus sanguinolentus: iso. Day: 1988
+# Homonotus sanguinolentus: iso. Day: 1988
 
 ## Provisional Red List status: EN
 - B1 a,b, iii

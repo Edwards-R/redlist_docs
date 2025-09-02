@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Crossocerus congener: iso. de Beaumont: 1964
+# Crossocerus congener: iso. de Beaumont: 1964
 
 ## Provisional Red List status: LC
 - A2 b,c

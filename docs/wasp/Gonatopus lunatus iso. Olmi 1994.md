@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Gonatopus lunatus: iso. Olmi: 1994
+# Gonatopus lunatus: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

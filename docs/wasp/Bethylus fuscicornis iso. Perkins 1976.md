@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Bethylus fuscicornis: iso. Perkins: 1976
+# Bethylus fuscicornis: iso. Perkins: 1976
 
 ## Provisional Red List status: LC
 - A2 b,c

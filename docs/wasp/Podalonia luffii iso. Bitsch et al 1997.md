@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Podalonia luffii: iso. Bitsch et al: 1997
+# Podalonia luffii: iso. Bitsch et al: 1997
 
 ## Provisional Red List status: NA
 

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Mimesa lutaria: iso. Bitsch et al: 2001
+# Mimesa lutaria: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pemphredon enslini: iso. Bleet & Early: 2022
+# Pemphredon enslini: iso. Bleet & Early: 2022
 
 ## Provisional Red List status: NE
 

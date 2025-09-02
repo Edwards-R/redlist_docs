@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Dolichovespula media: iso. Archer: 1989
+# Dolichovespula media: iso. Archer: 1989
 
 ## Provisional Red List status: LC
 - A2 b,c

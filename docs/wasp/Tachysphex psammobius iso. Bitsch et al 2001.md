@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Tachysphex psammobius: iso. Bitsch et al: 2001
+# Tachysphex psammobius: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: NA
 

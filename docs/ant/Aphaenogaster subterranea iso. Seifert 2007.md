@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Aphaenogaster subterranea: iso. Seifert: 2007
+# Aphaenogaster subterranea: iso. Seifert: 2007
 
 ## Provisional Red List status: NA
 

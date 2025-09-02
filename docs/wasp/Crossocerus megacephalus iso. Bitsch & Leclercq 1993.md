@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Crossocerus megacephalus: iso. Bitsch & Leclercq: 1993
+# Crossocerus megacephalus: iso. Bitsch & Leclercq: 1993
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Oxybelus argentatus: iso. Richards: 1980
+# Oxybelus argentatus: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

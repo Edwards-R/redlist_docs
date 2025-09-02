@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Colletes cunicularius: iso. Guichard: 1974
+# Colletes cunicularius: iso. Guichard: 1974
 
 ## Provisional Red List status: LC
 - A2 b,c

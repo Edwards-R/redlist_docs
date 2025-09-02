@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Osmia bicornis: iso. Amiet et al: 2004
+# Osmia bicornis: iso. Amiet et al: 2004
 
 ## Provisional Red List status: LC
 - A2 b,c

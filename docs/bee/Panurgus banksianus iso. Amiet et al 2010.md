@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Panurgus banksianus: iso. Amiet et al: 2010
+# Panurgus banksianus: iso. Amiet et al: 2010
 
 ## Provisional Red List status: LC
 - A2 b,c

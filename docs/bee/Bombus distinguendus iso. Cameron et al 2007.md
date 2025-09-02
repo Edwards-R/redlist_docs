@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus distinguendus: iso. Cameron et al: 2007
+# Bombus distinguendus: iso. Cameron et al: 2007
 
 ## Provisional Red List status: VU
 - B2 a,b, iii

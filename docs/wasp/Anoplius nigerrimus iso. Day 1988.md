@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Anoplius nigerrimus: iso. Day: 1988
+# Anoplius nigerrimus: iso. Day: 1988
 
 ## Provisional Red List status: LC
 - A2 b,c

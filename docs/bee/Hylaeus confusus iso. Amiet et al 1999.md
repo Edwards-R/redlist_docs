@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Hylaeus confusus: iso. Amiet et al: 1999
+# Hylaeus confusus: iso. Amiet et al: 1999
 
 ## Provisional Red List status: LC
 - A2 b,c

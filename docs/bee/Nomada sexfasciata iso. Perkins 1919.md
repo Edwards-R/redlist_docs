@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada sexfasciata: iso. Perkins: 1919
+# Nomada sexfasciata: iso. Perkins: 1919
 
 ## Provisional Red List status: CR
 - B1 a,b, i

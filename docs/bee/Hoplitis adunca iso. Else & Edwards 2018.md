@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Hoplitis adunca: iso. Else & Edwards: 2018
+# Hoplitis adunca: iso. Else & Edwards: 2018
 
 ## Provisional Red List status: NE
 

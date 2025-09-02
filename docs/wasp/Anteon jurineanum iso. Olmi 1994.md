@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Anteon jurineanum: iso. Olmi: 1994
+# Anteon jurineanum: iso. Olmi: 1994
 
 ## Provisional Red List status: LC
 - B1 a,b, 

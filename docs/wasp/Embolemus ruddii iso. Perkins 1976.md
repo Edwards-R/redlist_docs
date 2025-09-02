@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Embolemus ruddii: iso. Perkins: 1976
+# Embolemus ruddii: iso. Perkins: 1976
 
 ## Provisional Red List status: DD
 - A2 b,c

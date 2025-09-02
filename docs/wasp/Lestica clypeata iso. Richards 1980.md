@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Lestica clypeata: iso. Richards: 1980
+# Lestica clypeata: iso. Richards: 1980
 
 ## Provisional Red List status: NE
 

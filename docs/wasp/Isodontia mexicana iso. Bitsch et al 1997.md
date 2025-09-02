@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Isodontia mexicana: iso. Bitsch et al: 1997
+# Isodontia mexicana: iso. Bitsch et al: 1997
 
 ## Provisional Red List status: NE
 

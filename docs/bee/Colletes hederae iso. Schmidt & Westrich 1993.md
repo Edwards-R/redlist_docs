@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Colletes hederae: iso. Schmidt & Westrich: 1993
+# Colletes hederae: iso. Schmidt & Westrich: 1993
 
 ## Provisional Red List status: LC
 - A2 b,c

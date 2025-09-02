@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Agenioideus cinctellus: iso. Day: 1988
+# Agenioideus cinctellus: iso. Day: 1988
 
 ## Provisional Red List status: LC
 - A2 b,c

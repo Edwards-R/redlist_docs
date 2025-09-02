@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Aporinellus sexmaculatus: iso. Wiśniowski: 2009
+# Aporinellus sexmaculatus: iso. Wiśniowski: 2009
 
 ## Provisional Red List status: NA
 

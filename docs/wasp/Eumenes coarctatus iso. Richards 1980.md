@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Eumenes coarctatus: iso. Richards: 1980
+# Eumenes coarctatus: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

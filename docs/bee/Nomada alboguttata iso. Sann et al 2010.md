@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada alboguttata: iso. Sann et al: 2010
+# Nomada alboguttata: iso. Sann et al: 2010
 
 ## Provisional Red List status: NA
 

@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Stenamma westwoodii: iso. Dubois: 1998
+# Stenamma westwoodii: iso. Dubois: 1998
 
 ## Provisional Red List status: DD
 - A2 b,c

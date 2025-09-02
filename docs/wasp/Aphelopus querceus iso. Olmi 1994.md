@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Aphelopus querceus: iso. Olmi: 1994
+# Aphelopus querceus: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

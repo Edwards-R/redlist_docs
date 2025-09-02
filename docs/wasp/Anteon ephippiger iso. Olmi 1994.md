@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Anteon ephippiger: iso. Olmi: 1994
+# Anteon ephippiger: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

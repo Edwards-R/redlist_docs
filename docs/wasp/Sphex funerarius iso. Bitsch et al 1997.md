@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Sphex funerarius: iso. Bitsch et al: 1997
+# Sphex funerarius: iso. Bitsch et al: 1997
 
 ## Provisional Red List status: NA
 

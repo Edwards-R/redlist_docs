@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Holepyris sylvanidis: iso. Perkins: 1976
+# Holepyris sylvanidis: iso. Perkins: 1976
 
 ## Provisional Red List status: NE
 

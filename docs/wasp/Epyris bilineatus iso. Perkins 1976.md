@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Epyris bilineatus: iso. Perkins: 1976
+# Epyris bilineatus: iso. Perkins: 1976
 
 ## Provisional Red List status: DD
 - A2 b,c

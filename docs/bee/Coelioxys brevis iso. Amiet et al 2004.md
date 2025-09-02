@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Coelioxys brevis: iso. Amiet et al: 2004
+# Coelioxys brevis: iso. Amiet et al: 2004
 
 ## Provisional Red List status: NA
 

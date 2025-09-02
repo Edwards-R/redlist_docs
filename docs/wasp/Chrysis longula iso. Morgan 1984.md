@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Chrysis longula: iso. Morgan: 1984
+# Chrysis longula: iso. Morgan: 1984
 
 ## Provisional Red List status: RE
 - A2 

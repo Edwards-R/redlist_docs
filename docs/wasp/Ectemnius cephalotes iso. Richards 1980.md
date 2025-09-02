@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Ectemnius cephalotes: iso. Richards: 1980
+# Ectemnius cephalotes: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

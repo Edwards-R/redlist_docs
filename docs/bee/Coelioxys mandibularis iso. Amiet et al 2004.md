@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Coelioxys mandibularis: iso. Amiet et al: 2004
+# Coelioxys mandibularis: iso. Amiet et al: 2004
 
 ## Provisional Red List status: EN
 - B2 a,b, iii

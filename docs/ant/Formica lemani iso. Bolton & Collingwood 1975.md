@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Formica lemani: iso. Bolton & Collingwood: 1975
+# Formica lemani: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: LC
 - A2 b,c

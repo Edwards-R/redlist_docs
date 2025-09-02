@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Monomorium pharaonis: iso. Bolton: 2019
+# Monomorium pharaonis: iso. Bolton: 2019
 
 ## Provisional Red List status: NE
 

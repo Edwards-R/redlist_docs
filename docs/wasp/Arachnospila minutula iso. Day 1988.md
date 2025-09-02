@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Arachnospila minutula: iso. Day: 1988
+# Arachnospila minutula: iso. Day: 1988
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Tachysphex pompiliformis: iso. Richards: 1980
+# Tachysphex pompiliformis: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

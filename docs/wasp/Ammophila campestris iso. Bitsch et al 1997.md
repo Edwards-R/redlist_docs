@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Ammophila campestris: iso. Bitsch et al: 1997
+# Ammophila campestris: iso. Bitsch et al: 1997
 
 ## Provisional Red List status: NA
 

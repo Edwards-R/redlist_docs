@@ -1,7 +1,6 @@
 ---
-    parent: 1992-2021 GB Aculeate Hymenoptera Red List
-    title: ant
-    ---
+parent: 1992-2021 GB Aculeate Hymenoptera Red List
+title: ant
+---
 
-    # Ant taxa
-    
+# Ant taxa

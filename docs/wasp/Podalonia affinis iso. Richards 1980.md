@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Podalonia affinis: iso. Richards: 1980
+# Podalonia affinis: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Osmia uncinata: iso. Else & Edwards: 1996
+# Osmia uncinata: iso. Else & Edwards: 1996
 
 ## Provisional Red List status: LC
 - A2 b,c

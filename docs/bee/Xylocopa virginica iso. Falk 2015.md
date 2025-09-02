@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Xylocopa virginica: iso. Falk: 2015
+# Xylocopa virginica: iso. Falk: 2015
 
 ## Provisional Red List status: NE
 

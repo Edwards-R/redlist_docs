@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena afzeliella: iso. Praz et al: 2022
+# Andrena afzeliella: iso. Praz et al: 2022
 
 ## Provisional Red List status: NE
 

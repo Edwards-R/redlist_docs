@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Chrysis angustula: iso. Paukkunen et al: 2015
+# Chrysis angustula: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: LC
 - A2 b,c

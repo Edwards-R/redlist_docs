@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus monticola: iso. Cameron et al: 2007
+# Bombus monticola: iso. Cameron et al: 2007
 
 ## Provisional Red List status: NT
 - A3 b

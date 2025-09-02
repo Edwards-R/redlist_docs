@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena nana: iso. Amiet et al: 2010
+# Andrena nana: iso. Amiet et al: 2010
 
 ## Provisional Red List status: RE
 - A2 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Lasioglossum angusticeps: iso. Amiet et al: 2001
+# Lasioglossum angusticeps: iso. Amiet et al: 2001
 
 ## Provisional Red List status: NT
 - A2 b,c

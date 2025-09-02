@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada errans: iso. Amiet et al: 2007
+# Nomada errans: iso. Amiet et al: 2007
 
 ## Provisional Red List status: RE
 - A2 

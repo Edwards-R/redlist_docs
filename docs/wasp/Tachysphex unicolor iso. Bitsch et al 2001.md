@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Tachysphex unicolor: iso. Bitsch et al: 2001
+# Tachysphex unicolor: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: EN
 - B1 a,b, iii

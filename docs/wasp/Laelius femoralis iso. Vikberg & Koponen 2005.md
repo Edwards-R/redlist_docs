@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Laelius femoralis: iso. Vikberg & Koponen: 2005
+# Laelius femoralis: iso. Vikberg & Koponen: 2005
 
 ## Provisional Red List status: DD
 - A2 b,c

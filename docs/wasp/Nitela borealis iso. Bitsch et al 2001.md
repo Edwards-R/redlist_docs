@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Nitela borealis: iso. Bitsch et al: 2001
+# Nitela borealis: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: DD
 - A2 b,c

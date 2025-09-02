@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pristocera depressa: iso. Perkins: 1976
+# Pristocera depressa: iso. Perkins: 1976
 
 ## Provisional Red List status: NE
 

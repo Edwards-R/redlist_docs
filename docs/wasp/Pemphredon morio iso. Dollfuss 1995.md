@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pemphredon morio: iso. Dollfuss: 1995
+# Pemphredon morio: iso. Dollfuss: 1995
 
 ## Provisional Red List status: NE
 

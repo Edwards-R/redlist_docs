@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Anteon pubicorne: iso. Olmi: 1994
+# Anteon pubicorne: iso. Olmi: 1994
 
 ## Provisional Red List status: LC
 - B1 a,b, 

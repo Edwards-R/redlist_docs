@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Vespula austriaca: iso. Archer: 1989
+# Vespula austriaca: iso. Archer: 1989
 
 ## Provisional Red List status: VU
 - B1 a,b, 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus cullumanus: iso. Cameron et al: 2007
+# Bombus cullumanus: iso. Cameron et al: 2007
 
 ## Provisional Red List status: RE
 - A2 

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Oxybelus uniglumis: iso. Richards: 1980
+# Oxybelus uniglumis: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Symmorphus gracilis: iso. Richards: 1980
+# Symmorphus gracilis: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

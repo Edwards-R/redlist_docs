@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Anteon fulviventre: iso. Olmi: 1994
+# Anteon fulviventre: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

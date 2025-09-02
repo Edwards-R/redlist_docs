@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Chrysura hirsuta: iso. Paukkunen et al: 2015
+# Chrysura hirsuta: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: DD
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Lasius alienus: iso. Seifert: 2007
+# Lasius alienus: iso. Seifert: 2007
 
 ## Provisional Red List status: LC
 - B1 a,b, 

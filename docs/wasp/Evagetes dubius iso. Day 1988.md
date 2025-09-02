@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Evagetes dubius: iso. Day: 1988
+# Evagetes dubius: iso. Day: 1988
 
 ## Provisional Red List status: LC
 - A2 b,c

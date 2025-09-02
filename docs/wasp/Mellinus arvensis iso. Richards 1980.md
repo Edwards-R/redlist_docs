@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Mellinus arvensis: iso. Richards: 1980
+# Mellinus arvensis: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

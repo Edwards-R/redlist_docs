@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Gonatopus striatus: iso. Olmi: 1994
+# Gonatopus striatus: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

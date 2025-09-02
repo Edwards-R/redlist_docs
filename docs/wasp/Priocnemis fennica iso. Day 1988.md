@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Priocnemis fennica: iso. Day: 1988
+# Priocnemis fennica: iso. Day: 1988
 
 ## Provisional Red List status: LC
 - A2 b,c

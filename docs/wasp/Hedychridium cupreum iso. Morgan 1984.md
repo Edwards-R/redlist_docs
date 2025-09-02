@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Hedychridium cupreum: iso. Morgan: 1984
+# Hedychridium cupreum: iso. Morgan: 1984
 
 ## Provisional Red List status: LC
 - A2 b,c

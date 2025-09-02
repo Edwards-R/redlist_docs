@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Hedychrum nobile: iso. Paukkunen et al: 2015
+# Hedychrum nobile: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: LC
 - A2 b,c

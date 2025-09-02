@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Megachile ericetorum: iso. Perkins: 1925
+# Megachile ericetorum: iso. Perkins: 1925
 
 ## Provisional Red List status: NE
 

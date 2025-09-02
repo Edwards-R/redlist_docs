@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Gonatopus pedestris: iso. Olmi: 1994
+# Gonatopus pedestris: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 

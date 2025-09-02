@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Hedychrum rutilans: iso. Morgan: 1984
+# Hedychrum rutilans: iso. Morgan: 1984
 
 ## Provisional Red List status: NE
 

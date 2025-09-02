@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Gymnomerus laevipes: iso. Richards: 1980
+# Gymnomerus laevipes: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

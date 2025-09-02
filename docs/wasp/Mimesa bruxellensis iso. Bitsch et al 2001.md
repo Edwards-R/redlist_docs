@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Mimesa bruxellensis: iso. Bitsch et al: 2001
+# Mimesa bruxellensis: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: LC
 - B1 a,b, 

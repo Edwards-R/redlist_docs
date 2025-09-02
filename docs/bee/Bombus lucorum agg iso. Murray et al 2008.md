@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus lucorum agg: iso. Murray et al: 2008
+# Bombus lucorum agg: iso. Murray et al: 2008
 
 ## Provisional Red List status: LC
 - A2 b

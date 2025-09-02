@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Megachile centuncularis: iso. Perkins: 1925
+# Megachile centuncularis: iso. Perkins: 1925
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Methocha articulata: iso. Amiet: 2008
+# Methocha articulata: iso. Amiet: 2008
 
 ## Provisional Red List status: LC
 - A2 b,c

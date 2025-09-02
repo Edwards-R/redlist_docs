@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Evagetes siculus: iso. Day: 1988
+# Evagetes siculus: iso. Day: 1988
 
 ## Provisional Red List status: NA
 

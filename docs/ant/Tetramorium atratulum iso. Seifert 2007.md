@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Tetramorium atratulum: iso. Seifert: 2007
+# Tetramorium atratulum: iso. Seifert: 2007
 
 ## Provisional Red List status: DD
 - A2 b,c

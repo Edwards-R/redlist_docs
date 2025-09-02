@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Gonatopus formicicolus: iso. Olmi: 1994
+# Gonatopus formicicolus: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

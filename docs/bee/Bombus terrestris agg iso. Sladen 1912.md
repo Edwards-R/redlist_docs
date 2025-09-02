@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus terrestris agg: iso. Sladen: 1912
+# Bombus terrestris agg: iso. Sladen: 1912
 
 ## Provisional Red List status: 
 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Colletes halophilus: iso. Guichard: 1974
+# Colletes halophilus: iso. Guichard: 1974
 
 ## Provisional Red List status: NT
 - A3 c

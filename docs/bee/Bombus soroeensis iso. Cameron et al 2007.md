@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus soroeensis: iso. Cameron et al: 2007
+# Bombus soroeensis: iso. Cameron et al: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

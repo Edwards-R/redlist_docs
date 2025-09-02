@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pterocheilus phaleratus: iso. Archer: 2014
+# Pterocheilus phaleratus: iso. Archer: 2014
 
 ## Provisional Red List status: NA
 

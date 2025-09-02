@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pemphredon inornata: iso. Dollfuss: 1995
+# Pemphredon inornata: iso. Dollfuss: 1995
 
 ## Provisional Red List status: LC
 - A2 b,c

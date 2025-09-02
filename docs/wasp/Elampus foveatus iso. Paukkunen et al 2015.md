@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Elampus foveatus: iso. Paukkunen et al: 2015
+# Elampus foveatus: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: NE
 

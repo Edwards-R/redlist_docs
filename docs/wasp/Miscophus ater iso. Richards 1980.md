@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Miscophus ater: iso. Richards: 1980
+# Miscophus ater: iso. Richards: 1980
 
 ## Provisional Red List status: NT
 - D2

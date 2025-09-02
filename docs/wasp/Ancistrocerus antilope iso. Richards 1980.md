@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Ancistrocerus antilope: iso. Richards: 1980
+# Ancistrocerus antilope: iso. Richards: 1980
 
 ## Provisional Red List status: RE
 - A2 

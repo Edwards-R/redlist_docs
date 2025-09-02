@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Anteon flavicorne: iso. Olmi: 1994
+# Anteon flavicorne: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

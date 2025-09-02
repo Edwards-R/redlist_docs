@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Trypoxylon figulus: iso. Pulawski: 1984
+# Trypoxylon figulus: iso. Pulawski: 1984
 
 ## Provisional Red List status: LC
 - A2 b,c

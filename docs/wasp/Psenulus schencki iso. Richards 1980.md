@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Psenulus schencki: iso. Richards: 1980
+# Psenulus schencki: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b

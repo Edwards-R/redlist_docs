@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Scolia sexmaculata: iso. Amiet: 2008
+# Scolia sexmaculata: iso. Amiet: 2008
 
 ## Provisional Red List status: NA
 

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Ancistrocerus gazella: iso. Richards: 1980
+# Ancistrocerus gazella: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

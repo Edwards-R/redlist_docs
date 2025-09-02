@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Hylaeus pictipes: iso. Amiet et al: 1999
+# Hylaeus pictipes: iso. Amiet et al: 1999
 
 ## Provisional Red List status: LC
 - A2 b,c

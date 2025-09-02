@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Rhopalum coarctatum: iso. Richards: 1980
+# Rhopalum coarctatum: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

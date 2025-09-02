@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Stelis odontopyga: iso. Amiet et al: 2004
+# Stelis odontopyga: iso. Amiet et al: 2004
 
 ## Provisional Red List status: LC
 - A2 b,c

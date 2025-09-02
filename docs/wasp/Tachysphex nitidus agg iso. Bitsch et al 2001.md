@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Tachysphex nitidus agg: iso. Bitsch et al: 2001
+# Tachysphex nitidus agg: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: 
 

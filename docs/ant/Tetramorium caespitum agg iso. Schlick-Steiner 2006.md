@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Tetramorium caespitum agg: iso. Schlick-Steiner: 2006
+# Tetramorium caespitum agg: iso. Schlick-Steiner: 2006
 
 ## Provisional Red List status: 
 

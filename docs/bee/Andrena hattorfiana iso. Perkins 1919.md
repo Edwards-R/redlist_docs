@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena hattorfiana: iso. Perkins: 1919
+# Andrena hattorfiana: iso. Perkins: 1919
 
 ## Provisional Red List status: LC
 - A2 b,c

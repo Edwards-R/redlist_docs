@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Trichrysis cyanea: iso. Morgan: 1984
+# Trichrysis cyanea: iso. Morgan: 1984
 
 ## Provisional Red List status: LC
 - A2 b,c

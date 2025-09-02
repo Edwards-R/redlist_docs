@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus magnus: iso. Murray et al: 2008
+# Bombus magnus: iso. Murray et al: 2008
 
 ## Provisional Red List status: DD
 - A2 b

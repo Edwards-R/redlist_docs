@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Vespula rufa: iso. Archer: 1989
+# Vespula rufa: iso. Archer: 1989
 
 ## Provisional Red List status: VU
 - A2 b,c

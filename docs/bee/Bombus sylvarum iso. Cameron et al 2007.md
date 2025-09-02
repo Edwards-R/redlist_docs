@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus sylvarum: iso. Cameron et al: 2007
+# Bombus sylvarum: iso. Cameron et al: 2007
 
 ## Provisional Red List status: VU
 - B2 a,b, iii

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Hylaeus pectoralis: iso. Amiet et al: 1999
+# Hylaeus pectoralis: iso. Amiet et al: 1999
 
 ## Provisional Red List status: LC
 - A2 b,c

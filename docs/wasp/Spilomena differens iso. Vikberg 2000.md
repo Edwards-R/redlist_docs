@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Spilomena differens: iso. Vikberg: 2000
+# Spilomena differens: iso. Vikberg: 2000
 
 ## Provisional Red List status: LC
 - A2 b,c

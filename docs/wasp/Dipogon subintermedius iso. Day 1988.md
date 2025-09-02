@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Dipogon subintermedius: iso. Day: 1988
+# Dipogon subintermedius: iso. Day: 1988
 
 ## Provisional Red List status: LC
 - A2 b,c

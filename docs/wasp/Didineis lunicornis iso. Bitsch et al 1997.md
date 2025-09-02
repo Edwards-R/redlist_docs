@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Didineis lunicornis: iso. Bitsch et al: 1997
+# Didineis lunicornis: iso. Bitsch et al: 1997
 
 ## Provisional Red List status: LC
 - B1 a,b, 

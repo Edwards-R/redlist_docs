@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Laelius pedatus: iso. Vikberg & Koponen: 2005
+# Laelius pedatus: iso. Vikberg & Koponen: 2005
 
 ## Provisional Red List status: NE
 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Halictus scabiosae: iso. Amiet et al: 2001
+# Halictus scabiosae: iso. Amiet et al: 2001
 
 ## Provisional Red List status: NA
 

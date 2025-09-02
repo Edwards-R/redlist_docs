@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Nitela lucens: iso. Bitsch et al: 2001
+# Nitela lucens: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: LC
 - A2 b,c

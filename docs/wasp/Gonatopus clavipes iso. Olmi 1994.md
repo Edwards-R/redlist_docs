@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Gonatopus clavipes: iso. Olmi: 1994
+# Gonatopus clavipes: iso. Olmi: 1994
 
 ## Provisional Red List status: LC
 - B1 a,b, 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Coelioxys afra: iso. Amiet et al: 2004
+# Coelioxys afra: iso. Amiet et al: 2004
 
 ## Provisional Red List status: NA
 

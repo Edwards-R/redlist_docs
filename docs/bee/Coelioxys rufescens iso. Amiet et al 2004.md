@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Coelioxys rufescens: iso. Amiet et al: 2004
+# Coelioxys rufescens: iso. Amiet et al: 2004
 
 ## Provisional Red List status: LC
 - B1 a,b, 

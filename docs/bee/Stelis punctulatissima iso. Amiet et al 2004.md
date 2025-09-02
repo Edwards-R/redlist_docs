@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Stelis punctulatissima: iso. Amiet et al: 2004
+# Stelis punctulatissima: iso. Amiet et al: 2004
 
 ## Provisional Red List status: LC
 - A2 b,c

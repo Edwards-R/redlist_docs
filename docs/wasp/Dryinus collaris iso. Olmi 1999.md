@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Dryinus collaris: iso. Olmi: 1999
+# Dryinus collaris: iso. Olmi: 1999
 
 ## Provisional Red List status: DD
 - A2 b,c

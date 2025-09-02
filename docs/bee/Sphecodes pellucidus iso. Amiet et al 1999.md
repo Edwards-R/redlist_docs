@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Sphecodes pellucidus: iso. Amiet et al: 1999
+# Sphecodes pellucidus: iso. Amiet et al: 1999
 
 ## Provisional Red List status: LC
 - A2 b,c

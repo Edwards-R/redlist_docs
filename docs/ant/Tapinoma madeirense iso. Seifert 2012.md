@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Tapinoma madeirense: iso. Seifert: 2012
+# Tapinoma madeirense: iso. Seifert: 2012
 
 ## Provisional Red List status: NE
 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Megachile leachella: iso. Scheuchl: 2006
+# Megachile leachella: iso. Scheuchl: 2006
 
 ## Provisional Red List status: LC
 - A2 b,c

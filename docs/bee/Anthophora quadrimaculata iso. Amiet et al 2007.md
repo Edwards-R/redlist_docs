@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Anthophora quadrimaculata: iso. Amiet et al: 2007
+# Anthophora quadrimaculata: iso. Amiet et al: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

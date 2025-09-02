@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Anteon scapulare: iso. Olmi: 1999
+# Anteon scapulare: iso. Olmi: 1999
 
 ## Provisional Red List status: DD
 - A2 b,c

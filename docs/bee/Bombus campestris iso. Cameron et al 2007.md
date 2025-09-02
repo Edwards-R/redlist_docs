@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus campestris: iso. Cameron et al: 2007
+# Bombus campestris: iso. Cameron et al: 2007
 
 ## Provisional Red List status: NT
 - A2 b,c

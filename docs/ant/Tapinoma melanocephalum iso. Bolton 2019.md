@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Tapinoma melanocephalum: iso. Bolton: 2019
+# Tapinoma melanocephalum: iso. Bolton: 2019
 
 ## Provisional Red List status: NE
 

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Argogorytes mystaceus: iso. Richards: 1980
+# Argogorytes mystaceus: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

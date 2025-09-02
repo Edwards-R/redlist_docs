@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena pilipes agg: iso. Else & Edwards: 2018
+# Andrena pilipes agg: iso. Else & Edwards: 2018
 
 ## Provisional Red List status: 
 

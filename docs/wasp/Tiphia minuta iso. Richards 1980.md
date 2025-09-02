@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Tiphia minuta: iso. Richards: 1980
+# Tiphia minuta: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

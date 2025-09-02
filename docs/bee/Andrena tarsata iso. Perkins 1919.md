@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena tarsata: iso. Perkins: 1919
+# Andrena tarsata: iso. Perkins: 1919
 
 ## Provisional Red List status: NT
 - A2 b,c

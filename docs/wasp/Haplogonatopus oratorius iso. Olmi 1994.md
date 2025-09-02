@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Haplogonatopus oratorius: iso. Olmi: 1994
+# Haplogonatopus oratorius: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

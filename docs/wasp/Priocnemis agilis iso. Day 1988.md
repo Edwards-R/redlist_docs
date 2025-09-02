@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Priocnemis agilis: iso. Day: 1988
+# Priocnemis agilis: iso. Day: 1988
 
 ## Provisional Red List status: LC
 - B1 a,b, 

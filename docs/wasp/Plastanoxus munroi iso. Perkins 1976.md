@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Plastanoxus munroi: iso. Perkins: 1976
+# Plastanoxus munroi: iso. Perkins: 1976
 
 ## Provisional Red List status: NE
 

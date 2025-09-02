@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena proxima agg: iso. Falk et al: 2019
+# Andrena proxima agg: iso. Falk et al: 2019
 
 ## Provisional Red List status: 
 

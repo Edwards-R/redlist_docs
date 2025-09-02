@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Anthophora retusa: iso. Amiet et al: 2007
+# Anthophora retusa: iso. Amiet et al: 2007
 
 ## Provisional Red List status: EN
 - B2 a,b, iii

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Eucera nigrescens: iso. Amiet et al: 2007
+# Eucera nigrescens: iso. Amiet et al: 2007
 
 ## Provisional Red List status: RE
 - A2 

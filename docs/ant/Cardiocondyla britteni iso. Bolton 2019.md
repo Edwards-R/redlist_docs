@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Cardiocondyla britteni: iso. Bolton: 2019
+# Cardiocondyla britteni: iso. Bolton: 2019
 
 ## Provisional Red List status: NE
 

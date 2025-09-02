@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Sphecodes longulus: iso. Amiet et al: 1999
+# Sphecodes longulus: iso. Amiet et al: 1999
 
 ## Provisional Red List status: LC
 - A2 b,c

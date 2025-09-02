@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Anthidium manicatum: iso. Amiet et al: 2004
+# Anthidium manicatum: iso. Amiet et al: 2004
 
 ## Provisional Red List status: LC
 - A2 b,c

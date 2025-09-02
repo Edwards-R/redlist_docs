@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Dufourea minuta: iso. Baker: 1994
+# Dufourea minuta: iso. Baker: 1994
 
 ## Provisional Red List status: NE
 

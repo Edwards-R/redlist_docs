@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Vespa velutina: iso. Archer: 1989
+# Vespa velutina: iso. Archer: 1989
 
 ## Provisional Red List status: NE
 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Lasioglossum limbellum: iso. Amiet et al: 2001
+# Lasioglossum limbellum: iso. Amiet et al: 2001
 
 ## Provisional Red List status: NA
 

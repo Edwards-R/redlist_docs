@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pemphredon lethifer agg: iso. Falk & Early: 2021
+# Pemphredon lethifer agg: iso. Falk & Early: 2021
 
 ## Provisional Red List status: 
 

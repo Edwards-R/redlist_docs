@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus pascuorum: iso. Cameron et al: 2007
+# Bombus pascuorum: iso. Cameron et al: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena floricola: iso. Amiet et al: 2010
+# Andrena floricola: iso. Amiet et al: 2010
 
 ## Provisional Red List status: NE
 

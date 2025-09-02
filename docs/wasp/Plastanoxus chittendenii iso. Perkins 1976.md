@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Plastanoxus chittendenii: iso. Perkins: 1976
+# Plastanoxus chittendenii: iso. Perkins: 1976
 
 ## Provisional Red List status: RE
 - A2 

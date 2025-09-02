@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena trimmerana: iso. Wood et al: 2022
+# Andrena trimmerana: iso. Wood et al: 2022
 
 ## Provisional Red List status: NE
 

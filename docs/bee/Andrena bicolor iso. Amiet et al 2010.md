@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena bicolor: iso. Amiet et al: 2010
+# Andrena bicolor: iso. Amiet et al: 2010
 
 ## Provisional Red List status: LC
 - A2 b,c

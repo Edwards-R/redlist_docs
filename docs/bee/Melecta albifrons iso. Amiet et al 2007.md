@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Melecta albifrons: iso. Amiet et al: 2007
+# Melecta albifrons: iso. Amiet et al: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

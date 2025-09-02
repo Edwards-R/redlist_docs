@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena ovatula agg: iso. Praz et al: 2022
+# Andrena ovatula agg: iso. Praz et al: 2022
 
 ## Provisional Red List status: 
 

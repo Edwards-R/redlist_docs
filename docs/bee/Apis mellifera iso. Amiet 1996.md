@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Apis mellifera: iso. Amiet: 1996
+# Apis mellifera: iso. Amiet: 1996
 
 ## Provisional Red List status: NE
 

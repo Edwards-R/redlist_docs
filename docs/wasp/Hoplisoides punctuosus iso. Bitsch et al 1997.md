@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Hoplisoides punctuosus: iso. Bitsch et al: 1997
+# Hoplisoides punctuosus: iso. Bitsch et al: 1997
 
 ## Provisional Red List status: NA
 

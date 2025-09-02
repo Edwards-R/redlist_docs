@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Polistes dominula: iso. Dvorak & Roberts: 2006
+# Polistes dominula: iso. Dvorak & Roberts: 2006
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Crossocerus pullulus: iso. Bitsch: 2003
+# Crossocerus pullulus: iso. Bitsch: 2003
 
 ## Provisional Red List status: NA
 

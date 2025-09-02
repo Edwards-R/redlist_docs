@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Chrysis ruddii: iso. Morgan: 1984
+# Chrysis ruddii: iso. Morgan: 1984
 
 ## Provisional Red List status: LC
 - A2 b,c

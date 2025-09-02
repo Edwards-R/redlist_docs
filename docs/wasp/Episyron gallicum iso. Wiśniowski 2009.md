@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Episyron gallicum: iso. Wiśniowski: 2009
+# Episyron gallicum: iso. Wiśniowski: 2009
 
 ## Provisional Red List status: NE
 

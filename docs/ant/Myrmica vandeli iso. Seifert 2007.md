@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Myrmica vandeli: iso. Seifert: 2007
+# Myrmica vandeli: iso. Seifert: 2007
 
 ## Provisional Red List status: DD
 - A2 b,c

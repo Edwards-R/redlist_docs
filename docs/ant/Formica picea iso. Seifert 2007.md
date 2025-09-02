@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Formica picea: iso. Seifert: 2007
+# Formica picea: iso. Seifert: 2007
 
 ## Provisional Red List status: VU
 - B2 a,b, iii

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Odynerus reniformis: iso. Richards: 1980
+# Odynerus reniformis: iso. Richards: 1980
 
 ## Provisional Red List status: RE
 - A2 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena lathyri: iso. Amiet et al: 2010
+# Andrena lathyri: iso. Amiet et al: 2010
 
 ## Provisional Red List status: RE
 - A2 

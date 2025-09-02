@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus lapidarius: iso. Cameron et al: 2007
+# Bombus lapidarius: iso. Cameron et al: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

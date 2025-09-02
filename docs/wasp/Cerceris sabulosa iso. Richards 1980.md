@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Cerceris sabulosa: iso. Richards: 1980
+# Cerceris sabulosa: iso. Richards: 1980
 
 ## Provisional Red List status: NE
 

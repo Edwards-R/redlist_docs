@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Stenamma westwoodii agg: iso. Dubois: 1998
+# Stenamma westwoodii agg: iso. Dubois: 1998
 
 ## Provisional Red List status: 
 

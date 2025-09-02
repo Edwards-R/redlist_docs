@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Sphecodes albilabris: iso. Bogusch & Straka: 2012
+# Sphecodes albilabris: iso. Bogusch & Straka: 2012
 
 ## Provisional Red List status: NA
 

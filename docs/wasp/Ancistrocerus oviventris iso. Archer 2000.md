@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Ancistrocerus oviventris: iso. Archer: 2000
+# Ancistrocerus oviventris: iso. Archer: 2000
 
 ## Provisional Red List status: LC
 - A2 b,c

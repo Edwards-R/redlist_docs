@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Panurgus calcaratus: iso. Amiet et al: 2010
+# Panurgus calcaratus: iso. Amiet et al: 2010
 
 ## Provisional Red List status: LC
 - A2 b,c

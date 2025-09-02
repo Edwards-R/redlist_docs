@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada signata: iso. Perkins: 1919
+# Nomada signata: iso. Perkins: 1919
 
 ## Provisional Red List status: LC
 - A2 b,c

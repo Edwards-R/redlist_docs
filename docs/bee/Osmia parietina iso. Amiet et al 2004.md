@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Osmia parietina: iso. Amiet et al: 2004
+# Osmia parietina: iso. Amiet et al: 2004
 
 ## Provisional Red List status: NT
 - A2 b

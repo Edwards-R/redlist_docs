@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Miscophus concolor: iso. Richards: 1980
+# Miscophus concolor: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - B1 a,b, 

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Vespa crabro: iso. Archer: 1989
+# Vespa crabro: iso. Archer: 1989
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Chrysis bicolor: iso. Morgan: 1984
+# Chrysis bicolor: iso. Morgan: 1984
 
 ## Provisional Red List status: NA
 

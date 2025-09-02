@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Odynerus simillimus: iso. Richards: 1980
+# Odynerus simillimus: iso. Richards: 1980
 
 ## Provisional Red List status: VU
 - B1 a,b, iii

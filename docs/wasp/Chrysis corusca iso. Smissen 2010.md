@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Chrysis corusca: iso. Smissen: 2010
+# Chrysis corusca: iso. Smissen: 2010
 
 ## Provisional Red List status: DD
 - A2 b,c

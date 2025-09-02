@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Passaloecus gracilis: iso. Guichard: 2002
+# Passaloecus gracilis: iso. Guichard: 2002
 
 ## Provisional Red List status: LC
 - A2 b,c

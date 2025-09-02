@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada flavoguttata: iso. Perkins: 1919
+# Nomada flavoguttata: iso. Perkins: 1919
 
 ## Provisional Red List status: LC
 - A2 b,c

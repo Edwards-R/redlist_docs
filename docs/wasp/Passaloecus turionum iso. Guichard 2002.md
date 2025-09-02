@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Passaloecus turionum: iso. Guichard: 2002
+# Passaloecus turionum: iso. Guichard: 2002
 
 ## Provisional Red List status: DD
 - A2 b,c

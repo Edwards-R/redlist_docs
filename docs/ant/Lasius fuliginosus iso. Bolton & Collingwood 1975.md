@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Lasius fuliginosus: iso. Bolton & Collingwood: 1975
+# Lasius fuliginosus: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: LC
 - A2 b,c

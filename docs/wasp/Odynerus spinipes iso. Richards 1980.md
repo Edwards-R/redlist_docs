@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Odynerus spinipes: iso. Richards: 1980
+# Odynerus spinipes: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

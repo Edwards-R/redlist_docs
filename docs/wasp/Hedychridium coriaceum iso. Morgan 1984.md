@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Hedychridium coriaceum: iso. Morgan: 1984
+# Hedychridium coriaceum: iso. Morgan: 1984
 
 ## Provisional Red List status: LC
 - A2 b,c

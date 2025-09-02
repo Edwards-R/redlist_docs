@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Hypoponera punctatissima agg: iso. Seifert: 2018
+# Hypoponera punctatissima agg: iso. Seifert: 2018
 
 ## Provisional Red List status: 
 

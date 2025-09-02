@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Vespula vulgaris: iso. Archer: 1989
+# Vespula vulgaris: iso. Archer: 1989
 
 ## Provisional Red List status: LC
 - A2 b,c

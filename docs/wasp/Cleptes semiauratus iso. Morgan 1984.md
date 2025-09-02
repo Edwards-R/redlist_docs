@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Cleptes semiauratus: iso. Morgan: 1984
+# Cleptes semiauratus: iso. Morgan: 1984
 
 ## Provisional Red List status: NE
 

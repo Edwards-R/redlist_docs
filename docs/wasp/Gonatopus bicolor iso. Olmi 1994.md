@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Gonatopus bicolor: iso. Olmi: 1994
+# Gonatopus bicolor: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

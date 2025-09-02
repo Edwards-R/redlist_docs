@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Nysson spinosus: iso. Richards: 1980
+# Nysson spinosus: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

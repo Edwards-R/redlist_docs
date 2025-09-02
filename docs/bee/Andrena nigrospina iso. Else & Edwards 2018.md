@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena nigrospina: iso. Else & Edwards: 2018
+# Andrena nigrospina: iso. Else & Edwards: 2018
 
 ## Provisional Red List status: DD
 - A2 b

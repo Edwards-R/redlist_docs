@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada glabella: iso. Falk et al: 2022
+# Nomada glabella: iso. Falk et al: 2022
 
 ## Provisional Red List status: NE
 

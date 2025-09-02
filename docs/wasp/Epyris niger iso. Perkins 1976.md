@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Epyris niger: iso. Perkins: 1976
+# Epyris niger: iso. Perkins: 1976
 
 ## Provisional Red List status: LC
 - A2 b,c

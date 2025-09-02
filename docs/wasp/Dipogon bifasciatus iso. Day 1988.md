@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Dipogon bifasciatus: iso. Day: 1988
+# Dipogon bifasciatus: iso. Day: 1988
 
 ## Provisional Red List status: LC
 - B1 a,b, 

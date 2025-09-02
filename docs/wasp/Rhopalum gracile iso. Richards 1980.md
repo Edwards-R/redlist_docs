@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Rhopalum gracile: iso. Richards: 1980
+# Rhopalum gracile: iso. Richards: 1980
 
 ## Provisional Red List status: DD
 - A2 b,c

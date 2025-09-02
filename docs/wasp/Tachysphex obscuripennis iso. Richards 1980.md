@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Tachysphex obscuripennis: iso. Richards: 1980
+# Tachysphex obscuripennis: iso. Richards: 1980
 
 ## Provisional Red List status: NA
 

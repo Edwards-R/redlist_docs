@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus ruderarius: iso. Cameron et al: 2007
+# Bombus ruderarius: iso. Cameron et al: 2007
 
 ## Provisional Red List status: VU
 - A2 b,c

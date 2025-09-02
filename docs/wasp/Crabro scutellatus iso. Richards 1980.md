@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Crabro scutellatus: iso. Richards: 1980
+# Crabro scutellatus: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

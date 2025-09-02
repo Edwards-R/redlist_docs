@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Holepyris glabratus: iso. Else et al: 2016
+# Holepyris glabratus: iso. Else et al: 2016
 
 ## Provisional Red List status: NE
 

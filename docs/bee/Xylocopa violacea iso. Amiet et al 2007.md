@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Xylocopa violacea: iso. Amiet et al: 2007
+# Xylocopa violacea: iso. Amiet et al: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

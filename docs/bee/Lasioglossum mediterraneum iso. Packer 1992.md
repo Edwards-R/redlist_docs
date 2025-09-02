@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Lasioglossum mediterraneum: iso. Packer: 1992
+# Lasioglossum mediterraneum: iso. Packer: 1992
 
 ## Provisional Red List status: NA
 

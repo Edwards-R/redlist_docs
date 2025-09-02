@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Monosapyga clavicornis: iso. Amiet: 2008
+# Monosapyga clavicornis: iso. Amiet: 2008
 
 ## Provisional Red List status: LC
 - A2 b,c

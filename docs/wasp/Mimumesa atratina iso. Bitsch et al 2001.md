@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Mimumesa atratina: iso. Bitsch et al: 2001
+# Mimumesa atratina: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: DD
 - A2 b,c

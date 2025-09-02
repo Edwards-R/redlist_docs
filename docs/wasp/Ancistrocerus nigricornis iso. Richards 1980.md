@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Ancistrocerus nigricornis: iso. Richards: 1980
+# Ancistrocerus nigricornis: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

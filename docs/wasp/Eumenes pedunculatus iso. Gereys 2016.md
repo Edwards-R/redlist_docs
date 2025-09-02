@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Eumenes pedunculatus: iso. Gereys: 2016
+# Eumenes pedunculatus: iso. Gereys: 2016
 
 ## Provisional Red List status: NE
 

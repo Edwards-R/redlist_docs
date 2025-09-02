@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Lasioglossum nitidiusculum: iso. Amiet et al: 2001
+# Lasioglossum nitidiusculum: iso. Amiet et al: 2001
 
 ## Provisional Red List status: NT
 - A2 b,c

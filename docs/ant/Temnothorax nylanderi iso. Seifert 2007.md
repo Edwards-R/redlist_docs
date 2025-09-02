@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Temnothorax nylanderi: iso. Seifert: 2007
+# Temnothorax nylanderi: iso. Seifert: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

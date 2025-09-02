@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada facilis: iso. Notton & Norman: 2017
+# Nomada facilis: iso. Notton & Norman: 2017
 
 ## Provisional Red List status: DD
 - A2 b

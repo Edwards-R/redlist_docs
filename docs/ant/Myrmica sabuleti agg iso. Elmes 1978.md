@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Myrmica sabuleti agg: iso. Elmes: 1978
+# Myrmica sabuleti agg: iso. Elmes: 1978
 
 ## Provisional Red List status: LC
 - A2 b,c

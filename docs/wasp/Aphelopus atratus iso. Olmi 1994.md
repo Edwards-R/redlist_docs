@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Aphelopus atratus: iso. Olmi: 1994
+# Aphelopus atratus: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada succincta: iso. Amiet et al: 2007
+# Nomada succincta: iso. Amiet et al: 2007
 
 ## Provisional Red List status: NA
 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena gravida: iso. Amiet et al: 2010
+# Andrena gravida: iso. Amiet et al: 2010
 
 ## Provisional Red List status: LC
 - A2 b,c

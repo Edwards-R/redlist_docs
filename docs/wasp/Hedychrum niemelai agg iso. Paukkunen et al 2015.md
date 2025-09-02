@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Hedychrum niemelai agg: iso. Paukkunen et al: 2015
+# Hedychrum niemelai agg: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: 
 

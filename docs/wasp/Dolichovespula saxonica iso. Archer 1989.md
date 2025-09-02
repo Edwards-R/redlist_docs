@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Dolichovespula saxonica: iso. Archer: 1989
+# Dolichovespula saxonica: iso. Archer: 1989
 
 ## Provisional Red List status: LC
 - A2 b,c

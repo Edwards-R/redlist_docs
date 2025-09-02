@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus pratorum: iso. Cameron et al: 2007
+# Bombus pratorum: iso. Cameron et al: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

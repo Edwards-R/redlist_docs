@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Arachnospila consobrina: iso. Day: 1988
+# Arachnospila consobrina: iso. Day: 1988
 
 ## Provisional Red List status: EN
 - B2 a,b, iii

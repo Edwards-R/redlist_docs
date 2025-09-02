@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Aphelopus serratus: iso. Olmi: 1994
+# Aphelopus serratus: iso. Olmi: 1994
 
 ## Provisional Red List status: LC
 - B1 a,b, 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena nigriceps: iso. Perkins: 1919
+# Andrena nigriceps: iso. Perkins: 1919
 
 ## Provisional Red List status: LC
 - A2 b,c

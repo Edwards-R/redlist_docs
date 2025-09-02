@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena tridentata: iso. Perkins: 1919
+# Andrena tridentata: iso. Perkins: 1919
 
 ## Provisional Red List status: RE
 - A2 

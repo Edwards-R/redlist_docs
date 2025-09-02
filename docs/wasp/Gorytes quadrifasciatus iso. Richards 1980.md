@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Gorytes quadrifasciatus: iso. Richards: 1980
+# Gorytes quadrifasciatus: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

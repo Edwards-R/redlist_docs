@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Lonchodryinus ruficornis: iso. Olmi: 1994
+# Lonchodryinus ruficornis: iso. Olmi: 1994
 
 ## Provisional Red List status: LC
 - B1 a,b, 

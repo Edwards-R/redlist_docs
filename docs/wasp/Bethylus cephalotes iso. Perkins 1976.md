@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Bethylus cephalotes: iso. Perkins: 1976
+# Bethylus cephalotes: iso. Perkins: 1976
 
 ## Provisional Red List status: LC
 - B1 a,b, 

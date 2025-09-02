@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Osmia pilicornis: iso. Amiet et al: 2004
+# Osmia pilicornis: iso. Amiet et al: 2004
 
 ## Provisional Red List status: EN
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pseudepipona herrichii: iso. Richards: 1980
+# Pseudepipona herrichii: iso. Richards: 1980
 
 ## Provisional Red List status: EN
 - B1 a,b, iii

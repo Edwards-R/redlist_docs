@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Lasius meridionalis: iso. Seifert: 1988
+# Lasius meridionalis: iso. Seifert: 1988
 
 ## Provisional Red List status: LC
 - B1 a,b, 

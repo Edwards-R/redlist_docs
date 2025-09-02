@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Entomognathus brevis: iso. Richards: 1980
+# Entomognathus brevis: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

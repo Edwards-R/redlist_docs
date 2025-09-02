@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada integra agg: iso. Notton & Norman: 2017
+# Nomada integra agg: iso. Notton & Norman: 2017
 
 ## Provisional Red List status: 
 

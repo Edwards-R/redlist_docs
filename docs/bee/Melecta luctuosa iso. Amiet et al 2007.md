@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Melecta luctuosa: iso. Amiet et al: 2007
+# Melecta luctuosa: iso. Amiet et al: 2007
 
 ## Provisional Red List status: RE
 - A2 

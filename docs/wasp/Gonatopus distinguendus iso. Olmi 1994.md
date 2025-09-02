@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Gonatopus distinguendus: iso. Olmi: 1994
+# Gonatopus distinguendus: iso. Olmi: 1994
 
 ## Provisional Red List status: DD
 - A2 b,c

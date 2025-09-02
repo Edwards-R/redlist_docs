@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pemphredon fabricii: iso. Falk & Early: 2021
+# Pemphredon fabricii: iso. Falk & Early: 2021
 
 ## Provisional Red List status: NE
 

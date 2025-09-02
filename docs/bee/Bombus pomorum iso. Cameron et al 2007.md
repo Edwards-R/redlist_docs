@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Bombus pomorum: iso. Cameron et al: 2007
+# Bombus pomorum: iso. Cameron et al: 2007
 
 ## Provisional Red List status: NE
 

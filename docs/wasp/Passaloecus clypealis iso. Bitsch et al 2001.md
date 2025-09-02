@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Passaloecus clypealis: iso. Bitsch et al: 2001
+# Passaloecus clypealis: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: LC
 - A2 b,c

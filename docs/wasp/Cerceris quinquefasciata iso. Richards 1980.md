@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Cerceris quinquefasciata: iso. Richards: 1980
+# Cerceris quinquefasciata: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

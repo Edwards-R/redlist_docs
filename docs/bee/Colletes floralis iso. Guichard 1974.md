@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Colletes floralis: iso. Guichard: 1974
+# Colletes floralis: iso. Guichard: 1974
 
 ## Provisional Red List status: VU
 - B2 a,b, i

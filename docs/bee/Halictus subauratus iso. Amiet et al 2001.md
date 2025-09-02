@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Halictus subauratus: iso. Amiet et al: 2001
+# Halictus subauratus: iso. Amiet et al: 2001
 
 ## Provisional Red List status: NA
 

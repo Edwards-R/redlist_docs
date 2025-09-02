@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Myrmica karavajevi: iso. Radchenko & Elmes: 2003
+# Myrmica karavajevi: iso. Radchenko & Elmes: 2003
 
 ## Provisional Red List status: LC
 - A2 b,c

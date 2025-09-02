@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Tetramorium bicarinatum: iso. Bolton: 2019
+# Tetramorium bicarinatum: iso. Bolton: 2019
 
 ## Provisional Red List status: NE
 

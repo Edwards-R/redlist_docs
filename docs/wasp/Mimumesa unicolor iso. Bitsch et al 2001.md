@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Mimumesa unicolor: iso. Bitsch et al: 2001
+# Mimumesa unicolor: iso. Bitsch et al: 2001
 
 ## Provisional Red List status: LC
 - A2 b,c

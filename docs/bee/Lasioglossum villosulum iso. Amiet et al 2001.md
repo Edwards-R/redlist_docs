@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Lasioglossum villosulum: iso. Amiet et al: 2001
+# Lasioglossum villosulum: iso. Amiet et al: 2001
 
 ## Provisional Red List status: LC
 - A2 b,c

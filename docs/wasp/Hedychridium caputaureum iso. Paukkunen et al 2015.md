@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Hedychridium caputaureum: iso. Paukkunen et al: 2015
+# Hedychridium caputaureum: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: NE
 

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Lasioglossum quadrinotatum: iso. Amiet et al: 2001
+# Lasioglossum quadrinotatum: iso. Amiet et al: 2001
 
 ## Provisional Red List status: LC
 - A2 b,c

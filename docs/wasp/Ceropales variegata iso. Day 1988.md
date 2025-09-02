@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Ceropales variegata: iso. Day: 1988
+# Ceropales variegata: iso. Day: 1988
 
 ## Provisional Red List status: DD
 - A2 b,c

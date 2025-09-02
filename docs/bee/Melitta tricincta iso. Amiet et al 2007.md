@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Melitta tricincta: iso. Amiet et al: 2007
+# Melitta tricincta: iso. Amiet et al: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

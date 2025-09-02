@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Andrena rosae: iso. Else & Edwards: 2018
+# Andrena rosae: iso. Else & Edwards: 2018
 
 ## Provisional Red List status: LC
 - A2 b,c

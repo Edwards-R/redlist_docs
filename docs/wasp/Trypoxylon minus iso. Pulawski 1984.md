@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Trypoxylon minus: iso. Pulawski: 1984
+# Trypoxylon minus: iso. Pulawski: 1984
 
 ## Provisional Red List status: NE
 

@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Crossocerus podagricus: iso. Richards: 1980
+# Crossocerus podagricus: iso. Richards: 1980
 
 ## Provisional Red List status: LC
 - A2 b,c

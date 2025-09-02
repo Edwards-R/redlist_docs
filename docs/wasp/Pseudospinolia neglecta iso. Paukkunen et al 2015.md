@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pseudospinolia neglecta: iso. Paukkunen et al: 2015
+# Pseudospinolia neglecta: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: LC
 - B1 a,b, 

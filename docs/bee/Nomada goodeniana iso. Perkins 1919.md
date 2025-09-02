@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada goodeniana: iso. Perkins: 1919
+# Nomada goodeniana: iso. Perkins: 1919
 
 ## Provisional Red List status: LC
 - A2 b,c

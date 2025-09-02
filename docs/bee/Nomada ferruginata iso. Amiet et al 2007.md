@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada ferruginata: iso. Amiet et al: 2007
+# Nomada ferruginata: iso. Amiet et al: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Nomada subcornuta: iso. Falk: 2004
+# Nomada subcornuta: iso. Falk: 2004
 
 ## Provisional Red List status: DD
 - A2 

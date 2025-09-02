@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Bembix rostrata: iso. Bitsch et al: 1997
+# Bembix rostrata: iso. Bitsch et al: 1997
 
 ## Provisional Red List status: NA
 

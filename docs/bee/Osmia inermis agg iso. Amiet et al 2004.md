@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Osmia inermis agg: iso. Amiet et al: 2004
+# Osmia inermis agg: iso. Amiet et al: 2004
 
 ## Provisional Red List status: ERROR
 

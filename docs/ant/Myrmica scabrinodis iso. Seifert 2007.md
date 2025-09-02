@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Myrmica scabrinodis: iso. Seifert: 2007
+# Myrmica scabrinodis: iso. Seifert: 2007
 
 ## Provisional Red List status: NE
 

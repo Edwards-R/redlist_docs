@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Osmia niveata: iso. Amiet et al: 2004
+# Osmia niveata: iso. Amiet et al: 2004
 
 ## Provisional Red List status: NE
 

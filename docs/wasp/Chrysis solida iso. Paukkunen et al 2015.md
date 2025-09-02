@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Chrysis solida: iso. Paukkunen et al: 2015
+# Chrysis solida: iso. Paukkunen et al: 2015
 
 ## Provisional Red List status: NE
 

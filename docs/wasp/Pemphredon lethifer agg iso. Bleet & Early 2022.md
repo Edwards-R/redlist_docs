@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Pemphredon lethifer agg: iso. Bleet & Early: 2022
+# Pemphredon lethifer agg: iso. Bleet & Early: 2022
 
 ## Provisional Red List status: ERROR
 

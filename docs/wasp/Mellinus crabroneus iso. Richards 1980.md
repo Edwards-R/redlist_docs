@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Mellinus crabroneus: iso. Richards: 1980
+# Mellinus crabroneus: iso. Richards: 1980
 
 ## Provisional Red List status: RE
 - A2 

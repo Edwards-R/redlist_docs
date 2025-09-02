@@ -1,8 +1,8 @@
 ---
-    parent: wasp
-    ---
+parent: wasp
+---
 
-    # Harpactus tumidus: iso. Bitsch et al: 1997
+# Harpactus tumidus: iso. Bitsch et al: 1997
 
 ## Provisional Red List status: LC
 - A2 b,c

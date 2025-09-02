@@ -1,8 +1,8 @@
 ---
-    parent: ant
-    ---
+parent: ant
+---
 
-    # Lasius myops: iso. Seifert: 2007
+# Lasius myops: iso. Seifert: 2007
 
 ## Provisional Red List status: NA
 

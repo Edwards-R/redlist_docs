@@ -1,8 +1,8 @@
 ---
-    parent: bee
-    ---
+parent: bee
+---
 
-    # Halictus rubicundus: iso. Amiet et al: 2001
+# Halictus rubicundus: iso. Amiet et al: 2001
 
 ## Provisional Red List status: LC
 - A2 b,c

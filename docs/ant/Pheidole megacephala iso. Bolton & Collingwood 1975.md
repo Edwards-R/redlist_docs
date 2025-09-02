@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Pheidole megacephala: iso. Bolton & Collingwood: 1975
+    # Pheidole megacephala: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: NE
 

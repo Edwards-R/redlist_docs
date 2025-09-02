@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Lasius platythorax: iso. Seifert: 1992
+    # Lasius platythorax: iso. Seifert: 1992
 
 ## Provisional Red List status: LC
 - A2 b,c

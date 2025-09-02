@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Formica pratensis: iso. Bolton & Collingwood: 1975
+    # Formica pratensis: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: RE
 - A2 

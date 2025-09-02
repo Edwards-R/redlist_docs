@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Myrmica rubra: iso. Bolton & Collingwood: 1975
+    # Myrmica rubra: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Lasius psammophilus: iso. Seifert: 2007
+    # Lasius psammophilus: iso. Seifert: 2007
 
 ## Provisional Red List status: LC
 - A2 b,c

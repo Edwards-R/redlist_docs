@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Myrmica sulcinodis: iso. Bolton & Collingwood: 1975
+    # Myrmica sulcinodis: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: LC
 - A2 b,c

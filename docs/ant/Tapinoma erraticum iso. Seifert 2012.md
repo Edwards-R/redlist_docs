@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Tapinoma erraticum: iso. Seifert: 2012
+    # Tapinoma erraticum: iso. Seifert: 2012
 
 ## Provisional Red List status: DD
 - A2 b,c

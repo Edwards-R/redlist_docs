@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Strumigenys perplexa: iso. Hamer et al: 2021
+    # Strumigenys perplexa: iso. Hamer et al: 2021
 
 ## Provisional Red List status: NE
 

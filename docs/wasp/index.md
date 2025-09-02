@@ -1,6 +1,7 @@
 ---
-parent: 1992-2021 GB Aculeate Hymenoptera Red List (DRAFT)
-title: wasp
----
+    parent: 1992-2021 GB Aculeate Hymenoptera Red List
+    title: wasp
+    ---
 
-# Bee taxa
+    # Wasp taxa
+    

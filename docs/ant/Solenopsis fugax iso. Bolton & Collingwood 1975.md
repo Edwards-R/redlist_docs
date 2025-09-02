@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Solenopsis fugax: iso. Bolton & Collingwood: 1975
+    # Solenopsis fugax: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: DD
 - A2 b,c

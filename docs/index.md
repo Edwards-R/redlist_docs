@@ -1,5 +1,5 @@
 ---
-title: 1992-2021 GB Aculeate Hymenoptera Red List (DRAFT)
+title: 1992-2021 GB Aculeate Hymenoptera Red List
 ---
 
 # 1992-2021 GB Aculeate Hymenoptera Red List by Hymettus

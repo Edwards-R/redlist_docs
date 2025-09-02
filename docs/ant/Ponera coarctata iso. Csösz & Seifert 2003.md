@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Ponera coarctata: iso. Csösz & Seifert: 2003
+    # Ponera coarctata: iso. Csösz & Seifert: 2003
 
 ## Provisional Red List status: LC
 - A2 b,c

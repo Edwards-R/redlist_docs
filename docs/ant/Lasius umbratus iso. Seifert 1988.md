@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Lasius umbratus: iso. Seifert: 1988
+    # Lasius umbratus: iso. Seifert: 1988
 
 ## Provisional Red List status: LC
 - A2 b,c

@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Myrmica lonae: iso. Seifert: 2000
+    # Myrmica lonae: iso. Seifert: 2000
 
 ## Provisional Red List status: NE
 

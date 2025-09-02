@@ -1,8 +1,8 @@
 ---
-parent: ant
----
+    parent: ant
+    ---
 
-# Temnothorax interruptus: iso. Seifert: 2007
+    # Temnothorax interruptus: iso. Seifert: 2007
 
 ## Provisional Red List status: EN
 - B2 a,b, iii

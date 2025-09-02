@@ -4,7 +4,7 @@ parent: wasp
 
 # Mimumesa littoralis agg: iso. Bitsch et al: 2001
 
-## Provisional Red List status: ERROR
+## Provisional Red List status: NE
 
 ## Red List Justification
 *N/A*
@@ -80,7 +80,7 @@ parent: wasp
 |  |  |
 |---|---|
 |**Action**|Maintained|
-|**Reviewed Status**|ERROR|
+|**Reviewed Status**|NE|
 |**Justification**||
 
 

@@ -4,7 +4,7 @@ parent: bee
 
 # Andrena ovatula agg: iso. Praz et al: 2022
 
-## Provisional Red List status: 
+## Provisional Red List status: NE
 
 ## Red List Justification
 *N/A*
@@ -85,8 +85,8 @@ parent: bee
 ### Wider Review
 |  |  |
 |---|---|
-|**Action**||
-|**Reviewed Status**||
+|**Action**|Maintained|
+|**Reviewed Status**|NE|
 |**Justification**||
 
 

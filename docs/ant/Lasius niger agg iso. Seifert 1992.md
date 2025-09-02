@@ -5,7 +5,6 @@ parent: ant
 # Lasius niger agg: iso. Seifert: 1992
 
 ## Provisional Red List status: NE
-- D2
 
 ## Red List Justification
 *N/A*
@@ -87,8 +86,8 @@ Nationally Frequent (*NF*)
 ### Wider Review
 |  |  |
 |---|---|
-|**Action**||
-|**Reviewed Status**||
+|**Action**|Maintained|
+|**Reviewed Status**|NE|
 |**Justification**||
 
 

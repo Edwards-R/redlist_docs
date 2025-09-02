@@ -4,7 +4,7 @@ parent: ant
 
 # Tetramorium caespitum agg: iso. Schlick-Steiner: 2006
 
-## Provisional Red List status: 
+## Provisional Red List status: NE
 
 ## Red List Justification
 *N/A*
@@ -85,8 +85,8 @@ parent: ant
 ### Wider Review
 |  |  |
 |---|---|
-|**Action**||
-|**Reviewed Status**||
+|**Action**|Maintained|
+|**Reviewed Status**|NE|
 |**Justification**||
 
 

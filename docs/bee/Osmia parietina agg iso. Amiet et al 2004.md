@@ -4,7 +4,7 @@ parent: bee
 
 # Osmia parietina agg: iso. Amiet et al: 2004
 
-## Provisional Red List status: ERROR
+## Provisional Red List status: NE
 
 ## Red List Justification
 *N/A*
@@ -80,7 +80,7 @@ parent: bee
 |  |  |
 |---|---|
 |**Action**|Maintained|
-|**Reviewed Status**|ERROR|
+|**Reviewed Status**|NE|
 |**Justification**||
 
 

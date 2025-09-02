@@ -4,7 +4,7 @@ parent: wasp
 
 # Pemphredon lethifer agg: iso. Bleet & Early: 2022
 
-## Provisional Red List status: ERROR
+## Provisional Red List status: NE
 
 ## Red List Justification
 *N/A*
@@ -80,7 +80,7 @@ parent: wasp
 |  |  |
 |---|---|
 |**Action**|Maintained|
-|**Reviewed Status**|ERROR|
+|**Reviewed Status**|NE|
 |**Justification**||
 
 

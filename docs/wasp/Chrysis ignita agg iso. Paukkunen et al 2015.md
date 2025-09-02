@@ -4,7 +4,7 @@ parent: wasp
 
 # Chrysis ignita agg: iso. Paukkunen et al: 2015
 
-## Provisional Red List status: 
+## Provisional Red List status: NE
 
 ## Red List Justification
 *N/A*
@@ -85,8 +85,8 @@ parent: wasp
 ### Wider Review
 |  |  |
 |---|---|
-|**Action**||
-|**Reviewed Status**||
+|**Action**|Maintained|
+|**Reviewed Status**|NE|
 |**Justification**||
 
 

@@ -4,7 +4,7 @@ parent: wasp
 
 # Pemphredon lethifer agg: iso. Falk & Early: 2021
 
-## Provisional Red List status: 
+## Provisional Red List status: NE
 
 ## Red List Justification
 *N/A*
@@ -85,8 +85,8 @@ parent: wasp
 ### Wider Review
 |  |  |
 |---|---|
-|**Action**||
-|**Reviewed Status**||
+|**Action**|Maintained|
+|**Reviewed Status**|NE|
 |**Justification**||
 
 

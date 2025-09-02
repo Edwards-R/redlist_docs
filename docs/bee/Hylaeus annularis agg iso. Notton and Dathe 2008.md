@@ -4,7 +4,7 @@ parent: bee
 
 # Hylaeus annularis agg: iso. Notton and Dathe: 2008
 
-## Provisional Red List status: ERROR
+## Provisional Red List status: NE
 
 ## Red List Justification
 *N/A*
@@ -80,7 +80,7 @@ parent: bee
 |  |  |
 |---|---|
 |**Action**|Maintained|
-|**Reviewed Status**|ERROR|
+|**Reviewed Status**|NE|
 |**Justification**||
 
 

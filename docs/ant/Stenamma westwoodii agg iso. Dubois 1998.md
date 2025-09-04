@@ -6,9 +6,12 @@ parent: ant
 
 ## Provisional Red List status: NE
 
+
 ## Red List Justification
 *N/A*
+
 ### Narrative
+
 
 
 
@@ -41,6 +44,7 @@ parent: ant
 |1992 - 2001|19|60|60162|68%|
 |2002 - 2011|19|64|48210|55%|
 |2012 - 2021|0|0|0|0%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -48,6 +52,7 @@ parent: ant
 |2007 - 2011|8|28|21882|25%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -56,39 +61,45 @@ parent: ant
 |dEoO|LC|?%|||
 |Bayesian|LC|1%|||
 |Bayesian (Expert interpretation)||*N/A*|||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|95400|||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|124|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -97,5 +108,3 @@ parent: ant
 |Calculated|NS|
 |Final||
 |Moderation support||
-
-

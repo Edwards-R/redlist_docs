@@ -5,17 +5,19 @@ parent: bee
 # Colletes similis: iso. Guichard: 1974
 
 ## Provisional Red List status: LC
-- A2 b,c
-- B1 a,b, 
-- B2 a,b, 
+- A2bc
+- B1ab
+- B2ab
 - D2
 
 ## Red List Justification
 *N/A*
+
 ### Narrative
 
 
 The most threatening accepted population change estimate is -4.0% (discrete Extent of Occurrence), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO (157,900 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (1,728 km²) is below the 2,000 km² VU threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+
 ### Quantified Attributes
 |Attribute|Result|
 |---|---|
@@ -46,6 +48,7 @@ Nationally Frequent (*NF*)
 |1992 - 2001|307|704|167041|82%|
 |2002 - 2011|277|692|156536|77%|
 |2012 - 2021|213|584|177129|87%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -53,6 +56,7 @@ Nationally Frequent (*NF*)
 |2007 - 2011|117|364|113595|56%|
 |2012 - 2016|101|292|142854|70%|
 |2017 - 2021|112|320|136989|68%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -61,39 +65,45 @@ Nationally Frequent (*NF*)
 |dEoO|LC|-4%|Yes||
 |Bayesian|LC|11%|Yes||
 |Bayesian (Expert interpretation)|LC|*N/A*|Yes||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|157900|Yes||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1728|Yes||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -102,5 +112,3 @@ Nationally Frequent (*NF*)
 |Calculated|NF|
 |Final|NF|
 |Moderation support||
-
-

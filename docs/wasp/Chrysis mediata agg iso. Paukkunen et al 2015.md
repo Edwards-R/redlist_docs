@@ -6,9 +6,12 @@ parent: wasp
 
 ## Provisional Red List status: NE
 
+
 ## Red List Justification
 *N/A*
+
 ### Narrative
+
 
 
 
@@ -41,6 +44,7 @@ parent: wasp
 |1992 - 2001|54|172|88651|58%|
 |2002 - 2011|77|172|112078|73%|
 |2012 - 2021|6|16|17360|11%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -48,6 +52,7 @@ parent: wasp
 |2007 - 2011|28|64|52418|34%|
 |2012 - 2016|6|16|17360|11%|
 |2017 - 2021|0|0|0|0%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -56,39 +61,45 @@ parent: wasp
 |dEoO|CE|-100%|||
 |Bayesian|LC|2%|||
 |Bayesian (Expert interpretation)||*N/A*|||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|170400|||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|360|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -97,5 +108,3 @@ parent: wasp
 |Calculated|NS|
 |Final||
 |Moderation support||
-
-

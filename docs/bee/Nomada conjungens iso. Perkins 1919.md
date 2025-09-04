@@ -5,15 +5,17 @@ parent: bee
 # Nomada conjungens: iso. Perkins: 1919
 
 ## Provisional Red List status: LC
-- A2 b,c
+- A2bc
 - D2
 
 ## Red List Justification
 *N/A*
+
 ### Narrative
 
 
 The most threatening accepted population decline was inferred at 0% using expert inference (A2). This does not exceed the 30% decline required for qualification as VU. The EoO was not accepted, the AoO was not accepted. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+
 ### Quantified Attributes
 |Attribute|Result|
 |---|---|
@@ -44,6 +46,7 @@ Insufficient Data (*ID*)
 |1992 - 2001|12|32|38436|47%|
 |2002 - 2011|11|28|31284|38%|
 |2012 - 2021|18|48|43529|53%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -51,6 +54,7 @@ Insufficient Data (*ID*)
 |2007 - 2011|6|16|22030|27%|
 |2012 - 2016|1|4|6694|8%|
 |2017 - 2021|17|44|42837|52%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -59,39 +63,45 @@ Insufficient Data (*ID*)
 |dEoO|LC|540%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Following the host expansion|Yes||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|71600|No|Insufficient data|
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|100|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -100,5 +110,3 @@ Insufficient Data (*ID*)
 |Calculated|NS|
 |Final|ID|
 |Moderation support||
-
-

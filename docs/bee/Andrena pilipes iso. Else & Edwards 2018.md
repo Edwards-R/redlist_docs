@@ -5,15 +5,17 @@ parent: bee
 # Andrena pilipes: iso. Else & Edwards: 2018
 
 ## Provisional Red List status: LC
-- B1 a,b, 
-- B2 a,b, 
+- B1ab
+- B2ab
 
 ## Red List Justification
 *N/A*
+
 ### Narrative
 
 
 The most threatening accepted population decline was inferred at 0% using expert inference (A2). This does not exceed the 30% decline required for qualification as VU. The EoO (62,250 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (276 km²) is below the 500 km² EN threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+
 ### Quantified Attributes
 |Attribute|Result|
 |---|---|
@@ -44,6 +46,7 @@ Insufficient Data (*ID*)
 |1992 - 2001|2|8|13388|15%|
 |2002 - 2011|6|20|31446|37%|
 |2012 - 2021|122|256|83643|98%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -51,6 +54,7 @@ Insufficient Data (*ID*)
 |2007 - 2011|4|12|20082|23%|
 |2012 - 2016|8|24|22091|26%|
 |2017 - 2021|114|244|83415|98%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -59,39 +63,45 @@ Insufficient Data (*ID*)
 |dEoO|LC|278%|No|Nomenclature change|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Taxon results from a recent nomenclatural change. There is insufficient data and knowledge to arrive at a supportable conclusion.|Yes||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|62250|Yes||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|276|Yes||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Re-assessed|
 |**Reviewed Status**|LC|
 |**Justification**|The core review panel considers there to be too much uncertainty surrounding potential records to be able to assign records to either side of this split. However, the evidence provided is sufficient to assign this taxon to B1 & B2 (a,b) based on the distribution of known records confirmed to be A. pilipes: iso. Else & Edwards: 2018|
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -100,5 +110,3 @@ Insufficient Data (*ID*)
 |Calculated|NS|
 |Final|ID|
 |Moderation support|Taxon results from a recent nomenclatural change.|
-
-

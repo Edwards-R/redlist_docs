@@ -5,18 +5,20 @@ parent: wasp
 # Psenulus chevrieri: iso. Schmid-Egger: 2016
 
 ## Provisional Red List status: DD
-- A2 b
-- A3 b
-- B1 a,b, 
-- B2 a,b, 
+- A2b
+- A3b
+- B1ab
+- B2ab
 - D2
 
 ## Red List Justification
 *N/A*
+
 ### Narrative
 This solitary wasp was subject to a peri-assessment nomenclatural change in 2016. The nomenclatural split is too recent to allow elucidation of the true distribution of the taxon.
 
 Insufficient data were available to reach a supportable conclusion on the threat status for this taxon.
+
 ### Quantified Attributes
 |Attribute|Result|
 |---|---|
@@ -47,6 +49,7 @@ Insufficient Data (*ID*)
 |1992 - 2001|1|4|6694|28%|
 |2002 - 2011|6|24|21285|90%|
 |2012 - 2021|9|24|17357|73%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -54,6 +57,7 @@ Insufficient Data (*ID*)
 |2007 - 2011|3|12|16066|68%|
 |2012 - 2016|1|4|6694|28%|
 |2017 - 2021|8|20|17314|73%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -62,39 +66,45 @@ Insufficient Data (*ID*)
 |dEoO|LC|159%|No|Low data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Recent split, with very little data.|Yes||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|DD|
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD|6550|Yes||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD|52|Yes||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|A new split. Will likely become LC once more data becomes available.|
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -103,5 +113,3 @@ Insufficient Data (*ID*)
 |Calculated|NR|
 |Final|ID|
 |Moderation support|Recent split|
-
-

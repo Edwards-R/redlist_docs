@@ -6,10 +6,13 @@ parent: wasp
 
 ## Provisional Red List status: NE
 
+
 ## Red List Justification
 Unresolved taxonomic and nomenclatural issues
+
 ### Narrative
 This species has unresolved taxonomic and nomenclatural issues, being treated differently in both older and modern keys, and therefore has not been evaluated.
+
 
 
 ### Quantified Attributes
@@ -41,6 +44,7 @@ This species has unresolved taxonomic and nomenclatural issues, being treated di
 |1992 - 2001|221|592|198932|73%|
 |2002 - 2011|207|540|198280|73%|
 |2012 - 2021|82|256|178027|65%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -48,6 +52,7 @@ This species has unresolved taxonomic and nomenclatural issues, being treated di
 |2007 - 2011|73|224|139213|51%|
 |2012 - 2016|48|164|112507|41%|
 |2017 - 2021|34|96|119774|44%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -56,39 +61,45 @@ This species has unresolved taxonomic and nomenclatural issues, being treated di
 |dEoO|LC|6%|||
 |Bayesian|LC|12%|||
 |Bayesian (Expert interpretation)||*N/A*|||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||No||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|359450|||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1324|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|No||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -97,5 +108,3 @@ This species has unresolved taxonomic and nomenclatural issues, being treated di
 |Calculated|NF|
 |Final||
 |Moderation support||
-
-

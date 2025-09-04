@@ -6,10 +6,13 @@ parent: wasp
 
 ## Provisional Red List status: NE
 
+
 ## Red List Justification
 *N/A*
+
 ### Narrative
 This wasp – which occurs naturally in tropical regions - is a gregarious external parasitoid of the larvae and pupae of the “cigarette beetle” - Lasioderma serricorne (Coleoptera: Anobiidae) - which itself is an injurious pest to stored dried products, other animals and vegetable materials. All records come from Warehouses. As such it is regarded as a synanthropic colonist and has not been evaluated.
+
 
 
 ### Quantified Attributes
@@ -35,6 +38,7 @@ This wasp – which occurs naturally in tropical regions - is a gregarious exter
 |1992 - 2001||||%|
 |2002 - 2011||||%|
 |2012 - 2021||||%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -42,6 +46,7 @@ This wasp – which occurs naturally in tropical regions - is a gregarious exter
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -50,39 +55,43 @@ This wasp – which occurs naturally in tropical regions - is a gregarious exter
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
-
-
-
 

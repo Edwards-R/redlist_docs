@@ -5,16 +5,18 @@ parent: wasp
 # Ceropales variegata: iso. Day: 1988
 
 ## Provisional Red List status: DD
-- A2 b,c
-- A3 b
+- A2bc
+- A3b
 - D2
 
 ## Red List Justification
 *N/A*
+
 ### Narrative
 This spider-hunting wasp has always been a rare heathland species with records confined to Dorset, Hampshire and Surrey, though there were no records for it between 1953 and the early 2000's. Incredibly difficult to detect, even if it is readily identified once seen. Modern records predominantly result from one surveyor using flower lures in south England. Further autecological work is required to understand the potential impact of threats. Major wildfires on lowland heathland may be of concern, but the impact and scale of such fires is currently not understood.
 
 Insufficient data were available to reach a supportable conclusion on the threat status for this taxon.
+
 ### Quantified Attributes
 |Attribute|Result|
 |---|---|
@@ -45,6 +47,7 @@ Nationally Rare (*NR*)
 |1992 - 2001|16|20|8594|58%|
 |2002 - 2011|5|12|14133|96%|
 |2012 - 2021|0|0|0|0%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -52,6 +55,7 @@ Nationally Rare (*NR*)
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -60,39 +64,45 @@ Nationally Rare (*NR*)
 |dEoO|LC|?%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|1900|No|Insufficient data|
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|32|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|Incredibly difficult to detect, even if readily identified once seen. Modern records predominantly result from one surveyor using flower lures. Further autecological work required to understand potential impact of threats. Major wildfires on lowland heathland may be of concern, but the impact and scale of such fires is currently not understood.|
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -101,5 +111,3 @@ Nationally Rare (*NR*)
 |Calculated|NR|
 |Final|NR|
 |Moderation support||
-
-

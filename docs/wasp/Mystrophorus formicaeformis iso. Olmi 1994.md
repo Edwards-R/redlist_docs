@@ -6,10 +6,13 @@ parent: wasp
 
 ## Provisional Red List status: NE
 
+
 ## Red List Justification
 Used for biological control
+
 ### Narrative
 There are only two historic records of the species from Hayling Island, Hampshire (“Hants: Hayling Island, 2, males, 1961, at roots of grass (J. A. J. Clark), 1 male 24.iv.1962 (D. J. Clark)” – Perkins 1976). It was used in biocontrol of pests in stored goods and is regarded as a synanthropic colonist and not evaluated.
+
 
 
 ### Quantified Attributes
@@ -35,6 +38,7 @@ There are only two historic records of the species from Hayling Island, Hampshir
 |1992 - 2001||||%|
 |2002 - 2011||||%|
 |2012 - 2021||||%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -42,6 +46,7 @@ There are only two historic records of the species from Hayling Island, Hampshir
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -50,39 +55,43 @@ There are only two historic records of the species from Hayling Island, Hampshir
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
-
-
-
 

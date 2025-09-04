@@ -5,17 +5,19 @@ parent: ant
 # Formica cunicularia: iso. Bolton & Collingwood: 1975
 
 ## Provisional Red List status: LC
-- A2 b,c
-- B1 a,b, 
-- B2 a,b, 
+- A2bc
+- B1ab
+- B2ab
 - D2
 
 ## Red List Justification
 *N/A*
+
 ### Narrative
 
 
 The most threatening accepted population decline was inferred at 0% using expert inference (A2). This does not exceed the 30% decline required for qualification as VU. The EoO (170,200 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (1,912 km²) is below the 2,000 km² VU threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+
 ### Quantified Attributes
 |Attribute|Result|
 |---|---|
@@ -46,6 +48,7 @@ Nationally Frequent (*NF*)
 |1992 - 2001|760|996|146219|83%|
 |2002 - 2011|743|916|141417|81%|
 |2012 - 2021|338|556|118073|67%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -53,6 +56,7 @@ Nationally Frequent (*NF*)
 |2007 - 2011|258|376|103789|59%|
 |2012 - 2016|200|336|109673|62%|
 |2017 - 2021|138|292|70373|40%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -61,39 +65,45 @@ Nationally Frequent (*NF*)
 |dEoO|VU|-36%|No|Insufficient data|
 |Bayesian|LC|5%|No|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC||Yes||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|170200|Yes||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|1912|Yes||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -102,5 +112,3 @@ Nationally Frequent (*NF*)
 |Calculated|NF|
 |Final|NF|
 |Moderation support||
-
-

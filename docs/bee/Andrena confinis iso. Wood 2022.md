@@ -5,15 +5,17 @@ parent: bee
 # Andrena confinis: iso. Wood: 2022
 
 ## Provisional Red List status: LC
-- A2 b
+- A2b
 - D2
 
 ## Red List Justification
 *N/A*
+
 ### Narrative
 
 
 The most threatening accepted population decline was inferred at 0% using expert inference (A2). This does not exceed the 30% decline required for qualification as VU. The EoO was not accepted, the AoO was not accepted. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+
 ### Quantified Attributes
 |Attribute|Result|
 |---|---|
@@ -44,6 +46,7 @@ Nationally Scarce (*NS*)
 |1992 - 2001|25|68|28427|49%|
 |2002 - 2011|18|60|33258|58%|
 |2012 - 2021|26|72|44222|77%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -51,6 +54,7 @@ Nationally Scarce (*NS*)
 |2007 - 2011|6|20|19778|34%|
 |2012 - 2016|12|32|28921|50%|
 |2017 - 2021|14|40|33603|58%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -59,39 +63,45 @@ Nationally Scarce (*NS*)
 |dEoO|LC|16%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes|Insufficient data|
 |Bayesian (Expert interpretation)|DD|*N/A*|No|Insufficient data|
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|LC|Transient population.|Yes||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|32250|No|Insufficient data|
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|188|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|LC|
 |**Justification**||
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -100,5 +110,3 @@ Nationally Scarce (*NS*)
 |Calculated|NS|
 |Final|NS|
 |Moderation support||
-
-

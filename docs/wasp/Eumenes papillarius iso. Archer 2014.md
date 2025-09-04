@@ -5,16 +5,18 @@ parent: wasp
 # Eumenes papillarius: iso. Archer: 2014
 
 ## Provisional Red List status: DD
-- A2 b,c
-- A3 b
+- A2bc
+- A3b
 - D2
 
 ## Red List Justification
 *N/A*
+
 ### Narrative
 This eumenine wasp builds mud cells on various vertical surfaces and is a predator of lepidopteran larvae. The two records (1991 and 2000) are both from Yorkshire.
 
 Insufficient data were available to reach a supportable conclusion on the threat status for this taxon.
+
 ### Quantified Attributes
 |Attribute|Result|
 |---|---|
@@ -45,6 +47,7 @@ Insufficient Data (*ID*)
 |1992 - 2001|1|4|6694|100%|
 |2002 - 2011|0|0|0|0%|
 |2012 - 2021|0|0|0|0%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -52,6 +55,7 @@ Insufficient Data (*ID*)
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -60,39 +64,45 @@ Insufficient Data (*ID*)
 |dEoO|LC|?%|No|Insufficient data|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|100|No|Insufficient data|
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**||
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -101,5 +111,3 @@ Insufficient Data (*ID*)
 |Calculated|NR|
 |Final|ID|
 |Moderation support||
-
-

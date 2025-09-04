@@ -6,10 +6,13 @@ parent: bee
 
 ## Provisional Red List status: NE
 
+
 ## Red List Justification
 Only known record from an extremely unlikely source known to have made other problematic determinations.
+
 ### Narrative
 There is considerable doubt over the veracity of the two late 19th Century records for this species and it is not evaluated.
+
 
 
 ### Quantified Attributes
@@ -35,6 +38,7 @@ There is considerable doubt over the veracity of the two late 19th Century recor
 |1992 - 2001||||%|
 |2002 - 2011||||%|
 |2012 - 2021||||%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -42,6 +46,7 @@ There is considerable doubt over the veracity of the two late 19th Century recor
 |2007 - 2011||||%|
 |2012 - 2016||||%|
 |2017 - 2021||||%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -50,39 +55,43 @@ There is considerable doubt over the veracity of the two late 19th Century recor
 |dEoO|DD|%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|DD||||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|DD||||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2||*N/A*|||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
-
-
-
 

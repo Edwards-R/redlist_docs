@@ -5,16 +5,18 @@ parent: bee
 # Nomada facilis: iso. Notton & Norman: 2017
 
 ## Provisional Red List status: DD
-- A2 b
-- A3 b
+- A2b
+- A3b
 - D2
 
 ## Red List Justification
 *N/A*
+
 ### Narrative
 There is a peri-assessment nomenclatural change for this parasitic bee - even though some older material has been re-assessed, there is insufficient data at present to determine a true distribution of the species in GB.
 
 Insufficient data were available to reach a supportable conclusion on the threat status for this taxon.
+
 ### Quantified Attributes
 |Attribute|Result|
 |---|---|
@@ -45,6 +47,7 @@ Insufficient Data (*ID*)
 |1992 - 2001|0|0|0|0%|
 |2002 - 2011|0|0|0|0%|
 |2012 - 2021|13|32|35618|100%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -52,6 +55,7 @@ Insufficient Data (*ID*)
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|13|32|35618|100%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -60,39 +64,45 @@ Insufficient Data (*ID*)
 |dEoO|LC|?%|No|Nomenclatural split|
 |Bayesian|DD|*NaN*%|Yes||
 |Bayesian (Expert interpretation)|DD|*N/A*|Yes||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD|Nomenclatural split with no time to obtain data yet|Yes||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||Yes||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations|>10|
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|17000|No|Nomenclatural split|
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|32|No|Nomenclatural split|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|DD|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|DD|
 |**Justification**|There is not enough data which has reached a reliable point to arrive at any statistically-based assessment.|
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -101,5 +111,3 @@ Insufficient Data (*ID*)
 |Calculated|NR|
 |Final|ID|
 |Moderation support||
-
-

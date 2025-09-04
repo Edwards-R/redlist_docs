@@ -6,10 +6,13 @@ parent: bee
 
 ## Provisional Red List status: NE
 
+
 ## Red List Justification
 The only record in the project time period is considered a misidentification.
+
 ### Narrative
 Although there are historic (19th Century and 1950) records, the only record in the project time period - from South Essex (near West Tilbury, leg. M E Archer, 29 June 2007) - is considered a misidentification and therefore the species has not been evaluated.
+
 
 
 ### Quantified Attributes
@@ -41,6 +44,7 @@ Although there are historic (19th Century and 1950) records, the only record in 
 |1992 - 2001|0|0|0|0%|
 |2002 - 2011|1|4|6694|100%|
 |2012 - 2021|0|0|0|0%|
+
 ### 5-year
 | Slice | # Records | AoO (sq km) | dEoO (sq km) |BU%A |
 |---|---|---|---|---|
@@ -48,6 +52,7 @@ Although there are historic (19th Century and 1950) records, the only record in 
 |2007 - 2011|0|0|0|0%|
 |2012 - 2016|0|0|0|0%|
 |2017 - 2021|0|0|0|0%|
+
 ### Criterion A2 (Statistical)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
@@ -56,39 +61,45 @@ Although there are historic (19th Century and 1950) records, the only record in 
 |dEoO|LC|?%|||
 |Bayesian|DD|*NaN*%|||
 |Bayesian (Expert interpretation)||*N/A*|||
+
 ### Criterion A2 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|||||
+
 ### Criterion A3 (Expert Inference)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Internal review|DD||||
+
 ### Criterion B
 |Criterion| Value|
 |---|---|
 |Locations||
 |Subcriteria||
 |Support||
+
 #### B1
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |MCP|LC|100|||
+
 #### B2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |D2|LC|*N/A*|Yes||
+
 ### Wider Review
 |  |  |
 |---|---|
 |**Action**|Maintained|
 |**Reviewed Status**|NE|
 |**Justification**||
-
 
 ## National Rarity QA Metrics
 |Attribute|Value|
@@ -97,5 +108,3 @@ Although there are historic (19th Century and 1950) records, the only record in 
 |Calculated|NR|
 |Final||
 |Moderation support||
-
-

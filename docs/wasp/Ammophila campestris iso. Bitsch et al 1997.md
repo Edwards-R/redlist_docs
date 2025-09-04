@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Ammophila campestris: iso. Bitsch et al: 1997

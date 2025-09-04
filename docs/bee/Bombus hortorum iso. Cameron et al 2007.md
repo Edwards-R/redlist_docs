@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Bombus hortorum: iso. Cameron et al: 2007

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Miscophus concolor: iso. Richards: 1980

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Mimumesa atratina: iso. Bitsch et al: 2001

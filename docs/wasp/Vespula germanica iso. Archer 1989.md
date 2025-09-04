@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Vespula germanica: iso. Archer: 1989

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Psenulus schencki: iso. Richards: 1980

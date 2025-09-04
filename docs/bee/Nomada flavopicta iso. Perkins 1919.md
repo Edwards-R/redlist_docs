@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Nomada flavopicta: iso. Perkins: 1919

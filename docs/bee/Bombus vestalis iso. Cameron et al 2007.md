@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Bombus vestalis: iso. Cameron et al: 2007

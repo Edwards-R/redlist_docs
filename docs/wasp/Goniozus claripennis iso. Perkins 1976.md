@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Goniozus claripennis: iso. Perkins: 1976

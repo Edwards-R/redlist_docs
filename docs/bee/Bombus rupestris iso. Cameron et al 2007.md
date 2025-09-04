@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Bombus rupestris: iso. Cameron et al: 2007

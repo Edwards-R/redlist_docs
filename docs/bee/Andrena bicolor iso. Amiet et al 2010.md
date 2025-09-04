@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Andrena bicolor: iso. Amiet et al: 2010

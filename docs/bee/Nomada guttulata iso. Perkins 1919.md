@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Nomada guttulata: iso. Perkins: 1919

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Mystrophorus formicaeformis: iso. Olmi: 1994

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Anteon pubicorne: iso. Olmi: 1994

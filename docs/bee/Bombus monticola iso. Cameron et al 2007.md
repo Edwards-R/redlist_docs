@@ -1,12 +1,11 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Bombus monticola: iso. Cameron et al: 2007
 
 ## Provisional Red List status: NT
-- A3b
-- c
+- A3bc
 
 ## Red List Justification
 Restricted to highlands (~ >400m height). Climate change is anticipated to have a negative effect on significant amounts of habitat, with no opportunity for recovery elsewhere

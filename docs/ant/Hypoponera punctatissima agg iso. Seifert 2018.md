@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Hypoponera punctatissima agg: iso. Seifert: 2018

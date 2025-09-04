@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Crossocerus distinguendus: iso. de Beaumont: 1964

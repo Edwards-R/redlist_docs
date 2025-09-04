@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Stenamma debile: iso. Dubois: 1998

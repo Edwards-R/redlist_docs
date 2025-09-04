@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Lasioglossum mediterraneum: iso. Packer: 1992

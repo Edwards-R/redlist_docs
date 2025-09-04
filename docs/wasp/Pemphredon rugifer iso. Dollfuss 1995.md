@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Pemphredon rugifer: iso. Dollfuss: 1995

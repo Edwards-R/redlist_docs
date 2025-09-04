@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Osmia bicornis: iso. Amiet et al: 2004

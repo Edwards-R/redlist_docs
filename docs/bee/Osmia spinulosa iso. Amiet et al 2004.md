@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Osmia spinulosa: iso. Amiet et al: 2004

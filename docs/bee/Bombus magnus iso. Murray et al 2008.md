@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Bombus magnus: iso. Murray et al: 2008

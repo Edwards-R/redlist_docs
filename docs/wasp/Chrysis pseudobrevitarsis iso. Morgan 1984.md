@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Chrysis pseudobrevitarsis: iso. Morgan: 1984

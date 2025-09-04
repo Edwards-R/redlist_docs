@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmica sabuleti: iso. Elmes: 1978

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Nomada glabella: iso. Falk et al: 2022

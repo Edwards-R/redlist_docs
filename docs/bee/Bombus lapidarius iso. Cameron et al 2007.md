@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Bombus lapidarius: iso. Cameron et al: 2007

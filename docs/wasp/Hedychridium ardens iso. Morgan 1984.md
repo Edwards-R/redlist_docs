@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Hedychridium ardens: iso. Morgan: 1984

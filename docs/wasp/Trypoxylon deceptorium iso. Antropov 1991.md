@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Trypoxylon deceptorium: iso. Antropov: 1991

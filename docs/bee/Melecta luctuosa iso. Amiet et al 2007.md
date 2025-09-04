@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Melecta luctuosa: iso. Amiet et al: 2007

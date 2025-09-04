@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Ancistrocerus oviventris: iso. Archer: 2000

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Crossocerus pullulus: iso. Bitsch: 2003

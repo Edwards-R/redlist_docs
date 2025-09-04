@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Nomada fuscicornis: iso. Amiet et al: 2007

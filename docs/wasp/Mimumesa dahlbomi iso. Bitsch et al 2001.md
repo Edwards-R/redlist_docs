@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Mimumesa dahlbomi: iso. Bitsch et al: 2001

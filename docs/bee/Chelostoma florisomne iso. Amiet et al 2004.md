@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Chelostoma florisomne: iso. Amiet et al: 2004

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Anthophora bimaculata: iso. Amiet et al: 2007

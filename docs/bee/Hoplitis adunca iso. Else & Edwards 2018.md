@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Hoplitis adunca: iso. Else & Edwards: 2018

@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmica lonae: iso. Seifert: 2000

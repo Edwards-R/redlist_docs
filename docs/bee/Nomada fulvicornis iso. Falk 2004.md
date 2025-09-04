@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Nomada fulvicornis: iso. Falk: 2004

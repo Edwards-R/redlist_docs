@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Andrena lapponica: iso. Perkins: 1919

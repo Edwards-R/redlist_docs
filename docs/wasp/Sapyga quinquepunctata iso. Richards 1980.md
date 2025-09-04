@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Sapyga quinquepunctata: iso. Richards: 1980

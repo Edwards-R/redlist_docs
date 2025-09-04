@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Ancistrocerus claripennis: iso. Else et al: 2016

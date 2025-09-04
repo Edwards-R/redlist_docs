@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Megachile versicolor: iso. Perkins: 1925

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Holepyris sylvanidis: iso. Perkins: 1976

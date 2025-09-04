@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Paratrechina longicornis: iso. Bolton & Collingwood: 1975

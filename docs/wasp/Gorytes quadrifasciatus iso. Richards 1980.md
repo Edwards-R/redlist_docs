@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Gorytes quadrifasciatus: iso. Richards: 1980

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Lasioglossum zonulum: iso. Amiet et al: 2001

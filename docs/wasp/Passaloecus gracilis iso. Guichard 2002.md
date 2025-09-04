@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Passaloecus gracilis: iso. Guichard: 2002

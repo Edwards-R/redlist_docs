@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Bethylus cephalotes: iso. Perkins: 1976

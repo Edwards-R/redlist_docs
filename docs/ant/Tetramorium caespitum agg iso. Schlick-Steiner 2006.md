@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Tetramorium caespitum agg: iso. Schlick-Steiner: 2006

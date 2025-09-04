@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Anteon arcuatum: iso. Olmi: 1994

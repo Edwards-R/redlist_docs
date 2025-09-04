@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Cephalonomia gallicola: iso. Perkins: 1976

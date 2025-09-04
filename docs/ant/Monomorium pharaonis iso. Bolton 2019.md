@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Monomorium pharaonis: iso. Bolton: 2019

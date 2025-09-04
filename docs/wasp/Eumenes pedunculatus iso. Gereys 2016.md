@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Eumenes pedunculatus: iso. Gereys: 2016

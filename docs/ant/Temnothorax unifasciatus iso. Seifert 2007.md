@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Temnothorax unifasciatus: iso. Seifert: 2007

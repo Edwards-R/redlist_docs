@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Lasioglossum parvulum: iso. Amiet et al: 2001

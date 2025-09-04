@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Aporinellus sexmaculatus: iso. Wiśniowski: 2009

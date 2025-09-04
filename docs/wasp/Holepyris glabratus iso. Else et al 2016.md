@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Holepyris glabratus: iso. Else et al: 2016

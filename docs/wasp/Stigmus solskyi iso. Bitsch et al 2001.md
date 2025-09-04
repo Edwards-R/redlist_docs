@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Stigmus solskyi: iso. Bitsch et al: 2001

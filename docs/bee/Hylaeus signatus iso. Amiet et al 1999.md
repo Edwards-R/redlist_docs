@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Hylaeus signatus: iso. Amiet et al: 1999

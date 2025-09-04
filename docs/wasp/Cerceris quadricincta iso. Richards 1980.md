@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Cerceris quadricincta: iso. Richards: 1980

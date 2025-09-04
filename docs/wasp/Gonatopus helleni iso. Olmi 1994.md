@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Gonatopus helleni: iso. Olmi: 1994

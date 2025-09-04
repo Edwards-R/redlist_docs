@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Tachysphex pompiliformis: iso. Richards: 1980

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Passaloecus eremita: iso. Bitsch et al: 2001

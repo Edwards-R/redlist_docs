@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Oxybelus uniglumis: iso. Richards: 1980

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Ancistrocerus antilope: iso. Richards: 1980

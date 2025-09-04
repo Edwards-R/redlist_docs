@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Haplogonatopus oratorius: iso. Olmi: 1994

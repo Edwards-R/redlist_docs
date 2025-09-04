@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Tachysphex nitidus agg: iso. Bitsch et al: 2001

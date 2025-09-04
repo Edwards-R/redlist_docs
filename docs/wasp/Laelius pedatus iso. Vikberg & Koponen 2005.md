@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Laelius pedatus: iso. Vikberg & Koponen: 2005

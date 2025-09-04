@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Plastanoxus chittendenii: iso. Perkins: 1976

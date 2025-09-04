@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Dipogon bifasciatus: iso. Day: 1988

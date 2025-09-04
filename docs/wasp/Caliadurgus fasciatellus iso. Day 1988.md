@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Caliadurgus fasciatellus: iso. Day: 1988

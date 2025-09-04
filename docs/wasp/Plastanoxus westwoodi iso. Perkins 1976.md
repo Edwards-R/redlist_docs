@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Plastanoxus westwoodi: iso. Perkins: 1976

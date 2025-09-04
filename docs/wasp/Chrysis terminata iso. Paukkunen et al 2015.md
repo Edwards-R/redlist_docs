@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Chrysis terminata: iso. Paukkunen et al: 2015

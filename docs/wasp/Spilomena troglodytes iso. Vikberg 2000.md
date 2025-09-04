@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Spilomena troglodytes: iso. Vikberg: 2000

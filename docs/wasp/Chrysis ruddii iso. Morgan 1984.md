@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Chrysis ruddii: iso. Morgan: 1984

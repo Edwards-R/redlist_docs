@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Hoplitis claviventris: iso. Falk: 2015

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Nysson dimidiatus: iso. Richards: 1980

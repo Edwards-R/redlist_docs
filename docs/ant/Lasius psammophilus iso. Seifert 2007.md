@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Lasius psammophilus: iso. Seifert: 2007

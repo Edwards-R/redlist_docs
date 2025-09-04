@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Hedychridium cupreum: iso. Morgan: 1984

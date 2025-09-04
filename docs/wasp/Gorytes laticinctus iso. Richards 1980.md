@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Gorytes laticinctus: iso. Richards: 1980

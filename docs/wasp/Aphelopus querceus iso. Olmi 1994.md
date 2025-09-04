@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Aphelopus querceus: iso. Olmi: 1994

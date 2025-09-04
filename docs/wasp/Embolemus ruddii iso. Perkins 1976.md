@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Embolemus ruddii: iso. Perkins: 1976

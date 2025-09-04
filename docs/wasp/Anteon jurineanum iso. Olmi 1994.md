@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Anteon jurineanum: iso. Olmi: 1994

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Colletes daviesanus: iso. Guichard: 1974

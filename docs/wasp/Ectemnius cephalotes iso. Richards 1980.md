@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Ectemnius cephalotes: iso. Richards: 1980

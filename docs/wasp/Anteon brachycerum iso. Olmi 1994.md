@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Anteon brachycerum: iso. Olmi: 1994

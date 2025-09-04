@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Dolichovespula saxonica: iso. Archer: 1989

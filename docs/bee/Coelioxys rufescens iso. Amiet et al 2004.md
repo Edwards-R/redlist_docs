@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Coelioxys rufescens: iso. Amiet et al: 2004

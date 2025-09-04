@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Lasius neglectus: iso. Seifert: 2007

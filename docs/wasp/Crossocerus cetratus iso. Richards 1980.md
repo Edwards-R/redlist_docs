@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Crossocerus cetratus: iso. Richards: 1980

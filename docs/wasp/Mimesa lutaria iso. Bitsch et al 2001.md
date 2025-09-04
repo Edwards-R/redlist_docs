@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Mimesa lutaria: iso. Bitsch et al: 2001

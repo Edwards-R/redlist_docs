@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Megachile circumcincta: iso. Perkins: 1925

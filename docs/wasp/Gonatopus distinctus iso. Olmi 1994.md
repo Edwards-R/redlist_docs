@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Gonatopus distinctus: iso. Olmi: 1994

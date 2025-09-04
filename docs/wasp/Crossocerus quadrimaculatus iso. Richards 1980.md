@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Crossocerus quadrimaculatus: iso. Richards: 1980

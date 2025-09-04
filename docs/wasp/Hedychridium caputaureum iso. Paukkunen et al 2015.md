@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Hedychridium caputaureum: iso. Paukkunen et al: 2015

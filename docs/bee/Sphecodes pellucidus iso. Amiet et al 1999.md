@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Sphecodes pellucidus: iso. Amiet et al: 1999

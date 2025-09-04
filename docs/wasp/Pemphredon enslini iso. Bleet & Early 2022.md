@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Pemphredon enslini: iso. Bleet & Early: 2022

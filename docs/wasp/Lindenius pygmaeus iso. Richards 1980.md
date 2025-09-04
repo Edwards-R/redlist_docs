@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Lindenius pygmaeus: iso. Richards: 1980

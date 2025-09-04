@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Gonatopus albosignatus: iso. Olmi: 1994

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Trichrysis cyanea: iso. Morgan: 1984

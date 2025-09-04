@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Lasius niger agg: iso. Seifert: 1992

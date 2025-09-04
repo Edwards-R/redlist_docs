@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmica sulcinodis: iso. Bolton & Collingwood: 1975

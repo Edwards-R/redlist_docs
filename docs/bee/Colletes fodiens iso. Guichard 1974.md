@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Colletes fodiens: iso. Guichard: 1974

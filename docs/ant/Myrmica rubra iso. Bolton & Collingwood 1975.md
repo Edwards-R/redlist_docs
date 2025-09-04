@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmica rubra: iso. Bolton & Collingwood: 1975

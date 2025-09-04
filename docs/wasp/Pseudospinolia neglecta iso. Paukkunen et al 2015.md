@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Pseudospinolia neglecta: iso. Paukkunen et al: 2015

@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Pheidole megacephala: iso. Bolton & Collingwood: 1975

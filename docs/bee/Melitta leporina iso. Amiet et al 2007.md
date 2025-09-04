@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Melitta leporina: iso. Amiet et al: 2007

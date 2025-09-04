@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Tetramorium simillimum: iso. Bolton: 2019

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Hylaeus annularis: iso. Notton and Dathe: 2008

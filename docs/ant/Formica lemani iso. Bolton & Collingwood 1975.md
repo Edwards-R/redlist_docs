@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Formica lemani: iso. Bolton & Collingwood: 1975

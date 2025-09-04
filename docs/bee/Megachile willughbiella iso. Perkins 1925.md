@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Megachile willughbiella: iso. Perkins: 1925

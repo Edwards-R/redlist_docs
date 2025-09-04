@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Sphecodes longulus: iso. Amiet et al: 1999

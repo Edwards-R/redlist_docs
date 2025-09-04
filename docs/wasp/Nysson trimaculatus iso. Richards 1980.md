@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Nysson trimaculatus: iso. Richards: 1980

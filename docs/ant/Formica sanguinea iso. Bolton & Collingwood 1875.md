@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Formica sanguinea: iso. Bolton & Collingwood: 1875

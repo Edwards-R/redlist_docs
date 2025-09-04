@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Tapinoma subboreale: iso. Seifert: 2012

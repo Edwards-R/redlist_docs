@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Megachile centuncularis: iso. Perkins: 1925

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Episyron gallicum: iso. Wiśniowski: 2009

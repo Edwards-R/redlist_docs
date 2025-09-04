@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Pseudisobrachium subcyaneum: iso. Perkins: 1976

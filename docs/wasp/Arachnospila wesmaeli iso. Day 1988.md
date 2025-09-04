@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Arachnospila wesmaeli: iso. Day: 1988

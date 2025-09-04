@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Epyris bilineatus: iso. Perkins: 1976

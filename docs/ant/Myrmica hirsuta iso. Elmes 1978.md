@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmica hirsuta: iso. Elmes: 1978

@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Tapinoma erraticum agg: iso. Seifert: 2012

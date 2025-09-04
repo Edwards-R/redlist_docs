@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Aphelopus serratus: iso. Olmi: 1994

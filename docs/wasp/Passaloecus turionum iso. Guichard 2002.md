@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Passaloecus turionum: iso. Guichard: 2002

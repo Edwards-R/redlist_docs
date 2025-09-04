@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Priocnemis confusor: iso. Wiśniowski: 2009

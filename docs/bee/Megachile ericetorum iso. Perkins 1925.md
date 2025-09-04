@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Megachile ericetorum: iso. Perkins: 1925

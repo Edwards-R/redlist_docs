@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Isodontia mexicana: iso. Bitsch et al: 1997

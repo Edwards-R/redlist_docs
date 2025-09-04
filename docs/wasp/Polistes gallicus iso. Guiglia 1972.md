@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Polistes gallicus: iso. Guiglia: 1972

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Aphelopus atratus: iso. Olmi: 1994

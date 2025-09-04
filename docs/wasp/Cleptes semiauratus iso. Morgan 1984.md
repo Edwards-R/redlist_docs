@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Cleptes semiauratus: iso. Morgan: 1984

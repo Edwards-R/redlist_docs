@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Trypoxylon clavicerum: iso. Richards: 1980

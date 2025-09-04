@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Xylocopa virginica: iso. Falk: 2015

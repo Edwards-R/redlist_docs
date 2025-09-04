@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Colletes marginatus: iso. Guichard: 1974

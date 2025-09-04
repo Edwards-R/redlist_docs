@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Crossocerus elongatulus: iso. Bitsch & Leclercq: 1993

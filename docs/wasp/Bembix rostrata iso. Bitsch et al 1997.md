@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Bembix rostrata: iso. Bitsch et al: 1997

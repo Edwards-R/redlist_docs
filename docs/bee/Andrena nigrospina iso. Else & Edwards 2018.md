@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Andrena nigrospina: iso. Else & Edwards: 2018

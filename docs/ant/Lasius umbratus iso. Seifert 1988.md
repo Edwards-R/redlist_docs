@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Lasius umbratus: iso. Seifert: 1988

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Podalonia hirsuta: iso. Richards: 1980

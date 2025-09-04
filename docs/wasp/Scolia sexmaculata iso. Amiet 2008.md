@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Scolia sexmaculata: iso. Amiet: 2008

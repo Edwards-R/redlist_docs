@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Tachysphex unicolor: iso. Bitsch et al: 2001

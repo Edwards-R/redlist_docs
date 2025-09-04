@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Osmia aurulenta: iso. Amiet et al: 2004

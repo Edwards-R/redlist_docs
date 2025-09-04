@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Podalonia luffii: iso. Bitsch et al: 1997

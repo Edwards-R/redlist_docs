@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Cerceris rybyensis: iso. Richards: 1980

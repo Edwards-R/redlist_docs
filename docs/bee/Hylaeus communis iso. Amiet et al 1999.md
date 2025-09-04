@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Hylaeus communis: iso. Amiet et al: 1999

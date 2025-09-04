@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Ancistrocerus parietinus: iso. Richards: 1980

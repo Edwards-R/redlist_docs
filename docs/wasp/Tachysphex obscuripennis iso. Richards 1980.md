@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Tachysphex obscuripennis: iso. Richards: 1980

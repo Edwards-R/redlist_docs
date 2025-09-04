@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Hylaeus dilatatus: iso. Notton and Dathe: 2008

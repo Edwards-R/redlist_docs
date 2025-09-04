@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Pseudepipona herrichii: iso. Richards: 1980

@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Temnothorax interruptus: iso. Seifert: 2007

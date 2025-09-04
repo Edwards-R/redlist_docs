@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Dolichovespula sylvestris: iso. Archer: 1989

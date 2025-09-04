@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Temnothorax albipennis: iso. Seifert: 2007

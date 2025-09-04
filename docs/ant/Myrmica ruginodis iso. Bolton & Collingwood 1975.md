@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmica ruginodis: iso. Bolton & Collingwood: 1975

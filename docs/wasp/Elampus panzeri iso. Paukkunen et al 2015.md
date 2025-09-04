@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Elampus panzeri: iso. Paukkunen et al: 2015

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Omalus puncticollis: iso. Paukkunen et al: 2015

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Philoctetes truncatus: iso. Paukkunen et al: 2015

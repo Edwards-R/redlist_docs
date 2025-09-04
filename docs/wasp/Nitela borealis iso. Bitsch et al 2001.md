@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Nitela borealis: iso. Bitsch et al: 2001

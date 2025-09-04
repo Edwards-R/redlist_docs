@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Hedychrum niemelai: iso. Paukkunen et al: 2015

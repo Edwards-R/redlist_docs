@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Tetramorium caldarium: iso. Bolton: 2019

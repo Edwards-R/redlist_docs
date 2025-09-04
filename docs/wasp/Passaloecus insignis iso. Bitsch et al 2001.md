@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Passaloecus insignis: iso. Bitsch et al: 2001

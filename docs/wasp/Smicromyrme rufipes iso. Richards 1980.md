@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Smicromyrme rufipes: iso. Richards: 1980

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Coelioxys mandibularis: iso. Amiet et al: 2004

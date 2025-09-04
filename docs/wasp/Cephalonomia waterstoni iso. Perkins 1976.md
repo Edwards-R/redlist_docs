@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Cephalonomia waterstoni: iso. Perkins: 1976

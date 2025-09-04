@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Lestiphorus bicinctus: iso. Bitsch et al: 1997

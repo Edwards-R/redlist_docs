@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Polistes biglumis: iso. Schmid-Egger et al: 2017

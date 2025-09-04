@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Priocnemis schioedtei: iso. Day: 1988

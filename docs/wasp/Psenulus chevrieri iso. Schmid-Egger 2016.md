@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Psenulus chevrieri: iso. Schmid-Egger: 2016

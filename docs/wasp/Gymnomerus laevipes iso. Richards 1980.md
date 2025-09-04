@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Gymnomerus laevipes: iso. Richards: 1980

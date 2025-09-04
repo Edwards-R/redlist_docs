@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Sphex funerarius: iso. Bitsch et al: 1997

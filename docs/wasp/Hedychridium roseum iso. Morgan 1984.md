@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Hedychridium roseum: iso. Morgan: 1984

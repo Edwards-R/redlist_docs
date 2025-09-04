@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Osmia bicolor: iso. Amiet et al: 2004

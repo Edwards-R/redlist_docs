@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Agenioideus cinctellus: iso. Day: 1988

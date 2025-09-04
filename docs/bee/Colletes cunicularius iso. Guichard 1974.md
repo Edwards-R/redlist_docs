@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Colletes cunicularius: iso. Guichard: 1974

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Heriades rubicola: iso. Else & Edwards: 2018

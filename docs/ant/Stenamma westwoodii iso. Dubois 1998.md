@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Stenamma westwoodii: iso. Dubois: 1998

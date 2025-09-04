@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Dasypoda hirtipes: iso. Amiet et al: 2007

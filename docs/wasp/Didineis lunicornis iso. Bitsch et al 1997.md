@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Didineis lunicornis: iso. Bitsch et al: 1997

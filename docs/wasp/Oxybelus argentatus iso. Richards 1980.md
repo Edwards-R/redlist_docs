@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Oxybelus argentatus: iso. Richards: 1980

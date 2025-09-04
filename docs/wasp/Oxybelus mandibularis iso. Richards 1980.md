@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Oxybelus mandibularis: iso. Richards: 1980

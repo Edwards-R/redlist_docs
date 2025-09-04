@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Formica lugubris: iso. Bolton & Collingwood: 1975

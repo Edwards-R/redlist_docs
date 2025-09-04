@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Coelioxys conoidea: iso. Amiet et al: 2004

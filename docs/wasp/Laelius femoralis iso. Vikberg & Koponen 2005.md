@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Laelius femoralis: iso. Vikberg & Koponen: 2005

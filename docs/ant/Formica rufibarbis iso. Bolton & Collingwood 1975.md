@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Formica rufibarbis: iso. Bolton & Collingwood: 1975

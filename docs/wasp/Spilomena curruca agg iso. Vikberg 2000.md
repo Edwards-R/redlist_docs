@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Spilomena curruca agg: iso. Vikberg: 2000

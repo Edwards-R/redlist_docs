@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Chrysis ignita agg: iso. Paukkunen et al: 2015

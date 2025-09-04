@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Hoplisoides punctuosus: iso. Bitsch et al: 1997

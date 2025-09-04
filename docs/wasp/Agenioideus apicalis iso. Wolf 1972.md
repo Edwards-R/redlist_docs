@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Agenioideus apicalis: iso. Wolf: 1972

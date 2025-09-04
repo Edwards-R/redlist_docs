@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Dolichovespula norwegica: iso. Archer: 1989

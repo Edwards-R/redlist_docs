@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Mimumesa littoralis: iso. Bitsch et al: 2001

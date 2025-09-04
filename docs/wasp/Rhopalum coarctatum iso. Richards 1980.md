@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Rhopalum coarctatum: iso. Richards: 1980

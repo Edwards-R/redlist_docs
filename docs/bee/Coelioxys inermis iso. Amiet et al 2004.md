@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Coelioxys inermis: iso. Amiet et al: 2004

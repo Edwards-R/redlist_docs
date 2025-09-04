@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Hypoponera eduardi: iso. Seifert: 2018

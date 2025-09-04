@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Aphelopus nigriceps: iso. Olmi: 1999

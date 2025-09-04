@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Sphecodes albilabris: iso. Bogusch & Straka: 2012

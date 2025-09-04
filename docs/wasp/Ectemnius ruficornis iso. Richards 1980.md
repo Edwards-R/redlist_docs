@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Ectemnius ruficornis: iso. Richards: 1980

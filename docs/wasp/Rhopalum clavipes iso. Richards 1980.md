@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Rhopalum clavipes: iso. Richards: 1980

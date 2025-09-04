@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Macropis europaea: iso. Amiet et al: 2007

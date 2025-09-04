@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Trypoxylon figulus agg: iso. Pulawski: 1984

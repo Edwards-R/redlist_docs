@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Pemphredon inornata: iso. Dollfuss: 1995

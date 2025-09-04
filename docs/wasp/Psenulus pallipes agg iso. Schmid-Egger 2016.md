@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Psenulus pallipes agg: iso. Schmid-Egger: 2016

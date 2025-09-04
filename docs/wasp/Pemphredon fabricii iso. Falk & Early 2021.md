@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Pemphredon fabricii: iso. Falk & Early: 2021

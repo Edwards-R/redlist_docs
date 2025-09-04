@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Ceratina cyanea: iso. Amiet et al: 2007

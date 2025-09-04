@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Linepithema iniquinum: iso. Bolton: 2019

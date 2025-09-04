@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Euodynerus quadrifasciatus: iso. Early: 2018

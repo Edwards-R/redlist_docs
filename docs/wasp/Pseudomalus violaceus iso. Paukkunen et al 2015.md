@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Pseudomalus violaceus: iso. Paukkunen et al: 2015

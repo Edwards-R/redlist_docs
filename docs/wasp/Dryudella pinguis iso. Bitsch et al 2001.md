@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Dryudella pinguis: iso. Bitsch et al: 2001

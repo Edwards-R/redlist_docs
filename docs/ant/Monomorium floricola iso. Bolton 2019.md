@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Monomorium floricola: iso. Bolton: 2019

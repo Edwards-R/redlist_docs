@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Omalus aeneus: iso. Paukkunen et al: 2015

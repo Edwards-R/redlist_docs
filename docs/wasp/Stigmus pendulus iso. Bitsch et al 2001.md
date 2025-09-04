@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Stigmus pendulus: iso. Bitsch et al: 2001

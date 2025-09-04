@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Hypoponera ergatandria: iso. Seifert: 2018

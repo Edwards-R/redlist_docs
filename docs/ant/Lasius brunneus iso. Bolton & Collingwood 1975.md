@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Lasius brunneus: iso. Bolton & Collingwood: 1975

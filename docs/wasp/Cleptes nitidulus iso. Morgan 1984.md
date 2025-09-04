@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Cleptes nitidulus: iso. Morgan: 1984

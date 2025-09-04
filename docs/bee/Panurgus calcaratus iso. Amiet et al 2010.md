@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Panurgus calcaratus: iso. Amiet et al: 2010

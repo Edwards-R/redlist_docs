@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Halictus scabiosae: iso. Amiet et al: 2001

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Symmorphus crassicornis: iso. Richards: 1980

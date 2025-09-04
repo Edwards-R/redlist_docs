@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Colletes hederae: iso. Schmidt & Westrich: 1993

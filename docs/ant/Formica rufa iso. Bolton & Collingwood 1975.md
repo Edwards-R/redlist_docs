@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Formica rufa: iso. Bolton & Collingwood: 1975

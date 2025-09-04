@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Cephalonomia formiciformis: iso. Perkins: 1976

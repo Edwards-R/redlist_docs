@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Argogorytes fargeii: iso. Richards: 1980

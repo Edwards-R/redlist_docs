@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Andrena pilipes agg: iso. Else & Edwards: 2018

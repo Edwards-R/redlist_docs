@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Dufourea halictula agg: iso. Baker: 1994

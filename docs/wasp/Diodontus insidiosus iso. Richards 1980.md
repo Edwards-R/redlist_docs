@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Diodontus insidiosus: iso. Richards: 1980

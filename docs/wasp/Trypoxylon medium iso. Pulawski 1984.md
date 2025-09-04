@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Trypoxylon medium: iso. Pulawski: 1984

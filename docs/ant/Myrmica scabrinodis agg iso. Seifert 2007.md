@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmica scabrinodis agg: iso. Seifert: 2007

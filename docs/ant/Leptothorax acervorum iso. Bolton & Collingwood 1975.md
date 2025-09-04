@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Leptothorax acervorum: iso. Bolton & Collingwood: 1975

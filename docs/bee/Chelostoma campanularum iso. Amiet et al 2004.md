@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Chelostoma campanularum: iso. Amiet et al: 2004

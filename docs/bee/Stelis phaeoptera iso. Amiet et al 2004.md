@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Stelis phaeoptera: iso. Amiet et al: 2004

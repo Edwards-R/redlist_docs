@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Tapinoma madeirense: iso. Seifert: 2012

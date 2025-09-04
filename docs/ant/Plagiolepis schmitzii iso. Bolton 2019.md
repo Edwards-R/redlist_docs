@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Plagiolepis schmitzii: iso. Bolton: 2019

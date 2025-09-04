@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Ponera coarctata: iso. Csösz & Seifert: 2003

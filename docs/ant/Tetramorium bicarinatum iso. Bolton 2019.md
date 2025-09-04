@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Tetramorium bicarinatum: iso. Bolton: 2019

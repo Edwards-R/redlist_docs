@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Epeolus variegatus: iso. Amiet et al: 2007

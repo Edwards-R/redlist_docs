@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Spilomena enslini: iso. Vikberg: 2000

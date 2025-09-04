@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Argogorytes mystaceus: iso. Richards: 1980

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Halictus confusus: iso. Amiet et al: 2001

@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmecina graminicola: iso. Bolton & Collingwood: 1975

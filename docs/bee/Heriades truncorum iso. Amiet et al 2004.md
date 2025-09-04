@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Heriades truncorum: iso. Amiet et al: 2004

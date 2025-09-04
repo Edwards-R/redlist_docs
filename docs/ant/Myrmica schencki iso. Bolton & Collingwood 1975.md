@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmica schencki: iso. Bolton & Collingwood: 1975

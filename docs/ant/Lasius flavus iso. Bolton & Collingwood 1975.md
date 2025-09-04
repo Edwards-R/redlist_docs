@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Lasius flavus: iso. Bolton & Collingwood: 1975

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Chrysura hirsuta: iso. Paukkunen et al: 2015

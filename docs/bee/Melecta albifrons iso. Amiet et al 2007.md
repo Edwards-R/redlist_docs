@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Melecta albifrons: iso. Amiet et al: 2007

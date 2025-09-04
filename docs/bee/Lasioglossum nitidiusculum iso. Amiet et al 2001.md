@@ -1,13 +1,12 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Lasioglossum nitidiusculum: iso. Amiet et al: 2001
 
 ## Provisional Red List status: NT
 - A2bc
-- A3b
-- c
+- A3bc
 
 ## Red List Justification
 Suspected disappearance from south eastern England, with reason unknown. Can be found in abundance in Scotland.

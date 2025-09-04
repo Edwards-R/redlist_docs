@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Eumenes coarctatus: iso. Richards: 1980

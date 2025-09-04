@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Strumigenys perplexa: iso. Hamer et al: 2021

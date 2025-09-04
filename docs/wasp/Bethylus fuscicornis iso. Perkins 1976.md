@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Bethylus fuscicornis: iso. Perkins: 1976

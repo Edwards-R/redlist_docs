@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Bethylus dendrophilus: iso. Perkins: 1976

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Hylaeus incongruus: iso. Straka & Bogusch: 2011

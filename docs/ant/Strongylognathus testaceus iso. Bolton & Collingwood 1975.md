@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Strongylognathus testaceus: iso. Bolton & Collingwood: 1975

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Harpactus tumidus: iso. Bitsch et al: 1997

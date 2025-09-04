@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Symmorphus bifasciatus: iso. Archer: 2000

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Monosapyga clavicornis: iso. Amiet: 2008

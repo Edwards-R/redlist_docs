@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Symmorphus gracilis: iso. Richards: 1980

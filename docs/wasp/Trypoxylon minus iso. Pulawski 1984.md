@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Trypoxylon minus: iso. Pulawski: 1984

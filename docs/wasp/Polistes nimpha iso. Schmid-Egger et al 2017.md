@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Polistes nimpha: iso. Schmid-Egger et al: 2017

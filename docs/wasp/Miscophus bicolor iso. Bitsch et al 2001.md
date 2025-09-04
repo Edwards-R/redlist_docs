@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Miscophus bicolor: iso. Bitsch et al: 2001

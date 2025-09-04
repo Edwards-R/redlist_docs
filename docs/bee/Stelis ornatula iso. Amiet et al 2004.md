@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Stelis ornatula: iso. Amiet et al: 2004

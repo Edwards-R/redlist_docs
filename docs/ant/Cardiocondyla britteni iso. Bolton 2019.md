@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Cardiocondyla britteni: iso. Bolton: 2019

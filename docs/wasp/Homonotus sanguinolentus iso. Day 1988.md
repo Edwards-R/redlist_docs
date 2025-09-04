@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Homonotus sanguinolentus: iso. Day: 1988

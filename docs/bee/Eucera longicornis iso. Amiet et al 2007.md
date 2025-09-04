@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Eucera longicornis: iso. Amiet et al: 2007

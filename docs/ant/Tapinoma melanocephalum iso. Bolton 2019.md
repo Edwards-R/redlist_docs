@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Tapinoma melanocephalum: iso. Bolton: 2019

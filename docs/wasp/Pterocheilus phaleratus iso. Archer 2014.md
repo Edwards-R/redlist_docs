@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Pterocheilus phaleratus: iso. Archer: 2014

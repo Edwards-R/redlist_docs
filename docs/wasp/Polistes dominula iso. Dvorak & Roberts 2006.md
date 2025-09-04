@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Polistes dominula: iso. Dvorak & Roberts: 2006

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Stelis odontopyga: iso. Amiet et al: 2004

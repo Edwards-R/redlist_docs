@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Nomada roberjeotiana: iso. Amiet et al: 2007

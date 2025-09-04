@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Myrmica karavajevi: iso. Radchenko & Elmes: 2003

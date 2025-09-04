@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Hoplitis leucomelana: iso. Falk: 2015

@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Hylaeus punctulatissimus: iso. Amiet et al: 1999

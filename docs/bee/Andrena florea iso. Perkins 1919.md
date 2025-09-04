@@ -1,13 +1,12 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Andrena florea: iso. Perkins: 1919
 
 ## Provisional Red List status: LC
 - A2bc
-- A3b
-- c
+- A3bc
 - B1ab
 - B2ab
 - D2

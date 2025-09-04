@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Crossocerus megacephalus: iso. Bitsch & Leclercq: 1993

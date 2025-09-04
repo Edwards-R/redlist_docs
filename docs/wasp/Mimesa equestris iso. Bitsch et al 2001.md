@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Mimesa equestris: iso. Bitsch et al: 2001

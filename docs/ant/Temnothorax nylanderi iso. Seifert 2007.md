@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Temnothorax nylanderi: iso. Seifert: 2007

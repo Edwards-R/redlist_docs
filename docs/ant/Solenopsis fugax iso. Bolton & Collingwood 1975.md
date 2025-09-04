@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Solenopsis fugax: iso. Bolton & Collingwood: 1975

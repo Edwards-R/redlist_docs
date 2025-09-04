@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Rophites quinquespinosus: iso. Amiet et al: 1999

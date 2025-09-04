@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Aphaenogaster subterranea: iso. Seifert: 2007

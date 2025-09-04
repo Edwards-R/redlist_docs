@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Plastanoxus munroi: iso. Perkins: 1976

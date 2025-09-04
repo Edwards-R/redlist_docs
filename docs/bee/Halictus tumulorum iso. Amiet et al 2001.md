@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Halictus tumulorum: iso. Amiet et al: 2001

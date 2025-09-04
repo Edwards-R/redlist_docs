@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Stelis punctulatissima: iso. Amiet et al: 2004

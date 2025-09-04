@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Cephalonomia hammi: iso. Perkins: 1976

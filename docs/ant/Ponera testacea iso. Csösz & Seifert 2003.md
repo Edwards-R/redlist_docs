@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Ponera testacea: iso. Csösz & Seifert: 2003

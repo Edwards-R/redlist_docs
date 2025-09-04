@@ -1,5 +1,5 @@
 ---
-parent: bee
+parent: Bee
 ---
 
 # Epeolus cruciger: iso. Amiet et al: 2007

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Cephalonomia tarsalis: iso. Perkins: 1976

@@ -1,5 +1,5 @@
 ---
-parent: wasp
+parent: Wasp
 ---
 
 # Odynerus melanocephalus: iso. Richards: 1980

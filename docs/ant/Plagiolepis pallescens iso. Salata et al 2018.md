@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Plagiolepis pallescens: iso. Salata et al: 2018

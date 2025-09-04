@@ -1,5 +1,5 @@
 ---
-parent: ant
+parent: Ant
 ---
 
 # Formicoxenus nitidulus: iso. Bolton & Collingwood: 1975

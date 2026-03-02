@@ -93,6 +93,17 @@ Insufficient Data (*ID*)
 |---|---|---|---|---|
 |Tetrad|LC|680|Yes||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-52.0547945205479452|No|The drastic changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B1 (dEoO)|LC|-25.0434863064396743|No|The drastic changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B2 (AoO)|NT|-52.0547945205479452|No|The drastic changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B2 (dEoO)|LC|-25.0434863064396743|No|The drastic changes in metrics across time slices strongly suggests significant under-sampling|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

@@ -83,6 +83,17 @@ There are only two historic records of the species from Hayling Island, Hampshir
 |---|---|---|---|---|
 |Tetrad|DD||||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|||||
+
+|B1 (dEoO)|||||
+
+|B2 (AoO)|||||
+
+|B2 (dEoO)|||||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

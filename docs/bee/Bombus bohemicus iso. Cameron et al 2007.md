@@ -80,8 +80,8 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 ### Criterion B
 |Criterion| Value|
 |---|---|
-|Locations|>10|
-|Subcriteria||
+|Locations|>10/NaN|
+|Subcriteria|i, ii, iii, iv|
 |Support||
 
 #### B1
@@ -93,6 +93,17 @@ Disappearing from lowlands of Lancashire, Cumbria, and from Southern England. Un
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4320|No|Suspected significant confusion between this and Bombus vestalis: iso. Cameron et al: 2007|
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-42.9611650485436893|||
+
+|B1 (dEoO)|LC|2.9848453257541673|||
+
+|B2 (AoO)|LC|-42.9611650485436893|||
+
+|B2 (dEoO)|LC|2.9848453257541673|||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

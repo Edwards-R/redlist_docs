@@ -7,6 +7,7 @@ parent: Bee
 ## Provisional Red List status: NT
 - A2bc
 - A3bc
+- B2b(ii)
 
 ## Red List Justification
 Suspected disappearance from south eastern England, with reason unknown. Can be found in abundance in Scotland.
@@ -92,6 +93,17 @@ Nationally Frequent (*NF*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|632|Yes||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-40.2597402597402597|Yes||
+
+|B1 (dEoO)|LC|-17.8959129734451036|Yes||
+
+|B2 (AoO)|NT|-40.2597402597402597|Yes||
+
+|B2 (dEoO)|LC|-17.8959129734451036|Yes||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

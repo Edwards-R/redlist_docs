@@ -22,7 +22,7 @@ No assessment was possible under Criterion A due insufficient data. The EoO (3,7
 |Synanthropy|No|
 |Vagrancy|No|
 |Colonisation|No|
-|Nomenclature|Insufficient data|
+|Nomenclature|No|
 
 
 ## National Rarity
@@ -90,6 +90,17 @@ Nationally Rare (*NR*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|EN|24|Yes||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|NT|-80|No|Insufficient data|
+
+|B1 (dEoO)|NT|-63.1955135254013635|No|Insufficient data|
+
+|B2 (AoO)|NT|-80|No|Insufficient data|
+
+|B2 (dEoO)|NT|-63.1955135254013635|No|Insufficient data|
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

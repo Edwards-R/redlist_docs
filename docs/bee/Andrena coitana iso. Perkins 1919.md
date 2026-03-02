@@ -95,6 +95,17 @@ Nationally Frequent (*NF*)
 |---|---|---|---|---|
 |Tetrad|LC|496|Yes||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|11.627906976744186|||
+
+|B1 (dEoO)|LC|-14.9314903120661556|||
+
+|B2 (AoO)|LC|11.627906976744186|||
+
+|B2 (dEoO)|LC|-14.9314903120661556|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

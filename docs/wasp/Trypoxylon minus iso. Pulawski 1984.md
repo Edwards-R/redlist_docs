@@ -83,6 +83,17 @@ A record of a single female from Sittingbourne in East Kent in 1959, collected b
 |---|---|---|---|---|
 |Tetrad|DD||||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|||||
+
+|B1 (dEoO)|||||
+
+|B2 (AoO)|||||
+
+|B2 (dEoO)|||||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

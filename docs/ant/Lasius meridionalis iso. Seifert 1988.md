@@ -92,6 +92,17 @@ Insufficient Data (*ID*)
 |---|---|---|---|---|
 |Tetrad|LC|256|Yes||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-62.8571428571428571|No|Insufficient data|
+
+|B1 (dEoO)|LC|-16.4495253299883114|No|Insufficient data|
+
+|B2 (AoO)|NT|-62.8571428571428571|No|Insufficient data|
+
+|B2 (dEoO)|LC|-16.4495253299883114|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

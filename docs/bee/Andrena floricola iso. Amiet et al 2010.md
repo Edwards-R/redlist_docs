@@ -83,6 +83,17 @@ The presence of this species as a UK species is based on a single specimen recor
 |---|---|---|---|---|
 |Tetrad|DD||No||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|||||
+
+|B1 (dEoO)|||||
+
+|B2 (AoO)|||||
+
+|B2 (dEoO)|||||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

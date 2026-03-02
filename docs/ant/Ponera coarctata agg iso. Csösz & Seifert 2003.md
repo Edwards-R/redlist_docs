@@ -89,6 +89,17 @@ parent: Ant
 |---|---|---|---|---|
 |Tetrad|LC|284|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-84.6153846153846154|No|Insufficient data|
+
+|B1 (dEoO)|LC|-57.4785884293183905|No|Insufficient data|
+
+|B2 (AoO)|NT|-84.6153846153846154|No|Insufficient data|
+
+|B2 (dEoO)|NT|-57.4785884293183905|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

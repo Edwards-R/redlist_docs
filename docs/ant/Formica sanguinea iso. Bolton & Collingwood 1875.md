@@ -16,7 +16,7 @@ parent: Ant
 ### Narrative
 
 
-The most threatening accepted population change estimate is -2.0% (Bayesian upper 95% CI), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO (159,600 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (980 km²) is below the 2,000 km² VU threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+ The most threatening accepted population change estimate is -2.0% (Bayesian upper 95% CI), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO (159,600 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (980 km²) is below the 2,000 km² VU threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
 
 ### Quantified Attributes
 |Attribute|Result|
@@ -92,6 +92,17 @@ Nationally Scarce (*NS*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|980|Yes||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-32.1428571428571429|No|Insufficient data|
+
+|B1 (dEoO)|LC|-18.5075121978189056|No|Insufficient data|
+
+|B2 (AoO)|NT|-32.1428571428571429|No|Insufficient data|
+
+|B2 (dEoO)|LC|-18.5075121978189056|No|Insufficient data|
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

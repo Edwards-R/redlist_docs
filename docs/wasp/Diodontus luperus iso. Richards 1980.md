@@ -16,7 +16,7 @@ parent: Wasp
 ### Narrative
 
 
-The most threatening accepted population change estimate is 120.0% (Bayesian upper 95% CI), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO (120,600 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (840 km²) is below the 2,000 km² VU threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+ The most threatening accepted population change estimate is 120.0% (Bayesian upper 95% CI), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO (120,600 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (840 km²) is below the 2,000 km² VU threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
 
 ### Quantified Attributes
 |Attribute|Result|
@@ -92,6 +92,17 @@ Nationally Frequent (*NF*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|840|Yes||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-60.1851851851851852|No|Change is considered to be a result of poor sampling in slice 3|
+
+|B1 (dEoO)|LC|-27.1973266660255794|No|Change is considered to be a result of poor sampling in slice 3|
+
+|B2 (AoO)|NT|-60.1851851851851852|No|Change is considered to be a result of poor sampling in slice 3|
+
+|B2 (dEoO)|LC|-27.1973266660255794|No|Change is considered to be a result of poor sampling in slice 3|
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

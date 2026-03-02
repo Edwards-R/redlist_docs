@@ -89,6 +89,17 @@ This species has been v. recently re-assessed and now known to include two disti
 |---|---|---|---|---|
 |Tetrad|LC|412|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-12.1951219512195122|||
+
+|B1 (dEoO)|LC|12.0104281560212574|||
+
+|B2 (AoO)|LC|-12.1951219512195122|||
+
+|B2 (dEoO)|LC|12.0104281560212574|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

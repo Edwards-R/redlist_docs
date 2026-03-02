@@ -15,7 +15,7 @@ parent: Bee
 ### Narrative
 
 
-The most threatening accepted population decline was inferred at 0% using expert inference (A2). This does not exceed the 30% decline required for qualification as VU. The EoO was not accepted, the AoO was not accepted. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+ The most threatening accepted population change estimate is 0.0% (Bayesian upper 95% CI), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO was not accepted, the AoO was not accepted. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
 
 ### Quantified Attributes
 |Attribute|Result|
@@ -91,6 +91,17 @@ Insufficient Data (*ID*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|100|No|Nomenclature change|
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|?|||
+
+|B1 (dEoO)|LC|?|||
+
+|B2 (AoO)|LC|?|||
+
+|B2 (dEoO)|LC|?|||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

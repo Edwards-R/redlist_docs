@@ -89,6 +89,17 @@ parent: Bee
 |---|---|---|---|---|
 |Tetrad|LC|512|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|2.3255813953488372|||
+
+|B1 (dEoO)|LC|30.0746464117338921|||
+
+|B2 (AoO)|LC|2.3255813953488372|||
+
+|B2 (dEoO)|LC|30.0746464117338921|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

@@ -89,6 +89,17 @@ Although there are historic (19th Century and 1950) records, the only record in 
 |---|---|---|---|---|
 |Tetrad|LC|4|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|?|No|Insufficient data|
+
+|B1 (dEoO)|LC|?|No|Insufficient data|
+
+|B2 (AoO)|LC|?|No|Insufficient data|
+
+|B2 (dEoO)|LC|?|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

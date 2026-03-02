@@ -6,8 +6,8 @@ parent: Wasp
 
 ## Provisional Red List status: LC
 - A2bc
-- B1ab
-- B2ab
+- B1ab(i,ii,iii,iv)
+- B2ab(i,ii,iii,iv)
 - D2
 
 ## Red List Justification
@@ -16,7 +16,7 @@ parent: Wasp
 ### Narrative
 
 
-The most threatening accepted population change estimate is 2.0% (discrete Extent of Occurrence), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO (441,050 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (13,328 km²) exceeds the 2,000 km² VU threshold for criterion B2 and does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+ The most threatening accepted population change estimate is 2.0% (discrete Extent of Occurrence), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO (441,050 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (13,328 km²) exceeds the 2,000 km² VU threshold for criterion B2 and does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
 
 ### Quantified Attributes
 |Attribute|Result|
@@ -79,8 +79,8 @@ Nationally Frequent (*NF*)
 ### Criterion B
 |Criterion| Value|
 |---|---|
-|Locations|>10|
-|Subcriteria||
+|Locations|>10/NaN|
+|Subcriteria|i, ii, iii, iv|
 |Support||
 
 #### B1
@@ -92,6 +92,17 @@ Nationally Frequent (*NF*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|13328|Yes||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|35.8885017421602787|||
+
+|B1 (dEoO)|LC|14.4979317269694795|||
+
+|B2 (AoO)|LC|35.8885017421602787|||
+
+|B2 (dEoO)|LC|14.4979317269694795|||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

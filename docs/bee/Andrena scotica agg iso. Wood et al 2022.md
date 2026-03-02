@@ -75,8 +75,8 @@ parent: Bee
 ### Criterion B
 |Criterion| Value|
 |---|---|
-|Locations||
-|Subcriteria||
+|Locations|>10/NaN|
+|Subcriteria|i, ii, iii, iv|
 |Support||
 
 #### B1
@@ -88,6 +88,17 @@ parent: Bee
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9740|||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-2.8384279475982533|||
+
+|B1 (dEoO)|LC|11.8286679648369959|||
+
+|B2 (AoO)|LC|-2.8384279475982533|||
+
+|B2 (dEoO)|LC|11.8286679648369959|||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

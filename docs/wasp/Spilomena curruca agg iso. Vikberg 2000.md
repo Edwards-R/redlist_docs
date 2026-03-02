@@ -89,6 +89,17 @@ parent: Wasp
 |---|---|---|---|---|
 |Tetrad|LC|156|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-88|No|Insufficient data|
+
+|B1 (dEoO)|LC|-77.9761818419182176|No|Insufficient data|
+
+|B2 (AoO)|NT|-88|No|Insufficient data|
+
+|B2 (dEoO)|NT|-77.9761818419182176|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

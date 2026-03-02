@@ -92,6 +92,17 @@ Nationally Rare (*NR*)
 |---|---|---|---|---|
 |Tetrad|EN|28|Yes||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|NT|-40|No|Insufficient data|
+
+|B1 (dEoO)|LC|2.9535274356103024|No|Insufficient data|
+
+|B2 (AoO)|NT|-40|No|Insufficient data|
+
+|B2 (dEoO)|LC|2.9535274356103024|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

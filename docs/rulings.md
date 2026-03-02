@@ -420,3 +420,6 @@ There are multiple places within the **Guidance** that enable the use of moderat
 
 ## Moderation of `DD`
 A taxon may be moderated to or from `DD` to or from any status, if there is sufficient support from reviewers that such a status is appropriate.
+
+## NT under B
+If AoO/cEoO is below threshold for VU **and** there is >30% *accepted* decline, between slice 1 and slice 3, of  either: i) dEoO, ii) AoO, then **NT** may be assigned under **suspected**. This will be utilised as a separate assessment from B1 & B2 to preserve the **inferred** nature of B1 and B2.

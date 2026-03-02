@@ -89,6 +89,17 @@ parent: Bee
 |---|---|---|---|---|
 |Tetrad|LC|1048|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-47.0085470085470085|No|The drastic changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B1 (dEoO)|LC|-7.6512206717190078|No|The drastic changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B2 (AoO)|NT|-47.0085470085470085|No|The drastic changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B2 (dEoO)|LC|-7.6512206717190078|No|The drastic changes in metrics across time slices strongly suggests significant under-sampling|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

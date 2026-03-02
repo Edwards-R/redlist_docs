@@ -89,6 +89,17 @@ In common with many wasps of the family Chrysididae, there are unresolved nomenc
 |---|---|---|---|---|
 |Tetrad|LC|1476|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-17.9012345679012346|||
+
+|B1 (dEoO)|LC|14.1469200292729704|||
+
+|B2 (AoO)|LC|-17.9012345679012346|||
+
+|B2 (dEoO)|LC|14.1469200292729704|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

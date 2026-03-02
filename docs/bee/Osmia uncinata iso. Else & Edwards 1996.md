@@ -16,7 +16,7 @@ parent: Bee
 ### Narrative
 
 
-The most threatening accepted population decline was inferred at 0% using expert inference (A2). This does not exceed the 30% decline required for qualification as VU. The EoO (7,500 km²) is below the 20,000 km² VU threshold for criterion B1 but does not satisfy sufficient subcriteria to reach a threat status, and the AoO (144 km²) is below the 500 km² EN threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+ The most threatening accepted population change was inferred at > -30% using expert inference (A2). This does not exceed the 30% decline required for qualification as VU. The EoO (7,500 km²) is below the 20,000 km² VU threshold for criterion B1 but does not satisfy sufficient subcriteria to reach a threat status, and the AoO (144 km²) is below the 500 km² EN threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
 
 ### Quantified Attributes
 |Attribute|Result|
@@ -92,6 +92,17 @@ Nationally Scarce (*NS*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|144|Yes||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|42.8571428571428571|Yes||
+
+|B1 (dEoO)|NT|-37.9011737667241238|No|Insufficient data|
+
+|B2 (AoO)|LC|42.8571428571428571|Yes||
+
+|B2 (dEoO)|NT|-37.9011737667241238|No|Insufficient data|
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

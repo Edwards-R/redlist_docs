@@ -92,6 +92,17 @@ Insufficient Data (*ID*)
 |---|---|---|---|---|
 |Tetrad|LC|28|No|Nomenclature change|
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|500|||
+
+|B1 (dEoO)|LC|377.6516283238721243|||
+
+|B2 (AoO)|LC|500|||
+
+|B2 (dEoO)|LC|377.6516283238721243|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

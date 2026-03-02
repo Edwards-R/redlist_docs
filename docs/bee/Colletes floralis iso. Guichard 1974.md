@@ -94,6 +94,17 @@ Also a boreal taxon, which may respond negatively to climate change.|Yes||
 |---|---|---|---|---|
 |Tetrad|VU|340|Yes||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|54.1666666666666667|||
+
+|B1 (dEoO)|LC|5.4649582605319355|||
+
+|B2 (AoO)|LC|54.1666666666666667|||
+
+|B2 (dEoO)|LC|5.4649582605319355|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

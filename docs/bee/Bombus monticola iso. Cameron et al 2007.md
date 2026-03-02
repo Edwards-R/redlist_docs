@@ -76,8 +76,8 @@ Nationally Frequent (*NF*)
 ### Criterion B
 |Criterion| Value|
 |---|---|
-|Locations|>10|
-|Subcriteria||
+|Locations|>10/NaN|
+|Subcriteria|i, ii, iii, iv|
 |Support||
 
 #### B1
@@ -89,6 +89,17 @@ Nationally Frequent (*NF*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|3152|Yes||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|23.8095238095238095|||
+
+|B1 (dEoO)|LC|16.1825906555523808|||
+
+|B2 (AoO)|LC|23.8095238095238095|||
+
+|B2 (dEoO)|LC|16.1825906555523808|||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

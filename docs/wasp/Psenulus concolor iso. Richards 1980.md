@@ -7,6 +7,8 @@ parent: Wasp
 ## Provisional Red List status: LC
 - A2b
 - A3b
+- B1b(i)
+- B2b(i)
 - D2
 
 ## Red List Justification
@@ -15,7 +17,7 @@ parent: Wasp
 ### Narrative
 
 
-The most threatening accepted population decline was inferred at 0% using expert inference (A2). This does not exceed the 30% decline required for qualification as VU. The EoO was not accepted, the AoO was not accepted. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+ The most threatening accepted population change estimate is 0.0% (Bayesian upper 95% CI), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO was not accepted, the AoO was not accepted. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
 
 ### Quantified Attributes
 |Attribute|Result|
@@ -91,6 +93,17 @@ Nationally Frequent (*NF*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|612|No|Low data|
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-55.5555555555555556|No|The changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B1 (dEoO)|LC|-16.4460969460331787|Yes||
+
+|B2 (AoO)|NT|-55.5555555555555556|No|The changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B2 (dEoO)|LC|-16.4460969460331787|Yes||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

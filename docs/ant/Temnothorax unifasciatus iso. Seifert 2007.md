@@ -89,6 +89,17 @@ Although present on the Channel Islands (which are beyond the scope of this revi
 |---|---|---|---|---|
 |Tetrad|LC|4|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|?|No|Insufficient data|
+
+|B1 (dEoO)|LC|?|No|Insufficient data|
+
+|B2 (AoO)|LC|?|No|Insufficient data|
+
+|B2 (dEoO)|LC|?|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

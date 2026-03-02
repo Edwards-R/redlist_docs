@@ -90,6 +90,17 @@ Nationally Scarce (*NS*)
 |---|---|---|---|---|
 |Tetrad|LC|344|Yes||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-77.0833333333333333|No|Insufficient data|
+
+|B1 (dEoO)|LC|-23.0801370435363917|No|Insufficient data|
+
+|B2 (AoO)|NT|-77.0833333333333333|No|Insufficient data|
+
+|B2 (dEoO)|LC|-23.0801370435363917|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

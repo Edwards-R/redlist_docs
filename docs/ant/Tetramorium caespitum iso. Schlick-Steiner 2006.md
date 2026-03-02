@@ -90,6 +90,17 @@ Nationally Frequent (*NF*)
 |---|---|---|---|---|
 |Tetrad|LC|940|Yes||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-70.6896551724137931|No|The changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B1 (dEoO)|LC|-47.7752089365745625|No|The changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B2 (AoO)|NT|-70.6896551724137931|No|The changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B2 (dEoO)|NT|-47.7752089365745625|No|The changes in metrics across time slices strongly suggests significant under-sampling|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

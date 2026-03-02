@@ -89,6 +89,17 @@ There are unresolved nomenclatural issues and taxonomic confusion in this taxon 
 |---|---|---|---|---|
 |Tetrad|LC|276|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-75.5555555555555556|No|Insufficient data|
+
+|B1 (dEoO)|LC|-52.996342388152906|No|Insufficient data|
+
+|B2 (AoO)|NT|-75.5555555555555556|No|Insufficient data|
+
+|B2 (dEoO)|NT|-52.996342388152906|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

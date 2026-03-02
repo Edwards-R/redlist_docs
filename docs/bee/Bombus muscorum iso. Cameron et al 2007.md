@@ -6,8 +6,8 @@ parent: Bee
 
 ## Provisional Red List status: LC
 - A2bc
-- B1ab
-- B2ab
+- B1ab(i,ii,iii,iv)
+- B2ab(i,ii,iii,iv)
 - D2
 
 ## Red List Justification
@@ -81,8 +81,8 @@ Nationally Frequent (*NF*)
 ### Criterion B
 |Criterion| Value|
 |---|---|
-|Locations|>10|
-|Subcriteria||
+|Locations|>10/NaN|
+|Subcriteria|i, ii, iii, iv|
 |Support||
 
 #### B1
@@ -94,6 +94,17 @@ Nationally Frequent (*NF*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|4860|Yes||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|1.2048192771084337|||
+
+|B1 (dEoO)|LC|-12.2112803237369607|||
+
+|B2 (AoO)|LC|1.2048192771084337|||
+
+|B2 (dEoO)|LC|-12.2112803237369607|||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

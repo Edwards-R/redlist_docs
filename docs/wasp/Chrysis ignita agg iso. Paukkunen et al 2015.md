@@ -75,8 +75,8 @@ parent: Wasp
 ### Criterion B
 |Criterion| Value|
 |---|---|
-|Locations||
-|Subcriteria||
+|Locations|>10/NaN|
+|Subcriteria|i, ii, iii, iv|
 |Support||
 
 #### B1
@@ -88,6 +88,17 @@ parent: Wasp
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|2032|||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-12.7777777777777778|||
+
+|B1 (dEoO)|LC|8.7264292335148745|||
+
+|B2 (AoO)|LC|-12.7777777777777778|||
+
+|B2 (dEoO)|LC|8.7264292335148745|||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

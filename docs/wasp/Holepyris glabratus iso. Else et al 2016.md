@@ -83,6 +83,17 @@ Members of this genus of wasps (Bethylidae) are often used as Bio-control agents
 |---|---|---|---|---|
 |Tetrad|DD||||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|||||
+
+|B1 (dEoO)|||||
+
+|B2 (AoO)|||||
+
+|B2 (dEoO)|||||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

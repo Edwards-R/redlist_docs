@@ -16,7 +16,7 @@ parent: Wasp
 ### Narrative
 
 
-The most threatening accepted population change estimate is -24.0% (tetrad area), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO (161,450 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (588 km²) is below the 2,000 km² VU threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
+ The most threatening accepted population change estimate is -24.0% (tetrad area), which does not exceed the 30% decline required for qualification as VU under Criterion A. The EoO (161,450 km²) exceeds the 20,000 km² VU threshold for criterion B1 and does not satisfy sufficient subcriteria to reach a threat status, and the AoO (588 km²) is below the 2,000 km² VU threshold for criterion B2 but does not satisfy sufficient subcriteria to reach a threat status. For Criterion D2, the number of locations was greater than 5 and there is no plausible threat that could drive the taxon to CR or RE in a very short time. No information was available on population size to inform assessments against Criteria C and D1; nor were any life-history models available to inform an assessment against Criterion E.
 
 ### Quantified Attributes
 |Attribute|Result|
@@ -92,6 +92,17 @@ Nationally Scarce (*NS*)
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|588|Yes||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|-47.4358974358974359|No|The changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B1 (dEoO)|LC|-4.9440695483008086|Yes||
+
+|B2 (AoO)|NT|-47.4358974358974359|No|The changes in metrics across time slices strongly suggests significant under-sampling|
+
+|B2 (dEoO)|LC|-4.9440695483008086|Yes||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

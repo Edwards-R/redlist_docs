@@ -90,6 +90,17 @@ Insufficient Data (*ID*)
 |---|---|---|---|---|
 |Tetrad|LC|4|No|Recent colonist|
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|?|No|Recent colonist|
+
+|B1 (dEoO)|LC|?|No|Recent colonist|
+
+|B2 (AoO)|LC|?|No|Recent colonist|
+
+|B2 (dEoO)|LC|?|No|Recent colonist|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

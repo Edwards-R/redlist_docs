@@ -89,6 +89,17 @@ This ant is predominantly of tropical and sub-tropical distribution and as the r
 |---|---|---|---|---|
 |Tetrad|LC|8|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|?|No|Insufficient data|
+
+|B1 (dEoO)|LC|?|No|Insufficient data|
+
+|B2 (AoO)|LC|?|No|Insufficient data|
+
+|B2 (dEoO)|LC|?|No|Insufficient data|
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

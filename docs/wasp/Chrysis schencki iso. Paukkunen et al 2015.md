@@ -89,6 +89,17 @@ This species has unresolved taxonomic and nomenclatural issues, being treated di
 |---|---|---|---|---|
 |Tetrad|LC|64|||
 
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|120|||
+
+|B1 (dEoO)|LC|100.4184557164689615|||
+
+|B2 (AoO)|LC|120|||
+
+|B2 (dEoO)|LC|100.4184557164689615|||
+
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|

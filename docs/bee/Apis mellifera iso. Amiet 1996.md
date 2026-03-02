@@ -75,8 +75,8 @@ It is not possible to separate any 'wild' (or more accurately, feral) population
 ### Criterion B
 |Criterion| Value|
 |---|---|
-|Locations||
-|Subcriteria||
+|Locations|>10/NaN|
+|Subcriteria|i, ii, iii, iv|
 |Support||
 
 #### B1
@@ -88,6 +88,17 @@ It is not possible to separate any 'wild' (or more accurately, feral) population
 |Attribute|Assessment|Value|Accepted|Justification
 |---|---|---|---|---|
 |Tetrad|LC|9704|||
+
+### Criterion B (Natural England)
+|Attribute|Assessment|Value|Accepted|Justification
+|---|---|---|---|---|
+|B1 (AoO)|LC|196.9298245614035088|||
+
+|B1 (dEoO)|LC|47.5634522229157692|||
+
+|B2 (AoO)|LC|196.9298245614035088|||
+
+|B2 (dEoO)|LC|47.5634522229157692|||
 
 ### Criterion D2
 |Attribute|Assessment|Value|Accepted|Justification

@@ -1,0 +1,1 @@
+Can check for Ben's 'locations >X' AND 'locations \<Y' by doing a search in the field for each. Look for where both are present and fix.

@@ -45,14 +45,18 @@ This criterion has been used as described in the Red List **Guidance** documenta
 ### B2
 This criterion has been used as described in the Red List **Guidance** documentation.
 
-### Subcriteria
+### Subcriteria (B-generic)
+Subcriteria under B do not differ between B1 and B2. As such, the subcritera for these two assessments may be treated once.
 #### (a)
-No taxon is surveyed in enough intensity to be able to use 'Severely Fragmented'. As part of preliminary examination of the data, any observed severe fragmentation was deemed to be the result of poor survey quality rather than verified 'true' fragmentation.
+Few taxa surveyed in enough intensity to be able to use 'Severely Fragmented'. As part of preliminary examination of the data, most observed severe fragmentation was deemed to be the result of poor survey quality rather than verified 'true' fragmentation.
 
 #### (b)
 Of the sub-subcriteria, (i), (ii), (iii), (iv), and (v) were all applied. Notably, (i) was measured using discrete extent of occurrence (buffer-union). (iii), (iv), and (v) do not have statistical models to analyse, and so were assigned on the basis of consultation with general taxon experts.
 
-### Near Threatened
+### Near Threatened (B-generic)
+Subcriteria under B do not differ between B1 and B2. Given that NT for B in this assessment relies solely upon a variation in the thresholds of the subcriteria, both B1 and B2 share the same subcriteria assessment for reaching NT.
+
+#### Near Threatened
 A taxon is considered NT if:
 
 - The headline decline meets the `VU` threshold (< 20,000 km² for B1, < 2,000 km² for B2)

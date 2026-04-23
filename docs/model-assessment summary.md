@@ -1,6 +1,8 @@
 # Assessment-Model summary
 This page documents the various methods by with the Red List assessments have been applied to the available data. Where a taxon has been used, the criteria for meeting `Near Threatened` has also been documented.
 
+To ensure the best utilisation of the imperfect data available, this Red List has examined the data using multiple models. Each model is designed, where permitted by the Red List specification, to act with a different set of assumptions and priorities. By overlapping these models, a much clearer - although still very blurry - picture of reality may be obtained.
+
 ## Criterion A
 ### A1
 The current state of research into this taxon group is insufficient to be able to utilise A1. We do not fully understand the causes of decline at an appropriate level.

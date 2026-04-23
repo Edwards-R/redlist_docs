@@ -2,4 +2,6 @@
 rm -r docs/ant
 rm -r docs/bee
 rm -r docs/wasp
-mv -v web_build/out/ docs/
+cp -r py/build/out/ant docs/
+cp -r py/build/out/bee docs/
+cp -r py/build/out/wasp docs/

@@ -7,7 +7,7 @@ import shutil # Shell Utils
 from pathlib import Path
 import csv
 
-from lib.prepare import markdown_prep, narrative_prep, normalise_tables
+from lib.prepare import markdown_prep, narrative_prep, normalise_tables, a2_bd_stats_generator, data_wrangle
 #import lib.prepare.py # Preparation library
 
 # Establish database connection & cursor
@@ -28,7 +28,13 @@ for file in glob.glob("filemaker_data/*.mer"):
     data_in = pandas.read_csv("filemaker_data/" + path.name, na_filter=False)
     data_in.to_sql(path.stem, con)
 
-# Normalise all that attribute names. Most of this is just `tik` -> `nik`
+# Normalise all the attribute names. Most of this is just `tik` -> `nik`
 normalise_tables(cur)
 
+## Data is now loaded, do the last bits
+
+# Any addon data wrangling
+data_wrangle(cur)
+
+a2_bd_stats_generator(cur)
 # Data is now loaded into SQLite and ready for use

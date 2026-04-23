@@ -82,8 +82,26 @@ def data_wrangle(cur):
     query = "UPDATE assessment SET synanthropy = NULL WHERE synanthropy = ''"
     cur.execute(query)
 
-def sql_addons(cur):
+def a2_bd_stats_generator(cur):
     # Calc the normalised A2 stats so that they can be compared and picked from
+    # Drop views if exists
+    query = r"""
+        DROP VIEW IF EXISTS a2_stat_picked; 
+    """
+    cur.execute(query)
+
+    query = r"""
+        DROP VIEW IF EXISTS a2_stats_normalised; 
+    """
+    cur.execute(query)
+
+    query = r"""
+        DROP VIEW IF EXISTS bd_summary; 
+    """
+    cur.execute(query)
+
+
+    # Create views to handle a2 normalisation to one attribute
     query = r"""CREATE VIEW a2_stats_normalised AS WITH
 	raw_values AS (
 		-- Record Count

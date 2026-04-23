@@ -1,3 +1,5 @@
+import os
+
 # A collection of functions to help when writing to markdown
 
 # OS-safe names. Removes : from Understandings

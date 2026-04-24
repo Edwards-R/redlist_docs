@@ -78,8 +78,49 @@ def normalise_tables(cur):
 
 # Queries to wrangle data into format once present in the database
 def data_wrangle(cur):
-    ## Turn 'synanthropy' from a blank string but present into a null
-    query = "UPDATE assessment SET synanthropy = NULL WHERE synanthropy = ''"
+    # Turn 'synanthropy' from a blank string but present into a null
+    query = "UPDATE assessment SET synanthropy = NULL WHERE synanthropy = '';"
+    cur.execute(query)
+
+# Query to reset and create A2 statistical picker to turn multiple into one because NE says so...
+def a2_stat_picker(cur):
+    # Reset the output views
+    cur.execute("DROP VIEW IF EXISTS a2_stat_picked")
+    cur.execute("DROP VIEW IF EXISTS a2_stats_normalised")
+
+    # Now calculate new views
+    query = r"""
+    CREATE VIEW a2_stats_normalised AS WITH
+	raw_values AS (
+		-- Record Count
+		SELECT rc.nik, 'a2_count' AS model_assessment, aa.raw_a2_count acceptance, ROUND((CAST (slice_3b-slice_3a AS REAL)/slice_3a)*100) value
+		FROM record_count rc
+		JOIN assessment_acceptance aa ON rc.nik = aa.nik
+
+		UNION
+		-- Tetrad Count
+		SELECT rc.nik, 'a2_AoO' AS model_assessment, aa.raw_a2_aoo acceptance, ROUND((CAST (slice_3b-slice_3a AS REAL)/slice_3a)*100) value
+		FROM tetrad_area rc
+		JOIN assessment_acceptance aa ON rc.nik = aa.nik
+
+		UNION
+
+		-- Buffer Union
+		SELECT rc.nik, 'A2_dEoO' AS model_assessment, aa.BU_A2_dEoO acceptance, ROUND((CAST (slice_3b-slice_3a AS REAL)/slice_3a)*100) value
+		FROM bus rc
+		JOIN assessment_acceptance aa ON rc.nik = aa.nik
+
+		UNION
+
+		-- Bayesian
+		SELECT rc.nik, 'A2_Bayesian' AS model_assessment, aa.bayesian_a2, round(short_term_change_mean_upper_ci) value
+		FROM occupancy_10 rc
+		JOIN assessment_acceptance aa ON rc.nik = aa.nik
+	)
+	
+	SELECT row_number() OVER () id, *
+	FROM raw_values
+    """
     cur.execute(query)
 
 def a2_bd_stats_generator(cur):
@@ -153,6 +194,7 @@ def a2_bd_stats_generator(cur):
         FROM lowest
         JOIN nomenclature ON lowest.nik = nomenclature.nik
         ORDER BY binomial"""
+
     cur.execute(query)
 
     # B & D summary

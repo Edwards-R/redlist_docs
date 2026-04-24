@@ -4,7 +4,7 @@ import os
 import pandas
 import csv
 
-from lib.markdown import write_markdown_ant, write_markdown_bee, write_markdown_wasp
+from lib.markdown import *
 
 # Open the sqlite database
 con = sqlite3.connect("redlist_data.sqlite")

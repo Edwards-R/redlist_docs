@@ -7,7 +7,7 @@ import shutil # Shell Utils
 from pathlib import Path
 import csv
 
-from lib.prepare import markdown_prep, narrative_prep, normalise_tables, a2_bd_stats_generator, data_wrangle
+from lib.prepare import *
 #import lib.prepare.py # Preparation library
 
 # Establish database connection & cursor
@@ -33,8 +33,10 @@ normalise_tables(cur)
 
 ## Data is now loaded, do the last bits
 
-# Any addon data wrangling
-data_wrangle(cur)
-
+# Condense the A2 stats  for use in the Excel version
 a2_bd_stats_generator(cur)
+
 # Data is now loaded into SQLite and ready for use
+
+# Put this last. Python fails invisibly if this is run anywhere else and I can't work out why
+data_wrangle(cur)
